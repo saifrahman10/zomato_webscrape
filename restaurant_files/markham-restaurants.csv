@@ -1,0 +1,580 @@
+Name,EstablishmentType,Rating,NumReviews,Address,Cuisine,CostForTwo,City
+Ding Tai Fung,CASUAL DINING,4.4,230.0,"First Markham Place, 3235 Highway 7 E, Markham L3R 3P3","Shanghai, Chinese, Asian",35.0,Markham
+Zen,FINE DINING,4.7,135.0,7634 Woodbine Avenue. Markham L3R 2N2,"Sushi, Japanese, Asian",300.0,Markham
+Smash Kitchen & Bar,CASUAL DINING,4.3,121.0,"4261 Hwy 7, Markham L3R 9W6","Grill, Italian",60.0,Markham
+Loui's Kouzina,QUICK BITES,4.3,161.0,"9255 Woodbine Avenue, Markham L6C 1Y9","Greek, Fast Food",30.0,Markham
+Kaka,CASUAL DINING,3.7,63.0,"First Markham Place, 3235 Highway 7 East, Unit 18A, Markham L3R 3R3","Sushi, Japanese",70.0,Markham
+Izakaya Ju,CASUAL DINING,3.9,97.0,"J-Town, 3160 Steeles Avenue East, Markham L3R 8T3","Sushi, Japanese",40.0,Markham
+Inspire,CASUAL DINING,4.0,70.0,"144 Main Street North, Markham L3P 5T3","French, Fusion",80.0,Markham
+Gal's Sushi,CASUAL DINING,4.1,165.0,"3621 Highway 7, Markham L3R 0G6","Sushi, Japanese, Asian",30.0,Markham
+India's Taste,CASUAL DINING,4.3,110.0,"680 Denison Street, Markham L3R 1C1",Indian,45.0,Markham
+Wooffles & Cream,DESSERT PARLOR,3.7,45.0,"New Kennedy Square, Food Court, 8360 Kennedy Road, Unit 81, Toronto L3R 9W4","Desserts, Ice Cream, Asian",15.0,Markham
+Fancy Chinese Cuisine,CASUAL DINING,4.0,69.0,"7750 Kennedy Road, Markham L3R 0A7","Dim Sum, Cantonese, Chinese, Asian",50.0,Markham
+Firehall Confectionary,DESSERT PARLOR,4.5,81.0,"170 Main Street Unionville, Markham L3R 2G9","Desserts, Ice Cream",25.0,Markham
+Bamiyan Kabob,QUICK BITES,4.9,104.0,"7760 Markham Road, Markham",Middle Eastern,35.0,Markham
+Dragon Legend,CASUAL DINING,3.9,73.0,"25 Lanark Road, Markham L3R 9Y7","Chinese, Asian",30.0,Markham
+AllStar Wings & Ribs,CASUAL DINING,4.3,143.0,"9255 Woodbine Avenue, Unit 11, Markham","Bar Food, American",50.0,Markham
+Papa Chang's,QUICK BITES,3.8,70.0,"5970 16th Avenue, Unit 110, Markham",Taiwanese,25.0,Markham
+Green Grotto Tea Room,CAFÉ,4.0,84.0,"7040 Warden Avenue, Markham L3R 4N3","Bubble Tea, Cafe, Desserts",30.0,Markham
+Niwatei,CASUAL DINING,3.9,73.0,"J-Town, 3160 Steeles Avenue East, Unit 2, Markham L3R 4G9","Ramen, Japanese",30.0,Markham
+Chinese Dumpling House,CASUAL DINING,4.0,77.0,"Metro Square Plaza, 3636 Steeles Avenue E, Markham L3R 1K9","Northern Chinese, Chinese, Asian",35.0,Markham
+Yang's Kitchen & Sushi Bar,CASUAL DINING,3.8,104.0,"4261 Hwy 7, Markham L3R 9W6","Sushi, Japanese, Asian",30.0,Markham
+Ajisen Ramen,CASUAL DINING,3.1,99.0,"7010 Warden Avenue, Markham L3R 5Y3","Ramen, Japanese",30.0,Markham
+Little Bangkok,CASUAL DINING,3.9,78.0,"227 Main Street, Markham","Thai, Asian",40.0,Markham
+369 Shanghai Dimsum,CASUAL DINING,3.9,75.0,"New Kennedy Square, 8380 Kennedy Road, Markham L3R 2N9","Shanghai, Chinese, Asian",40.0,Markham
+Blue Ocean Cafe,CASUAL DINING,3.9,57.0,"New Kennedy Square, 8362 Kennedy Road, Markham L3R 0W4",Hong Kong Style,25.0,Markham
+Mei Nung Beef Noodle House,CASUAL DINING,4.0,53.0,"First Markham Place, 3229 Hwy 7 E, Markham L3R 3P9","Taiwanese, Chinese, Asian",25.0,Markham
+Big Bone BBQ & Wicked Wings,CASUAL DINING,4.1,51.0,"180 Bullock Drive, Markham L3P 7N3","BBQ, American",35.0,Markham
+Congee Queen,CASUAL DINING,4.1,83.0,"5308 Highway 7, Unit 5-7, Markham","Cantonese, Chinese, Asian",40.0,Markham
+Symposium Cafe Restaurant & Lounge,CASUAL DINING,3.1,36.0,9990 Kennedy Road L6C0M4,"Diner, Burger, Desserts",65.0,Markham
+Phoenix Restaurant,CASUAL DINING,3.5,72.0,"7155 Woodbine Avenue, Markham L3R 1A3","Hong Kong Style, Chinese, Asian",40.0,Markham
+Syogun,CASUAL DINING,3.5,41.0,"8261 Woodbine Avenue, Markham L3R 8Z5","Sushi, Japanese, Asian",50.0,Markham
+Peter's Dining,FINE DINING,4.3,58.0,"5701 Highway 7, Markham L3P 1B1","Grill, Seafood",150.0,Markham
+Chung King Garden,CASUAL DINING,4.0,55.0,"Market Village, 4394 Steeles Avenue East, Unit D4, Markham","Northern Chinese, Chinese, Asian",45.0,Markham
+JOEY Markville,CASUAL DINING,3.5,56.0,"5000 Highway 7 E #1247, Markham L3R 4M9","Steak, Grill, Fusion",70.0,Markham
+Lemon Bistro,CASUAL DINING,4.0,54.0,"76 Main Street North, Markham L3P 1X5","Italian, French, European",80.0,Markham
+Keung's Delight,CASUAL DINING,3.6,51.0,"7030 Warden Avenue, Markham","Cantonese, Chinese, Asian",35.0,Markham
+Casa Victoria,CASUAL DINING,3.7,57.0,"8601 Warden Avenue, Unit 4, Markham","Dim Sum, Cantonese",65.0,Markham
+Ambiyan,CASUAL DINING,4.0,78.0,"149 Main Street Unionville, Markham L3R 2G8",Indian,60.0,Markham
+Graceful Vegetarian Restaurant,CASUAL DINING,4.0,51.0,"Market Village, 7131 Kennedy Road, Unit 8, Markham L3R 0T4","Chinese, Asian",25.0,Markham
+Nak Won,CASUAL DINING,2.6,78.0,"First Markham Place, 3225 Highway 7 East, Markham","Korean, Asian",50.0,Markham
+Cha Me. Cha,BEVERAGE SHOP,2.9,32.0,"8333 Kennedy Road, Unit 1078, Markham L3R 4P8","Beverages, Desserts, Taiwanese, Asian",30.0,Markham
+Osaka Sushi,CASUAL DINING,4.0,52.0,"5762 Highway 7 East, Markham","Sushi, Japanese, Asian",35.0,Markham
+Folco's Ristorante,CASUAL DINING,4.2,62.0,"42 Main Street, Markham",Italian,75.0,Markham
+Sun's Kitchen,Other,3.7,35.0,"Pacific Mall, Second Floor, Food Court, 4300 Steeles Avenue East, Markham L3R 0Y5","Northern Chinese, Chinese, Asian",20.0,Markham
+A La Kitchen,CASUAL DINING,3.7,60.0,"First Markham Centre, Unit 18 - 19, 11 Fairburn Drive, Markham L6G 0A5","Shanghai, Chinese, Asian",35.0,Markham
+Dayali,CASUAL DINING,2.9,51.0,20 Gibson Drive L3R 8B5,"Northern Chinese, Chinese, Asian",40.0,Markham
+New City Restaurant,CASUAL DINING,3.8,48.0,"New Kennedy Square, 8362 Kennedy Road, Markham L3R 0W4",Hong Kong Style,35.0,Markham
+Cora's Breakfast & Lunch,CASUAL DINING,4.0,68.0,"Markham Town Square, 3760 Highway, Unit 7E, Markham","Diner, Canadian",35.0,Markham
+Hana-bi Japanese Restaurant,CASUAL DINING,3.8,49.0,"First Markham Place, 3235 Hwy 7 E, Markham L3R 3P3","Sushi, Japanese, Asian",30.0,Markham
+Royal Tea House,CASUAL DINING,2.9,30.0,"10 Apple Creek Boulevard, Unit 3, Markham","Dim Sum, Cantonese, Chinese, Asian",20.0,Markham
+Gyubee,CASUAL DINING,3.7,18.0,"7100 Woodbine Avenue Suite 100, L3R 5J2",Japanese,30.0,Markham
+Moji Japanese Eatery,CASUAL DINING,3.2,20.0,"A6 - 8362 Kennedy Road, Toronto L3R",Japanese,,Markham
+Babu,CASUAL DINING,4.0,63.0,"Williamstown Plaza, 9590 McCowan Road, Unit 35, Markham L6C 2C5",Indian,20.0,Markham
+Federick Restaurant,CASUAL DINING,3.6,59.0,"160 New Delhi Drive, Markham L3S 0B5","Hakka Chinese, Chinese, Asian",30.0,Markham
+Tangerine Asian Cuisine,CASUAL DINING,3.9,64.0,"7690 Markham Road, Markham L3S 3S1","Hakka Chinese, Asian",35.0,Markham
+Magic Wok,CASUAL DINING,3.3,49.0,"4331, 14th Avenue, Markham L3R 0J2","Chinese, Asian",50.0,Markham
+Good Catch Boil House,CASUAL DINING,3.2,12.0,"179 Enterprise Boulevard, Unit M-109, Markham L6G L6G","Seafood, Cajun",25.0,Markham
+Sugar Tiers,DESSERT PARLOR,3.7,38.0,"735 Markland Street, Unit 4, Markham L6C 0G6","Desserts, Cafe",13.0,Markham
+Mains Mansion,CASUAL DINING,3.5,39.0,"144 Main Street North, Markham L3P 5T3",Canadian,80.0,Markham
+Rawlicious,CAFÉ,3.6,36.0,"116 Main Street North, Markham","Healthy Food, Cafe, Vegetarian",45.0,Markham
+Carmelina,CASUAL DINING,4.0,52.0,"7501 Woodbine Avenue, Markham","Italian, Mediterranean",65.0,Markham
+Elegance Chinese,CASUAL DINING,3.1,20.0,"7130 Warden Avenue, Markham","Dim Sum, Cantonese",40.0,Markham
+Mandarin Restaurant - Markham,CASUAL DINING,3.6,44.0,"7660 Woodbine Avenue, Markham","Chinese, Asian, Canadian",60.0,Markham
+Danny's Fish & Chips,CASUAL DINING,4.2,54.0,"4721 Hwy 7, Markham L3R 1M7",Fish and Chips,30.0,Markham
+Pickle Barrel,CASUAL DINING,2.8,58.0,"5000 Highway 7 E, Markham, Markham, Toronto L3R 4M9","Grill, Canadian",60.0,Markham
+Old Country Inn,CASUAL DINING,3.8,42.0,"198 Main Street Unionville, Markham L3R 2G9","Austrian, European",85.0,Markham
+Markham Sushi,CASUAL DINING,3.6,50.0,"17 Wootten Way North, Markham L3P 2Y2","Japanese, Sushi",45.0,Markham
+Liberty Burgers & Wings,CASUAL DINING,3.9,54.0,"144 Main Street, Markham L3P 5T3","American, Burger",50.0,Markham
+Skyview Fusion Cuisine,CASUAL DINING,3.6,28.0,"8261 Woodbine Avenue, Markham L3R 8Z5","Dim Sum, Cantonese, Chinese, Asian",40.0,Markham
+Dessert Kitchen,DESSERT PARLOR,3.1,30.0,"3623 Hwy 7 E, Unit 106, Markham L3R 8X6",Desserts,20.0,Markham
+Hibiki Japanese Cuisine,CASUAL DINING,3.2,14.0,"4450 Highway 7 East, Markham","Japanese, Asian, Sushi",45.0,Markham
+Xin Jiang Restaurant,CASUAL DINING,3.7,34.0,"Metro Square Plaza, 3636 Steeles Avenue East, Markham","Xinjiang, Chinese",30.0,Markham
+Novello Desserts,BAKERY,3.9,37.0,"166 Bullock Drive, Markham L3P 1W2","Desserts, Italian",25.0,Markham
+Nando's,CASUAL DINING,3.1,48.0,"Unit 4, 7677 Markham Road, Markham, Toronto L3S 3J9","Portuguese, African",25.0,Markham
+Wonton Hut,CASUAL DINING,3.9,41.0,"Markham Town Square, 3760 Highway 7 East, Unionville L3R 0N2","Chinese, Asian",25.0,Markham
+Cafe Green Tea,CASUAL DINING,3.7,34.0,"J-Town, 3160 Steeles Avenue East, Markham","Japanese, Asian",40.0,Markham
+The School,FINE DINING,3.8,42.0,"4121 14th Avenue, Markham L3R 0J2","Seafood, Steak",100.0,Markham
+The Owl Of Minerva,CASUAL DINING,3.7,57.0,"First Markham Place, 3229 Highway 7 East, Markham","Korean, Asian",35.0,Markham
+Kelseys Original Roadhouse,CASUAL DINING,3.5,35.0,"3131 Highway 7 E, Markham L3R 0J5",Canadian,65.0,Markham
+Kiu Japanese Restaurant,CASUAL DINING,3.2,14.0,"169 Enterprise Blvd, 2nd Floor, Markham L6G 0E7",Japanese,25.0,Markham
+Cravins,CASUAL DINING,3.8,32.0,"7270 Woodbine Avenue, Markham L3R 4B9","Caribbean, Grill",40.0,Markham
+Fire Fly,CASUAL DINING,2.6,47.0,"First Markham Place, Unit 2, 3229 Highway 7 East, Markham","Chinese, Asian",40.0,Markham
+Blacksmiths Bistro,CASUAL DINING,3.9,43.0,"166 Main Street Unionville, Markham L3R 2G9","Italian, Mediterranean",100.0,Markham
+Mi Ne Sushi,CASUAL DINING,3.3,25.0,"8865 Woodbine Avenue, Unit D5, Markham","Sushi, Japanese, Asian",85.0,Markham
+Jake's on Main,CASUAL DINING,3.6,50.0,"202 Main Street Unionville, Markham L3R 2G9",American,60.0,Markham
+Yellowtail,CASUAL DINING,3.3,39.0,"9255 Woodbine Avenue, B14, Markham L6C 1Y9","Sushi, Japanese, Asian",54.0,Markham
+The Owl,CASUAL DINING,3.8,37.0,"7181 Woodbine Avenue, Markham L3R 1A3",Bar Food,65.0,Markham
+Morals Village,CASUAL DINING,3.3,17.0,"8333 Kennedy Road, Unit 1073, Markham L3R 4P8 4P8",Chinese,60.0,Markham
+Tracy Dessert,DESSERT PARLOR,3.7,32.0,"First Markham Place, 3235 Highway 7 East, Markham","Desserts, Chinese",25.0,Markham
+Ithaca,CASUAL DINING,3.4,45.0,"5308 Highway 7 East, Markham L3P 1B9","Greek, Mediterranean",50.0,Markham
+Day & Night,CASUAL DINING,3.0,28.0,"548 Carlton Road, Markham L3R 0C6",Steak,80.0,Markham
+Bakery Nakamura,BAKERY,3.5,23.0,"J-Town, 3160 Steeles Avenue East, Markham L3R 4G9","Bakery, Japanese",15.0,Markham
+The Old Curiosity Tea Shop,BEVERAGE SHOP,3.8,25.0,"91 Main Street North, Markham L3P 1X7",Tea,43.0,Markham
+Sam's Congee Delight,CASUAL DINING,3.9,31.0,"7354 Woodbine Ave, Markham, ON L3R 1A5","Cantonese, Chinese, Asian",15.0,Markham
+Il Postino,CASUAL DINING,3.5,47.0,"186 Main Street Unionville, Markham L3R 2G9",Italian,85.0,Markham
+Main Sushi,CASUAL DINING,3.7,46.0,"144 Main Street North, Markham L3P 5T3","Sushi, Japanese, Asian",50.0,Markham
+Sansotei Ramen,CASUAL DINING,3.6,23.0,"3987 Highway 7, Markham",Ramen,40.0,Markham
+Mr. Felix & Mr. Norton,DESSERT PARLOR,3.9,31.0,"8601 Warden Avenue, Markham L3R 0B5",Desserts,15.0,Markham
+La Grotta,CASUAL DINING,3.0,45.0,205 Main Street Unionville Markham L3R 2G8,Italian,70.0,Markham
+VIP Vietnamese Cuisine,CASUAL DINING,3.5,39.0,"First Markham Place, 3229 Highway 7 East, Markham","Vietnamese, Asian",30.0,Markham
+AXIA Cafe,CASUAL DINING,3.4,25.0,"Pacific Mall, Second Floor, 4300 Steeles Avenue East, Markham L3R 0Y5","Sushi, Japanese, Asian",25.0,Markham
+Lucullus Bakers & Roasters,BAKERY,3.1,6.0,"169 Enterprise Boulevard, L108, Toronto L6G 0E7",Bakery,,Markham
+Me Va Me,QUICK BITES,3.4,15.0,"169 Enterprise Boulevard, Toronto L6G 1B3","Mediterranean, Middle Eastern",50.0,Markham
+La Jawab Grill,CASUAL DINING,3.8,31.0,"160 New Delhi Drive, Markham","Indian, Pakistani",35.0,Markham
+Milano Food Works,QUICK BITES,3.2,32.0,"7181 Woodbine Avenue, Markham L3R 0T3","Greek, Fast Food",25.0,Markham
+My Little Pizzeria & Deli,QUICK BITES,3.9,29.0,50 Anderson Avenue L6E 1A9,"Pizza, Fast Food",25.0,Markham
+Wutai,CASUAL DINING,3.5,18.0,"8425 Woodbine Avenue, Markham L3R 2P4","Dim Sum, Cantonese, Chinese, Asian",40.0,Markham
+Johnny Bistro,CASUAL DINING,3.7,32.0,"5 Washington Street, Markham L3P 2R3",Italian,80.0,Markham
+City Hollywood Cafe,CASUAL DINING,3.0,32.0,"Market Village, 4372 Steeles Avenue East, Unit G15, Markham","Hong Kong Style, Chinese, Asian",30.0,Markham
+The Unionville Arms,CASUAL DINING,3.8,41.0,"189 Main Street Unionville, Markham L3R 2G8","Bar Food, Burger, Pizza",65.0,Markham
+Alchemy coffee,CAFÉ,3.1,16.0,"4683 highway 7, Toronto",Canadian,,Markham
+Kim Dinh,CASUAL DINING,3.7,34.0,"Williamstown Plaza, 9570 McCowan Road, Unit 9, Markham","Vietnamese, Asian",35.0,Markham
+Menchie's,DESSERT PARLOR,3.7,33.0,"Markham Town Square, 3828 Highway 7 East, Markham",Frozen Yogurt,15.0,Markham
+Miu Garden,CASUAL DINING,3.5,28.0,"Market Village, 4390 Steeles Avenue East, Markham L3R","Dim Sum, Cantonese, Chinese, Asian",35.0,Markham
+Tian Fu Chinese Restaurant,CASUAL DINING,3.9,22.0,"4771 Steeles Avenue East, Markham M1V",Sichuan,40.0,Markham
+T & T Bakery Cafe,CAFÉ,3.9,30.0,"35 Main Street North, Markham L3P 8C5",Cafe,30.0,Markham
+Thai One On,CASUAL DINING,3.1,27.0,"7750 Kennedy Road, Markham","Thai, Asian",45.0,Markham
+Sweet Esc,CASUAL DINING,3.1,12.0,"30 Gibson Drive, Markham L3R 8B5","Desserts, Asian",20.0,Markham
+Yin Ji Chang Fen,QUICK BITES,3.4,11.0,"7010 Warden Avenue, Unit 17-18, Markham L3R 5Y3",Chinese,25.0,Markham
+Gong Cha,BEVERAGE SHOP,3.2,26.0,"Metro Square Plaza, 3636 Steeles Avenue East, Markham L3R 1K9","Bubble Tea, Beverages",15.0,Markham
+Tom's Burger,QUICK BITES,3.6,35.0,"5775 Highway 7, Markham",Fast Food,25.0,Markham
+Gold Mark Chinese Cuisine,CASUAL DINING,3.0,13.0,"7501 Woodbine Avenue, Markham","Dim Sum, Cantonese, Chinese, Asian",50.0,Markham
+South St. Burger,QUICK BITES,3.5,27.0,"7355 Woodbine Avenue, Markham, ON L3R 1A7","Fast Food, Burger",25.0,Markham
+Diana's Oyster Bar and Grill,CASUAL DINING,2.9,12.0,"7501 Woodbine Avenue, Unit 3 L3R 2W1","Bar Food, BBQ",,Markham
+Yokohama,CASUAL DINING,2.8,9.0,"7050 Warden Avenue, Markham","Sushi, Japanese, Asian",55.0,Markham
+Panera Bread,CAFÉ,3.3,20.0,3987 Highway 7 Unit 1,"Cafe, Sandwich",30.0,Markham
+Chef Papa Tea & Noodle Shop,CASUAL DINING,3.3,11.0,"New Kennedy Square, 8390 Kennedy Road, Unit B1-3, Markham L3R 0W4",Chinese,,Markham
+East Side Mario's,CASUAL DINING,2.9,36.0,"Markville Shopping Centre, 5000 Highway 7, Markham","Italian, Canadian, Pizza",40.0,Markham
+It's The Cat's Meow Cafe,CAFÉ,3.8,13.0,"138 Robinson Street, Markham L3P 5H5","Cafe, Breakfast",25.0,Markham
+Toast Delight,QUICK BITES,3.5,11.0,"8339 Kennedy Road, Unit 2659, Markham L3R 1J5","Hong Kong Style, Chinese, Asian",10.0,Markham
+The Bombay Grill,CASUAL DINING,3.9,17.0,"5694 Highway 7 East, Unit 1A, Markham",Indian,40.0,Markham
+Black Bear Japanese Fusion,CASUAL DINING,3.3,10.0,"4568 Highway 7 Unit 3, Markham L3R 1M5",Japanese,25.0,Markham
+Pho Pad Thai,CASUAL DINING,3.2,18.0,"20 Apple Creek Boulevard, Unit 2, Markham L3R 5Z1","Vietnamese, Thai, Asian",35.0,Markham
+Asian Legend,CASUAL DINING,3.5,39.0,"Metro Square Plaza, 3636 Steeles Avenue East, Markham",Northern Chinese,40.0,Markham
+Alex's Falafel & Shwarma,QUICK BITES,3.2,29.0,"4580 Highway 7, Unit 2, Markham",Middle Eastern,25.0,Markham
+Cafe Hollywood,CASUAL DINING,2.9,11.0,"7240 Kennedy Road, Markham L3R 7P2","Chinese, Bubble Tea",45.0,Markham
+Bluenose Fish & Chips,CASUAL DINING,3.4,23.0,"6605 Highway 7, Markham L3P 3B4",Fish and Chips,45.0,Markham
+Pho 99,CASUAL DINING,3.8,33.0,"8525 McCowan Road, Markham L3R 0M4","Asian, Vietnamese",25.0,Markham
+Golden Duke Chinese Cuisine,CASUAL DINING,3.5,21.0,"5284 Highway 7 East, Unit 3, Markham","Dim Sum, Cantonese, Chinese, Asian",30.0,Markham
+Shangri-La,CASUAL DINING,3.4,23.0,"50 Esna Park Drive, Markham L3R 1E1","Chinese, Dim Sum, Asian",30.0,Markham
+Golden Horse,CASUAL DINING,3.4,19.0,"4580 Highway 7 East, Unit 3, Markham L3R 1M5","Hong Kong Style, Chinese",35.0,Markham
+Boston Pizza,CASUAL DINING,3.2,28.0,"7020 Warden Avenue, Markham","American, Pizza",40.0,Markham
+Green Tea Lounge,CASUAL DINING,2.9,9.0,"J-Town, 3160 Steeles Avenue East, Markham L6T","Japanese, Asian",30.0,Markham
+Dum Pukht,CASUAL DINING,3.0,14.0,323 Denison Street,Indian,80.0,Markham
+Century Palace Chinese Restaurant,CASUAL DINING,2.7,23.0,"398 Ferrier Street, Markham L3R 2Z5","Chinese, Dim Sum",30.0,Markham
+Korean BBQ,QUICK BITES,3.9,28.0,"First Markham Place, Food Court, 3255 Highway 7 East, Unit 251FC , Markham","Korean, Asian",20.0,Markham
+ZenQ,QUICK BITES,2.9,10.0,"8333 Kennedy Road, Unit 1076, Markham L3R 4P8","Bubble Tea, Taiwanese",25.0,Markham
+Noodle Star,CASUAL DINING,3.3,25.0,"9255 Woodbine Avenue, Unit 12, Markham L6C 1Y9","Cantonese, Chinese, Asian",30.0,Markham
+Serissa Cafe,CAFÉ,2.7,32.0,"3601 Hwy 7, Markham L3R","Tea, Cafe",20.0,Markham
+Hai Tang Cafe,CASUAL DINING,3.6,14.0,"38 Buttonfield Road, Unit 9, Markham L3R 9G9","Hong Kong Style, Chinese, Asian",25.0,Markham
+Uncle Joe's Family Restaurant,CASUAL DINING,3.5,19.0,"124 Main Street North, Markham","American, Breakfast",60.0,Markham
+Maharaja Vegetarian Street Food,CASUAL DINING,3.6,11.0,"6001 14th Avenue, Markham L3P 3J3",Indian,30.0,Markham
+Keung's Restaurant,CASUAL DINING,3.3,23.0,"New Kennedy Square, 8380 Kennedy Road, Markham L3R 2N9","Cantonese, Chinese, Asian",35.0,Markham
+Grand Lake Chinese Cuisine & Banquet,CASUAL DINING,3.6,29.0,"New Kennedy Square, 8362 Kennedy Road, Markham","Dim Sum, Cantonese, Chinese, Asian",60.0,Markham
+Five Guys,CASUAL DINING,3.5,20.0,"3987 Highway 7 East, Unit 6, Markham L3R 5M6","Fast Food, Burger",25.0,Markham
+Daisukis Sushi,CASUAL DINING,3.0,26.0,"9275 Markham Road, Unit 5, Markham","Sushi, Japanese, Asian",35.0,Markham
+Cool N2 Ice Cream,DESSERT PARLOR,3.0,7.0,"28 South Unionville Avenue, Suite 1036, Markham L3R 4P9","Ice Cream, Desserts",10.0,Markham
+J-Town By The Sea,CASUAL DINING,3.5,4.0,"J-Town, 3160 Steeles Avenue East, Markham L3R 4G9","Sushi, Japanese, Asian",50.0,Markham
+Initium,CAFÉ,3.2,7.0,"8241 Woodbine Avenue, Unit 6-7, Markham L3R 2P1",Cafe,,Markham
+Ki Ko Cafe,CASUAL DINING,3.0,17.0,"3000 Highway 7 East, Unit A2, Markham",Hong Kong Style,25.0,Markham
+Legend Pot,CASUAL DINING,3.1,6.0,"7030 Warden Avenue, Unit D3, Markham L3R 5Y2",Sichuan,70.0,Markham
+Shopsy's,CASUAL DINING,3.2,29.0,"7240 Woodbine Avenue, Markham L3R 1A4",Bar Food,65.0,Markham
+Tiny Tom Donuts,CAFÉ,3.9,13.0,"7323 Woodbine Avenue, Markham L3R 1B5",Cafe,20.0,Markham
+Lucullus Bakery,BAKERY,3.6,17.0,"7750 Kennedy Road, Markham L3R 0A7",Bakery,15.0,Markham
+Golden China,CASUAL DINING,3.8,16.0,"6001, 14th Avenue, Markham L3S 4G7","Chinese, Indian, Hakka Chinese",30.0,Markham
+NextDoor Restaurant,CASUAL DINING,3.5,11.0,"2G6, 139 Main St Unionville L3R 2G6",Canadian,45.0,Markham
+Chloe's Garden,CASUAL DINING,2.9,15.0,"3621 Highway 7, Markham","Hong Kong Style, Chinese, Asian",50.0,Markham
+Mabu Generation,CASUAL DINING,3.1,7.0,"Unit #23-26, 3235 Highway 7 E, Markham L3R 3P3",Taiwanese,30.0,Markham
+Eastern Restaurant,CASUAL DINING,3.5,12.0,"1 Stone Mason Drive, Markham","Cantonese, Chinese, Asian",30.0,Markham
+Sonoya Ramen,CASUAL DINING,2.8,14.0,"3235 Highway 7 East, Unit 22, Markham L3R 3P3","Japanese, Asian",40.0,Markham
+Uncle Tetsu's Unionville,BAKERY,3.2,11.0,"158 Main St Unionville, Markham L3R 2G9","Bakery, Japanese",15.0,Markham
+Kim Po,CASUAL DINING,3.8,21.0,"7354 Woodbine Avenue, Markham","Vietnamese, Asian",25.0,Markham
+Kitchen M,CASUAL DINING,2.9,7.0,"8515 McCowan Road, Markham L3P 5E5","Hong Kong Style, Chinese, Asian",25.0,Markham
+Sakura,QUICK BITES,3.1,14.0,"7010 Warden Avenue, Markham","Japanese, Sushi",25.0,Markham
+Chatime,BEVERAGE SHOP,3.6,22.0,"20 Gibson Dive, Markham","Bubble Tea, Beverages, Taiwanese",15.0,Markham
+Top Choice Restaurant,CASUAL DINING,3.7,8.0,"New Kennedy Square, 8362 Kennedy Road, Markham","Cantonese, Chinese, Asian",35.0,Markham
+Elegant Chinese Cuisine,CASUAL DINING,3.2,20.0,"5328 Highway 7 East, Unit 4, Markham","Chinese, Asian",30.0,Markham
+Bowl Kee,CASUAL DINING,3.1,21.0,"New Kennedy Square, 8360 Kennedy Road, Markham L3R 9W4","Cantonese, Chinese, Asian",25.0,Markham
+Al Dente,CASUAL DINING,2.7,22.0,"39 Main Street, Markham L3P 1X3",Italian,60.0,Markham
+Tasty Shawarma,QUICK BITES,3.1,12.0,"7677 Markham Road, Markham",Middle Eastern,20.0,Markham
+Station,QUICK BITES,3.3,22.0,"225 Main Street, Markham L3P 1Y6",Fast Food,30.0,Markham
+Sweet Culture,DESSERT PARLOR,3.6,14.0,"New Kennedy Square, 8392 Kennedy Road, Markham","Desserts, Chinese, Asian",25.0,Markham
+Chef Chan,CASUAL DINING,3.8,20.0,"227 Main Street North, Markham L3P 1Y5","Chinese, Asian",40.0,Markham
+Tenon Vegetarian Cuisine,CASUAL DINING,3.2,15.0,"New Kennedy Square, 8362 Kennedy Road, Markham L3R 9E5","Sushi, Japanese, Asian",30.0,Markham
+Pho Quinn,CASUAL DINING,2.7,13.0,"5284 Highway 7, Markham L3P 1B9","Vietnamese, Asian",30.0,Markham
+The Red Sichuan,CASUAL DINING,3.2,10.0,"5328 Highway 7 East, Unit 3, Markham L3P 1B9","Sichuan, Chinese, Asian",40.0,Markham
+Tung Tung Dan Quen King,QUICK BITES,3.8,18.0,"Market Village, 4350 Steeles Avenue East, Markham L3R 0Y5","Desserts, Hong Kong Style",10.0,Markham
+King Edward's Arms,BAR,3.4,6.0,"Markham Town Square, Unit 2, 8505 Warden Avenue, Markham L3R 0N2",Bar Food,50.0,Markham
+Novita Italian Cuisine,CASUAL DINING,3.0,12.0,"25 Cochrane Drive, Markham L3R 9S1",Italian,40.0,Markham
+Fish Ball Place,QUICK BITES,3.3,7.0,"Pacific Mall, Second Floor, Food Court, 4300 Steeles Avenue East, Markham","Hong Kong Style, Chinese, Asian",10.0,Markham
+Tai Ping Hsiang BBQ,QUICK BITES,3.5,11.0,"Metro Square Plaza, 3636 Steeles Avenue East, Markham L3R 2Z5","Taiwanese, Asian",25.0,Markham
+Booster's Billiard Lounge & Grill,BAR,2.8,8.0,"590 Alden Road, Markham","Chinese, Asian",55.0,Markham
+Metro Square Cafe Restaurant,CASUAL DINING,3.6,11.0,"Metro Square Plaza, 3636 Steeles Avenue East, Markham L3R","Hong Kong Style, Chinese, Asian",30.0,Markham
+Sasaki Fine Pastry,CAFÉ,,,"J town, 3160 Steeles Avenue E, Markham",Cafe,15.0,Markham
+Millie Cafe,CAFÉ,3.0,6.0,"8321 Kennedy Road, Unit 1065, Unionville L3R 1J5","Cafe, Desserts",15.0,Markham
+Lychee Bay Cuisine,CASUAL DINING,3.7,9.0,"4771 Steeles Avenue East, Markham M1V 4S5",Cantonese,35.0,Markham
+Love Gelato,DESSERT PARLOR,3.7,7.0,"75 Main Street, Markham L3P 1X7","Ice Cream, Desserts",20.0,Markham
+Yan Woo Soya Bean,QUICK BITES,3.5,7.0,"Market Village, 4390 Steeles Avenue East, Markham","Chinese, Asian",10.0,Markham
+Pitalicious,QUICK BITES,3.8,16.0,"7605 Woodbine Avenue, Markham L3R 5V3",Greek,25.0,Markham
+Porta Via,QUICK BITES,3.5,11.0,"8372 Woodbine Avenue, Markham L3R 2N8",Healthy Food,20.0,Markham
+Tora Sushi,QUICK BITES,3.5,7.0,"J-Town, 3160 Steeles Avenue East, Markham L3R","Sushi, Japanese",25.0,Markham
+Ho Garden,CASUAL DINING,2.8,9.0,"9255 Woodbine Avenue, Unit 10, Markham","Hong Kong Style, Chinese, Asian",30.0,Markham
+Win's Seafood Restaurant,CASUAL DINING,3.3,10.0,"50 Lockridge Avenue, Unit 1, Markham","Cantonese, Chinese, Asian",50.0,Markham
+Tokyo Sushi,CASUAL DINING,3.4,16.0,"8366 Woodbine Avenue, Markham","Sushi, Japanese",40.0,Markham
+Aroma Espresso Bar,CAFÉ,3.3,6.0,"179 Enterprise Boulevard, Markham L6G 0E7",Cafe,25.0,Markham
+Hakka Wok,CASUAL DINING,3.0,11.0,"9418 Markham Road, Markham","Thai, Hakka Chinese, Asian",40.0,Markham
+Colonel Mustard's,BAR,2.9,11.0,"6545 Highway 7 East, Markham L3P 3B4",Bar Food,45.0,Markham
+Tao Canteen,CASUAL DINING,3.1,6.0,"1250 Castlemore Avenue, Unit 4, Markham","Hong Kong Style, Chinese, Asian",35.0,Markham
+Judy's,QUICK BITES,2.8,20.0,"1 Stone Mason Drive, Unit 5, Markham","Pizza, Fast Food",30.0,Markham
+Kara Mia,CASUAL DINING,3.2,7.0,"7690 Markham Road, Markham L3S 4S1",Italian,,Markham
+Good Taste Casserole Rice,CASUAL DINING,3.4,8.0,"New Kennedy Square, 8362 Kennedy Road, Markham","Cantonese, Chinese, Asian",25.0,Markham
+Swiss Chalet Rotisserie & Grill,CASUAL DINING,3.2,11.0,"7359 Woodbine Avenue, Markham L3R 1A7","Canadian, Grill, Beverages",40.0,Markham
+Montana's,CASUAL DINING,3.5,16.0,"2890 Major Mackenzie Drive East, Upper James Square, Markham, ON, L6C 0G6","Canadian, Grill, BBQ, Steak",50.0,Markham
+Lucky Noodle,QUICK BITES,2.8,4.0,"Denison Centre, 1661 Denison Street, Unit 39, Markham",Chinese,20.0,Markham
+Chin Yuan Pai Ku Fastfood,QUICK BITES,3.6,8.0,"Metro Square Plaza, Food Court, 3636 Steeles Avenue East, Markham","Chinese, Asian, Fast Food",20.0,Markham
+Yummy Pho,CASUAL DINING,3.2,14.0,"First Markham Centre, 11 Fairburn Drive, Markham","Vietnamese, Asian",30.0,Markham
+Mr. Jerk & Mr. Chin,QUICK BITES,3.8,13.0,"4431 Highway 7, Markham",Caribbean,30.0,Markham
+Sushi Sushi,CASUAL DINING,3.4,12.0,"9830 Markham Road, Unit 3, Markham","Sushi, Japanese, Thai, Asian",40.0,Markham
+Chauhan's India Grill House & Banquet,CASUAL DINING,3.4,8.0,"2800 14th Avenue, Markham L3R 0E4",Indian,40.0,Markham
+St. Louis Bar & Grill,CASUAL DINING,3.2,14.0,"3621 Hwy 7 E Unit 110, Markham L3R 0G6","Bar Food, Grill",40.0,Markham
+Halibut House,CASUAL DINING,3.5,11.0,"3 Wooten Way, Markham",Fish and Chips,35.0,Markham
+Bellagio Lounge & Bar,Other,3.3,4.0,"New Kennedy Square, 8360 Kennedy Road, Markham L3R 5Y7",Bar Food,70.0,Markham
+Double Lucky,CASUAL DINING,3.0,10.0,"5051 Highway 7 East, Unit 6 - 7, Markham L3R 1N3","Dim Sum, Cantonese, Chinese, Asian",75.0,Markham
+Malay Thai,QUICK BITES,3.3,6.0,"First Markham Place, Food Court, 3255 Highway 7 East, Markham","Thai, Malaysian",20.0,Markham
+Pho Metro,CASUAL DINING,,,"Berczy Village Shopping Centre, 50 Bur Oak Avenue, Unit 7, Markham L6C 0A2","Vietnamese, Asian",30.0,Markham
+Southside Restaurant & Bar,CASUAL DINING,3.8,12.0,"6061 Highway 7, Markham L3P 3B2",Canadian,43.0,Markham
+Los Chicos Brasa,CASUAL DINING,2.9,4.0,"5308 Highway 7 E, Markham L3P 1B9",Peruvian,25.0,Markham
+Lee's Kitchen,CASUAL DINING,3.9,13.0,"Sherwood Plaza, 5694 Highway 7, Unit 7, Markham","Chinese, Asian",30.0,Markham
+Flaming Kitchen,CASUAL DINING,,,"3235 Highway 7, Markham L3R 3P9",Asian,20.0,Markham
+Coffee Dak Lak - Vietnamese coffee in Canada,CAFÉ,,,"8339 Kennedy Road, Unit 2609 L3R 1J5","Cafe, Coffee and Tea",,Markham
+Pho Ling's,QUICK BITES,3.9,12.0,"First Markham Place, Food Court, 3255 Highway 7 East, Markham","Vietnamese, Asian",20.0,Markham
+Red Rose Garden,CASUAL DINING,3.1,14.0,"5460 Highway 7, Unit 1, Markham L3P 1B7","Hakka Chinese, Asian",30.0,Markham
+QJD Peking Duck Restaurant,CASUAL DINING,3.2,5.0,"7095 Woodbine Avenue, Markham, Toronto",Chinese,30.0,Markham
+Whole Foods Market,QUICK BITES,,,"3997 Highway 7, Markham L3R 5M6",Healthy Food,20.0,Markham
+Magic Fusion Cuisine,QUICK BITES,3.0,5.0,"First Markham Place, Food Court, 3255 Highway 7 East, Markham","Chinese, Asian",20.0,Markham
+Cucina Locale,CASUAL DINING,3.6,10.0,"4471 Highway 7, Markham L3R 1M1","Pizza, Italian",50.0,Markham
+Stars Of Thai Cuisine,CASUAL DINING,2.9,12.0,"3150 Highway 7 East, Unit 1, Markham","Thai, Asian",35.0,Markham
+Negril Jerk Food,QUICK BITES,3.7,9.0,"2002 Middlefield Road, Markham",Jamaican,20.0,Markham
+Wiang Kuk Thai Food,QUICK BITES,3.7,9.0,"First Markham Place, Food Court, 3255 Highway 7 East, Markham","Thai, Asian",20.0,Markham
+Pine Tree Garden,CASUAL DINING,2.8,10.0,"Berczy Village Shopping Centre, 10 Bur Oak Avenue, Unit 1, Markham","Chinese, Asian",35.0,Markham
+Hakka King,CASUAL DINING,2.9,10.0,"7595 Markham Road, Markham L3S 0B6","Indian, Hakka Chinese",30.0,Markham
+The King's Kitchen,CASUAL DINING,3.8,12.0,"9275 Markham Road, Unit 11, Markham","Chinese, Thai, Asian",40.0,Markham
+Oriental Gourmet,CASUAL DINING,3.6,8.0,"5328 Highway 7 East, Suite 1A, Markham",Chinese,30.0,Markham
+Andy's Fish & Chips,CASUAL DINING,3.3,7.0,"3341 Markham Road, Markham M1X 0A6","Fish and Chips, Asian",35.0,Markham
+Backyard Garden Restaurant,CASUAL DINING,3.6,10.0,"Metro Square Plaza, 3636 Steeles Avenue East, Markham","Chinese, Asian",25.0,Markham
+Wild Wing,CASUAL DINING,3.6,15.0,"SmartCentres Markham East Boxgrove, 70 Copper Creek Drive, Markham",Bar Food,50.0,Markham
+Southern Aroma,CASUAL DINING,,,"7200 Markham Road, Unit 14, Markham L3S 3R7",Sri Lankan,40.0,Markham
+Chef Wong's,CASUAL DINING,3.8,6.0,"First Markham Place, 3235 Highway 7 East, Markham","Cantonese, Chinese, Asian",35.0,Markham
+India Sweets,DESSERT PARLOR,3.8,11.0,"280 Elson Street, Markham L3S 3J8","Desserts, Indian",20.0,Markham
+Colourful Yunnan,CASUAL DINING,,,"New Kennedy Square, 8362 Kennedy Road, Markham","Yunnan, Chinese, Asian",30.0,Markham
+Mayfair Clubs Parkway Bistro,CASUAL DINING,,,"50 Steelcase Road East, Markham L3R 1E8",Canadian,40.0,Markham
+Yan Can Cook,QUICK BITES,3.3,8.0,"First Markham Place, Food Court, 3255 Highway 7 E, Markham",Chinese,20.0,Markham
+Wonton Time,CASUAL DINING,3.5,8.0,"Market Village, 4392 Steels Avenue East, Markham","Cantonese, Chinese, Asian",20.0,Markham
+Potato Noodle Soup of Bai,QUICK BITES,3.1,5.0,"Pacific Mall, Second Floor, Food Court, 4300 Steeles Avenue East, Markham","Chinese, Asian",15.0,Markham
+B&B Cafe,CASUAL DINING,2.9,4.0,"50 Bur Oak Avenue, Unit C9, Markham","Hong Kong Style, Chinese, Asian",25.0,Markham
+Golden Shanghai Restaurant,CASUAL DINING,2.8,6.0,"7750 Kennedy Road, Markham","Shanghai, Chinese, Asian",25.0,Markham
+Eggsmart,CASUAL DINING,3.3,11.0,"5990 16th Avenue, Markham",Diner,30.0,Markham
+Fahim Kebab House,CASUAL DINING,3.8,9.0,"2002 Middlefield Road, Markham L3S 1Y6",Kebab,35.0,Markham
+The Duchess,CASUAL DINING,3.7,8.0,"53 Main Street, Markham L3P 1X5",American,60.0,Markham
+Wei's Kitchen,CASUAL DINING,3.7,8.0,"First Markham Place, Unit 13, 3229 Highway 7 East, Markham L3R 3P9","Cantonese, Chinese, Asian",35.0,Markham
+New Fountain,QUICK BITES,3.7,9.0,"Metro Square Plaza, Food Court, 3636 Steeles Avenue East, Markham","Hong Kong Style, Chinese, Asian",25.0,Markham
+Green Grove,BEVERAGE SHOP,3.5,10.0,"Market Village, 4350 Steeles Avenue East, Markham","Bubble Tea, Beverages, Taiwanese, Asian",20.0,Markham
+Utopia Dream Cafe,CAFÉ,3.2,6.0,"7170 Warden Avenue, Unit 26, Markham","Cafe, Bubble Tea, Beverages, Asian",30.0,Markham
+Woodstone Eatery,CASUAL DINING,,,"10 Apple Creek Boulevard, Markham, ON L3R 0P4, Markham, ON L3R 0P4",Canadian,25.0,Markham
+CHEE Organic Bakery caffe,BAKERY,,,"147A Main St, Unionville L3R 2G5",Bakery,25.0,Markham
+T-Swirl Crepe,CASUAL DINING,,,"1056-28 South Unionville Avenue, Markham L3R 4P9",Japanese,25.0,Markham
+ZenQ Woodbine,DESSERT PARLOR,,,"7240 Woodbine Avenue, Toronto L3R 1A4",Taiwanese,15.0,Markham
+Kyouka Ramen,CASUAL DINING,2.8,4.0,"8384 Woodbine Avenue, Markham L3R 2N8","Japanese, Ramen",25.0,Markham
+Marca Trattoria,CASUAL DINING,3.5,7.0,"96 Main Street North, Markham L3P 1X8","American, Italian",80.0,Markham
+39 Spices,CASUAL DINING,3.2,8.0,"39 Main Street N, Markham L3P 1X3",Indian,25.0,Markham
+Lobster King,CASUAL DINING,,,"4911 Steeles Avenue East, Markham M1V 4Z3","Seafood, Cantonese",40.0,Markham
+Tasty House,BEVERAGE SHOP,,,"First Markham Place, Food Court, 3255 Highway 7 East, 238FC, Markham","Bubble Tea, Beverages",20.0,Markham
+Essence of Unionville - Hilton Toronto/Markham Suites,CASUAL DINING,3.6,6.0,"Hilton Toronto/Markham Suites, 8500 Warden Avenue, Markham L6G 1A5",Grill,80.0,Markham
+Glorious Chinese Cuisine,CASUAL DINING,,,"1661 Denison Street, Unit T!, Markham L3R 6E4",Chinese,40.0,Markham
+Prairie Lamb Kebab,QUICK BITES,3.2,8.0,"Pacific Mall, Second Floor, Food Court, 4300 Steeles Avenue East, Markham","Xinjiang, Chinese",15.0,Markham
+Chick-in,QUICK BITES,,,"8333 Kennedy Road, Unit 1072, Markham L3R 4P8",Taiwanese,25.0,Markham
+Main Street Greek,CASUAL DINING,,,"60 Main Street North, Markham L3P 1X5",Greek,25.0,Markham
+Simply Delicious,CASUAL DINING,3.2,4.0,"7850 Woodbine Avenue, Markham L3R 0B9",Indian,35.0,Markham
+Patisserie Gateau,BAKERY,3.5,5.0,"3229 Highway 7, Unit B8, Markham L3R 3P3","Bakery, Chinese",10.0,Markham
+Hakka Legend,CASUAL DINING,3.6,6.0,"7393 Markham Road, Markham L3S 0B5","Indian, Hakka Chinese, Asian",35.0,Markham
+Olde Village Bistro,CASUAL DINING,3.2,5.0,"4430 Highway 7, Markham","Breakfast, American",50.0,Markham
+ShareTea,BEVERAGE SHOP,2.8,5.0,"3235 Highway 7 East, Unit 27, Markham L3R 0J5","Bubble Tea, Beverages, Taiwanese",15.0,Markham
+Flavors of Unionville,DESSERT PARLOR,,,155 Main Street Unionville Markham,"Ice Cream, Desserts",15.0,Markham
+Alchemy Coffee,CAFÉ,,,"4361 Highway 7, Unionville L3R 1M1",Cafe,,Markham
+Green Tea Restaurant,CASUAL DINING,,,"3235 Hwy 7, E, Unit 18, Markham",Chinese,30.0,Markham
+Grotto Noodle House,CASUAL DINING,,,"398 Ferrier Street, Markham L3R 2Z5","Chinese, Asian",25.0,Markham
+Krispy's Kajun Chicken,QUICK BITES,,,"4997 Highway 7, Markham L3R 1N1",Fast Food,20.0,Markham
+Wendy's,FAST FOOD,3.4,8.0,8801 Woodbine Avenue,"Fast Food, Burger",20.0,Markham
+George's Tastee Bakery & Restaurant,QUICK BITES,,,"600 Denison Street, Markham L3R 1B9","Fast Food, Caribbean",25.0,Markham
+McDonald's,QUICK BITES,3.2,11.0,"Markham Town Square, 3760 Highway 7, Markham",Fast Food,25.0,Markham
+Hua Xing BBQ,QUICK BITES,,,"New Kennedy Square, Food Court, 8360 Kennedy Road, Markham L3R 5Y7","Cantonese, Chinese, Asian",20.0,Markham
+La Spicy House,QUICK BITES,,,"First Markham Place, 3255 Highway 7 East, Unit 266, Markham L3R 3P9","Sichuan, Chinese, Asian",20.0,Markham
+The Mill Bar and Grill,CASUAL DINING,2.8,4.0,"139 Main Street Unionville, Markham",Bar Food,70.0,Markham
+Pinoy Waffles,QUICK BITES,,,"Pacific Mall, Second Floor, 4300 Steeles Avenue East, Markham L3R 0Y5","Filipino, Desserts",,Markham
+"Major Mackenzie Drive East, Markham",Other,,,CUISINES:,"Cantonese, Chinese, Hong Kong Style",25.0,Markham
+Ten Ren's Tea,BEVERAGE SHOP,3.5,6.0,"Pacific Mall, 4300 Steeles Avenue East, Unit E30, Markham","Bubble Tea, Tea, Beverages",15.0,Markham
+Ming's Restaurant,CASUAL DINING,3.1,6.0,"New Kennedy Square, 8390 Kennedy Road, Markham","Hong Kong Style, Chinese, Asian",40.0,Markham
+Pizzaville,QUICK BITES,3.5,7.0,"9418 Markham Road Unit B6, Markham, Toronto L6E 0N1","Pizza, Fast Food",25.0,Markham
+Oriental Rice Noodle House,CASUAL DINING,3.3,4.0,"7060 Warden Avenue c1, Toronto L3R 5V1",Chinese,25.0,Markham
+Happy Time,CASUAL DINING,,,"146 Old Kennedy Road, Markham","Dim Sum, Cantonese",30.0,Markham
+Luscious 5 Kitchen + Bar,CASUAL DINING,,,"7500 Woodbine Ave, Markham, ON L3R 1A8","Asian, Burger, Italian, Ramen, Sushi",35.0,Markham
+Bubble Tease,BEVERAGE SHOP,3.2,11.0,"Pacific Mall, Second Floor, 4300 Steeles Avenue East, Markham","Bubble Tea, Beverages",15.0,Markham
+Nine Cube Chinese Hot Pot,CASUAL DINING,,,"First Markham Place, 3229 Highway 7 East, Unit 9, Markham","Chinese, Asian",45.0,Markham
+Tutto Panini & Pasta,QUICK BITES,3.2,6.0,"5990 16th Avenue, Unit 218, Markham L6E 1A2",Italian,25.0,Markham
+Tangra Villa,QUICK BITES,,,"411 Manhattan Drive, Unit 3C, Markham","Hakka Chinese, Asian",35.0,Markham
+Gasa Restaurant,QUICK BITES,,,"50 New Delhi Drive, Markham L3S 0B5",Indian,20.0,Markham
+Maydoh Restaurant,CASUAL DINING,3.4,5.0,"Denison Centre, Unit 8, 1661 Denison Street, Markham L3R 6E4","Hong Kong Style, Chinese, Asian, Cafe",25.0,Markham
+Japanese Express,QUICK BITES,2.7,6.0,"Pacific Mall, Second Floor, Food Court, 4300 Steeles Avenue East, Markham L3R 0T4","Sushi, Japanese, Asian",25.0,Markham
+Honey Bear,BEVERAGE SHOP,3.4,4.0,"Pacific Mall, Second Floor, Food Court, 4300 Steeles Avenue East, Markham L3R 0N8","Juices, Tea, Asian, Beverages",20.0,Markham
+Big Bowl Hand-Pulled Noodle,CASUAL DINING,,,"New Kennedy Square, 8362 Kennedy Road, Markham L3R 9W5","Chinese, Asian",30.0,Markham
+Loha's Cafe,CASUAL DINING,,,"First Markham Place, Unit 19 - 20, 3235 Highway 7 East, Markham L3R 3P9","Taiwanese, Asian",25.0,Markham
+Gui Hua Tang,CASUAL DINING,3.2,5.0,"Market Village, 4350 Steeles Avenue East, F9, Markham L3R 9V4","Desserts, Chinese, Asian",20.0,Markham
+Real Fruit Bubble Tea,BEVERAGE SHOP,3.1,5.0,"First Markham Place, Food Court, 3255 Highway 7 East, Markham",Bubble Tea,15.0,Markham
+Shanghai Court,QUICK BITES,,,"New Kennedy Square, Food Court, 8362 Kennedy Road, Markham L3R 5Y7","Chinese, Asian",20.0,Markham
+Platform Espresso Bar,CAFÉ,,,"4450 Highway 7, Unionville, ON L3R 1M2","Coffee and Tea, Cafe",15.0,Markham
+La Prep,QUICK BITES,,,"675 Cochrane Drive, Markham",Cafe,25.0,Markham
+Lohas Cafe,CAFÉ,3.0,4.0,"28 South Unionville Avenue, Unit 1035, Unionville L3R 1J5","Cafe, Bubble Tea",15.0,Markham
+Second Cup,CAFÉ,,,"Uptown Market, 3985 Highway 7, Markham","Cafe, Coffee and Tea, Frozen Yogurt",10.0,Markham
+Wonton Chai,CASUAL DINING,,,"28 South Unionville Avenue, Markham, GTA L3R 4P9",Asian,,Markham
+HeyNoodles,FAST CASUAL,,,"5460 Hwy 7 E, Unit 1, Markham, Toronto",Chinese,30.0,Markham
+Pizza Hut,CASUAL DINING,3.4,10.0,"5071 Highway 7, Markham","Pizza, Fast Food",25.0,Markham
+Sweet House Dessert 金玉滿糖,CAFÉ,,,"7750 Birchmount Road, Markham L3R9X3","Cafe, Asian",13.0,Markham
+Big Sizzler,QUICK BITES,,,"3115 14th Avenue, Markham L3R 0H1","Canadian, Middle Eastern",20.0,Markham
+Fruitti Mix,BEVERAGE SHOP,,,"First Markham Place, Food Court, 3255 Highway 7 East, Markham",Beverages,20.0,Markham
+Pho King,CASUAL DINING,,,"Metro Square Plaza, 3636 Steeles Avenue East, Markham L3R 1K9","Vietnamese, Asian",30.0,Markham
+Pizza Nova,QUICK BITES,3.5,7.0,"6050 Highway 7, Markham","Pizza, Fast Food",30.0,Markham
+Chix & Stix Bar Restaurant,CASUAL DINING,,,"7850 Woodbine Avenue, Unit 228 L3R 0B9",Korean,,Markham
+Baskin Robbins,DESSERT PARLOR,3.5,4.0,"9255 Woodbine Avenue, Unit 22, Markham L6C 1Y9","Ice Cream, Desserts",15.0,Markham
+Starbucks,CAFÉ,,,"3175 Highway 7, Markham",Cafe,20.0,Markham
+Miss Congee,CASUAL DINING,2.7,4.0,"4721 Highway 7 East, Unit 5, Markham L3R 0M9",Cantonese,30.0,Markham
+Ai Sushi,CASUAL DINING,,,"220-5990 16th Avenue, Markham L3P 7R2","Japanese, Sushi",25.0,Markham
+Wow Sushi,CASUAL DINING,,,"15 Karachi Drive, Markham L3S 0B5","Japanese, Sushi",25.0,Markham
+Ritzy Palace Chinese Cuisine,CASUAL DINING,,,"7301 Woodbine Ave, Markham, ON L3R 3V7",Chinese,,Markham
+Bourbon St. Grill,QUICK BITES,3.1,5.0,"Markville Shopping Centre, Food Court, 5000 Highway 7, Markham","Cajun, Southern",20.0,Markham
+Kalok Express,QUICK BITES,,,"First Markham Place, 3255 Highway 7 East, Unit 256, Markham L3R 3P3","Cantonese, Chinese, Asian",25.0,Markham
+Wow! Wing House,CASUAL DINING,3.2,4.0,"50 New Delhi Drive, Markham L3S 0B5","American, Bar Food",45.0,Markham
+Jimmy The Greek,QUICK BITES,3.5,6.0,"Markville Shopping Centre, Food Court, 5000 Highway 7, Markham",Greek,25.0,Markham
+Dairy Queen,DESSERT PARLOR,3.0,7.0,"6030 Highway 7, Markham","Ice Cream, Desserts, Fast Food",20.0,Markham
+Thai Express,QUICK BITES,3.4,8.0,"Markville Shopping Centre, 5000 Highway 7, Markham",Thai,25.0,Markham
+Asia's Delight,QUICK BITES,,,"Pacific Mall, Second Floor, Food Court, 4300 Steeles Avenue East, Markham L3R 0Y5","Cantonese, Chinese, Asian",25.0,Markham
+Copper Branch,CAFÉ,,,"180 Enterprise Boulevard, Markham ON L6G 0G4",Vegetarian,15.0,Markham
+Pho Mi 88,CASUAL DINING,,,"28 South Unionville Avenue, Markham, GTA L3R 1J5",Asian,,Markham
+CoCo Fresh Tea & Juice,Other,,,"3636 Steeles Avenue E, Unit 103, Markham L3R 1K9","Juices, Bubble Tea",10.0,Markham
+Pizza Pizza,QUICK BITES,3.1,6.0,"Markham Town Square, Unit 18, 8601 Warden Avenue, Markham","Pizza, Fast Food",25.0,Markham
+Chef Lin Restaurant,QUICK BITES,,,"8 Washington Street, Markham L3P 2R2","Malaysian, Thai, Hakka Chinese",25.0,Markham
+Major Milliken Pub House & Eatery,CASUAL DINING,2.7,5.0,"7710 Kennedy Road, Markham L3R 0L7","British, Canadian",45.0,Markham
+Famous Pizza & Pasta,CASUAL DINING,3.5,6.0,"6899 14th Avenue, Markham L6B 0S2","Fast Food, Italian, Pizza",,Markham
+Les Chateaux Bakery,BAKERY,3.2,4.0,"New Kennedy Square, Inside Mall, 8362 Kennedy Road, Markham","Bakery, Chinese, Asian",20.0,Markham
+Greek Stop,QUICK BITES,3.5,5.0,"9408 Markham Road, Unit B5, Markham L3R 0B5",Greek,25.0,Markham
+Potato Noodle Soup Of Bai,FAST CASUAL,,,"8333 Kennedy Road, Unit 1077, Unionville L3R 1J5",Chinese,10.0,Markham
+Ganesh Take Out,QUICK BITES,,,"411 Manhattan Drive, Unit 2A, Markham L3P 7P4","South Indian, Sri Lankan",25.0,Markham
+Vince Seafood Restaurant,CASUAL DINING,,,"Denison Centre, Unit 1, 1661 Denison Street, Markham L3R 6E4","Dim Sum, Cantonese, Chinese, Asian",50.0,Markham
+Noble Seafood,CASUAL DINING,,,"7220 Kennedy Road, Unit 18 L3R 0N4","Asian Fusion, Chinese",25.0,Markham
+Extra BBQ House,FAST CASUAL,,,"3255 Hwy 7, Markham L3R 3P9","BBQ, Chinese",,Markham
+Ka Hing Kitchen,QUICK BITES,3.4,5.0,"Pacific Mall, Second Floor, Food Court, 4300 Steeles Avenue East, Markham L3R","Cantonese, Chinese, Asian",15.0,Markham
+Subway,QUICK BITES,,,"7706 Kennedy Road, Markham",Fast Food,20.0,Markham
+I Darts Toronto,BAR,,,"7850 Woodbine Avenue, Markham L3R 0B9",Bar Food,,Markham
+Sunset Grill,CASUAL DINING,,,"8630 Woodbine Ave Unit A1, Markham, ON L3R 4X8",Diner,30.0,Markham
+Shawarma Stop,CASUAL DINING,,,"3150 Highway 7 East, Unit 5 L3R 5A1",Middle Eastern,,Markham
+Warraich Meats,QUICK BITES,,,"9408 Markham Road, Unit B3-B4, Markham","Indian, Pakistani",35.0,Markham
+Reginos Pizza,Other,3.1,5.0,"Fincham Plaza, Food Court, 10 Fincham Avenue, Markham","Pizza, Fast Food",25.0,Markham
+Ziz Greek Kitchen,QUICK BITES,,,"7780 Woodbine Avenue, Markham L3R 2N7",Greek,30.0,Markham
+The Taste Of Home,CASUAL DINING,,,"Metro Square Plaza, 3636 Steeles Avenue East, Unit 117-120, Markham","Chinese, Asian",35.0,Markham
+Milestones,CASUAL DINING,,,"169, Unit L109, Enterprise Boulevard, Markham ON L6G 0E7",American,25.0,Markham
+Menaggio Ristorante,CASUAL DINING,2.9,5.0,"Monte Carlo Inn, 7255 Warden Avenue, Markham L3R 5X5","Italian, Mediterranean",50.0,Markham
+Harvey's,QUICK BITES,2.8,4.0,"725 Markland Street, Markham L6C 0G6","Fast Food, Canadian, Burger",25.0,Markham
+Leaf de Tea,BEVERAGE SHOP,,,"First Markham Place, Food Court, 3255 Highway 7 East, Markham L3R 3P9","Bubble Tea, Beverages",20.0,Markham
+Good Taste Garden,QUICK BITES,,,"Pacific Mall, Second Floor, Food Court, 4300 Steeles Avenue East, Markham","Chinese, Asian",20.0,Markham
+Tropicana Caribbean Cuisine,QUICK BITES,,,"5694 Highway 7 East, Unit 5, Markham L3P 1B4",Jamaican,20.0,Markham
+Canton Kitchen,QUICK BITES,,,"New Kennedy Square, Food Court, 8362 Kennedy Road, Markham",Cantonese,20.0,Markham
+Hangover Sports Bar,CASUAL DINING,,,"7354 Woodbine Avenue, Markham L3R 1A5",Bar Food,50.0,Markham
+Shark's Fin City,QUICK BITES,,,"Pacific Mall, Second Floor, Food Court, 4300 Steeles Avenue East, Markham","Chinese, Asian",30.0,Markham
+Langham Delight,CASUAL DINING,,,"28 South Unionville Avenue, Markham L3R 4R1",Chinese,30.0,Markham
+Pizza 786,QUICK BITES,3.3,5.0,"2352 Middlefield Road, Markham L3S 2S4",Pizza,20.0,Markham
+The Alley,BEVERAGE SHOP,,,"142 Main Street, Unionville, Markham L3R 2G5",Bubble Tea,15.0,Markham
+Go For Tea,CAFÉ,3.0,6.0,"179 Enterprise Boulevard, Suite 13, Unionville L6G 0A2",Cafe,,Markham
+Burrito Zone,QUICK BITES,,,"5261 Highway 7, Markham L3P 1B8",Mexican,25.0,Markham
+Shanghai Shikumen Fine Cuisine,CASUAL DINING,,,"3225 Highway 7 E, Unit 2, Markham L3R 3P9","Chinese, Dim Sum",45.0,Markham
+Calabria Bakery,QUICK BITES,,,"Sherwood Plaza, 5694 Highway 7, Markham","Bakery, Italian",20.0,Markham
+Domino's,QUICK BITES,3.6,4.0,"4450 Highway 7 East, Markham","Fast Food, Pizza",25.0,Markham
+Terre Rouge,CASUAL DINING,,,"162 Enterprise Boulevard, Unionville, ON L6G 0A2",French,40.0,Markham
+Soca Palace Restaurant & Bar,QUICK BITES,2.8,5.0,"2 Fenton Road, Markham",Caribbean,20.0,Markham
+Chunky Chicken,QUICK BITES,,,"6001 14th Avenue, Unit B2, Toronto L3S 0B2",Fast Food,20.0,Markham
+Booster On Main,CASUAL DINING,,,"175 Main Street Unionville, Toronto",Asian Fusion,30.0,Markham
+Mr. Sub,QUICK BITES,3.8,4.0,"7710 Woodbine Avenue, Markham",Fast Food,25.0,Markham
+Encore Karaoke & Lounge,BAR,,,"8601 Warden Avenue, Unit 26-30, Markham L3R 9P6","Bar Food, Chinese, Asian",80.0,Markham
+Chipotle Mexican Grill,QUICK BITES,,,"8610 Woodbine Avenue Building B, Markham, ON L3R 4X8","Mexican, Grill",20.0,Markham
+Korean Food Express,QUICK BITES,,,"First Markham Place, Food Court, 3255 Highway 7 East, Markham L3R 3P9",Korean,20.0,Markham
+Paramount Middle Eastern Kitchen,CASUAL DINING,,,"7720 Markham Rd #1, Markham, ON L3S 4S1","Lebanese, Middle Eastern",35.0,Markham
+Fruit Jungle,BEVERAGE SHOP,,,"First Markham Place, 3255 Highway 7 East, Unit 36B, Markham","Bubble Tea, Beverages, Asian",15.0,Markham
+Sugar Marmalade,DESSERT PARLOR,,,"3255 Highway 7 #19, Markham L3R 3P3","Desserts, Taiwanese",25.0,Markham
+Tim Hortons,CAFÉ,3.6,5.0,9251 Woodbine Avenue,"American, Donuts, Desserts",20.0,Markham
+Mom’s Kitchen,CASUAL DINING,,,"28 S Unionville Avenue, Unit 1059 L3R 1J5",Korean,,Markham
+Hero Certified Burgers,QUICK BITES,,,"5261 Highway 7, Unit B104, Markham","Burger, Sandwich",25.0,Markham
+Cinnabon,DESSERT PARLOR,,,"Markville Shopping Centre, Ground Floor, 5000 Highway 7, Markham",Desserts,15.0,Markham
+A & W,QUICK BITES,2.9,4.0,"Markville Shopping Centre, Food Court, 5000 Highway 7, Markham","Burger, Fast Food",25.0,Markham
+Chef's Table,CASUAL DINING,,,"Market Village, 4372 Steeles Avenue East, Markham","Chinese, Asian Fusion",60.0,Markham
+Station Asia,CASUAL DINING,,,"Market Village, 4390 Steeles Avenue East, Markham","Chinese, Asian",20.0,Markham
+Wah Lam Food Expert,QUICK BITES,,,"First Markham Place, Food Court, 3255 Highway 7 East, Markham","Chinese, Asian",20.0,Markham
+Angus Pho House,CASUAL DINING,,,"3299 York Regional Road 7, Unit E3, Markham L3R 3P3",Vietnamese,25.0,Markham
+Presotea,BEVERAGE SHOP,,,"Pacific Mall, First Floor, 4300 Steeles Avenue East, Markham","Bubble Tea, Beverages",15.0,Markham
+Villa Madina,QUICK BITES,,,"Markville Shopping Centre, Food Court, 5000 Highway 7, Markham",Mediterranean,25.0,Markham
+Mango Tree Thai,CASUAL DINING,,,"7850 Woodbine Ave Unit #228, Markham, Toronto",Thai,70.0,Markham
+Quiznos,QUICK BITES,3.6,4.0,"4981 Highway 7, Markham",Fast Food,25.0,Markham
+Brown Donkatsu and Ramen,CASUAL DINING,,,"3235 Hwy 7 #22, Markham, Toronto","Japanese, Korean",40.0,Markham
+Jamie Express,QUICK BITES,,,"Market Village, 4350 Steeles Avenue East, Unit FF1, Markham L3R","Cantonese, Chinese, Asian",15.0,Markham
+Yummy Ramen,QUICK BITES,,,"Pacific Mall, Second Floor, Food Court, 4300 Steeles Avenue East, Markham","Japanese, Asian, Fast Food",20.0,Markham
+Big Bite Burrito,FAST CASUAL,,,"7690 Markham Road, Markham L3S 4S1",Mexican,25.0,Markham
+Aroma Bakery,BAKERY,,,"New Kennedy Square, Inside Mall, 8362 Kennedy Road, Markham","Chinese, Bakery",10.0,Markham
+Jian Hong Yuen BBQ House,Other,,,"1661 Denison Street, Markham","BBQ, Chinese",20.0,Markham
+Mecca Pizza and Wings,QUICK BITES,,,"6001 14th Avenue, Markham L3S 0A2",Pizza,30.0,Markham
+Lola's Place,Other,,,"Pacific Mall, Second Floor, 4300 Steeles Avenue East, Markham L3R 0Y5",Filipino,25.0,Markham
+Mr. ChiMaek,CASUAL DINING,,,"7665 Kennedy Road, Markham, ON L3R 0L7",Korean,35.0,Markham
+YunShang Rice Noodle,CASUAL DINING,,,"3229 Hwy 7 #9, Markham, ON L3R 3P3",Chinese,25.0,Markham
+Hi5 Pizza & Fried Chicken,FAST CASUAL,,,"2860 Denison Street, Markham L3S 4T6","Fast Food, Pizza",20.0,Markham
+Amaya Express,QUICK BITES,2.8,4.0,"Markville Shopping Centre, Food Court, 5000 Highway 7, Markham",Indian,40.0,Markham
+Suvaka,QUICK BITES,,,"9909 Markham Road, Unit 14, Markham","South Indian, Sri Lankan, Mediterranean, Asian",25.0,Markham
+Timothy's,CAFÉ,,,"182 Main Street Unionville, Markham",Cafe,25.0,Markham
+Golf Wing Virtual Golf and Restaurant,CASUAL DINING,,,"7500 Woodbine Avenue, Markham L3R 1A8","Korean, Asian",25.0,Markham
+Juicy Mix,BEVERAGE SHOP,,,"4300 Steeles Avenue E Unit A59, Markham",Beverages,10.0,Markham
+Azyun Restaurant,CASUAL DINING,,,"144 Main St N #17, Markham, ON L3P 5T3","Fusion, Asian",25.0,Markham
+Star Tea,CAFÉ,,,"28 South Unionville Avenue, Markham L3R 4P9","Cafe, Bubble Tea",15.0,Markham
+Emperor Hotpot,CASUAL DINING,,,"Market Village, 7077 Kennedy Road, Unit 111, Markham L3R 0N8",Chinese,50.0,Markham
+Cake Park,DESSERT PARLOR,,,"3341 Markham Road, Markham M1X 0A6",Desserts,25.0,Markham
+Eat With Fun,CASUAL DINING,,,"New Kennedy Square, 8392 Kennedy Road, Markham","Cantonese, Chinese, Asian",25.0,Markham
+Bean Around the World,CAFÉ,,,"5762 Highway 7 E, Unit 3, Toronto L3P 1A7","Cafe, Coffee and Tea",15.0,Markham
+255 by Alta Rossa Ristorante,CASUAL DINING,,,"255 Bass Pro Mills Drive. Unit 703A, Markham L4K 0A2","Italian, Pizza",35.0,Markham
+Ten Ten's Dumpling,QUICK BITES,3.2,4.0,"Metro Square Plaza, 3636 Steeles Avenue East, Markham","Chinese, Asian",20.0,Markham
+The Greek Bakery,QUICK BITES,,,"3 Joseph Street, Markham","Bakery, Greek",25.0,Markham
+Taco Bell,QUICK BITES,,,"Markville Shopping Centre, Food Court, 5000 Highway 7, Markham","Fast Food, Mexican",20.0,Markham
+Raymerville Deli & Bakery,BAKERY,,,"1 Raymerville Drive, Markham L3P 5J5","Bakery, Italian",25.0,Markham
+Tasty House,BEVERAGE SHOP,,,"Market Village, 4390 Steeles Avenue East, Markham L3R 0Y5","Bubble Tea, Chinese, Asian, Beverages",20.0,Markham
+Kung Fu Duck,QUICK BITES,,,"7010 Warden Avenue, Markham",Northern Chinese,25.0,Markham
+Milliken Restaurant,CASUAL DINING,,,"7725 Birchmount Road, Markham","Greek, Mediterranean",30.0,Markham
+New York Fries,QUICK BITES,,,"5000 Highway 7 E #F030, Markham",Fast Food,15.0,Markham
+KFC,QUICK BITES,,,"Markville Shopping Centre, Food Court, 5000 Highway 7, Markham",Fast Food,25.0,Markham
+Steelcase Grill House & Deli,CASUAL DINING,,,"7240 Woodbine Avenue, Markham, Ontario L3R 1A4",Grill,20.0,Markham
+Rich II Fine Cuisine,CASUAL DINING,,,"Market Village, 4350 Steeles Avenue Eat, Unit A1, Markham L3R 9V7",French,70.0,Markham
+Teriyaki Experience,QUICK BITES,,,"3000 Highway 7, Unit A-12, Markham",Japanese,20.0,Markham
+Ten23 Karaoke,BAR,,,"3100 Steeles Avenue East, Unit 102, Ground Floor, Markham L3R 8T3","Chinese, Asian",40.0,Markham
+Eggette Hut,QUICK BITES,,,"3255 Highway 7 Suite 36B Markham, ON L3R 3P3 Canada",Chinese,15.0,Markham
+Ace Canton Kitchen,QUICK BITES,,,"8368 Woodbine Avenue, Markham","Cantonese, Chinese, Asian",25.0,Markham
+Papa Chang's,CASUAL DINING,,,"431 Alden Rd Unit 2, Markham, ON L3R 3L4",Taiwanese,30.0,Markham
+Oriental Recipes,QUICK BITES,,,"First Markham Place, Inside Mall Unit 36, 3255 Highway 7, Markham L3R 3P9","Chinese, Asian",,Markham
+Lanzhou Hand Pulled Noodles,CASUAL DINING,,,"8362 Kennedy Road, Markham L3R 9W5",Chinese,25.0,Markham
+Burger King,FAST FOOD,,,3088 Highway 7 East,"Fast Food, Burger",20.0,Markham
+Fruity Juicy Bar,BEVERAGE SHOP,,,"4300 Steeles Avenue E, Unit E23, Markham L3R 0Y5","Bubble Tea, Beverages",20.0,Markham
+Tai Wong Kee Cuisine,QUICK BITES,,,"New Kennedy Square, Food Court, 8360 Kennedy Road, Markham","Cantonese, Chinese, Asian",25.0,Markham
+Hai Tang,BAKERY,,,"7220 Kennedy Road, Unit 2, Markham","Bakery, Chinese",20.0,Markham
+Tivoli Garden,CASUAL DINING,,,"Delta Hotel, 50 East Valhalla Drive, Markham","Grill, Canadian",60.0,Markham
+Sushi-Q,QUICK BITES,,,"Markville Shopping Centre, Food Court, 5000 Highway 7, Markham",Sushi,25.0,Markham
+Soya Street,BEVERAGE SHOP,,,"New Kennedy Square, Inside Mall, 8362 Kennedy Road, Markham",Beverages,10.0,Markham
+B. Tea Sushi,QUICK BITES,,,"3621 Highway 7 East, Markham","Bubble Tea, Beverages, Sushi",30.0,Markham
+Yogurty's,DESSERT PARLOR,,,"SmartCentres Markham East Boxgrove, 86 Copper Creek Drive, Markham","Frozen Yogurt, Desserts",15.0,Markham
+Cafe 80,QUICK BITES,,,"80 Tiverton Court, Markham L3R 0G4","Coffee and Tea, Sandwich",15.0,Markham
+Kai Feng Fu,CASUAL DINING,,,"First Markham Place, 3229 Highway 7 East, Markham L6G 0A5","Northern Chinese, Chinese, Asian",35.0,Markham
+Wood Pecker,QUICK BITES,,,"Metro Square Plaza, Food Court, 3636 Steeles Avenue East, Markham","Korean, Asian, Fast Food",25.0,Markham
+Fav Cafe + Bar,BAR,,,"3000 Hwy 7, Markham","Chinese, Singaporean",35.0,Markham
+Good Karma,QUICK BITES,,,"5000 Hwy 7, CF Markville Mall, Markham, Toronto",Indian,40.0,Markham
+John Anderson Hamburger,QUICK BITES,,,"3780 14th Avenue, Unit 112, Markham L3R 4B7",Fast Food,25.0,Markham
+Karachi Kabab House,QUICK BITES,,,"2352 Middlefield Road, Markham",Pakistani,,Markham
+Aroma Espresso Bar,CAFÉ,,,"179 Enterprise Blvd, Unionville, ON L6G 0E7",Cafe,15.0,Markham
+Karachi Kabab House,QUICK BITES,,,"264 Markham Road, Markham L3S 3G7",Pakistani,,Markham
+Tom's Restaurant,QUICK BITES,,,"226 Esna Park Drive, Markham L3R 1H3","Diner, Indian, Cafe",20.0,Markham
+La Piazzetta,CASUAL DINING,,,"Monte Carlo Inn, 8900 Woodbine Avenue, Markham L3R 5K6",Italian,40.0,Markham
+JC's Grill House - Park Inn by Radisson,CASUAL DINING,,,"Park Inn by Radisson, 555 Cochrane Drive, Markham",American,60.0,Markham
+Yogen Früz,DESSERT PARLOR,,,"Markville Shopping Centre, First Floor, 5000 Highway 7, Markham","Frozen Yogurt, Desserts",15.0,Markham
+Sunnie Bakery,BAKERY,,,"New Kennedy Square, Inside Mall, 8362 Kennedy Road, Markham L3R 9W5","Bakery, Chinese, Asian",,Markham
+Sunrise Grill,CASUAL DINING,,,"11087 Victoria Square Blvd, Markham L6C",Diner,35.0,Markham
+Popeyes,QUICK BITES,,,"9830 Markham Road, Markham L6E 0H7",Fast Food,25.0,Markham
+Mr. Chestnut,QUICK BITES,,,"First Markham Centre, 290 Yorktech Drive Unit 16, Markham L6G 0A7","Fast Food, Chinese",,Markham
+Windsor Fine Bakery,BAKERY,,,"Market Village, 4390 Steeles Avenue East, Unit B4-7, Markham","Chinese, Bakery",15.0,Markham
+Golden Prince Restaurant,CASUAL DINING,,,"4885 14th Avenue, Markham L3S 3L6","Chinese, Seafood",35.0,Markham
+Tang Dynasty Best Food,QUICK BITES,,,"New Kennedy Square, Inside Mall Food Court, 8362 Kennedy Road, Markham","Chinese, Asian",20.0,Markham
+Patisserie Kirin ft. Tendou Matcha & Dessert,CAFÉ,,,"3621 Hwy 7 #105, Markham, ON L3R 0G6",Cafe,25.0,Markham
+Markham Delight,QUICK BITES,,,"First Markham Place, Food Court, 3255 Highway 7 East, Markham","Cantonese, Chinese, Asian",20.0,Markham
+Little Caesars,QUICK BITES,,,"5261 Highway 7, Markham","Pizza, Fast Food",25.0,Markham
+Big Smoke Burger,FAST CASUAL,,,"8600 Woodbine Ave, Markham, ON L3R 4X8",Burger,20.0,Markham
+Hot Space,CASUAL DINING,,,"New Kennedy Square, 8362 Kennedy Road, Markham L3R 9W5","Sichuan, Chinese, Asian",20.0,Markham
+Taste Cafe,QUICK BITES,,,"3605 Highway 7, Markham L3R","Hong Kong Style, Chinese, Asian",25.0,Markham
+Chak's Eastern,Other,,,"Market Village, 4350 Steeles Avenue East, FF5, Markham","Cantonese, Chinese, Asian",15.0,Markham
+Hutaoli 胡桃里音乐酒馆,CASUAL DINING,,,"3760, Hwy 7 East, Unit 1, Markham, ON L3R 0N2, Toronto",Chinese,35.0,Markham
+Noodle Soup,QUICK BITES,,,"First Markham Place, 3255 Highway 7 East, Unit 266, Markham","Northern Chinese, Chinese, Asian",20.0,Markham
+Sunlight Snack & Juice,BEVERAGE SHOP,,,"New Kennedy Square, Inside Mall, 8362 Kennedy Road, Markham","Beverages, Desserts, Chinese, Asian",,Markham
+LJ Kusina,QUICK BITES,,,"4915 Steeles Avenue East, Unit 1, Markham M1V 4Z3",Filipino,15.0,Markham
+Alden Restaurant,CASUAL DINING,,,"431 Alden Road, Markham","BBQ, Burger, Fast Food",35.0,Markham
+New Garden Kitchen,Other,,,"8360-8362 Kennedy Road Unit F07, Unionville L3R 5Y7",Chinese,25.0,Markham
+Foodie boy,CAFÉ,,,"4300 Steeles Avenue East, Markham, ON L3R 0Y5",Cafe,15.0,Markham
+The Cups,CASUAL DINING,,,"3235 Highway 7 East, Unit 27 Markham ON L3R 3P3",Korean,25.0,Markham
+Wanda's Belgian Waffles,DESSERT PARLOR,,,"Pacific Mall, 4300 Steeles Avenue E, Markham, ON L3R 0Y5","Desserts, Cafe",25.0,Markham
+Grill Em Kebabs,QUICK BITES,,,"6545 Highway 7, Markham","Iranian, Afghan",15.0,Markham
+Prince BBQ,Other,,,"Market Village, 4390 Steeles Avenue East, Markham","Cantonese, Chinese, Asian",20.0,Markham
+T+C Ultimate Cafe,CAFÉ,,,"8111 Kennedy Rd, Markham L3R 5M2",Cafe,13.0,Markham
+CoCo Fresh Tea & Juice,BEVERAGE SHOP,,,"8360 Kennedy Road, Markham L3R 5Y7","Bubble Tea, Beverages",15.0,Markham
+Com Tam 168,CASUAL DINING,,,"7077 Kennedy Road, Unit 109, Markham L3R 0N8",Vietnamese,35.0,Markham
+Kernels Popcorn,QUICK BITES,,,"Markville Shopping Centre, 5000 Highway 7, Markham",Fast Food,15.0,Markham
+Chong Qing Legend,CASUAL DINING,,,"4733 Steeles Avenue East, Markham M1V 4S5","Sichuan, Chinese, Asian",25.0,Markham
+Hot Pot King,CASUAL DINING,,,"146 Old Kennedy Road, Second Floor, Markham L3R 0L5",Chinese,25.0,Markham
+Kabuli Kabob,QUICK BITES,,,"30 Karachi Drive, Markham",Afghan,20.0,Markham
+Markham Bakery & Cafe,Other,,,"First Markham Place, Unit 226, 3255 Highway 7 East, Markham L3R 3P9",Bakery,15.0,Markham
+Freshly Squeezed,BEVERAGE SHOP,,,"Markville Shopping Centre, First Floor, 5000 Highway 7, Markham L3R 4M9","Juices, Beverages",15.0,Markham
+Oriental Delight,Other,,,"First Markham Place, Food Court, 3255 Highway 7 East, Markham","Cantonese, Chinese, Asian",25.0,Markham
+ON7 Bar & Grill,BAR,,,"5694 Highway 7 East, Markham L3P 0E3","Bar Food, American",50.0,Markham
+David's Tea,BEVERAGE SHOP,,,"Markville Shopping Centre, 5000 Highway 7 East, Markham","Tea, Beverages",15.0,Markham
+Gloucester Bakery,BAKERY,,,"New Kennedy Square, 8362 Kennedy Road, Markham","Bakery, Chinese",10.0,Markham
+Yung Kee BBQ,CASUAL DINING,,,"Market Village, 4350 Steeles Avenue East, Unit A10, Markham","Cantonese, Chinese, Asian",20.0,Markham
+Mother's Deli & Bakery,BAKERY,,,122 Main Street North Markham L3R 1Z9,"Bakery, Deli",15.0,Markham
+Honey Bee Donuts,DESSERT PARLOR,,,"8525 McCowan Road, Unit 1, Markham",Bakery,25.0,Markham
+Viet Kong,CASUAL DINING,,,"9909 Markham Road, Markham L6E 0B7","Vietnamese, Asian",35.0,Markham
+Absolute Atrium Lounge - Hilton Toronto/Markham Suites,BAR,,,"Hilton Toronto/Markham Suites, 8500 Warden Avenue, Markham L6G 1A5",Bar Food,80.0,Markham
+Tea Shop 168,BEVERAGE SHOP,,,"Pacific Mall, First Floor, 4300 Steeles Avenue East, Unit E81, Markham","Bubble Tea, Taiwanese, Beverages",25.0,Markham
+South St. Burger,FAST CASUAL,,,"169, Enterprise Blvd, Unionville, Markham, Toronto, ON, L6G 0A2","Burger, Fast Food",20.0,Markham
+A1 Bakery,BAKERY,,,"7393 Markham Road, Markham L3R 7A9",Bakery,10.0,Markham
+Java Shop Cafe,CAFÉ,,,"3760 14th Avenue, Markham L3R 0G6","Coffee and Tea, Cafe",15.0,Markham
+Phoenix Noodle House,Other,,,"Market Village, 4350 Steeles Avenue East, Unit FF4, Markham","Cantonese, Chinese, Asian",15.0,Markham
+Village Ice Cream Shoppe,DESSERT PARLOR,,,"6605 York Regional Road 7, Markham L3P 7P1","Desserts, Ice Cream, Frozen Yogurt",15.0,Markham
+Bodira Cafe,QUICK BITES,,,"6899 14th Avenue, Markham L6B 0S2","Cafe, Italian",,Markham
+Windjammer Fish and Chips,QUICK BITES,,,"5762 Highway 7 East, Markham","Fish and Chips, American",25.0,Markham
+Prince Food,QUICK BITES,,,"Denison Centre, 1661 Denison Street, Markham",Chinese,20.0,Markham
+Topman Express,Other,,,"Fincham Plaza, Food Court, 10 Fincham Avenue, Markham","Chinese, Asian",35.0,Markham
+Mill Bar and Grill,CASUAL DINING,,,"139 Main Street, Unionville","Italian, Bar Food",80.0,Markham
+Tops Pizza & Chicken,QUICK BITES,,,"7595 Markham Road, Unit 15, Markham L3S 0B6","Pizza, Fast Food",25.0,Markham
+Xiang Zi Hotpot,CASUAL DINING,,,3989 Highway 7 E,Chinese,,Markham
+Select Sandwich,QUICK BITES,,,"505 Hood Road, Unit 6, Markham","Deli, Sandwich",25.0,Markham
+Tina's Bakery,BAKERY,,,"180 Bullock Drive, Markham L3P 8C7",Bakery,15.0,Markham
+Chipotle,CASUAL DINING,,,"8610 Woodbine Ave Building B, Markham, ON L3R 4X8",Tex-Mex,30.0,Markham
+5 Star Biriyani,QUICK BITES,,,"30 New Delhi Drive, Markham L3S",Indian,15.0,Markham
+Yanagi Sushi,QUICK BITES,,,"First Markham Place, Food Court, 3255 Highway 7 East, Markham","Japanese, Korean, Asian",20.0,Markham
+Tim Sushi and Cafe,QUICK BITES,,,"3623 Highway 7, Markham","Sushi, Japanese, Asian",30.0,Markham
+Club YOLO,Other,,,"7270 Woodbine Avenue, Markham L3R 1A4",Bar Food,70.0,Markham
+Happiness Chinese Seafood Restaurant,CASUAL DINING,,,"4500 Steeles Avenue East, Markham","Cantonese, Chinese, Asian",35.0,Markham
+The Grocery Counter,QUICK BITES,,,"2 Corby Road, Markham",Deli,20.0,Markham
+Extreme Pita,QUICK BITES,,,"Markville Shopping Centre, Food Court, 5000 Highway 7, Markham","Fast Food, Mediterranean",25.0,Markham
+Orange Julius,QUICK BITES,,,"188 Main Street, Markham L3P 1Z1",Beverages,25.0,Markham
+Teavana,BEVERAGE SHOP,,,"Markville Shopping Centre, Main Floor, 5000 Highway 7, Markham","Tea, Beverages",20.0,Markham
+Tianjin Fine Food,QUICK BITES,,,"First Markham Place, Food Court, 3255 Highway 7 East, Markham","Northern Chinese, Chinese, Asian",20.0,Markham
+Luxurban Kitchen,CASUAL DINING,,,"New Kennedy Square, 8380 Kennedy Road, Markham","Chinese, Asian",40.0,Markham
+Country Style,CAFÉ,,,"7240 Woodbine Avenue, Markham",Cafe,20.0,Markham
+Purdy's,DESSERT PARLOR,,,"Markville Shopping Centre, Food Court, 5000 Highway 7, Markham","Desserts, Ice Cream",20.0,Markham
+Yummy Refills,BEVERAGE SHOP,,,"Market Village, 4390 Steeles Avenue East, Unit A17, Markham","Bubble Tea, Beverages, Asian",10.0,Markham
+Freshii,QUICK BITES,,,"8600 Woodbine Ave, ON L3R 4X8, Markham, Toronto",Healthy Food,30.0,Markham
+Grandma’s Home,CASUAL DINING,,,"7050 Warden Avenue Markham, ON L3R 5Y3",Japanese,30.0,Markham
+Master Q Billiards & Lounge,Other,,,"20 Apple Creek Boulevard, Unit 4, Markham",Bar Food,60.0,Markham
+Manchu Wok,QUICK BITES,,,"Markville Shopping Centre, Food Court, 5000 Highway 7, Markham","Fast Food, Chinese, Asian",25.0,Markham
+Cofá,BEVERAGE SHOP,,,"30 South Unionville Avenue, Unit 1023, Markham L3R 5M3","Bubble Tea, Beverages, Asian, Taiwanese",,Markham
+Booster Juice,BEVERAGE SHOP,,,"7700 Markham Road, Markham","Juices, Beverages, Healthy Food",20.0,Markham
+Druxy’s Famous Deli,QUICK BITES,,,"381 Church St, Markham L3P 7P3",Canadian,25.0,Markham
+South St. Burger,QUICK BITES,,,"169 Enterprise Blvd L6G 0A2, Unionville, Toronto",Fast Food,25.0,Markham
+Jun Ping Chilli Wok,CASUAL DINING,,,"Denison Centre, 1661 Denison Street, Markham","Chinese, Asian",,Markham
+GH Hunan Fine Food,QUICK BITES,,,"First Markham Place, Food Court, 3255 Highway 7 East, Markham","Chinese, Asian",20.0,Markham
+Jian Hong Yuen BBQ House Inc,QUICK BITES,,,"Denison Centre,1661 Denison Street, Unit 19, ,Markham L3R 6E4","Chinese, BBQ",20.0,Markham
+Hong Kong Chicken,QUICK BITES,,,"New Kennedy Square, Inside Mall, 8362 Kennedy Road, Markham L3R 9W5","Cantonese, Chinese, Asian",,Markham
+The Crescent,QUICK BITES,,,"4911 Steeles Avenue East, Markham M1V 4Z3",Pakistani,20.0,Markham
+Spicy House,CASUAL DINING,,,"8380 Kennedy Road, Unionville, ON L3R 0W4",Asian,25.0,Markham
+Osmow's,CASUAL DINING,,,8630 Woodbine Ave Markham ON L3R 4X8,"Mediterranean, Middle Eastern",30.0,Markham
+Lovely Spicy Very Hot,QUICK BITES,,,"Pacific Mall, Second Floor, Food Court, 4300 Steeles Avenue East, Markham","Chinese, Asian",15.0,Markham
+Top Worth,Other,,,"Market Village, 4350 Steeles Avenue East, Unit FF2, Markham","Cantonese, Chinese, Asian",15.0,Markham
+O.Cha,BEVERAGE SHOP,,,"Splendid China Tower, 4275 Steeles Avenue East, Markham","Bubble Tea, Beverages",10.0,Markham
+Oriental Porridge,QUICK BITES,,,"New Kennedy Square, Markham, ON L3R 9W4",Canadian,15.0,Markham
+Dancing Noodle,CASUAL DINING,,,"10841 S Crossroads Drive #10, Parker",Thai,30.0,Markham
+Bento Sushi,CASUAL DINING,,,"8610 Woodbine Ave, Markham, ON L3R 5N8","Japanese, Sushi",35.0,Markham
+Tim Hortons,CAFÉ,,,5995 Major Mackenzie Drive East,"Cafe, Donuts",20.0,Markham
+Silvestre,QUICK BITES,,,"3331 Markham Road, Markham",Filipino,15.0,Markham
+Munchies Burger,QUICK BITES,,,"Fincham Plaza, Food Court, 10 Fincham Avenue, Markham","Burger, Fast Food",25.0,Markham
+iBoBo,QUICK BITES,,,"Metro Square Plaza, Food Court, 3636 Steeles Avenue East, Markham","Cantonese, Chinese, Asian",25.0,Markham
+Babu,QUICK BITES,,,"4800 Sheppard Ave E, Scarborough, ON M1S 4N5",Indian,25.0,Markham
+Fusion Bites,QUICK BITES,,,"899 14th Avenue, Markham, ON L6B 0S2",Pizza,,Markham
+Patisserie De La Rhone,BAKERY,,,"3621 Highway 7, Markham","Bakery, Chinese, Bubble Tea",15.0,Markham
+Purple Blendz,BEVERAGE SHOP,,,"Markville Shopping Centre, Food Court, 5000 Highway 7, Markham",Juices,10.0,Markham
+Viet Delicious Delicacy,CASUAL DINING,,,"Pacific Mall, Second Floor, 4300 Steeles Avenue East, Markham L3R 0Y5","Vietnamese, Asian",35.0,Markham
+Tama Yaki,QUICK BITES,,,"Pacific Mall, Second Floor, Food Court, 4300 Steeles Avenue East, Markham L3R 0Y5","Japanese, Asian, Fast Food",15.0,Markham
+Exotique Glace,DESSERT PARLOR,,,147 Main Street,Ice Cream,10.0,Markham
+Crepes on Main,QUICK BITES,,,"151 Main Street Unionville, Markham L3R 2G8",Desserts,25.0,Markham
+Druxy's Famous Deli,QUICK BITES,,,"1490 Denison St,Markham L3R 6E5",Canadian,25.0,Markham
+Chachago,CAFÉ,,,"505 Highway 7 E, Unit 1 L3T 7T1","Coffee and Tea, Bubble Tea",15.0,Markham
+Satay Mama,FAST CASUAL,,,"3601 Highway 7, 112, Markham, ON L3R 0M3",Asian,25.0,Markham
+Swiss Chalet Rotisserie & Grill,CASUAL DINING,,,"5070 Hwy 7, Markham, ON L3R 4M9",Canadian,35.0,Markham
+Second Cup Coffee Co. featuring Pinkberry Frozen Yogurt,Other,,,3985 Highway #7 East Unit #1,Coffee and Tea,15.0,Markham
+Tim Hortons,CAFÉ,,,5965 Highway # 7,Cafe,20.0,Markham
+Second Cup Coffee Co.,Other,,,5000 Highway 7 Unit 0411A,Coffee and Tea,15.0,Markham

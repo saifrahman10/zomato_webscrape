@@ -1,0 +1,350 @@
+Name,EstablishmentType,Rating,NumReviews,Address,Cuisine,CostForTwo,City
+Restoran Malaysia,CASUAL DINING,4.5,297.0,"815 Major Mackenzie Drive E, Unit 10, Richmond Hill L4C 9X2","Malaysian, Asian",60.0,Richmond Hill
+Mi Ne Sushi,CASUAL DINING,4.4,254.0,"10815 Yonge Street, Richmond Hill","Sushi, Japanese, Asian",85.0,Richmond Hill
+Dragon Boat Fusion Cuisine,CASUAL DINING,4.1,121.0,"160 East Beaver Creek Road, Suite 4-6, Richmond Hill L4B 4A7","Dim Sum, Cantonese",40.0,Richmond Hill
+Tomo Sushi,CASUAL DINING,4.4,140.0,"9625 Yonge Street, Richmond Hill L4C 5T2","Sushi, Japanese, Asian",40.0,Richmond Hill
+Chako,CASUAL DINING,4.2,173.0,"163 York Boulevard, Richmond Hill","Sushi, Korean, Japanese, Asian",60.0,Richmond Hill
+Abruzzo Pizza,QUICK BITES,4.3,169.0,"9010 Yonge Street, Richmond Hill L4C 6Z8","Pizza, Italian",25.0,Richmond Hill
+Fraticelli's,CASUAL DINING,4.0,152.0,"10 Vogell Road, Richmond Hill L4B 3K4","Italian, Grill",65.0,Richmond Hill
+Touro Churrascaria,CASUAL DINING,3.9,101.0,"125 York Boulevard, Richmond Hill","Brazilian, Steak",80.0,Richmond Hill
+Inatei,CASUAL DINING,4.0,92.0,"9021 Leslie Street, Richmond Hill","Japanese, Asian",35.0,Richmond Hill
+Nonna's Oven,CASUAL DINING,4.2,100.0,"1285 Elgin Mills Road, Unit 8, Richmond Hill",Italian,40.0,Richmond Hill
+Marlowe,CASUAL DINING,3.0,135.0,"155 York Boulevard, Unit 1, Richmond Hill","Grill, Italian",90.0,Richmond Hill
+Mexican Amigos,CASUAL DINING,4.0,92.0,"10720 Yonge Street, Richmond Hill L4C 0C7",Mexican,30.0,Richmond Hill
+Thai Basil,CASUAL DINING,3.9,94.0,"SmartCentres Richmond Hill, 1070 Major Mackenzie Drive East, Unit F103, Richmond Hill L4S 1P3","Thai, Asian",50.0,Richmond Hill
+Northern Dumpling Kitchen,CASUAL DINING,3.9,59.0,"550 Highway 7 East, Unit 52A, Richmond Hill","Northern Chinese, Chinese, Asian",20.0,Richmond Hill
+Ruelo Patisserie,DESSERT PARLOR,3.7,89.0,"Times Square, 550 Highway 7 East, Unit C73, Richmond Hill","Desserts, Cafe",25.0,Richmond Hill
+The Host,CASUAL DINING,4.0,101.0,"Shoppes of The Parkway, 670 Highway 7 East, Richmond Hill L4B 3P2",Indian,60.0,Richmond Hill
+Il Fornello,CASUAL DINING,3.7,91.0,"8851 Yonge Street, Richmond Hill",Italian,65.0,Richmond Hill
+Citro,CASUAL DINING,4.2,64.0,"10123 Yonge Street, Richmond Hill",Italian,70.0,Richmond Hill
+Joe's Hamburgers,QUICK BITES,4.4,86.0,"10825 Yonge Street, Richmond Hill","Burger, Middle Eastern",35.0,Richmond Hill
+Yang's Fine Chinese Cuisine,CASUAL DINING,4.2,60.0,"9665 Bayview Avenue, Unit 30, Richmond Hill L4C 9V4","Dim Sum, Cantonese, Chinese, Asian",65.0,Richmond Hill
+Akasaka,CASUAL DINING,4.1,73.0,"280 West Beaver Creek Road, Richmond Hill","Sushi, Japanese, Asian",35.0,Richmond Hill
+Adrak Indian Restaurant & Bar,FINE DINING,3.8,58.0,"15 Wertheim Court, Richmond Hill",Indian,50.0,Richmond Hill
+Jim Chai Kee,CASUAL DINING,4.1,57.0,"270 West Beaver Creek Road, Richmond Hill","Cantonese, Chinese, Asian",20.0,Richmond Hill
+Scaddabush,CASUAL DINING,3.4,32.0,"155A York Boulevard, Richmond Hill L4B 3B4",Italian,60.0,Richmond Hill
+Miyabi,CASUAL DINING,4.1,66.0,"280 West Beaver Creek Road, Richmond Hill","Sushi, Japanese, Asian",45.0,Richmond Hill
+Bombay's Chutney,CASUAL DINING,3.9,69.0,"SmartCentres Richmond Hill, 1070 Major Mackenzie Drive East, Unit H1, Richmond Hill L4S 1P3",Indian,35.0,Richmond Hill
+Me Va Me,CASUAL DINING,3.3,75.0,"Rutherford Marketplace, 9302 Bathurst Street, Richmond Hill",Mediterranean,35.0,Richmond Hill
+Richmond Court Restaurant,CASUAL DINING,3.7,54.0,"Times Square, 550 Highway 7 East, Richmond Hill",Hong Kong Style,30.0,Richmond Hill
+Destiny,CASUAL DINING,3.4,72.0,"165 York Boulevard, Richmond Hill","Taiwanese, Bubble Tea, Desserts, Asian",30.0,Richmond Hill
+Fresh Burger,QUICK BITES,4.0,58.0,"9206 Leslie Street, Richmond Hill",Fast Food,25.0,Richmond Hill
+Rifca's Mediterranean Kitchen,QUICK BITES,4.2,72.0,"8950 Yonge Street, Richmond Hill L4C 6Z7",Mediterranean,35.0,Richmond Hill
+Moxie's Grill & Bar,CASUAL DINING,4.0,86.0,"159 York Boulevard, Richmond Hill L4B 3B4","Grill, Steak, Canadian, Fusion",65.0,Richmond Hill
+The Keg Steakhouse + Bar - Richmond Hill,CASUAL DINING,3.6,66.0,"162 York Boulevard, Richmond Hill L4B 3J6",Steak,100.0,Richmond Hill
+Sapporo Sushi,CASUAL DINING,4.1,50.0,"330 Highway 7 East, Richmond Hill","Sushi, Japanese, Asian",30.0,Richmond Hill
+Bayview Court,CASUAL DINING,3.7,56.0,"SmartCentres Richmond Hill, 1070 Major Mackenzie Drive East, Unit 107, Richmond Hill","Cantonese, Chinese, Asian",45.0,Richmond Hill
+Gourmet Vegetarian Restaurant,CASUAL DINING,3.8,37.0,"280 West Beaver Creek Road, Richmond Hill",Chinese,30.0,Richmond Hill
+Turtle Jack's Yonge,CASUAL DINING,3.6,61.0,"11740 Yonge Street, Richmond Hill L4E 0K4","Grill, Canadian",55.0,Richmond Hill
+Panera Bread,CAFÉ,3.9,60.0,9350 Yonge Street #Y005,"Cafe, Sandwich",30.0,Richmond Hill
+Nando's,CASUAL DINING,3.9,64.0,"Unit 5, 9625 Yonge Street, Richmond Hill, Toronto L4C 5T2","Portuguese, African",25.0,Richmond Hill
+Pepper Wok,CASUAL DINING,3.6,61.0,"280 West Beaver Creek, Richmond Hill","Chinese, Asian",25.0,Richmond Hill
+Tsuki,CASUAL DINING,3.4,33.0,"135 York Boulevard, Richmond Hill","Sushi, Japanese, Asian",70.0,Richmond Hill
+Akimi Japanese Cuisine,CASUAL DINING,3.7,46.0,"1285 Elgin Mills Road East, Unit 1, Richmond Hill L4S 0B5","Sushi, Japanese",50.0,Richmond Hill
+Kim Tao Hot Pot,CASUAL DINING,3.1,34.0,"10 East Wilmot Street, Richmond Hill","Cantonese, Chinese, Asian",35.0,Richmond Hill
+Jack Astor's,CASUAL DINING,3.9,55.0,"155 York Boulevard, Richmond Hill",Bar Food,55.0,Richmond Hill
+Shanghai Dim Sum,CASUAL DINING,3.2,16.0,"330 Highway 7 East, Richmond Hill",Shanghai,30.0,Richmond Hill
+Senbazuru Sushi Bar,CASUAL DINING,3.9,51.0,"9665 Bayview Avenue, Unit 13, Richmond Hill","Sushi, Japanese, Asian",45.0,Richmond Hill
+Magic Noodle,CASUAL DINING,3.1,18.0,"1383 16th Avenue, Richmond Hill",Northern Chinese,20.0,Richmond Hill
+Caffe Demetre,DESSERT PARLOR,3.9,49.0,"9174 Yonge Street, Richmond Hill L4C 7A1","Desserts, Ice Cream, Cafe",35.0,Richmond Hill
+Haru Sushi,CASUAL DINING,3.9,22.0,"10 East Wilmot Street, Richmond Hill","Sushi, Japanese, Asian",40.0,Richmond Hill
+Rhapsody,CASUAL DINING,3.9,40.0,"10152 Yonge Street, Richmond Hill L4C 1T6","Hungarian, Eastern European",65.0,Richmond Hill
+Golden Court Abalone Restaurant,CASUAL DINING,2.9,28.0,"270 West Beaver Creek Road, Richmond Hill","Dim Sum, Cantonese, Chinese, Asian",80.0,Richmond Hill
+Milestones,CASUAL DINING,3.3,33.0,"30 High Tech Road, Richmond Hill L4B 4L9","Grill, Canadian",65.0,Richmond Hill
+Sarpa Restaurant,FINE DINING,3.7,46.0,13311 Yonge Street,Italian,140.0,Richmond Hill
+Little Saigon,CASUAL DINING,3.4,22.0,"9625 Yonge Street, Richmond Hill l4c 5t2",Vietnamese,30.0,Richmond Hill
+Garlic Onion,CASUAL DINING,3.9,39.0,"10755 Leslie Street, Richmond Hill","Cantonese, Chinese, Asian",30.0,Richmond Hill
+Akane Sushi,CASUAL DINING,3.8,32.0,"Ho-View Plaza, 324 Highway 7 East, Richmond Hill","Sushi, Japanese, Asian",35.0,Richmond Hill
+Piatto Vecchio Ristorante,CASUAL DINING,3.9,37.0,"9301 Bathurst Street, Richmond Hill L4C 9S2",Italian,80.0,Richmond Hill
+Choice of the Orient,CASUAL DINING,4.4,42.0,"Observatory Place, 9555 Yonge Street, Richmond Hill L4C 9M5","Chinese, Asian",40.0,Richmond Hill
+AllStar Wings & Ribs,CASUAL DINING,4.0,46.0,"Richmond Heights, 10520 Yonge Street, Richmond Hill L4C 3C7","Bar Food, American",50.0,Richmond Hill
+Cora's Breakfast & Lunch,CASUAL DINING,3.3,55.0,"Upper Yonge Place, 10909 Yonge Street, Unit 46, Richmond Hill","Diner, Canadian",35.0,Richmond Hill
+Sunset Grill,CASUAL DINING,3.9,46.0,"1500 Elgin Mills Road East, Richmond Hill",Diner,30.0,Richmond Hill
+Yu Garden,CASUAL DINING,3.1,11.0,"8750 Bayview Avenue, Richmond Hill",Shanghai,50.0,Richmond Hill
+CYAN Cafe & Lounge,CASUAL DINING,3.5,31.0,"9737 Yonge Street, Ste 205 L4C v",Middle Eastern,70.0,Richmond Hill
+Yu Seafood,CASUAL DINING,3.2,14.0,270 West Beaver Creek L4B 3Y9,Seafood,,Richmond Hill
+Montana's Cookhouse,CASUAL DINING,3.6,37.0,"8735 Yonge St, Richmond Hill, ON L4C 6Z1","Canadian, Grill, BBQ, Steak",50.0,Richmond Hill
+Symposium Cafe Restaurant & Lounge,CASUAL DINING,3.1,14.0,13237 Yonge Street L4L9K4,"Diner, Burger, Desserts",65.0,Richmond Hill
+Orly Grill,CASUAL DINING,3.9,42.0,"10815 Bathurst Street, Richmond Hill","Fast Food, Middle Eastern",20.0,Richmond Hill
+Nam Vietnamese Restaurant,CASUAL DINING,3.2,9.0,"9206 Leslie St, Richmond Hill L4B 2N8","Vietnamese, Sandwich",,Richmond Hill
+Green Lemon Grass,CASUAL DINING,3.0,30.0,"Richlane Mall, 9425 Leslie Street, Richmond Hill","Thai, Vietnamese, Asian",35.0,Richmond Hill
+Fav Cafe,CAFÉ,3.4,31.0,"280 West Beaver Creek, Unit 31, Richmond Hill L4B 3Z1",Cafe,25.0,Richmond Hill
+New Choice Restaurant,CASUAL DINING,3.5,29.0,"324 Highway 7 East, Unit 8, Richmond Hill","Cantonese, Chinese, Asian",25.0,Richmond Hill
+Covernotes,CAFÉ,3.7,26.0,"10268 Yonge Street, Richmond Hill L4C 3BC","Cafe, Coffee and Tea",20.0,Richmond Hill
+California Sandwiches,QUICK BITES,3.6,38.0,"10815 Yonge Street, Richmond Hill L4C 3E3",Sandwich,20.0,Richmond Hill
+3 Coins Open Kitchen,QUICK BITES,3.3,35.0,"10140 Yonge Street, Richmond Hill L4C 1T7","Canadian, Fast Food",25.0,Richmond Hill
+Richlane,CASUAL DINING,3.6,14.0,"Richlane Mall, 9425 Leslie Street, Richmond Hill","Dim Sum, Cantonese, Chinese, Asian",70.0,Richmond Hill
+Persian Palace,FINE DINING,3.6,30.0,"10711 Yonge Street, Richmond Hill",Iranian,65.0,Richmond Hill
+Willy's,CASUAL DINING,3.9,36.0,"10459 Yonge Street, Richmond Hill L4C 3C2","Hakka Chinese, Chinese",35.0,Richmond Hill
+Shiraz Restaurant,CASUAL DINING,3.9,28.0,"9737 Yonge Street, Richmond Hill L4C 1V7",Iranian,50.0,Richmond Hill
+Mitsui,CASUAL DINING,3.6,30.0,"10815 Bathurst Street, Unit 28, Richmond Hill L4C 9Y2","Sushi, Japanese, Asian, Bubble Tea",40.0,Richmond Hill
+Marathon Cafe,QUICK BITES,3.2,24.0,"155 East Beaver Creek Road, Unit 26, Richmond Hill","Chinese, Hong Kong Style, Beverages",20.0,Richmond Hill
+Chef Burger,QUICK BITES,3.5,33.0,"8910 Yonge Street, Richmond Hill L4C 0L7",Fast Food,25.0,Richmond Hill
+Shishlix,CASUAL DINING,3.8,31.0,"Observatory Place, 9555 Yonge Street, Richmond Hill L4C 9M5","Kebab, Middle Eastern, Iranian",30.0,Richmond Hill
+BB Cafe,CAFÉ,3.7,24.0,"10067 Yonge Street, Richmond Hill L4C 1T7",Cafe,30.0,Richmond Hill
+Congee Wong,CASUAL DINING,3.6,9.0,"1 Spadina Road, Unit 25-29, Richmond Hill","Cantonese, Chinese, Asian",43.0,Richmond Hill
+Toppings,QUICK BITES,3.9,30.0,"1285 Elgin Mills Road, E Suite 16, Richmond Hill L4S 0B5","Pizza, Fast Food, Burger",30.0,Richmond Hill
+Bhai's Indian Canteen,CASUAL DINING,3.2,18.0,"115 York Boulevard, Suite 8, Richmond Hill L4B 3B4 3B4","Indian, Fusion",30.0,Richmond Hill
+Bamiyan Kabob,QUICK BITES,3.3,23.0,"161 York Boulevard, Richmond Hill",Middle Eastern,35.0,Richmond Hill
+Asian Garden,CASUAL DINING,3.9,24.0,"883 16th Avenue, Richmond Hill","Hakka Chinese, Asian",25.0,Richmond Hill
+Judy Cuisine,CASUAL DINING,3.7,26.0,"Times Square, 550 Highway 7 East, A31, Richmond Hill","Cantonese, Chinese, Asian",50.0,Richmond Hill
+Pho Xe Lua,CASUAL DINING,3.3,28.0,"10066 Bayview Avenue, Unit 10, Richmond Hill L4C 2K9",Vietnamese,30.0,Richmond Hill
+Allencourt Restaurant,CASUAL DINING,3.4,29.0,"614 Major Mackenzie Drive E, Richmond Hill L4C 1J8","Fish and Chips, Burger",40.0,Richmond Hill
+Touhenboku Ramen,CASUAL DINING,2.9,13.0,1070 Major Mackenzie Drive,"Ramen, Japanese",40.0,Richmond Hill
+Steam Kitchen,CASUAL DINING,3.1,25.0,"328 Highway 7 East, Unit B1 & B2, Richmond Hill","Cantonese, Chinese, Asian",30.0,Richmond Hill
+Caribbean Jerk Pit,QUICK BITES,3.1,32.0,"10737 Yonge Street, Richmond Hill",Caribbean,25.0,Richmond Hill
+Dayali,CASUAL DINING,2.7,14.0,160 York Boulevard,"Northern Chinese, Chinese, Asian",25.0,Richmond Hill
+Day & Night Angus Beef Hot Pot,CASUAL DINING,,,"9021 Leslie Street, Unit 9-13 , Richmond Hill L4B 0B2","Seafood, Steak, Chinese",35.0,Richmond Hill
+Pun Cao Tong,CASUAL DINING,3.6,21.0,"Times Square, 550 Highway 7 East, Suite 100, Richmond Hill","Healthy Food, Desserts, Chinese",25.0,Richmond Hill
+Johns Chinese BBQ Restaurant,CASUAL DINING,3.5,24.0,"328 Highway 7 East, Unit 10-11, Richmond Hill","Cantonese, Chinese, Asian",30.0,Richmond Hill
+Heavenly Delights,BAKERY,3.1,25.0,"8992 Yonge Street, Richmond Hill L4C 6Z8","Bakery, Desserts",25.0,Richmond Hill
+Oak Ridges Pizza House,QUICK BITES,3.5,19.0,"13071 Yonge Street, Unit 26, Richmond Hill",Pizza,30.0,Richmond Hill
+London Pub,BAR,3.7,28.0,"9724 Yonge Street, Richmond Hill L4C 1V9","Bar Food, British",60.0,Richmond Hill
+Kelsey's,CASUAL DINING,3.8,30.0,"8715 Yonge Street, Richmond Hill",Canadian,65.0,Richmond Hill
+Mr. Congee,CASUAL DINING,3.4,18.0,"9712 Yonge Street, Richmond Hill","Cantonese, Chinese, Asian",30.0,Richmond Hill
+Archibald's Pub,BAR,3.3,30.0,"8950 Yonge Street, Unit 8, Richmond Hill L4C 6V5",Bar Food,60.0,Richmond Hill
+The Owl Of Minerva,CASUAL DINING,3.3,20.0,"815 Major Mackenzie Drive East, Richmond Hill L4C 9X2","Korean, Asian",35.0,Richmond Hill
+Golden Horse,CASUAL DINING,2.9,8.0,"1480 Major Mackenzie Drive East, Unit C7-C8, Richmond Hill","Hong Kong Style, Chinese",35.0,Richmond Hill
+King Henry Arms,BAR,3.5,23.0,"9301 Yonge Street, Richmond Hill L4C 1V4","Bar Food, British",55.0,Richmond Hill
+Bali Restaurant,CASUAL DINING,3.0,11.0,"10 East Wilmot Street, Richmond Hill",Asian,40.0,Richmond Hill
+Richmond Grill,CASUAL DINING,3.9,28.0,"10165 Yonge Street, Richmond Hill","Grill, American",75.0,Richmond Hill
+In-N-Out Pita,QUICK BITES,2.8,35.0,"Richmond Heights, 10520 Yonge Street, Richmond Hill L4C 3C7","Mediterranean, Fast Food",25.0,Richmond Hill
+Tilted Kilt,BAR,3.0,20.0,"157 York Boulevard, Richmond Hill","Bar Food, American",60.0,Richmond Hill
+The 3 Brewers,CASUAL DINING,3.1,14.0,"125 York Boulevard, Richmond Hill","American, Bar Food",65.0,Richmond Hill
+Sofra,CASUAL DINING,3.5,22.0,"380 Tower Hill Road, Richmond Hill L4E 0T8",Mediterranean,40.0,Richmond Hill
+Aneal's Taste of the Islands,CASUAL DINING,3.6,18.0,10220 Yonge Street L4C 3B6,Caribbean,30.0,Richmond Hill
+Full House Desserts,DESSERT PARLOR,3.7,17.0,"Richlane Mall, 9425 Leslie Street, Unit 12, Richmond Hill L4B 3N7","Desserts, Chinese",20.0,Richmond Hill
+Zen Cafe & Lounge,CAFÉ,3.5,11.0,"Richlane Mall, 9425 Leslie Street, Richmond Hill","Cafe, Desserts",25.0,Richmond Hill
+St. Louis Bar & Grill,CASUAL DINING,3.5,27.0,"10620 Yonge Street, Unit 16, Richmond Hill L4C 3C8","Bar Food, Grill",40.0,Richmond Hill
+Alexander's Restaurant,QUICK BITES,3.8,21.0,"10 East Wilmot Street, Richmond Hill",Fast Food,25.0,Richmond Hill
+Falcon and Firkin,CASUAL DINING,2.8,19.0,"10300 Yonge Street, Richmond Hill",Bar Food,65.0,Richmond Hill
+Hero Certified Burgers,QUICK BITES,3.8,29.0,"9625 Yonge Street, Richmond Hill","Burger, Sandwich",25.0,Richmond Hill
+Hatam,CASUAL DINING,3.1,20.0,"10158 Yonge Street, Richmond Hill","Middle Eastern, Iranian",35.0,Richmond Hill
+Dickens Cafe,CASUAL DINING,3.5,11.0,"Richlane Mall, 9425 Leslie Street, Richmond Hill",Hong Kong Style,35.0,Richmond Hill
+Han Mi Jeong,CASUAL DINING,3.2,6.0,"9425 Leslie Street, Richmond Hill L4B 3N7","Korean, Asian",25.0,Richmond Hill
+Alice Bakery,BAKERY,3.9,18.0,"13461 Yonge Street, Richmond Hill",Bakery,25.0,Richmond Hill
+Eggsmart,CASUAL DINING,3.1,24.0,"155 East Beaver Creek Road, Richmond Hill",Diner,30.0,Richmond Hill
+That's Italian Express,CASUAL DINING,3.4,23.0,"10447 Yonge Street, Richmond Hill L4C 3C2",Italian,40.0,Richmond Hill
+Pizza Hut,CASUAL DINING,3.2,20.0,"9580 Yonge Street, Richmond Hill","Pizza, Fast Food",25.0,Richmond Hill
+Chopstix And Rice,QUICK BITES,3.8,19.0,"9665 Bayview Avenue, Richmond Hill L4C 9V4",Chinese,35.0,Richmond Hill
+Maxim,CASUAL DINING,2.6,23.0,"9665 Bayview Avenue, Richmond Hill L4C 9V4","European, Bakery, Desserts",50.0,Richmond Hill
+Goldsor Restaurant,CASUAL DINING,2.9,16.0,"Times Square, 550 Highway 7 East, Unit 68-69, Richmond Hill","Hong Kong Style, Chinese, Asian",25.0,Richmond Hill
+Kako Kabab,CASUAL DINING,3.9,15.0,"9184 Yonge St. Suite 16, Richmond Hill L4C 7A1",Iranian,25.0,Richmond Hill
+Taftan Kebab,QUICK BITES,3.9,22.0,"9625 Yonge Street, Richmond HIll",Middle Eastern,20.0,Richmond Hill
+Ti Amo Gelato & Cafe,DESSERT PARLOR,3.7,12.0,"10255 Yonge Street, Richmond Hill","Desserts, Ice Cream, Cafe, Bubble Tea",15.0,Richmond Hill
+Mister Moon's,CASUAL DINING,3.8,24.0,"13311 Yonge Street, Richmond Hill L4E 3L6","Chinese, Asian",35.0,Richmond Hill
+Ming Cuisine,CASUAL DINING,3.4,4.0,"1 Spadina Road, Richmond Hill L4B 3M2","Cantonese, Chinese",45.0,Richmond Hill
+Hong Far Cafe Inc.,CASUAL DINING,3.6,14.0,"Richlane Mall, 9425 Leslie Street, Richmond Hill","Cantonese, Chinese, Asian",35.0,Richmond Hill
+Kum Hong BBQ,QUICK BITES,3.8,10.0,"Doncrest Market Village Plaza, 420 Highway 7 East, Richmond Hill","Chinese, Asian",25.0,Richmond Hill
+Pardis,QUICK BITES,3.9,18.0,"9325 Yonge Street, Richmond Hill L4C 1V4",Iranian,30.0,Richmond Hill
+Wimpy's Diner,CASUAL DINING,3.6,26.0,"10800 Bayview Avenue, Richmond Hill",Diner,30.0,Richmond Hill
+Dynasty,QUICK BITES,3.4,18.0,"10 Headdon Gate, Richmond Hill L4C 8A2",Asian,35.0,Richmond Hill
+Bayview Kitchen,CASUAL DINING,3.2,18.0,"815 Major Mackenzie Drive E, Unit 4, Richmond Hill L4C 9X2","Chinese, Asian",30.0,Richmond Hill
+Nak Won,CASUAL DINING,3.2,17.0,"9625 Yonge Street, Richmond Hill","Korean, Asian",50.0,Richmond Hill
+Chi Star House,CASUAL DINING,2.9,11.0,"9021 Leslie Street, Richmond Hill","Hong Kong Style, Cantonese, Chinese, Asian",35.0,Richmond Hill
+Lucullus Bakery,BAKERY,3.9,17.0,"328 Highway 7 East, Unit 19, Richmond Hill",Bakery,10.0,Richmond Hill
+Maria's Kitchen,QUICK BITES,3.9,13.0,"588 Edward Avenue, Richmond Hill",Italian,13.0,Richmond Hill
+Big Daddy's,CASUAL DINING,3.8,12.0,"460 Elgin Mills Road East, Richmond Hill L4C 5E7","Burger, Bar Food",30.0,Richmond Hill
+Swiss Chalet,CASUAL DINING,3.9,17.0,"Hillcrest Mall, 9350 Yonge Street, Richmond Hill","Canadian, Grill, Beverages",40.0,Richmond Hill
+Little House Of Kebobs,QUICK BITES,3.7,17.0,"1480 Major Mackenzie Drive E, Unit C9, Richmond Hill L4S 0A1","Grill, Middle Eastern",30.0,Richmond Hill
+Ten Ren's Tea,BEVERAGE SHOP,2.8,5.0,"SmartCentres Richmond Hill, 1070 Major Mackenzie Drive East, Unit 110, Richmond Hill","Bubble Tea, Beverages, Chinese",35.0,Richmond Hill
+Pho Tai Bac,CASUAL DINING,3.2,6.0,"9555 Yonge Street, Suite 14, Richmond Hill L4C 9M5",Vietnamese,25.0,Richmond Hill
+General Thai & Chinese Cuisine,QUICK BITES,3.7,17.0,"11000 Yonge Street, Unit 2, Richmond Hill","Thai, Chinese",30.0,Richmond Hill
+Toshi Ryoriten,CASUAL DINING,3.4,5.0,"1380 Major Mackenzie Drive E, Richmond Hill L4S 0A1","Japanese, Sushi",,Richmond Hill
+Taste Of Mediterranean,QUICK BITES,3.7,18.0,"16 Vogell Road, Richmond Hill",Mediterranean,25.0,Richmond Hill
+Big Boy's Burgers,QUICK BITES,3.7,17.0,"10626 Bayview Avenue, Richmond Hill",Fast Food,25.0,Richmond Hill
+Oregano By Cirillo's,CASUAL DINING,3.0,11.0,"Upper Yonge Place, 10909 Yonge Street, Unit 1, Richmond Hill L4C 3E3","Italian, Pizza, Seafood",65.0,Richmond Hill
+Oyaji Sushi,CASUAL DINING,3.2,9.0,"10341 Yonge Street, Richmond Hill","Japanese, Korean, Sushi",50.0,Richmond Hill
+Lucky Season,CASUAL DINING,3.5,12.0,"550 Highway 7 East, Unit 80, Richmond Hill","Dim Sum, Cantonese, Chinese, Asian",40.0,Richmond Hill
+Louis XIV Cake Boutique,DESSERT PARLOR,3.1,11.0,"Times Square, 550 Highway 7, Unit 67, Richmond Hill",Desserts,15.0,Richmond Hill
+McDonald's,QUICK BITES,3.2,20.0,"SmartCentres Richmond Hill, 1070 Major Mackenzie Drive East, Inside Walmart, Richmond Hill",Fast Food,25.0,Richmond Hill
+My Wonderful Kitchen,CASUAL DINING,,,"350 Highway 7 East #101, Richmond Hill, ON L4B 3N2",Chinese,30.0,Richmond Hill
+Lago Italian Bakery,BAKERY,3.7,14.0,"12930 Yonge Street, Unit 1, Richmond Hill","Bakery, Cafe, Italian",25.0,Richmond Hill
+Billy Bakery & Cafe,CASUAL DINING,3.6,14.0,"9665 Bayview Avenue, Unit 16, Richmond Hill","Hong Kong Style, Cantonese, Chinese, Bakery",40.0,Richmond Hill
+Buk Chang Dong Soon Tofu,CASUAL DINING,3.6,5.0,"9019 Bayview Avenue, Unit 15, Richmond Hill L4B 3M6",Korean,25.0,Richmond Hill
+Pizza Nova,QUICK BITES,3.6,15.0,"18 Levendale Road, Richmond Hill","Pizza, Fast Food",30.0,Richmond Hill
+Kung Fu Chop Chop,CASUAL DINING,3.1,5.0,"16 Vogell Road, Richmond Hill","Chinese, Fast Food",25.0,Richmond Hill
+Zoup!,QUICK BITES,3.7,10.0,"1383 16th Avenue, Unit 2, Richmond Hill",Sandwich,25.0,Richmond Hill
+Osmow's,QUICK BITES,3.2,5.0,"8750 Bayview Avenue, Richmond Hill L4B 4V9","Mediterranean, Greek",10.0,Richmond Hill
+Goubuli,CASUAL DINING,,,"280 West Beaver Creek Road, Suite 35, Richmond Hill L4B 3B1",Chinese,25.0,Richmond Hill
+Kim's Ichiban,QUICK BITES,3.1,11.0,"550 Highway 7 East, Unit 99, Building E, Richmond Hill","Sushi, Japanese",20.0,Richmond Hill
+Crab Harbour,CASUAL DINING,2.7,11.0,"280 West Beaver Creek Road, Richmond Hill","Seafood, Japanese, Asian",120.0,Richmond Hill
+K & K Cafe,CASUAL DINING,3.0,10.0,"420 Highway 7, Unit 26, Richmond Hill L4B 3K2",Hong Kong Style,25.0,Richmond Hill
+Harvey's,QUICK BITES,3.2,16.0,"8865 Yonge Street, Richmond Hill ON, L4C 6Z1","Fast Food, Canadian, Burger",25.0,Richmond Hill
+Yummy Sushi,CASUAL DINING,2.7,12.0,"Unit 6, 1480 Major Mackenzie Drive East, Richmond Hill","Sushi, Japanese, Asian",50.0,Richmond Hill
+Apron Cafe,CASUAL DINING,,,"9631 Yonge Street, Unit 2 L4C 0M5","Hong Kong Style, Chinese",,Richmond Hill
+York Fish & Chips,CASUAL DINING,3.1,10.0,"Upper Yonge Place, 10909 Yonge Street, Unit 52, Richmond Hill",Fish and Chips,35.0,Richmond Hill
+Golden Flower Cafe,CASUAL DINING,2.8,6.0,"1 Spadina Road, Richmond Hill L4B 3M2",Hong Kong Style,25.0,Richmond Hill
+Daryani Bakery,QUICK BITES,3.4,13.0,"10670 Yonge Street, Richmond Hill L4C 3C9","Bakery, Middle Eastern",25.0,Richmond Hill
+Capri's Grill,CASUAL DINING,,,205 Don Head Village Boulevard L4C 7R3,BBQ,,Richmond Hill
+Shi Ki Sushi,CASUAL DINING,3.3,11.0,"10593 Yonge Street, Unit 1, Richmond Hill L4C 3C5","Sushi, Japanese, Korean, Asian",40.0,Richmond Hill
+Fresh Fusion,QUICK BITES,3.6,17.0,"16 Vogell Road, Richmond Hill",Healthy Food,30.0,Richmond Hill
+Green Grotto Tea Room,CAFÉ,,,"10775 Leslie Street, Unit 106 L4S 0B2",Coffee and Tea,,Richmond Hill
+Bayview House Of Kebob,QUICK BITES,3.4,13.0,"10066 Bayview Avenue, Unit 9, Richmond Hill",Middle Eastern,25.0,Richmond Hill
+Masala,CASUAL DINING,3.3,13.0,"10737 Yonge Street, Richmond Hill","Pakistani, Indian",35.0,Richmond Hill
+3.5,Other,,,"York Regional Road 7, Richmond Hill",Chinese,43.0,Richmond Hill
+Sunrise Cafe & Grill,CASUAL DINING,3.4,12.0,"12963 Yonge Street, Richmond Hill L4E 1A7","Grill, Canadian",25.0,Richmond Hill
+Superlicious Fast Food,Other,3.2,15.0,"Shoppes of The Parkway, Food Court, Unit 11, 670 Highway 7 East, Richmond Hill","Chinese, Asian",25.0,Richmond Hill
+Thai Express,QUICK BITES,2.9,13.0,"Hillcrest Mall, 9350 Yonge Street, Richmond Hill",Thai,25.0,Richmond Hill
+South China Food,QUICK BITES,2.8,13.0,"9218 Yonge Street, Richmond Hill","Chinese, Thai, Asian",30.0,Richmond Hill
+Sichuan kungfu fish,CASUAL DINING,,,"9021 Leslie street, Toronto L4B 0B2","Chinese, Seafood",,Richmond Hill
+Subway,QUICK BITES,3.2,15.0,"Richmond Heights, 10520 Yonge Street, Unit 38A, Richmond Hill",Fast Food,20.0,Richmond Hill
+The Golf Lounge,CASUAL DINING,,,"115 York Boulevard, Richmond Hill","Bar Food, Desserts",55.0,Richmond Hill
+Europa,BAKERY,3.9,13.0,"Richmond Heights, 10520 Yonge Street, Unit 12, Richmond Hill L4C 3C7","Bakery, Deli",25.0,Richmond Hill
+Second Cup,CAFÉ,3.5,12.0,"Hillcrest Mall, Food Court, 9350 Yonge Street, Richmond Hill","Cafe, Coffee and Tea, Frozen Yogurt",10.0,Richmond Hill
+Top 1,CASUAL DINING,3.1,7.0,"165 East Beaver Creek Road, Richmond Hill L4B 3P4","Sichuan, Chinese, Asian",75.0,Richmond Hill
+Apple,QUICK BITES,3.7,13.0,"13130 Yonge Street, Richmond Hill",Middle Eastern,25.0,Richmond Hill
+Tom & Jerry's Bistro,CASUAL DINING,2.3,12.0,"10593 Yonge Street, Richmond Hill L4C 3C5",American,40.0,Richmond Hill
+Popeyes,QUICK BITES,3.6,10.0,"Upper Yonge Place, 10909 Yonge Street, Unit 10, Richmond Hill",Fast Food,25.0,Richmond Hill
+Liuyishou Hotpot Toronto,CASUAL DINING,,,"650 Highway 7 Suite 102, Richmond Hill, ON L4B 2N7",Chinese,40.0,Richmond Hill
+Starbucks,CAFÉ,3.8,16.0,"Richmond Heights, 10520 Yonge Street, Richmond Hill",Cafe,20.0,Richmond Hill
+Afghan Cuisine,CASUAL DINING,2.9,4.0,"10909 Yonge Street, Richmond Hill M4H 1C4",Afghan,30.0,Richmond Hill
+Cafe Bon Bon,CAFÉ,,,"550 Hwy 7 #90, Richmond Hill, ON L4B 3Z4",Asian Fusion,15.0,Richmond Hill
+Rayhan Kabob,QUICK BITES,3.4,13.0,"30 Levendale Road, Richmond Hill L4C 4H2",Middle Eastern,25.0,Richmond Hill
+Domino's,QUICK BITES,2.7,12.0,"9251 Yonge Street, Richmond Hill","Fast Food, Pizza",25.0,Richmond Hill
+Safavieh Restaurant,CASUAL DINING,3.4,8.0,"12930 Yonge St, Richmond Hill",Iranian,45.0,Richmond Hill
+Excellent B.B.Q.,CASUAL DINING,3.6,8.0,"Richlane Mall, 9425 Leslie Street, Richmond Hill","Cantonese, Chinese, Asian",25.0,Richmond Hill
+Parkway Kitchen,Other,3.4,10.0,"Shoppers of the Parkway, Food Court, Unit 10, 670 Highway 7 East, Richmond Hill","Cantonese, Chinese, Asian",30.0,Richmond Hill
+New York Fries - Hillcrest Mall,QUICK BITES,3.7,13.0,"9350 Yonge St Unit B001, Richmond Hill ON, L4C 5G2",Fast Food,15.0,Richmond Hill
+Ginger's Cupcakes & Desserts,DESSERT PARLOR,3.6,7.0,"10220 Yonge Street, Richmond Hill","Desserts, Bakery",15.0,Richmond Hill
+Vivo Pizza + Pasta,CASUAL DINING,,,"9301 Bathurst Street, Toronto L4C 9W3","Italian, Pizza",25.0,Richmond Hill
+Elephant Grind Coffee,CAFÉ,,,"10 East Wilmot Street Unit 7, Richmond Hill, ON L4B 1G9","Cafe, Canadian, Fusion",15.0,Richmond Hill
+Pho Hong,CASUAL DINING,2.8,11.0,"Times Square, 550 Highway 7 East, Unit 89-90, Richmond Hill","Vietnamese, Korean, Asian",30.0,Richmond Hill
+Chingu Korean Restaurant,CASUAL DINING,3.6,7.0,"10610 Bayview Avenue, Richmon Hill, ON L4C 3N8",Korean,30.0,Richmond Hill
+Tim Hortons,CAFÉ,3.4,12.0,"9005 Leslie Street, Richmond Hill","American, Donuts, Desserts",20.0,Richmond Hill
+Richmond Hill Italian Pizza House,QUICK BITES,2.2,12.0,"Upper Yonge Place, 10909 Yonge Street, Unit 7, Richmond Hill",Pizza,30.0,Richmond Hill
+Country Style,CAFÉ,3.3,5.0,"9218 Yonge Street, Richmond Hill",Cafe,20.0,Richmond Hill
+Pizza Pizza,QUICK BITES,3.1,10.0,"8750 Bayview Avenue, Richmond Hill","Pizza, Fast Food",25.0,Richmond Hill
+Sunnyside Grill,CASUAL DINING,,,"10620 Yonge Street Unit 11, Richmond Hill L4C 3C5","Canadian, Burger",35.0,Richmond Hill
+Divan Restaurant Lounge & Bar,CASUAL DINING,,,"9218, Yonge Street, Richmond Hill L4C 7A1","Greek, Mediterranean, Middle Eastern, Iranian",25.0,Richmond Hill
+Golden Sunrise Kitchen,CASUAL DINING,3.0,4.0,"10610 Bayview Avenue, Unit 1-3, Richmond Hill","Cantonese, Asian, Chinese",50.0,Richmond Hill
+Mr. Sub,QUICK BITES,3.3,7.0,"Doncrest Market Village Plaza, 420 Highway 7 East, Unit 32, Richmond Hill",Fast Food,25.0,Richmond Hill
+Chen's Wing Grill & Bar,CASUAL DINING,,,"280 West Beaver Creek Road, Richmond Hill","Chinese, Bar Food",30.0,Richmond Hill
+Samarqand Kabob and PIzza,QUICK BITES,3.3,10.0,"672 Major Mackenzie Drive East, Richmond Hill","Pizza, Fast Food",35.0,Richmond Hill
+Taco Bell,QUICK BITES,2.7,10.0,"SmartCentres Richmond Hill, 1070 Major Mackenzie Drive East, Richmond Hill","Fast Food, Mexican",20.0,Richmond Hill
+Little Caesars,QUICK BITES,3.5,9.0,"10610 Bayview Avenue, Richmond Hill","Pizza, Fast Food",25.0,Richmond Hill
+The One Fusion Cuisine,CASUAL DINING,,,"9019 Bayview Avenue, Unit 9, Richmond Hill, ON L4B 1Y3","Chinese, Fusion",40.0,Richmond Hill
+Mamma's Pizza,QUICK BITES,3.5,7.0,"Doncrest Market Village Plaza, 420 Highway 7 East, Unit 12, Richmond Hill","Pizza, Fast Food",25.0,Richmond Hill
+Ming's Garden Restaurant,CASUAL DINING,3.8,4.0,"141 King Rd, Richmond Hill",Chinese,13.0,Richmond Hill
+Pita Pit,QUICK BITES,3.2,12.0,"1070, Major Mackenzie Drive East, Unit F104, Richmond Hill",Healthy Food,25.0,Richmond Hill
+Extreme Pita,QUICK BITES,3.6,10.0,"10755 Leslie Street, Richmond Hill","Fast Food, Mediterranean",25.0,Richmond Hill
+Amy's Fish & Chips,QUICK BITES,3.3,5.0,1285 Elgin Mills Road L4S 0B5,Fish and Chips,20.0,Richmond Hill
+Stroganoff Restaurant,CASUAL DINING,,,"10 Headdon Gate, Richmond Hill, ON L4C 9W9","Eastern European, European",35.0,Richmond Hill
+Blossom Vegetarian,CASUAL DINING,,,"9425 Leslie St, Richmond Hill, ON L4B 3N7","Asian, Vegetarian",35.0,Richmond Hill
+Gramma's Oven,BAKERY,3.5,10.0,"12960 Yonge Street, Richmond Hill","Bakery, Cafe",15.0,Richmond Hill
+Coffee Time,CAFÉ,2.6,10.0,"10 Headdon Gate, Richmond Hill",Cafe,25.0,Richmond Hill
+Pink Hong BBQ House,CASUAL DINING,2.3,9.0,"280 West Beaver Creek Road, Unit 25, Richmond Hill","Cantonese, Chinese, Asian",25.0,Richmond Hill
+Booster Juice,BEVERAGE SHOP,3.1,5.0,"Rutherford Marketplace, 9342 Bathurst Street, Maple, Richmond Hill","Juices, Beverages, Healthy Food",20.0,Richmond Hill
+Richmond Court Bakery,CASUAL DINING,2.3,9.0,"Times Square, 550 Highway 7 East, Building A, Unit 7-8, 28-30, Richmond Hill","Chinese, Asian",25.0,Richmond Hill
+Bayview Cake & Pastry,BAKERY,3.6,10.0,"10066 Bayview Avenue, Unit 4, Richmond Hill","Bakery, Chinese",20.0,Richmond Hill
+Purdy's,DESSERT PARLOR,2.8,10.0,"Hillcrest Mall, 9350 Yonge Street, Richmond Hill","Desserts, Ice Cream",20.0,Richmond Hill
+Fuji Mountain Bakery,BAKERY,2.3,9.0,"350 Highway 7 East, Unit 110, Richmond Hill","Bakery, Chinese",10.0,Richmond Hill
+Surely Up Vegetarian Hotpot,CASUAL DINING,,,"420 Hwy 7 #26, Richmond Hill","Chinese, Vegetarian",40.0,Richmond Hill
+Okotte Ramen,CASUAL DINING,,,"9688 Leslie St, Richmond Hill, ON L4B 4C4","Chinese, Japanese, Ramen",25.0,Richmond Hill
+Jubilee Cafe,CAFÉ,3.7,9.0,"280 West Beaver Creek Road, Unit 30, Richmond Hill",Cafe,20.0,Richmond Hill
+Thai 5 Cafe,CASUAL DINING,3.7,8.0,"670 Highway 7 East, Unit 69, Richmond Hill","Thai, Asian",25.0,Richmond Hill
+The Twisted Oak Public House,CASUAL DINING,3.3,10.0,"13130 Yonge Street, Richmond Hill L4E 2T3",Bar Food,65.0,Richmond Hill
+George's Tastee Patties & Take Out,QUICK BITES,3.3,8.0,"9021 Leslie Street, Richmond Hill","Fast Food, Caribbean",25.0,Richmond Hill
+Baskin Robbins,DESSERT PARLOR,3.3,7.0,"10520 Yonge Street, Richmond Hill","Ice Cream, Desserts",15.0,Richmond Hill
+Teriyaki Experience,QUICK BITES,3.9,10.0,"16 Vogell Road, Richmond Hill",Japanese,20.0,Richmond Hill
+Teavana,BEVERAGE SHOP,2.3,9.0,"Hillcrest Mall, 9350 Yonge Street, Richmond Hill","Tea, Beverages",20.0,Richmond Hill
+Bourbon St. Grill,QUICK BITES,2.0,10.0,"Hillcrest Mall, Food Court, 9350 Yonge Street, Richmond Hill","Cajun, Southern",20.0,Richmond Hill
+Mac's Sushi,QUICK BITES,2.6,10.0,"Hillcrest Mall, 9350 Yonge Street, Richmond Hill","Sushi, Japanese",25.0,Richmond Hill
+Behesht Cafe,CASUAL DINING,,,"10165 Yonge Street, Richmond Hill",Iranian,43.0,Richmond Hill
+Clay Pot King,CASUAL DINING,,,"9021 Leslie St, Richmond Hill, ON L4B 0B2, Canada",Chinese,70.0,Richmond Hill
+Garni Bakery,BAKERY,2.4,8.0,"Observatory Place, 9555 Yonge Street, Richmond Hill","Bakery, Desserts, Patisserie",15.0,Richmond Hill
+Luigi's,Other,2.3,9.0,"Shoppes of the Parkway, 670 Highway 7, Unit 71, Richmond Hill","Pizza, Italian",30.0,Richmond Hill
+Day and Day Coffee,CASUAL DINING,2.3,9.0,"280 West Beaver Creek Road, Unit 20, Richmond Hill","Cantonese, Chinese, Asian",35.0,Richmond Hill
+So Good Restaurant,CASUAL DINING,,,"10 West Pearce Street, Richmond Hill",Chinese,25.0,Richmond Hill
+Pizzaville,QUICK BITES,3.4,7.0,"9737 Yonge Street, Richmond Hill L4C 8S7","Pizza, Fast Food",25.0,Richmond Hill
+Shiraz,CASUAL DINING,3.4,8.0,"13075 Yonge Street, Unit 8, Richmond Hill","Middle Eastern, Grill, Iranian",45.0,Richmond Hill
+Yummy Treasure,BAKERY,3.3,9.0,"Observatory Place, 9555 Yonge Street, Richmond Hill L4C 9M5","Bakery, Desserts",15.0,Richmond Hill
+J's Cafe,QUICK BITES,,,"Observatory Place, 9555 Yonge Street, Richmond Hill","Bubble Tea, Japanese, Asian",15.0,Richmond Hill
+A & W,QUICK BITES,3.5,8.0,"9350 Yonge Street, Richmond Hill","Burger, Fast Food",25.0,Richmond Hill
+KFC,QUICK BITES,2.5,7.0,"SmartCentres Richmond Hill, 1070 Major Mackenzie Drive East, Richmond Hill",Fast Food,25.0,Richmond Hill
+Astoria Shish Kebob House,CASUAL DINING,,,"1620 Elgin Mills Rd E, Richmond Hill, ON L4S 0B2, Richmond Hill, Toronto","Greek, Mediterranean",35.0,Richmond Hill
+Jimmy The Greek,QUICK BITES,3.3,7.0,"Hillcrest Mall, Food Court, 9350 Yonge Street, Richmond Hill",Greek,25.0,Richmond Hill
+Manchu Wok,QUICK BITES,2.1,6.0,"Hillcrest Mall, Food Court, 9350 Yonge Street, Richmond Hill","Fast Food, Chinese, Asian",25.0,Richmond Hill
+El Bocho,CASUAL DINING,,,"10133 Yonge Street, Richmond Hill L4C 1T5",Mexican,30.0,Richmond Hill
+Wild Wing,CASUAL DINING,2.5,6.0,"Unit 7, 13461 Yonge Street, Richmond Hill",Bar Food,50.0,Richmond Hill
+Richmond Hill Bakery & Cafe,BAKERY,2.4,8.0,"9631 Yonge Street, Richmond Hill L4C 0M5","Bakery, Cafe",25.0,Richmond Hill
+Rose Pastry,BAKERY,2.5,7.0,"22 Levandale Road, Richmond Hill","Bakery, Middle Eastern",15.0,Richmond Hill
+Oranous Pastry,BAKERY,3.3,7.0,"9625 Yonge Street, Richmond Hill",Bakery,15.0,Richmond Hill
+Mini Souvlaki,QUICK BITES,2.4,8.0,"10185 Yonge Street, Richmond Hill L4C 1T5","Fast Food, Greek",20.0,Richmond Hill
+Catering by Mario & Paninoteca,QUICK BITES,,,"95 East Beaver Creek Road Unit # 8, Richmond Hill",Italian,45.0,Richmond Hill
+Oak Ridges Asian Deli,QUICK BITES,2.1,7.0,"13071 Yonge Street, Richmond Hill L4E 3S8","Chinese, Deli",25.0,Richmond Hill
+Java Joe's,CAFÉ,3.3,6.0,"9140 Leslie Street, Richmond Hill",Cafe,15.0,Richmond Hill
+Fantasy Eatery,QUICK BITES,,,"10909 Yonge St, Richmond Hill, ON L4C 4M6, Toronto",Chinese,15.0,Richmond Hill
+Mosaic Southeast Asian Cuisine,CASUAL DINING,,,"16 Vogell Rd Unit B, Richmond Hill, ON L4B 3K4","Asian, Chinese, Malaysian, Thai",25.0,Richmond Hill
+Mediterranean & Persian Kabob House,QUICK BITES,,,"141 King Road, Unit 3, Richmond Hill","Mediterranean, Iranian",30.0,Richmond Hill
+Lone Star Texas Grill,CASUAL DINING,,,"157 York Blvd, Richmond Hill, ON L4B 4A7, Richmond Hill, Toronto",Tex-Mex,25.0,Richmond Hill
+HeyNoodles,CASUAL DINING,,,"1 Spadina Rd #12, Richmond Hill, ON L4B 3M2",Chinese,30.0,Richmond Hill
+Sushi Aoi,CASUAL DINING,,,"10620 Yonge Street, Richmond Hill, ON L4C 3C8","Sushi, Japanese",50.0,Richmond Hill
+Tangerine Asian Cuisine,CASUAL DINING,,,"12260 Yonge St. Unit 5, Richmond Hill, Toronto","Cantonese, Hakka Chinese",35.0,Richmond Hill
+Burr House,CAFÉ,,,"530 Carrville Road, Richmond Hill","Tea, Cafe",15.0,Richmond Hill
+Freshly Squeezed,BEVERAGE SHOP,2.5,7.0,"Hillcrest Mall, 9350 Yonge Street, Richmond Hill","Juices, Beverages",15.0,Richmond Hill
+Amazing Thai,CASUAL DINING,,,10255 Yonge Street,Thai,35.0,Richmond Hill
+Mr Zagros,FAST CASUAL,,,"1070 Major Mackenzie Drive East Suite 101, Richmond Hill, ON L4S 1P3",Middle Eastern,25.0,Richmond Hill
+Royal Kebab,QUICK BITES,3.3,5.0,"815 Major Mackenzie Drive East, Unit 11, Richmond Hill","Middle Eastern, Iranian",25.0,Richmond Hill
+Cafe Raha,CAFÉ,2.6,5.0,"Unit 3, 13130 Yonge Street, Richmond Hill","Pizza, Iranian",35.0,Richmond Hill
+Wild Wing,CASUAL DINING,,,"9580 Yonge Street, Richmond Hill L4C 1V6","American, Burger, Diner",25.0,Richmond Hill
+Longevity Catering,CASUAL DINING,,,"10815, Yonge St, Richmond Hill, Toronto",Chinese,25.0,Richmond Hill
+Kome Shokudo,CASUAL DINING,,,"1383 16th Ave #2, Richmond Hill, ON L4B 0E2",Japanese,25.0,Richmond Hill
+CACAO 70 Eatery,DESSERT PARLOR,,,"100 York Blvd, Richmond Hill, ON L4B 1J8","Cafe, Desserts",15.0,Richmond Hill
+Bakery & Pastry,BAKERY,2.6,5.0,"660 Major Mackenzie Drive East, Richmond Hill","Bakery, Middle Eastern",25.0,Richmond Hill
+NoodleMi,CASUAL DINING,,,"280 West Beaver Creek Road, Unit 30, Toronto L4B 3Z1",Chinese,25.0,Richmond Hill
+Menchie's,DESSERT PARLOR,2.6,4.0,"13390 Yonge Street, Richmond Hill",Frozen Yogurt,15.0,Richmond Hill
+Scrumptious,CASUAL DINING,,,"700 Elgin Mills Road E, Richmond Hill L4C 0H8",Canadian,25.0,Richmond Hill
+Mr. Greek,CASUAL DINING,,,"10520 Yonge St. Richmond Hill, ON L4C 3C7, Toronto, Toronto",Greek,20.0,Richmond Hill
+Shinta Japanese BBQ,CASUAL DINING,,,"Unit 37-39, 280, West Beaver Creek Rd, Richmond Hill, ON L4B 3B1","BBQ, Japanese",30.0,Richmond Hill
+Pizza Amore,QUICK BITES,2.8,5.0,"Richmond Heights, 10520 Yonge Street, Richmond Hill L4C 3C7","Fast Food, Pizza, Italian",25.0,Richmond Hill
+La Mere,CASUAL DINING,2.6,5.0,"550 Highway 7 East, Unit 53, Richmond Hill","Chinese, Asian",30.0,Richmond Hill
+Old Bread Mill,BAKERY,,,"42 Oxford Street, Richmond Hill L4C 4L5","Italian, Bakery",20.0,Richmond Hill
+Wendy's,FAST FOOD,,,1070 Major Mackenzie Drive East L4C 9W4,"Fast Food, Burger",20.0,Richmond Hill
+Cake One,BAKERY,2.6,4.0,"Richlane Mall, 9425 Leslie Street, Richmond Hill L4B 3N7","Bakery, Chinese",20.0,Richmond Hill
+Yummy Korea,CASUAL DINING,,,"10231 Yonge Street, Toronto L4C 3b2 3B2","Korean, Japanese, Sandwich",30.0,Richmond Hill
+Shanghai Wok,CASUAL DINING,,,"360 Highway 7 East, Unit 10, Richmond Hill, GTA","Shanghai, Chinese, Asian",30.0,Richmond Hill
+Fat Bastard Burrito,QUICK BITES,,,"115 York Boulevard, Richmond Hill, ON L4B 3B4",Mexican,20.0,Richmond Hill
+Wok-In Kitchen,CASUAL DINING,,,"883, 16th Ave #8, Richmond Hill, ON L4B 3E5",Chinese,45.0,Richmond Hill
+Yogen Früz,DESSERT PARLOR,2.6,4.0,"16-20 Vogell Road, Richmond Hill","Frozen Yogurt, Desserts",15.0,Richmond Hill
+Pizzaiolo,Other,,,"115 York Blvd #4, Richmond Hill, ON L4B 3B4","Pizza, Fast Food",30.0,Richmond Hill
+Kernels Popcorn,QUICK BITES,2.6,4.0,"Hillcrest Mall, 9350 Yonge Street, Richmond Hill",Fast Food,15.0,Richmond Hill
+Baba Jani Kabob House,CASUAL DINING,,,10255 Yonge Street L4C 3B2,"Kebab, Iranian",,Richmond Hill
+Mr. Pho Vietnamese Noodle,CASUAL DINING,,,"360 Hwy 7, Richmond Hill L4B 3Y7",Vietnamese,,Richmond Hill
+Kansas King Chicken N' Ribs,CASUAL DINING,,,"10447 Yonge St, Richmond Hill, ON L4C 3C2",BBQ,20.0,Richmond Hill
+Hakka 77,CASUAL DINING,,,"28-165 East Beaver Creek Road, Richmond Hill, ON L4B 2N2",Chinese,30.0,Richmond Hill
+A&W,FAST CASUAL,,,"9350 Yonge St, Richmond Hill, ON L4C 5G2","Burger, Fast Food",25.0,Richmond Hill
+Tutti Panini,FAST CASUAL,,,"141 King Road, Unit 8, Richmond Hill L4E 3L7",Italian,10.0,Richmond Hill
+My Zaidy's Pizza,CASUAL DINING,,,"Rutherford Marketplace, 9340 Bathurst Street, Unit 4, Richmond Hill",Pizza,25.0,Richmond Hill
+Richmond Hill Deli,QUICK BITES,,,"9631 Yonge Street, Richmond Hill L4C 0M5",Sandwich,43.0,Richmond Hill
+Kevin's Taiyaki,DESSERT PARLOR,,,"9737 Yonge Street, Richmond Hill","Desserts, Korean",5.0,Richmond Hill
+Bayview Wok Chinese Restaurant,CASUAL DINING,,,"9665 Bayview Avenue, Unit 14, Richmond Hill, ON L4C 9V4",Chinese,25.0,Richmond Hill
+GoGo Chicken Pot,FAST CASUAL,,,"10610 Bayview Ave Unit 2-3, Richmond Hill, ON L4C 3N8",Cantonese,20.0,Richmond Hill
+Mandala Cafe & Lounge,Other,,,10670 Yonge Street L4C 3C9,Canadian,,Richmond Hill
+COBS Bread,BAKERY,,,"9342 Bathurst Street, Inside Rutherford Marketplace, Richmond Hill",Bakery,15.0,Richmond Hill
+Gino's Pizza,QUICK BITES,2.3,5.0,"9625 Yonge Street, Richmond Hill","Pizza, Fast Food",30.0,Richmond Hill
+Cygnet Hot Pot,CASUAL DINING,,,"350 Highway 7 E, Unit 105, Richmond Hill L4B 3N2",Asian,30.0,Richmond Hill
+Pizza Hut,QUICK BITES,,,"10 Headdon Gate 8, Richmond Hill, ON L4C 9W9",Pizza,20.0,Richmond Hill
+Al's Pizzeria and Grill,FAST CASUAL,,,"205 Don Head Village Boulevard, Richmond Hill, ON L4C 7R3","Pizza, Grill",25.0,Richmond Hill
+Kohinoor Kabob House,CASUAL DINING,,,"10737 Yonge Street, Unit 2 & 3 L4C 9M9","Kebab, Middle Eastern, Afghan",,Richmond Hill
+Kopol Burger,QUICK BITES,,,"8-883 16th Ave, Richmond Hill, ON L4B 3E5, Canada",Burger,20.0,Richmond Hill
+What A Bagel,BAKERY,,,"10815 Bathurst Street, Richmond Hill","Cafe, Bakery",20.0,Richmond Hill
+"Wertheim Court, Richmond Hill",Other,,,CUISINES:,Indian,80.0,Richmond Hill
+Dong Dong Pastries,BAKERY,,,"280 West Beaver Creek Road, Richmond Hill","Bakery, Chinese, Asian",10.0,Richmond Hill
+Roses New York,CASUAL DINING,,,"13130 Yonge St, Richmond Hill L4E 2T3","Sandwich, Pizza, Iranian",45.0,Richmond Hill
+Food Cabbie Bistro,CASUAL DINING,,,"90 West Beaver Creek Road, ON, Richmond Hill L4B 1E7","American, Fusion, Greek, Mexican",30.0,Richmond Hill
+Instant Confirmation,Other,,,Select Sandwich,"Deli, Sandwich",25.0,Richmond Hill
+Palace Bakery & Cafe,BAKERY,,,"9019 Bayview Avenue, Richmond Hill","Bakery, Bubble Tea, Chinese",15.0,Richmond Hill
+Zaher Restaurant,CASUAL DINING,,,"12930 Yonge Street, Toronto L4E 3K2","Iranian, Afghan",25.0,Richmond Hill
+Epic Pita - Richmond Hill,QUICK BITES,,,"16 Vogell Road, Richmond Hill, ON L4B 3K4",Mediterranean,15.0,Richmond Hill
+ii Sushi Fish Market,FAST CASUAL,,,"550 Hwy 7 #99, Richmond Hill, ON L4B 3Z4",Japanese,15.0,Richmond Hill
+Laffa House Mediterranean Grill,CASUAL DINING,,,"9301 Bathurst St, Richmond Hill, Toronto ON L4C 9S2","Mediterranean, Middle Eastern",25.0,Richmond Hill
+Hero Certified Burgers,FAST CASUAL,,,"8750 Bayview Ave., (Shopping Centre), Richmond Hill, ON L4B 4V9",Burger,15.0,Richmond Hill
+Cup's Meal,CAFÉ,,,1 West Pearce Street L4B 3K3,Cafe,15.0,Richmond Hill
+Mr. Kebob,QUICK BITES,,,"1285 Elgin Mills, Richmond Hill, GTA L4S 0B5",Kebab,,Richmond Hill
+Druxy's Famous Deli,CASUAL DINING,,,"1 Front Street West, Toronto M5J 2X5",Canadian,20.0,Richmond Hill
+Hero Certified Burgers,FAST CASUAL,,,"12276 Yonge St, Richmond Hill L4E 0B8",American,,Richmond Hill
+L'Opéra 榴槤芝香,CASUAL DINING,,,"280 West Beaver Creek Road Unit 10, Richmond Hill, ON L4B 3Z1",Chinese,45.0,Richmond Hill
+Hero Certified Burgers,FAST CASUAL,,,"12260 Yonge St Unit C1, Richmond Hill, ON L4E 0W5",Fast Food,15.0,Richmond Hill
+Hero Certified Burgers,FAST CASUAL,,,"9625 Yonge Street (Yonge & Weldrick, Richmond Hill, ON L4C 5T2",Burger,25.0,Richmond Hill
+Pizzaville,Other,,,"2810 Major MacKenzie Dr W, Maple, ON L6A 3L2",Pizza,20.0,Richmond Hill

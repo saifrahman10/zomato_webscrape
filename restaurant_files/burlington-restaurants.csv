@@ -1,0 +1,300 @@
+Name,EstablishmentType,Rating,NumReviews,Address,Cuisine,CostForTwo,City
+Spencer's at the Waterfront,CASUAL DINING,4.2,150.0,"1340 Lakeshore, Burlington","Canadian, Steak",70.0,Burlington
+August 8,CASUAL DINING,4.2,103.0,"834 Brant Street, Burlington","Chinese, Sushi, Dim Sum, Asian",55.0,Burlington
+Sotiris,CASUAL DINING,4.2,105.0,"3135 Harvester Road, Burlington","Greek, Mediterranean",45.0,Burlington
+Lettuce Love Cafe,CAFÉ,4.3,77.0,399 John Street,"Cafe, Healthy Food",40.0,Burlington
+Kelly's Bake Shoppe,BAKERY,3.7,66.0,"401 Brant Street, Burlington L7R2E9","Bakery, Desserts",15.0,Burlington
+D Hot Shoppe,QUICK BITES,4.6,68.0,"4155 Fairview Street, Burlington",Caribbean,20.0,Burlington
+The Bombay Grill,CASUAL DINING,4.1,76.0,"3480 Fairview Street, Burlington",Indian,40.0,Burlington
+Rayhoon Persian Eatery,CASUAL DINING,3.9,56.0,"420 Pearl Street, Burlington L7R2M8","Middle Eastern, Iranian",43.0,Burlington
+Montfort Grill House,CASUAL DINING,4.0,99.0,"796 Brant Street, Burlington","Mediterranean, Middle Eastern",45.0,Burlington
+Jake's Grill and Oyster House,CASUAL DINING,3.9,75.0,"950 Walkers Line, Burlington","Seafood, Steak",80.0,Burlington
+Ben Thanh,CASUAL DINING,4.0,75.0,"Millcroft Shopping Centre, 2080 Appleby Line, Unit E1, Burlington","Vietnamese, Thai, Asian",40.0,Burlington
+Pepperwood Bistro,CASUAL DINING,3.3,72.0,"1455 Lakeshore Rd., Burlington L7S2J1",Canadian,80.0,Burlington
+Sultan's Wings & Kabob Shop,QUICK BITES,4.5,48.0,"1500 Upper Middle Rd, Burlington","Mediterranean, Afghan",13.0,Burlington
+Emma's Back Porch,CASUAL DINING,3.2,58.0,"2084 Old Lakeshore Road, Burlington L7R 1A3","Grill, Canadian",90.0,Burlington
+Russell Williams,CASUAL DINING,4.0,58.0,"20 Plains Road East, Burlington L7T2B8","Canadian, Diner",43.0,Burlington
+The Raging Olive,CASUAL DINING,3.8,51.0,"3537 Fairview Street, Burlington L7N2R4","Middle Eastern, Mediterranean",80.0,Burlington
+Blacktree,FINE DINING,4.4,43.0,"Roseland Plaza, 3029 New Street, Burlington","Italian, French, European",140.0,Burlington
+Son of a Peach,QUICK BITES,3.4,37.0,"2049 Pine Street, Unit 62, Burlington",Pizza,80.0,Burlington
+Canyon Creek,CASUAL DINING,3.8,57.0,"2429 Fairview Street, Burlington",Steak,90.0,Burlington
+Pomelo Asian Cuisine,CASUAL DINING,3.7,52.0,"2405 Fairview Street Unit 3, Burlington","Thai, Vietnamese, Asian",80.0,Burlington
+The Martini House,CASUAL DINING,4.1,44.0,"437 Elizabeth Street, Burlington",Mediterranean,60.0,Burlington
+Mount Royal Family Restaurant,CASUAL DINING,3.9,45.0,"2029 Mount Forest Drive, Burlington","Greek, Mediterranean",40.0,Burlington
+Paradiso,CASUAL DINING,4.0,47.0,"2041 Pine Street, Burlington",Mediterranean,80.0,Burlington
+Ichiban Sushi House,CASUAL DINING,3.9,36.0,"3315 Fairview Street, Unit 4, Burlington L7N 3N9",Sushi,40.0,Burlington
+Thai Coconut,CASUAL DINING,3.9,42.0,"3455 Fairview Street, Burlington L7N 2R4","Thai, Asian",43.0,Burlington
+The Works,CASUAL DINING,4.0,50.0,"443 Brant Street, Burlington L7R 2G3",Burger,45.0,Burlington
+Sakai,CASUAL DINING,3.9,40.0,"4155 Fairview Street, Unit 23, Burlington","Sushi, Japanese, Korean, Asian",40.0,Burlington
+Easterbrooks,QUICK BITES,3.9,38.0,"694 Spring Gardens Road, Burlington L7T 4H4","Fast Food, Burger",15.0,Burlington
+Thistle Fish & Chips,CASUAL DINING,3.9,39.0,"3455 Fairview Street, Burlington",Fish and Chips,20.0,Burlington
+West Plains Bistro,CASUAL DINING,3.9,34.0,"133 Plains Road, Burlington","European, French",80.0,Burlington
+Bahn Thai,CASUAL DINING,3.8,46.0,"4490 Fairview Street, Burlington","Thai, Asian",35.0,Burlington
+Earls Kitchen and Bar,CASUAL DINING,4.0,47.0,"900 Maple Ave A-25, Burlington L7S2J8","Canadian, Fusion",80.0,Burlington
+Napoli Pizza,QUICK BITES,4.1,43.0,"5291 Lakeshore Road, Burlington","Pizza, Fast Food",20.0,Burlington
+Artisan Pizza,QUICK BITES,3.7,20.0,"2444 New Street, Unit 4, Burlington","Pizza, Fast Food",25.0,Burlington
+Tucker's Marketplace,CASUAL DINING,3.2,35.0,"3110 South Service Road, Burlington L7N 3J3",Italian,60.0,Burlington
+The Queen's Head Pub,Other,2.8,35.0,"400 Brant St., Burlington","Bar Food, Canadian, British",40.0,Burlington
+Zesty Pita & Burgers,QUICK BITES,3.6,31.0,"Eastway Plaza, 4033 New Street Burlington","Burger, Mediterranean",25.0,Burlington
+Lugano 2 For 1 Pizza,QUICK BITES,3.9,39.0,"353 Brant Street, Burlington L7R 2E7","Pizza, Fast Food",20.0,Burlington
+Tamp Coffee Co,CAFÉ,3.8,29.0,"2049 Pine St, Burlington L7R",Cafe,13.0,Burlington
+Hibachi,CASUAL DINING,3.4,32.0,"Upper Appleby Centre, 1940 Appleby Line, Unit 1-3, Burlington","Japanese, Sushi",80.0,Burlington
+Bombay's Chutney,CASUAL DINING,3.9,40.0,"3450 Dundas Street, Unit B1, Burlington",Indian,35.0,Burlington
+Turtle Jack's,CASUAL DINING,3.3,36.0,"900, Maple Ave, Burlington, Toronto L7S 2J8","Grill, Canadian",55.0,Burlington
+Pho Mi T&T,CASUAL DINING,3.8,27.0,"583 Brant Street, Burlington","Vietnamese, Asian",45.0,Burlington
+Black Swan Pub & Grill,Other,3.7,29.0,"4040 Palladium Way, Burlington L7M 0V6",Bar Food,45.0,Burlington
+Jack Astor's,CASUAL DINING,3.7,34.0,"3140 South Service Road, Burlington",Bar Food,55.0,Burlington
+Mucho Burrito,QUICK BITES,2.7,40.0,"Upper Appleby Centre, 1940 Appleby Line, Burlington",Tex-Mex,30.0,Burlington
+Joe Dog's Gasbar Grill,CASUAL DINING,3.6,37.0,"531 Brant Street, Burlington",Bar Food,60.0,Burlington
+Purple Heather Gastro Pub,Other,3.0,30.0,"3600 Dundas Street, Burlington L7M4B8","Bar Food, British",80.0,Burlington
+Artisano Bakery Cafe,CAFÉ,3.7,32.0,"1200 Brant Street, Unit B1, Burlington L7P 1X8","Cafe, Bakery",25.0,Burlington
+ye Olde Squire,CASUAL DINING,3.8,32.0,"3537 Fairview Street, Burlington","Bar Food, British",40.0,Burlington
+Sushi Asano,CASUAL DINING,3.5,29.0,"2020 Appleby Line, B9, Burlington L0P1G0","Sushi, Dim Sum, Japanese, Asian",80.0,Burlington
+Caffe Demetre,DESSERT PARLOR,3.5,33.0,"1250 Brant Street, Unit 104, Burlington L7P 1X8","Desserts, Ice Cream, Cafe",35.0,Burlington
+Mikado,CASUAL DINING,3.9,28.0,"415 Elizabeth Street, Burlington","Sushi, Japanese, Asian",55.0,Burlington
+The Dickens,CASUAL DINING,3.5,30.0,"423 Elizabeth Street, Burlington",British,40.0,Burlington
+The Judge & Jury,CASUAL DINING,3.7,21.0,"1222 Walkers Line, Burlington","Bar Food, Breakfast",55.0,Burlington
+Good Fortune Chinese Restaurant,CASUAL DINING,3.7,19.0,"484 Plains Road East, Burlington L7T2E2",Chinese,13.0,Burlington
+The Keg,CASUAL DINING,3.8,32.0,"3130 South Service Road, Burlington",Steak,100.0,Burlington
+Bento Box,CASUAL DINING,3.9,27.0,"2405 Fairview Street, Burlington","Sushi, Japanese, Korean, Asian",45.0,Burlington
+The Poacher,CASUAL DINING,3.9,24.0,"463 Pearl Street, Burlington","Bar Food, British",50.0,Burlington
+California Sandwiches,QUICK BITES,3.8,22.0,"3443 Fairview Street, Burlington",Sandwich,20.0,Burlington
+Stonehouse,CASUAL DINING,3.9,21.0,"3106 South Service Road, Burlington","Steak, Seafood",80.0,Burlington
+Honey West,CASUAL DINING,3.1,19.0,"399 Elizabeth Street, Burlington","Pizza, American",80.0,Burlington
+Milestones,CASUAL DINING,3.5,25.0,"1200 Brant St Unit 30, Burlington L7P 5C6","Grill, Canadian",65.0,Burlington
+Cora's Breakfast & Lunch,CASUAL DINING,3.0,36.0,"2445 Appleby Line, Burlington","Diner, Canadian",35.0,Burlington
+Goody's,QUICK BITES,3.8,27.0,"2469 Mountainside Drive, Burlington","Greek, Sandwich",40.0,Burlington
+Mandarin Restaurant - Burlington,CASUAL DINING,3.7,29.0,"1881 Fairview Street, Burlington","Chinese, Asian, Canadian",60.0,Burlington
+Pane Fresco,BAKERY,3.9,28.0,"414 Locust Street, Burlington","Bakery, Cafe",20.0,Burlington
+Skyway Diner,CASUAL DINING,3.0,23.0,"1-645 Plains Road E, Burlington L7T 2E8","Canadian, Diner",30.0,Burlington
+Pluckers Wing & Crab Shack,CASUAL DINING,3.5,24.0,"355 Plains Road East, Burlington","Bar Food, Seafood",40.0,Burlington
+QB Sports Bar,BAR,3.9,27.0,"4460 Fairview Street, Burlington",Bar Food,45.0,Burlington
+Sunset Grill,CASUAL DINING,3.8,32.0,"2500 Appleby Line, Burlington","Diner, Breakfast",30.0,Burlington
+Halifax Donair,QUICK BITES,3.8,21.0,"3300 Fairview Street, Burlington",Fast Food,20.0,Burlington
+Burrito Masters,QUICK BITES,3.6,23.0,"480 Brant Street, Unit 2, Burlington",Tex-Mex,25.0,Burlington
+Kwality,CASUAL DINING,3.7,27.0,"1505 Guelph Line, Burlington",Indian,35.0,Burlington
+Gator Ted's,CASUAL DINING,3.5,23.0,"1505 Guelph Line, Burlington","Bar Food, Canadian",50.0,Burlington
+Bombay Chinese Cuisine,CASUAL DINING,3.8,15.0,"3480 Fairview Street, Burlington",Hakka Chinese,40.0,Burlington
+Burlington Charcoal Pit,CASUAL DINING,3.7,24.0,"2031 Lakeshore Road, Burlington L7R 0A4","Canadian, Greek",30.0,Burlington
+Naroma Pizza Bar,CASUAL DINING,3.1,18.0,"901 Brant St, Burlington L7R2J6","Italian, Pizza",13.0,Burlington
+Lord Nelson Fine Dining,FINE DINING,3.7,23.0,"650 Plains Rd E, Burlington","Seafood, Steak",107.0,Burlington
+Fraticelli's Italian Grill & Lounge,CASUAL DINING,3.5,24.0,"1860 Appleby Line Unit 15, Burlington L7L0B8","Italian, Grill",65.0,Burlington
+The Water Street Cooker,CASUAL DINING,3.6,23.0,"2084 Old Lakeshore Road, Burlington",Canadian,40.0,Burlington
+SB Prime,CASUAL DINING,3.7,25.0,"390 Brant Street, Burlington","American, Seafood, Steak",125.0,Burlington
+Celli's Osteria,FINE DINING,3.6,17.0,"421 Brant Street, Burlington L7R2G3",Italian,80.0,Burlington
+Rib Eye Jack'S Ale House,BAR,3.2,12.0,"4045 Harvester Rd, Burlington, Burlington L7L5J1","American, Burger, Bar Food",80.0,Burlington
+Red Lobster,CASUAL DINING,3.8,16.0,"2423 Fairview Street, Burlington L7R 2E4",Seafood,60.0,Burlington
+Lowville Bistro,CASUAL DINING,2.8,22.0,"6179 Guelph Line, Burlington L9T2X6","European, Italian",50.0,Burlington
+Blossom City,CASUAL DINING,3.5,12.0,"403 Brant Street, Burlington L7R 2E9","Chinese, Asian",35.0,Burlington
+Imi Japanese Cuisine,CASUAL DINING,3.6,22.0,"2011 Plains Rd E #1, Burlington L7R 0A6","Sushi, Japanese, Asian",80.0,Burlington
+East Side Mario's Burlington,CASUAL DINING,3.4,22.0,"2000 Appleby Line, Burlington L7L 6M6","Italian, Canadian, Pizza",40.0,Burlington
+Siam Dish,CASUAL DINING,3.8,22.0,730 Guelph Line L7R 3N5,"Thai, Asian",40.0,Burlington
+WingsUp!,QUICK BITES,3.5,8.0,"730 Guelph Line, Burlington L7R 3N5",Fast Food,30.0,Burlington
+Di Mario's Trattoria,CASUAL DINING,3.9,16.0,"1455 Lakeshore Road, Burlington",Italian,80.0,Burlington
+Boston Pizza,CASUAL DINING,3.7,19.0,"3120 South Service Road, Burlington","American, Pizza",40.0,Burlington
+The Carriage House Restaurant,FINE DINING,3.9,13.0,"2101 Old Lakeshore Road, Burlington L7R 1A4",French,90.0,Burlington
+Sunnyside Grill,CASUAL DINING,3.6,23.0,"Appleby Square, 450 Appleby Line, Burlington","Canadian, Burger",35.0,Burlington
+Downtown Bistro & Grill,CASUAL DINING,3.5,7.0,"441 Elizabeth Street, Burlington","Grill, Italian, French, Mediterranean",70.0,Burlington
+Applestone Pizzeria,QUICK BITES,3.6,14.0,"1900 Appleby Line, Burlington L7L6A1",Pizza,40.0,Burlington
+Beaver & Bulldog - Waterfront Hotel,CASUAL DINING,3.0,19.0,"Waterfront Hotel, 2020 Lakeshore Road, Burlington","Canadian, Bar Food",70.0,Burlington
+Tin Cup Sports Grill,CASUAL DINING,3.8,18.0,"1831 Walkers Line, Burlington",Bar Food,60.0,Burlington
+Curdz Poutinerie,QUICK BITES,3.4,8.0,"398 John Street, Burlington","Canadian, Fast Food",,Burlington
+St. Louis Bar and Grill,CASUAL DINING,3.5,14.0,"450, Appleby Line, Burlington, ON L7L 2Y2","Bar Food, Grill",40.0,Burlington
+Easterbrook's Red Hot Grill,QUICK BITES,3.9,19.0,"2344 New Street, Burlington","Burger, Ice Cream, Desserts",20.0,Burlington
+Swiss Chalet,CASUAL DINING,3.4,11.0,"Upper Appleby Centre, 1950 Appleby Line, Burlington L7L 0B7","Canadian, Grill, Beverages",40.0,Burlington
+Fionn MacCool's,CASUAL DINING,2.9,6.0,"2331 Appleby Line, Burlington L7L 0J3","Bar Food, Irish, Canadian",60.0,Burlington
+The Black Bull,CASUAL DINING,3.1,16.0,"1124 Guelph Line, Burlington","British, Bar Food",45.0,Burlington
+Yogurty's,DESSERT PARLOR,3.9,16.0,"Appleby Village, 5010 Pinedale Avenue, Burlington","Frozen Yogurt, Desserts",15.0,Burlington
+Wendel Clark's,CASUAL DINING,2.9,24.0,"380 Brant Street, Burlington","Grill, Burger, Canadian",70.0,Burlington
+Coffee Culture,CAFÉ,3.3,14.0,"390 Brant Street, Burlington",Cafe,20.0,Burlington
+Montana's BBQ & Bar,CASUAL DINING,3.5,17.0,"3040 Davidson Court, Burlington L7M 5A2","Canadian, Grill, BBQ, Steak",50.0,Burlington
+Sammy's Famous Donairs,QUICK BITES,3.3,15.0,"Roseland Plaza, 453 Guelph Line, Burlington",Mediterranean,35.0,Burlington
+Boon Burger Cafe,CASUAL DINING,3.4,5.0,399 Elizabeth Street L7R 0A4,"Pizza, Burger, Vegetarian",20.0,Burlington
+Burritoz,QUICK BITES,3.0,8.0,"1035 Brant Street, Burlington",Mexican,20.0,Burlington
+Afghan Kebob,CASUAL DINING,,,"1400 Plains Road East, Unit 6, Burlington","Kebab, Middle Eastern, Afghan",40.0,Burlington
+Souvlaki Hut,QUICK BITES,2.7,14.0,"495 Brant Street, Burlington","Greek, Fast Food",30.0,Burlington
+Mythos,CASUAL DINING,3.4,7.0,3500 Fairview Street,Greek,,Burlington
+Pita Pit,QUICK BITES,3.4,12.0,"3315 Fairview Street, Burlington",Healthy Food,25.0,Burlington
+JC's Hot Bagels,BAKERY,3.5,14.0,"Roseland Plaza, 3011 New Street, Burlington","Bakery, Cafe",20.0,Burlington
+Amaya Express,QUICK BITES,3.4,8.0,"489 Brant Street, Burlington",Indian,40.0,Burlington
+Kelsey's,CASUAL DINING,3.4,13.0,"Burlington Mall, 777 Guelph Line, Burlington L7R 3N2",Canadian,65.0,Burlington
+Popeyes,QUICK BITES,3.2,14.0,"2011 Plains Road East, Burlington",Fast Food,25.0,Burlington
+Jacksons Landing,CASUAL DINING,,,"5000 New St Unit #1, Burlington L7L1V1","Canadian, Grill",55.0,Burlington
+Williams Fresh Café,CAFÉ,2.9,11.0,"1250 Brant Street, Burlington L7P 1X8",Cafe,25.0,Burlington
+Serendipity Tea House,CAFÉ,2.9,9.0,"472 Elizabeth Street, Burlington","Cafe, Sandwich",35.0,Burlington
+Arby's,CASUAL DINING,3.8,12.0,4135 Fairview Street,Fast Food,20.0,Burlington
+Daytime Grill,CASUAL DINING,3.3,9.0,"1860 Appleby Line, Burlington","Canadian, Diner, Chinese",13.0,Burlington
+Barra Fion Tapas & Barrel,CASUAL DINING,3.7,5.0,"1505 Guelph Line, Burlington",Tapas,60.0,Burlington
+Thai Express,QUICK BITES,3.2,11.0,"671 Appleby Line, Burlington",Thai,25.0,Burlington
+Wimpy's Diner,CASUAL DINING,2.8,10.0,"Roseland Plaza, 475 Guelph Line, Burlington",Diner,30.0,Burlington
+Twice the Deal Pizza,QUICK BITES,3.5,11.0,"3505 Upper Middle Rd, Burlington L7M4C6","Fast Food, Pizza",13.0,Burlington
+Bar Burrito,QUICK BITES,3.5,8.0,"Appleby Village, 5010 Pinedale Avenue, Burlington",Tex-Mex,25.0,Burlington
+Topper's Pizza,QUICK BITES,3.9,10.0,"Millcroft Shopping Centre, 2000 Appleby Line, Burlington L7L6M6 4X6","Pizza, Fast Food",25.0,Burlington
+Hakka Fresh,CASUAL DINING,3.0,6.0,"3500 Fairview Street, Burlington",Hakka Chinese,35.0,Burlington
+Harvest Table Family Restaurant,QUICK BITES,3.6,9.0,"3350 Fairview Street, Burlington",Canadian,20.0,Burlington
+Pita Nutso,QUICK BITES,3.1,13.0,"3450 Dundas Street, Burlington","Mediterranean, Sandwich",25.0,Burlington
+Villa Madina,QUICK BITES,3.8,9.0,"671 Appleby Line, Burlington",Mediterranean,25.0,Burlington
+Marble Slab Creamery,DESSERT PARLOR,2.9,6.0,"Burlington North SmartCentres, 3047 Appleby Line, Burlington","Ice Cream, Desserts",20.0,Burlington
+Saving Thyme Catering Patisserie,DESSERT PARLOR,3.5,8.0,"450 Appleby Line, Burlington L7L 2Y2",Desserts,50.0,Burlington
+Taj,QUICK BITES,3.6,5.0,"Lakeside Shopping Village, 5353 Lakeshore Road, Burlington",Indian,40.0,Burlington
+Hero Certified Burgers,QUICK BITES,3.0,10.0,"2465 Appleby Line, Unit D6, Burlington","Burger, Sandwich",25.0,Burlington
+Windmill Restaurant,CASUAL DINING,3.6,10.0,"2238 Mountainside Drive, Burlington","Diner, Breakfast",30.0,Burlington
+Jasmine Rice,CASUAL DINING,2.6,7.0,"Burlington Mall, 777 Guelph Line, Burlington","Chinese, Thai, Asian",35.0,Burlington
+Pita Republic,QUICK BITES,3.3,8.0,"2201 Brant Street, Burlington","Mediterranean, Middle Eastern, Fast Food",20.0,Burlington
+Shoeless Joe's,BAR,3.1,10.0,"1250 Brant Street, Burlington","American, Bar Food",60.0,Burlington
+Saigon on Brant,CASUAL DINING,2.8,7.0,"474 Brant St, Burlington L7R2G3","Vietnamese, Asian",43.0,Burlington
+Culaccino Bar + Kitchen,BAR,,,"527 Brant Street, Burlington L7R 2G8","Italian, Bar Food",,Burlington
+Sushi Masayuki,CASUAL DINING,,,"2180 Itabashi Way, Burlington, Toronto",Japanese,,Burlington
+CC Swirls,QUICK BITES,2.9,8.0,"2201 Brant Street, Burlington","Desserts, Frozen Yogurt",10.0,Burlington
+Sona Grill,QUICK BITES,3.0,7.0,"575 Plains Road East, Burlington","Mediterranean, Middle Eastern, Fast Food",20.0,Burlington
+The Slye Fox Public House,CASUAL DINING,3.0,5.0,"Eastway Plaza, 4057 New Street, Burlington",Bar Food,50.0,Burlington
+Table 34,CASUAL DINING,2.8,4.0,"1455 Lakeshore Road East, Unit 3, Burlington L7S 2J1","Canadian, Bar Food",60.0,Burlington
+Red Chillie,QUICK BITES,3.4,7.0,"3505 Upper Middle Road, Burlington",Chinese,20.0,Burlington
+Murphy's Ice Cream Parlour Burlington,DESSERT PARLOR,3.9,5.0,"433 Brock Ave, Burlington L7S","Ice Cream, Frozen Yogurt",25.0,Burlington
+China Taste,QUICK BITES,3.4,6.0,"3650 Dundas Street, Burlington",Chinese,25.0,Burlington
+Anchor Bar,CASUAL DINING,3.3,6.0,"2000 Appleby Line, Burlington L7L 6M6","American, Bar Food, Burger",50.0,Burlington
+Pizzaville,QUICK BITES,3.5,6.0,"1940 Appleby Line, Burlington","Pizza, Fast Food",25.0,Burlington
+Mcdonald's,QUICK BITES,2.4,5.0,"2040 Appleby Line, Burlington",Fast Food,25.0,Burlington
+Chorizo Fresh Mex,QUICK BITES,3.1,5.0,"2475 Appleby Line, Burlington L7L0B6","Mexican, Fast Food",13.0,Burlington
+The Sunshine Doughnuts Company,BAKERY,,,439 Brock Avenue L7S 1M8,"Bakery, Donuts, Coffee and Tea",15.0,Burlington
+Bo Chin,CASUAL DINING,3.4,4.0,"Tyandaga Plaza, 1500 Upper Middle Road, Burlington","Chinese, Asian",25.0,Burlington
+Walker's Chocolates,DESSERT PARLOR,3.2,5.0,"3350 Fairview Street, Burlington",Desserts,10.0,Burlington
+A & W,QUICK BITES,2.8,8.0,"Burlington Mall, 777 Guelph Line, Burlington","Burger, Fast Food",25.0,Burlington
+Dairy Queen Grill & Chill,DESSERT PARLOR,3.6,8.0,661 Appleby Line,"Ice Cream, Desserts, Fast Food",20.0,Burlington
+The Rose Garden Restaurant,CASUAL DINING,3.2,5.0,"1124 Plains Road West, Burlington",Bar Food,30.0,Burlington
+French Fry Guy,Other,3.2,5.0,"4305 Fairview Street, Burlington","Burger, Canadian",20.0,Burlington
+Earls,CASUAL DINING,,,"Mapleview Shopping Centre, 900 Maple Avenue, Unit A25, Burlington",Grill,100.0,Burlington
+Taco Bell,QUICK BITES,,,"Burlington Mall, 777 Guelph Line, Burlington","Fast Food, Mexican",20.0,Burlington
+Panago,QUICK BITES,3.3,6.0,"Burlington North SmartCentres, 3047 Appleby Line, Burlington","Pizza, Fast Food",30.0,Burlington
+Supreme Bar & Grill,CASUAL DINING,3.2,6.0,"Appleby Village, 5111 New Street, Burlington","Grill, Breakfast, Mediterranean",65.0,Burlington
+Windjammer By The Lake,BAR,2.8,4.0,"Lakeside Shopping Village, 5353 Lakeshore Road, Burlington",Bar Food,65.0,Burlington
+Pizza Pizza,QUICK BITES,2.7,5.0,"3537 Fairview Street, Burlington","Pizza, Fast Food",25.0,Burlington
+Jerseys Bar & Grill,BAR,2.9,5.0,"1450 Headon Road, Burlington","Bar Food, Grill",50.0,Burlington
+Eclipse Asian Cuisine,CASUAL DINING,2.9,6.0,"Upper Appleby Centre, 1940 Appleby Line, Burlington",Chinese,40.0,Burlington
+Mollycake,BAKERY,,,"361 Brant St, Burlington L7R2E7","Coffee and Tea, Desserts, Bakery",13.0,Burlington
+Timothy's,CAFÉ,,,"Burlington Mall, 777 Guelph Line, Burlington",Cafe,25.0,Burlington
+RC's Boardwalk,CAFÉ,,,"2013 Lakeshore Road, Burlington","Ice Cream, Cafe, Desserts",20.0,Burlington
+Crema Di Gelato,DESSERT PARLOR,2.6,4.0,"1477 Lakeshore Road, Burlington L7S1B5","Desserts, Ice Cream, Coffee and Tea",15.0,Burlington
+Eggsactly,CASUAL DINING,,,"3550 Dundas Street, Burlington","Breakfast, Diner",25.0,Burlington
+Pizza Hut,CASUAL DINING,3.7,4.0,"1505 Guelph Line, Burlington","Pizza, Fast Food",25.0,Burlington
+Sea Shanty Fish & Chips,CASUAL DINING,,,"2455 Mount Forest Drive, Burlington L7P 1J7","Fish and Chips, Seafood",30.0,Burlington
+Clancy's,CASUAL DINING,,,"4490 Fairview Street East, Burlington","Burger, Bar Food, Canadian",13.0,Burlington
+Crisp Here,CASUAL DINING,,,"710 Cumberland Avenue, Burlington L7N 3M9","Korean, Sushi",30.0,Burlington
+Sakura Ichiban Express,QUICK BITES,3.5,4.0,"Burlington Mall, 777 Guelph Line, Burlington","Sushi, Japanese, Asian",45.0,Burlington
+Teriyaki Experience,QUICK BITES,,,"4000 Mainway, Burlington",Japanese,20.0,Burlington
+Jimmy The Greek,QUICK BITES,3.1,5.0,"Burlington Mall, 777 Guelph Line, Burlington",Greek,25.0,Burlington
+KFC,QUICK BITES,3.7,4.0,"3500 Dundas Street, Burlington",Fast Food,25.0,Burlington
+Quiznos,QUICK BITES,3.7,5.0,"2475 Appleby Line, Burlington",Fast Food,25.0,Burlington
+Industria Pizzeria + Bar,BAR,,,"1860 Appleby Line Unit #23, Burlington, ON L7L 0B7","Italian, Pizza",30.0,Burlington
+Hot Wok,CASUAL DINING,,,"Roseland Plaza, 461 Guelph Line, Burlington L7R 3L8","Chinese, Asian",25.0,Burlington
+Caz's Great Fish,CASUAL DINING,,,"1235 Fairview Street, Burlington","Fish and Chips, British",50.0,Burlington
+Baskin Robbins,DESSERT PARLOR,3.0,5.0,"2475 Appleby Line, Burlington","Ice Cream, Desserts",15.0,Burlington
+Laura Secord,DESSERT PARLOR,3.5,4.0,"Burlington Mall, 777 Guelph Line, Burlington",Desserts,15.0,Burlington
+Pita & Dish Shawarma,CASUAL DINING,,,"2405, Fairview St #2, Canada, Burlington, Toronto",Mediterranean,60.0,Burlington
+Domino's,QUICK BITES,3.5,4.0,"2025 Upper Middle Road, Burlington","Fast Food, Pizza",25.0,Burlington
+Tim Hortons,CAFÉ,3.5,4.0,1035 Brant Street,"American, Donuts, Desserts",20.0,Burlington
+Ruby Thai,Other,3.4,4.0,"Mapleview Shopping Centre, Food Court, 900 Maple Avenue, Burlington",Thai,25.0,Burlington
+Rust Bistro Bar,CASUAL DINING,,,"1801 Walkers Line Suite 7, Burlington L7M 0H6",Steak,25.0,Burlington
+Doma Sushi,CASUAL DINING,,,"Unit B16, 3450 Dundas Street, Burlington L7M 4B8","Japanese, Sushi",30.0,Burlington
+Chef Grande Mediterranean Cuisine,CASUAL DINING,,,"676 Appleby Line, Unit# 103E, Burlington L7L 6J9","Greek, Mediterranean, Middle Eastern",25.0,Burlington
+Wendy's,FAST FOOD,,,2387 Fairview Road,"Fast Food, Burger",20.0,Burlington
+Carrigan Arms,BAR,,,"2025 Upper Middle Road, Burlington","Bar Food, Breakfast",40.0,Burlington
+Becky's Coffee Sweet And Delights,QUICK BITES,,,"2152 Mountain Grove Avenue, Burlington","Colombian, Latin American",20.0,Burlington
+JF Chen Chinese Food,QUICK BITES,,,"2475 Appleby Line, Burlington",Chinese,20.0,Burlington
+Starbucks,CAFÉ,,,"503 Brant Street, Burlington",Cafe,20.0,Burlington
+Pizzaiolo,QUICK BITES,,,"3480 Fairview Street, Burlington","Pizza, Fast Food",30.0,Burlington
+Mama Rosie's Pizza,QUICK BITES,,,"665 Plains Road East, Burlington","Pizza, Fast Food",20.0,Burlington
+Kernels Popcorn,QUICK BITES,3.2,4.0,"Mapleview Shopping Centre, 900 Maple Avenue, Burlington",Fast Food,15.0,Burlington
+La Pita Halal Shawarma & Grill,QUICK BITES,,,"2003 Lakeshore Rd, Burlington L7R 1A1","Middle Eastern, Pizza",,Burlington
+Manchu Wok,Other,3.4,4.0,"Mapleview Shopping Centre, Food Court, 900 Maple Avenue, Burlington","Fast Food, Chinese, Asian",25.0,Burlington
+MAX Resto Lounge,CASUAL DINING,,,102-2180 Itabashi Way,"Canadian, Pacific Northwest",80.0,Burlington
+Wundeba,CASUAL DINING,,,"4448 Guelph Line, Burlington",American,30.0,Burlington
+La Creme de la Creme Creamery Inc,DESSERT PARLOR,,,"389 John St, Burlington, ON L7R 2K3",Ice Cream,15.0,Burlington
+Cakes Sweets & Treats,BAKERY,,,"1600 Kerns Rd Unit 3, Burlington L7P3G9",Bakery,13.0,Burlington
+Gino's Pizza,QUICK BITES,,,"Appleby Village, 511 Appleby Line, Burlington","Pizza, Fast Food",30.0,Burlington
+Nestlé Toll House Café,CAFÉ,,,"Burlington Mall, 777 Guelph Line, Burlington",Cafe,25.0,Burlington
+Napoleon's,CASUAL DINING,,,"3455 Fairview Street, Burlington",Steak,,Burlington
+Prince of India,CASUAL DINING,,,"1235 Fairview St, Burlington, ON L7S 2H9",Indian,25.0,Burlington
+Booster Juice,BEVERAGE SHOP,,,"3600 Dundas Street, Burlington","Juices, Beverages, Healthy Food",20.0,Burlington
+Mr. Sub,QUICK BITES,,,"3455 Fairview Street, Burlington",Fast Food,25.0,Burlington
+Burlington Pizza,QUICK BITES,,,"4490 Fairview Street, Unit D, Burlington",Pizza,30.0,Burlington
+Chopsticks Asian Food,QUICK BITES,,,"2146 Mountain Grove Avenue, Burlington","Chinese, Asian",20.0,Burlington
+Bocco Caffe,QUICK BITES,,,"3245 Harvester Road, Unit 17, Burlington","Italian, Latin American",25.0,Burlington
+COBS Bread,BAKERY,,,"3450 Dundas Street, Burlington",Bakery,15.0,Burlington
+Little Caesars,QUICK BITES,,,"Tyandaga Plaza, 1500 Upper Middle Road, Unit 8, Burlington","Pizza, Fast Food",25.0,Burlington
+The Dutch Shop & European Bakery,BAKERY,,,"Roseland Plaza, 3019 New Street, Burlington",Bakery,10.0,Burlington
+MoMo Sushi,CASUAL DINING,,,"366 Plains Road E, Burlington L7T 0A4","Japanese, Korean",25.0,Burlington
+Piccadilly Cafe,CAFÉ,,,"491 Brant Street, Burlington","Breakfast, Cafe",25.0,Burlington
+The Wingery,QUICK BITES,,,"1450 Headon Road, Burlington",American,35.0,Burlington
+Corned Beef Hut,QUICK BITES,,,"476 Brant Street, Burlington",Deli,20.0,Burlington
+Freshly Squeezed,BEVERAGE SHOP,,,"Burlington Mall, 777 Guelph Line, Burlington","Juices, Beverages",15.0,Burlington
+New York Fries,QUICK BITES,,,"777 Guelph Line Unit G7, Burlington, ON L7R 3N2",Fast Food,15.0,Burlington
+Subway,QUICK BITES,,,"3315 Fairview Street, Unit 3, Burlington",Fast Food,20.0,Burlington
+Menchie's,DESSERT PARLOR,,,"1900 Appleby Line, Burlington",Frozen Yogurt,15.0,Burlington
+IKEA,CAFÉ,,,"1065 Plains Road E, Burlington Toronto",Cafe,20.0,Burlington
+Sakis Mediterrannean and Greek Restaurant,CASUAL DINING,,,"645 Plains Road E, Burlington, ON , Toronto",Mediterranean,,Burlington
+Harvey's,QUICK BITES,,,"1950 Appleby Line, Burlington L7L 0B7","Fast Food, Canadian, Burger",25.0,Burlington
+Halibut House,CASUAL DINING,,,"Appleby Village, 511 New Street, Burlington",Fish and Chips,35.0,Burlington
+Boston Fish & Chips,CASUAL DINING,,,"2501 Guelph Line, Unit 6","Fish and Chips, Seafood",30.0,Burlington
+Rendezvous Submarine Shops,QUICK BITES,,,"2057 Mount Forest Drive, Burlington",Fast Food,15.0,Burlington
+Marco's Bakery,BAKERY,,,"3500 Fairview Street, Unit 4, Burlington L7N 2R5",Bakery,15.0,Burlington
+Castelyn Belgian Chocolates,DESSERT PARLOR,,,"368 Brant Street, Burlington",Desserts,15.0,Burlington
+Second Cup Coffee Co.,CAFÉ,,,901 Brant Street,"Cafe, Coffee and Tea, Frozen Yogurt",10.0,Burlington
+The Brick Oven Bakery,BAKERY,,,"2501 Guelph Line, Burlington","Bakery, Desserts, Italian",15.0,Burlington
+China Wok,QUICK BITES,,,"Eastway Plaza, 4033 New Street, Burlington","Chinese, Asian",25.0,Burlington
+Nature's Emporium,QUICK BITES,,,"2180 Itabashi Way, Burlington L7M 5A5","Healthy Food, Salad, Juices",20.0,Burlington
+Alloro at The Holiday Inn,CASUAL DINING,,,"The Holiday Inn, 3063 South Service Road",Canadian,50.0,Burlington
+Vivene’s Island Cuisine,CASUAL DINING,,,"2025 Uppermiddle Road, Burlington, Toronto","Caribbean, Fusion, Jamaican",50.0,Burlington
+Eastway Bake Shoppe,DESSERT PARLOR,,,"Eastway Plaza, 4033 New Street, Burlington",Desserts,20.0,Burlington
+La Cupcake Boutique,DESSERT PARLOR,,,"2500 Appleby Line, Burlington, GTA",Desserts,,Burlington
+Uptown Tavern,CASUAL DINING,,,"1900 Walkers Line, Burlington",American,25.0,Burlington
+Panda Chopsticks,CASUAL DINING,,,"650 Plains Road East, Burlington","Chinese, Asian",30.0,Burlington
+Beertown Public House,CASUAL DINING,,,"2050 Appleby Line Unit K, Burlington, ON L7L 6M6",Canadian,40.0,Burlington
+Pizza Nova,QUICK BITES,,,"1450 Headon Road, Burlington","Pizza, Fast Food",30.0,Burlington
+Mount Royal Pizza,QUICK BITES,,,"2053 Mount Forest Drive, Burlington","Pizza, Fast Food",25.0,Burlington
+Cultures,QUICK BITES,,,"Burlington Mall, 777 Guelph Line, Burlington","Healthy Food, Sandwich",25.0,Burlington
+The Garden Grille & Bar - Hilton Garden Inn,CASUAL DINING,,,"Hilton Garden Inn, 985 Syscon Road, Burlington","American, Grill, Steak",50.0,Burlington
+Jugo Juice,BEVERAGE SHOP,,,"Mapleview Shopping Centre, 900 Maple Avenue, Burlington","Juices, Beverages",20.0,Burlington
+Burro,CASUAL DINING,,,"4-480 Brant Street South, Burlington L7R 2G4",Mexican,25.0,Burlington
+Wing Machine,QUICK BITES,,,"3650 Dundas Street, Burlington",Fast Food,30.0,Burlington
+Clarke's Homestyle Bakery,BAKERY,,,"2049 Mount Forest Drive, Burlington","Bakery, Desserts",10.0,Burlington
+Free Topping Pizza,QUICK BITES,,,"2453 Mount Forest Drive, Burlington","Pizza, Fast Food",25.0,Burlington
+Tha Spice Is Right,CASUAL DINING,,,"5353 Lakeshore Road, Burlington L7L 1C8",Jamaican,40.0,Burlington
+Dynasties,CASUAL DINING,,,"399 John Street, Burlington",Portuguese,25.0,Burlington
+Lakeshore Coffee House,CAFÉ,,,"2007 Lakeshore Road, Burlington",Cafe,20.0,Burlington
+Burger King,FAST FOOD,,,3295 Fairview Street,"Fast Food, Burger",20.0,Burlington
+Nothing Bundt Cakes,BAKERY,,,3350 Fairview Street Unit 15,Bakery,15.0,Burlington
+Papa John's Pizza,FAST CASUAL,,,756 Guelph Line,"Fast Food, Italian",25.0,Burlington
+Mamma's Pizza,QUICK BITES,,,"2500 Appleby Line, Burlington","Pizza, Fast Food",25.0,Burlington
+Osmow's Grill,CASUAL DINING,,,"2435 Appleby Line, Burlington L7L 0B6","Egyptian, Mediterranean",,Burlington
+Royal Cumin Indian Takeaway,CASUAL DINING,,,"650 Plains Rd E #6, Burlington, ON L7T 2E9",Indian,25.0,Burlington
+mmmSugar,CAFÉ,,,"676 Appleby Line, Unit 103, Burlington","Cafe, Desserts",25.0,Burlington
+Cupid's Gourmet Cupcakes,DESSERT PARLOR,,,"3450 Dundas Street, Burlington",Desserts,10.0,Burlington
+The Deli House,BAKERY,,,"2201 Brant Street, Burlington",Bakery,15.0,Burlington
+Jusjerk Caribbean Restaurant,FAST CASUAL,,,"3300 Fairview St. Burlington, Burlington, Toronto, Toronto",Caribbean,15.0,Burlington
+Purdy's,DESSERT PARLOR,,,"Mapleview Shopping Centre, 900 Maple Avenue, Unit 112, Burlington","Desserts, Ice Cream",20.0,Burlington
+Rocky Mountain Chocolate Factory,DESSERT PARLOR,,,"Burlington Mall, 777 Guelph Line, Burlington",Desserts,15.0,Burlington
+Koya Japan,QUICK BITES,,,"Burlington Mall, 777 Guelph Line, Burlington","Fast Food, Japanese, Asian",25.0,Burlington
+Club 54,BAR,,,"3354 Harvester Road, Burlington",Bar Food,,Burlington
+Teavana,BEVERAGE SHOP,,,"Burlington Mall, 777 Guelph Line, Burlington","Tea, Beverages",20.0,Burlington
+Godiva Chocolatier,DESSERT PARLOR,,,"Mapleview Shopping Centre, 900 Maple Avenue, Burlington",Desserts,25.0,Burlington
+Select Sandwich,QUICK BITES,,,"5515 North Service Road, Burlington","Deli, Sandwich",25.0,Burlington
+Dipndip,DESSERT PARLOR,,,"1860, Appleby Line, Unit 22, Burlington, Toronto","Desserts, Cafe",,Burlington
+Extreme Pita,Other,,,"Mapleview Shopping Centre, Food Court, 900 Maple Avenue, Burlington","Fast Food, Mediterranean",25.0,Burlington
+Club Sub,QUICK BITES,,,"2080 Appleby Line, Burlington",Sandwich,20.0,Burlington
+Salvatore's,CASUAL DINING,,,"1477 Lakeshore Road, Burlington L7S 1B5",Italian,25.0,Burlington
+Pintoh,CASUAL DINING,,,"399 Elizabeth Street Unit 1-3, Burlington L7R 0A4",Thai,,Burlington
+Tannoreen,CASUAL DINING,,,"1250 Brant St. Unit 3C, Burlington, Ontario, Canada, Toronto, ON, Toronto","Greek, Mediterranean",20.0,Burlington
+East Side Mario's,FAST CASUAL,,,"777 Guelph Line Unit M18, Burlington, Toronto L7R 3N2","Pizza, Italian",30.0,Burlington
+Sunrise Diner & Grill,CASUAL DINING,,,"4460 Fairview Street, Unit B104 L7L 5P9",Diner,,Burlington
+Ricky's All Day Grill,CASUAL DINING,,,1-2535 Appleby Line L7L 0B6,"Grill, Bar Food",25.0,Burlington
+Ikki Sushi,CASUAL DINING,,,"1505 Guelph Line, Burlington, ON L7P 3B6, Canada","Sushi, Japanese",25.0,Burlington
+Coop Burlington,CASUAL DINING,,,"370 Brant St, Burlington, ON L7R 2E8, Canada","American, Burger",20.0,Burlington
+Tim Hortons,CAFÉ,,,1240 Burloak Drive,"Asian, Donuts, Desserts",20.0,Burlington
+Babaz,QUICK BITES,,,"4000 Mainway, Burlington","Middle Eastern, Mediterranean",20.0,Burlington
+Burritopizza Club,QUICK BITES,,,"650 Plains Road East, Burlington","Fast Food, Italian, Mexican",30.0,Burlington
+Shawarma Pita & Grill,QUICK BITES,,,"676 Appleby Line Unit E103, Burlington, ON",Middle Eastern,20.0,Burlington
+Quesada Burritos & Tacos,QUICK BITES,,,"2000, Appleby Line, Burlington, Toronto, ON L7L 6M6",Tex-Mex,15.0,Burlington
+Pizzaiolo Brant Street,QUICK BITES,,,"1477 Lakeshore Road, Burlington, ON L7S 1B5",Pizza,20.0,Burlington
+Wundeba Restaurant,FAST CASUAL,,,"4448 Guelph Line, Burlington, ON L7P 0N2",Fast Food,35.0,Burlington
+Harvey's,QUICK BITES,,,"2422 Fairview St, Burlington, Toronto","Fast Food, Canadian",10.0,Burlington

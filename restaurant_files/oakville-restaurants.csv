@@ -1,0 +1,302 @@
+Name,EstablishmentType,Rating,NumReviews,Address,Cuisine,CostForTwo,City
+Stoney's Bread Company,CASUAL DINING,4.6,394.0,"325 Kerr Street, Oakville",Italian,45.0,Oakville
+Spoon & Fork,CASUAL DINING,3.9,160.0,"2345 Trafalgar Road, Oakville","Japanese, Thai, Asian",65.0,Oakville
+Kerr Street Cafe,CAFÉ,4.4,80.0,"298 Kerr Street, Oakville","Cafe, Breakfast",20.0,Oakville
+Trattoria Timone,CASUAL DINING,4.3,106.0,"Oakville Entertainment Centre, 2091 Winston Park Drive, Oakville",Italian,55.0,Oakville
+The WORKS,CASUAL DINING,3.7,106.0,"149 Lakeshore Road East, Oakville L6J 5C3",Burger,45.0,Oakville
+Mandarin Restaurant -Erin Mills,CASUAL DINING,3.2,147.0,3105 Dundas Street West L5L 3R8,"Chinese, Asian, Canadian",60.0,Oakville
+7 Enoteca,CASUAL DINING,4.3,75.0,"216 Lakeshore Boulevard East, Oakville L6J 7N9","Pizza, Italian",120.0,Oakville
+Wasabi Teriyaki,CASUAL DINING,4.1,71.0,"117 Cross Avenue, Oakville L6J 2W6","Japanese, Sushi, Asian",13.0,Oakville
+Monastery Bakery & Delicatessen,QUICK BITES,4.7,108.0,"1133 Monastery Drive, Oakville L6M 2A3","Bakery, Deli",15.0,Oakville
+K&B Sushi,CASUAL DINING,4.0,77.0,"Oakville Entertainment Centre, 2045 Winston Park Drive, Oakville L6H 6P5","Sushi, Japanese, Asian",40.0,Oakville
+Pasquale's Trattoria,CASUAL DINING,4.6,72.0,"50 Lakeshore Road West, Oakville",Italian,85.0,Oakville
+Celadon House,CASUAL DINING,4.4,71.0,"630 Ford Dr, Oakville L6J7V7","Chinese, Asian, Malaysian, Singaporean, Indonesian",43.0,Oakville
+Paradiso,CASUAL DINING,4.1,92.0,"125 Lakeshore Road East, Oakville L6J 1H4","Italian, Canadian",75.0,Oakville
+Kori's Roti,QUICK BITES,4.4,80.0,"1026 Speers Rd, Oakville L6L 2X4",Caribbean,13.0,Oakville
+Agabi Grill,CASUAL DINING,4.4,77.0,"234 Kerr Street, Oakville L6K 3A8","Egyptian, Lebanese, Greek, Mediterranean",65.0,Oakville
+Il Fornello,CASUAL DINING,3.9,78.0,"Abbey Centre, 203 North Service Road West, Oakville",Italian,65.0,Oakville
+The Olive Press Italian Restaurant,CASUAL DINING,3.0,84.0,"2322 Dundas Street West, Oakville L6M 4J3",Italian,65.0,Oakville
+Soonturn Bahn Thai,CASUAL DINING,4.0,69.0,"210 Lakeshore Road East, Oakville L6J 1H8","Thai, Asian",75.0,Oakville
+Suko Thai,CASUAL DINING,4.0,60.0,"Oakville Entertainment Centre, 2055 Winston Park Drive, Oakville","Thai, Asian",50.0,Oakville
+Dragon House,CASUAL DINING,3.8,64.0,"2530 6th Line, Oakville L6H 6W5","Chinese, Asian",13.0,Oakville
+Cuba's Latin Restaurant,CASUAL DINING,4.0,59.0,"2444 Lakeshore Road W, Oakville L6L 1H7",Cuban,30.0,Oakville
+The Crepe Kitchen,CAFÉ,3.9,63.0,"88 Dunn Street, Oakville",Cafe,35.0,Oakville
+Four Brothers Pizza,QUICK BITES,3.3,74.0,"2828 Kingsway Dr, Oakville L6J6X7","Pizza, Fast Food",30.0,Oakville
+Ristorante Julia,CASUAL DINING,4.2,71.0,"312 Lakeshore Road East, Oakville L6J 1J2","Latin American, Italian, Fusion",85.0,Oakville
+August 8,CASUAL DINING,4.1,54.0,"280 N Service Rd W, Oakville L6M2S2","Chinese, Sushi, Dim Sum, Asian",55.0,Oakville
+Mye Japanese,CASUAL DINING,4.0,56.0,"143 Church Street, Oakville L6J 1N1","Japanese, Seafood, Sushi, Asian",80.0,Oakville
+Coriander Green,CASUAL DINING,4.0,49.0,"342 Church Street East, Oakville",Indian,60.0,Oakville
+Colossus,CASUAL DINING,4.1,60.0,"221 Lakeshore Road East, Oakville L6J 1H7",Greek,50.0,Oakville
+Cucci Ristorante,FINE DINING,4.1,61.0,"119 Jones Street, Bronte L6L 3E7",Italian,100.0,Oakville
+Pho Mi 89,CASUAL DINING,3.7,61.0,"2501 Prince Michael Dr, Oakville L6H0H1","Vietnamese, Asian",13.0,Oakville
+Yame Sushi,CASUAL DINING,4.0,51.0,"339 Kerr Street, Oakville","Sushi, Japanese, Asian",45.0,Oakville
+Ritorno,CASUAL DINING,3.8,54.0,"261 Oak Walk Drive, Unit #8 L6H6M3",Italian,80.0,Oakville
+Plank Restobar,CASUAL DINING,3.8,49.0,67 Bronte Road L6L 3B7,Tapas,40.0,Oakville
+Caffe Demetre,DESSERT PARLOR,3.2,60.0,"2085 Winston Park Drive , Oakville L6H6P5","Desserts, Ice Cream, Cafe",35.0,Oakville
+Adonis Mediterranean Restaurant,CASUAL DINING,4.2,44.0,"497 Pinegrove Rd, Oakville L6K 2C2","Greek, Mediterranean",80.0,Oakville
+The Firehall,CASUAL DINING,3.7,54.0,"2390 Lakeshore Road West, Oakville, ON L6L 1H5, Canada",Bar Food,65.0,Oakville
+Monfort,CASUAL DINING,3.9,70.0,"376 Iroquois Shore Road, Oakville",Mediterranean,55.0,Oakville
+The 3 Brewers,CASUAL DINING,2.8,44.0,"Oakville Entertainment Centre, 2041 Winston Park Drive, Oakville","American, Bar Food",65.0,Oakville
+Mo's Restaurant,CASUAL DINING,4.1,43.0,"467 Speers Road, Oakville","Italian, Diner, Breakfast",60.0,Oakville
+Harpers Landing,CASUAL DINING,3.6,41.0,"481 Cornwall Road, Oakville L6J 7S8","Canadian, Grill",75.0,Oakville
+A1 Sweets,QUICK BITES,3.9,50.0,"2345 Trafalgar Road, Oakville L6H 7K7","Indian, Desserts",20.0,Oakville
+Kudo Sushi,CASUAL DINING,3.9,36.0,"738 Burloak Drive, Unit 1, Oakville","Japanese, Sushi, Asian",40.0,Oakville
+Bamboo Legend,CASUAL DINING,4.0,44.0,"Fox Creek Plaza, 2501 Third Line, Oakville","Thai, Vietnamese, Asian",40.0,Oakville
+Buca Di Bacco,CASUAL DINING,3.9,35.0,"130 Thomas Street, Oakville L6J 3B1",Italian,80.0,Oakville
+Fiftie's Diner,CASUAL DINING,3.4,47.0,"649 Fourth Line, Unit 1&2, Oakville",American,60.0,Oakville
+Sushi Hour,CASUAL DINING,3.4,44.0,"2525 Prince Michael Dr, Oakville L6H 0E9","Sushi, Japanese, Asian",80.0,Oakville
+Corks,CASUAL DINING,4.1,43.0,"305 Lakeshore Road East, Oakville","Tapas, Spanish",65.0,Oakville
+Ye's Sushi,CASUAL DINING,3.0,14.0,"2501 - 2525 Hampshire Gate, Unit 8A, Oakville L6H 6C8","Sushi, Japanese, Asian",45.0,Oakville
+Funky Thai,CASUAL DINING,3.8,47.0,"2383 Dundas Street West, Oakville","Thai, Vietnamese, Asian",45.0,Oakville
+Mika Sushi,CASUAL DINING,3.2,43.0,"575 River Glen Blvd, Ontario L6H 6X6","Japanese, Sushi, Asian",13.0,Oakville
+Bombay Bhel,CASUAL DINING,3.9,40.0,"Hampshire Gate Plaza, 2525 Hampshire Gate, Oakville L6H 6C8",Indian,45.0,Oakville
+Peppino's Oven,CASUAL DINING,2.8,41.0,"2015 Kingsridge Dr, Oakville","Italian, Pizza, Sandwich",45.0,Oakville
+Sunset Grill,CASUAL DINING,4.0,42.0,"361 Cornwall Road, Oakville","Diner, Breakfast",30.0,Oakville
+Thai Smile,CASUAL DINING,3.9,37.0,"2520 Postmaster Drive, Oakville L6M 5A8","Thai, Asian",50.0,Oakville
+Sachi Sushi,CASUAL DINING,3.9,36.0,"1122 Dorval Drive, Oakville","Sushi, Japanese, Korean, Asian",35.0,Oakville
+Red Chillie,CASUAL DINING,4.1,42.0,"1131 Nottinghill Gate, Oakville","Chinese, Asian",50.0,Oakville
+O'Finn's Irish Temper,CASUAL DINING,3.9,39.0,"136 Church Street, Oakville","Bar Food, Irish",80.0,Oakville
+Chef's Door,QUICK BITES,3.8,36.0,"Fox Creek Plaza, 2501 Third Line, Oakville","Mediterranean, Fast Food",35.0,Oakville
+Lone Star Texas Grill,CASUAL DINING,3.6,41.0,"2520 Hyde Park Gate, Oakville","Tex-Mex, Bar Food",80.0,Oakville
+Turtle Jack's,CASUAL DINING,3.8,39.0,"360 Dundas Street East, Oakville L6H 6Z9","Grill, Canadian",55.0,Oakville
+Milestones,CASUAL DINING,3.7,37.0,"3529 Wyecroft Road, Oakville, ON L6L 0B7","Grill, Canadian",65.0,Oakville
+Burrito Masters,QUICK BITES,3.6,32.0,"2335 Trafalgar Road, Unit D4, Oakville L6H 6N9",Tex-Mex,25.0,Oakville
+Thai Siam,CASUAL DINING,3.9,29.0,"Upper Oakville Shopping Centre, 1011 Upper Middle Road East, Oakville","Thai, Asian",40.0,Oakville
+Chop Steakhouse & Bar,CASUAL DINING,3.9,34.0,"3451 South Service Road West, Oakville L6L 0C3","Steak, Seafood",80.0,Oakville
+Thai Senses Restaurant,CASUAL DINING,3.8,30.0,"2450 Lakeshore Road West, Oakville","Thai, Asian",40.0,Oakville
+Niblick,BAR,3.9,41.0,"Upper Oakville Shopping Centre, 1011 Upper Middle Road East, Oakville",Bar Food,60.0,Oakville
+Salad Thai,CASUAL DINING,3.9,35.0,"398 Kerr Street, Oakville L6K 3C1","Thai, Asian",35.0,Oakville
+La Parisienne Creperie,CASUAL DINING,3.5,22.0,none,"French, Desserts",80.0,Oakville
+English Bay Fish & Chips,CASUAL DINING,3.9,30.0,"Maple Grove Village, 511 Maple Grove Drive, Oakville, GTA","Fish and Chips, Seafood",40.0,Oakville
+Seasons,CASUAL DINING,3.9,36.0,"134 Lakeshore Road East, Oakville L6J 1H4",Italian,80.0,Oakville
+Machu Picchu Restaurant,CASUAL DINING,3.4,24.0,"1272 Speers Road, Oakville",Peruvian,50.0,Oakville
+East Side Mario's,CASUAL DINING,3.4,26.0,"2035 Winston Park Drive, Oakville L6H 6P5","Italian, Canadian, Pizza",40.0,Oakville
+The Habanero Taqueria,QUICK BITES,3.9,29.0,"1289 Marlborough Court, Unit 8, Oakville","Mexican, Fast Food",25.0,Oakville
+Croissant Express,BAKERY,3.8,24.0,"325 Lakeshore Road East, Oakville","Bakery, Cafe",25.0,Oakville
+Fantastico Pizza,QUICK BITES,3.9,31.0,"288 Kerr Street, Oakville","Pizza, Fast Food",25.0,Oakville
+Bâton Rouge Steakhouse & Bar,CASUAL DINING,3.5,31.0,"2005 Winston Park Drive, Oakville L6H 6P5","Steak, American",100.0,Oakville
+Maluca Wine Bar,CASUAL DINING,3.5,26.0,"142 Lakeshore Road East, Oakville",French,70.0,Oakville
+Tavolo Pizza Pasta Wine,CASUAL DINING,2.9,30.0,1515 Rebecca Street L6L 1Z7,Italian,50.0,Oakville
+The Stout Monk,CASUAL DINING,3.9,28.0,"478 Dundas Street West, Unit 1, Oakville","Bar Food, American, Italian",50.0,Oakville
+John B.B.Q. Chicken,QUICK BITES,3.9,25.0,"2828 Kingsway Drive, Oakville L6J6Z2","BBQ, Portuguese",43.0,Oakville
+Brown's Socialhouse,CASUAL DINING,3.3,24.0,"Hampshire Gate Plaza, 2525 Hampshire Gates, Oakville L6H 6C8",American,40.0,Oakville
+Patisserie D'Or,BAKERY,3.7,17.0,"1131 Nottinghill Gate, Unit 4 L6J 1G8","Bakery, Desserts, Cafe",13.0,Oakville
+Olivers Of Oakville,FINE DINING,3.8,34.0,"141 Lakeshore Road East, Oakville L6J 1H3",Canadian,130.0,Oakville
+The Wingery,QUICK BITES,3.9,27.0,"1500 Sixth Line, Oakville",American,35.0,Oakville
+Queen's Head,CASUAL DINING,3.8,31.0,"118 Dunn Street, Oakville L6J 3E1",Bar Food,43.0,Oakville
+Maro's,QUICK BITES,3.5,22.0,"135 Kerr Street, Oakville","Mexican, Mediterranean",40.0,Oakville
+Sushi NIWA,CASUAL DINING,3.8,25.0,"Upper Oakville Shopping Centre, 1011 Upper Middle Road East, Unit C23, Oakville","Japanese, Sushi, Asian",35.0,Oakville
+Piazza Bistro,CASUAL DINING,3.9,24.0,"94 George Street, Oakville L6J 1H6",Italian,50.0,Oakville
+B's Banh Mi,QUICK BITES,3.7,18.0,"2195 Wyecroft Road, Oakville","Vietnamese, Sandwich, Asian",20.0,Oakville
+Nino Panino,CASUAL DINING,3.7,15.0,"438 Kerr Street, Oakville L6K 3C4",Italian,40.0,Oakville
+Tin Cup Sports Grill,CASUAL DINING,3.9,32.0,"1540 North Service Road West, Oakville",Bar Food,60.0,Oakville
+Royal Shawarma,QUICK BITES,3.6,27.0,"1540 North Service Road West, Oakville","Middle Eastern, Fast Food",30.0,Oakville
+Jonathan's Restaurant and Bistro,FINE DINING,2.8,26.0,"120 Thomas Street, Oakville","Canadian, Seafood",125.0,Oakville
+Wild Wing,CASUAL DINING,3.1,29.0,"Oakville Entertainment Centre, 2051 Winston Park Drive, Oakville L6H 6P5",Bar Food,50.0,Oakville
+St. Louis Bar and Grill,CASUAL DINING,3.2,27.0,"2508 Hampshire Gate, Oakville L6H 6A2","Bar Food, Grill",40.0,Oakville
+Yolanda's Casa,CASUAL DINING,3.6,19.0,"49 Bronte Road, Oakville L6L 6L5",Italian,70.0,Oakville
+Zoup!,QUICK BITES,3.7,12.0,"2525 Hampshire Gate, Oakville L6H 6A2",Sandwich,25.0,Oakville
+The King's Arms,BAR,3.8,29.0,"323 Church Street, Oakville L6J 1P1",Bar Food,43.0,Oakville
+Miso Sushi & Tapas,CASUAL DINING,3.4,27.0,"221 Lakeshore Road East, Oakville","Tapas, Japanese, Asian",40.0,Oakville
+Pita Nutso,QUICK BITES,3.8,30.0,"2365 Trafalgar Road, Oakville","Mediterranean, Sandwich",25.0,Oakville
+Palermo Public House,CASUAL DINING,3.9,24.0,"2512 Old Bronte Road, Oakville L6M 4J3","Canadian, Bar Food",50.0,Oakville
+Aroma Espresso Bar,CAFÉ,3.7,12.0,"321 Lakeshore Road E, Oakville",Cafe,25.0,Oakville
+The Gingerman,CASUAL DINING,2.9,23.0,"335 Kerr Street, Oakville",American,60.0,Oakville
+Symposium Cafe Restaurant & Lounge,CAFÉ,3.0,19.0,1500 Upper Middle Road L6M3G3 2V8,"Diner, Burger, Desserts",65.0,Oakville
+O Sushi,CASUAL DINING,3.3,22.0,"2330 Lakeshore Road W, Oakville L6L 1H5","Sushi, Japanese, Asian",30.0,Oakville
+Chorizo,QUICK BITES,3.4,27.0,"3513 Wyecroft Road, RioCan Centre Burloak, Oakville L6L 0B6","Mexican, Fast Food",25.0,Oakville
+Boston Pizza,CASUAL DINING,2.8,29.0,"Oakville Entertainment Centre, 2011 Winston Park Drive, Oakville","American, Pizza",40.0,Oakville
+Zagros Grill House,QUICK BITES,3.4,23.0,"649 Fourth Line, Unit 3, Oakville","Mediterranean, Iranian",40.0,Oakville
+Monaghan's,BAR,3.3,31.0,"1289 Marlborough Court, Oakville",Bar Food,50.0,Oakville
+Taste of Colombia,CAFÉ,3.7,18.0,"67 Bronte Road, Unit 2, Oakville L6L 3B7",Cafe,20.0,Oakville
+Bru Restaurant,CASUAL DINING,3.4,13.0,"138 Lakeshore Road E, Oakville L6J 1H4","Bar Food, Soul Food",55.0,Oakville
+South St. Burger,QUICK BITES,3.5,27.0,"738 Burloak Dr., Burlington, ON, L7L 0B1","Fast Food, Burger",25.0,Oakville
+Montana's,CASUAL DINING,3.7,24.0,"3537 Wyecroft Road, Oakville L6L 0B7","Canadian, Grill, BBQ, Steak",50.0,Oakville
+Sunnyside Grill,CASUAL DINING,3.5,26.0,"337 Lakeshore Road East, Oakville","Canadian, Burger",35.0,Oakville
+House Of Wings,CASUAL DINING,3.7,21.0,"Fox Creek Plaza, 2501 Third Line, Oakville",Bar Food,50.0,Oakville
+Pic-A-Deli,QUICK BITES,3.7,18.0,"670 Fourth Line, Oakville","Canadian, Fast Food",35.0,Oakville
+Ami Sushi,CASUAL DINING,3.8,20.0,"187 Cross Ave, Oakville","Sushi, Japanese, Korean, Asian",80.0,Oakville
+El Spero Restaurant,CASUAL DINING,3.8,19.0,"2420 Lakeshore Rd W, Oakville L6L 1H7","Sandwich, Canadian",43.0,Oakville
+Mye 2 Japanese Restaurant,CASUAL DINING,3.4,18.0,"360 Dundas Street East, Unit 11B, Oakville","Sushi, Japanese, Asian",65.0,Oakville
+Golden Leaf,QUICK BITES,3.2,18.0,"357 Kerr Street, Oakville",Chinese,25.0,Oakville
+Artisano Bakery Cafe,CAFÉ,3.5,21.0,"353 Iroquois Shore Road, Oakville","Cafe, Bakery",25.0,Oakville
+Beccofino,CASUAL DINING,3.5,21.0,"263 Lakeshore Road East, Oakville",Italian,65.0,Oakville
+Martino's Pizza & Wings,QUICK BITES,3.8,19.0,"201 River Oaks Boulevard West, Oakville L6H 3S7","Pizza, Fast Food",15.0,Oakville
+Black Forest Pastry Shop,BAKERY,3.9,21.0,"184 Lakeshore Road East, Oakville","Bakery, Desserts",20.0,Oakville
+Souvlaki Hut,QUICK BITES,3.7,20.0,"300 Kerr Street, Oakville","Greek, Fast Food",30.0,Oakville
+Tartan Fish & Chips,QUICK BITES,3.7,16.0,"579 Kerr Street, Oakville",Fish and Chips,20.0,Oakville
+Wimpy's Diner,CASUAL DINING,3.6,18.0,"583 Kerr Street, Oakville",Diner,30.0,Oakville
+Cynthia's Chinese Restaurant,CASUAL DINING,3.1,10.0,"2460 Neyagawa Boulevard, Unit 1, Oakville L6H 7P4","Chinese, Asian",40.0,Oakville
+Bronte Fish & Chips,CASUAL DINING,3.6,12.0,"2313 Lakeshore Road West, Oakville",Fish and Chips,35.0,Oakville
+Big Grill,QUICK BITES,3.8,16.0,"1500 Upper Middle Road W, Unit 6, Oakville",Middle Eastern,20.0,Oakville
+Swiss Chalet,CASUAL DINING,3.9,20.0,"1011 Upper Middle Rd E, Unit A1, Oakville L6H 4L2","Canadian, Grill, Beverages",40.0,Oakville
+b.good,QUICK BITES,3.6,5.0,"487 Cornwall Road, Oakville L6J 7S8",Healthy Food,35.0,Oakville
+Art's Fish & Chips,QUICK BITES,3.9,16.0,"1500 6th Line, Oakville L6H 2P2","Fish and Chips, Seafood, Fast Food",35.0,Oakville
+Tasty Food House,CASUAL DINING,3.1,18.0,"Pilgrim's Way Plaza, 1395 Abbeywood Drive, Oakville L6M 2W4","Chinese, Asian",45.0,Oakville
+The Mermaid And The Oyster,CASUAL DINING,3.4,10.0,"351 Kerr Street, Oakville L6K 3B7",Seafood,40.0,Oakville
+Kelsey's,CASUAL DINING,2.7,20.0,"301 Hays Boulevard, Oakville L6H 6Z3",Canadian,65.0,Oakville
+Panago,QUICK BITES,3.9,23.0,"2460 Neyagawa Boulevard, Unit 10A, Oakville","Pizza, Fast Food",30.0,Oakville
+Ranee's Roti,QUICK BITES,3.8,14.0,"579 Kerr Street, Oakville",Caribbean,15.0,Oakville
+Pizza Pienza,QUICK BITES,3.8,11.0,"2365 Lakeshore Road West, Oakville","Pizza, Italian",30.0,Oakville
+China Star,QUICK BITES,3.0,17.0,"728 Burloak Drive, Oakville","Chinese, Asian",25.0,Oakville
+Lakeside Eatery,QUICK BITES,3.9,14.0,"2309 Lakeshore Road West, Oakville","Pizza, Fish and Chips, Greek, American",30.0,Oakville
+Cafe Havana,CASUAL DINING,3.3,8.0,"1395 Abbeywood Dr, Oakville L6M","Cuban, Latin American, Pizza",43.0,Oakville
+Montfort Grill House,CASUAL DINING,3.0,12.0,"728 Burloak Drive, Oakville","Mediterranean, Middle Eastern",45.0,Oakville
+Bronte Chinese Food,QUICK BITES,3.4,12.0,"2290 Lakeshore Road, Oakville","Chinese, Asian",30.0,Oakville
+Zara's by The Lake,CASUAL DINING,3.7,13.0,"2347 Lakeshore Road, Oakville",Mediterranean,50.0,Oakville
+Double Double,QUICK BITES,3.7,15.0,"2530 Sixth Line, Oakville","Pizza, Fast Food",25.0,Oakville
+Booster Juice,BEVERAGE SHOP,3.9,18.0,"330 Dundas Street East, Oakville","Juices, Beverages, Healthy Food",20.0,Oakville
+Gino's Pizza,QUICK BITES,3.8,13.0,"1131 Nottinghill Gate, Oakville L6M 2G3","Pizza, Fast Food",30.0,Oakville
+Jac's Bistro,CASUAL DINING,3.5,11.0,"379-B Kerr Street, Oakville","Italian, French",85.0,Oakville
+Frankie Fettuccine,Other,3.1,8.0,Location Varies,Italian,25.0,Oakville
+Moods Eatery & Cafe,CASUAL DINING,3.0,12.0,"372 Iroquois Shore Road, Oakville","Cafe, Fusion",,Oakville
+Ola Bakery & Pastries,BAKERY,3.7,10.0,"447 Speers Road, Oakville","Bakery, Portuguese",15.0,Oakville
+Panera Bread,FAST CASUAL,3.7,11.0,2530 Winston Park Drive,"Cafe, Sandwich",30.0,Oakville
+Liquid Nutrition,QUICK BITES,3.8,8.0,"321 Cornwall Road, Oakville","Beverages, Healthy Food, Juices",15.0,Oakville
+Halton Dragon,CASUAL DINING,2.8,15.0,"Fox Creek Plaza, 2501 Third Line, Oakville L6M 5A9","Chinese, Asian",35.0,Oakville
+The Danish Pastry House,BAKERY,,,"487 Cornwall Road, Oakville L6J 7S8",Bakery,20.0,Oakville
+Fratelli,QUICK BITES,2.9,11.0,"316 Kerr Street, Oakville","Pizza, Italian",30.0,Oakville
+Vito's,QUICK BITES,3.5,11.0,"1500 Sixth Line, Oakville L6H 2P2","Pizza, Fast Food",20.0,Oakville
+Asian Fusion 168,CASUAL DINING,3.4,7.0,"2318 Royal Windsor Drive, Oakville","Hakka Chinese, Thai",30.0,Oakville
+Oaks Garden Restaurant,QUICK BITES,3.4,9.0,"128 Speers Road, Oakville",Chinese,30.0,Oakville
+Burger King,FAST FOOD,2.8,11.0,1289-1297 Marlborough Court,"Fast Food, Burger",20.0,Oakville
+COBS Bread,BAKERY,3.9,14.0,"Upper Oakville Shopping Centre, 1011 Upper Middle Road East, Oakville",Bakery,15.0,Oakville
+Gege's Pizza & BBQ Chicken,QUICK BITES,3.3,12.0,"134A Speers Road, Oakville","Pizza, Fast Food",30.0,Oakville
+Starbucks,CAFÉ,3.8,15.0,"195 Lakeshore Road East, Oakville",Cafe,20.0,Oakville
+Boffo's,QUICK BITES,3.5,9.0,"334 Kerr Street, Oakville",Italian,30.0,Oakville
+Buffalo Wild Wings,CASUAL DINING,2.8,7.0,2501 Hyde Park Gate Unit A3 L6H 1A6,"Bar Food, American",45.0,Oakville
+The Royal Windsor Pub & Eatery,BAR,2.9,8.0,"610 Ford Drive, Oakville L6J 7V7","Bar Food, British",43.0,Oakville
+Maison Délice,BAKERY,3.2,7.0,"363 Kerr Street, Oakville","Bakery, Cafe",10.0,Oakville
+China Chopsticks,CASUAL DINING,2.8,8.0,"Upper Oakville Shopping Centre, 1011 Upper Middle Road East, Oakville","Chinese, Asian",30.0,Oakville
+Scaddabush,CAFÉ,,,"2015 Winston Park Dr, Oakville",Cafe,,Oakville
+Hero Certified Burgers,QUICK BITES,2.7,10.0,"380 Dundas Street East, Oakville","Burger, Sandwich",25.0,Oakville
+The Owl Of Minerva,CASUAL DINING,3.3,7.0,"187 Cross Avenue, Oakville","Korean, Asian",35.0,Oakville
+Bean There,CAFÉ,3.7,7.0,"106 Reynolds Street, Oakville",Cafe,20.0,Oakville
+Little Caesars,QUICK BITES,3.1,11.0,"2524 Third Line, Oakville","Pizza, Fast Food",25.0,Oakville
+Pizzaville,QUICK BITES,3.0,9.0,"2163 Sixth Line, Oakville L6H 3N7","Pizza, Fast Food",25.0,Oakville
+Menchella's Pizza,QUICK BITES,3.6,7.0,"511 Maple Grove Dr, Oakville L6J 4W3","Pizza, Italian",80.0,Oakville
+La Dolce Vita,DESSERT PARLOR,3.9,4.0,"22 Lakeshore Road West, Oakville L6K 1C5","Desserts, Cafe",15.0,Oakville
+Pizza Depot,QUICK BITES,3.2,12.0,"2983 Westoak Trails Boulevard, Oakville","Pizza, Fast Food",25.0,Oakville
+Vili's Pizza & Wings,QUICK BITES,3.5,7.0,"562 Kerr St, Oakville L6K 3C5","Pizza, Fast Food",13.0,Oakville
+Cupid's Gourmet Bakery,DESSERT PARLOR,2.7,6.0,"Upper Oakville Shopping Cenre, 1011 Upper Middle Road , Oakville","Bakery, Desserts",15.0,Oakville
+Hibachi,CASUAL DINING,3.1,8.0,"105 Cross Avenue, Oakville","Sushi, Japanese, Asian",80.0,Oakville
+Harvey's,FAST CASUAL,3.6,9.0,"1011 Upper Middle Road East, Oakville, ON L6H 4L3","Fast Food, Canadian, Burger",25.0,Oakville
+Pizza Pizza,QUICK BITES,2.7,10.0,"2297 Lakeshore Road, Oakville","Pizza, Fast Food",25.0,Oakville
+Chuck’s Roadhouse Bar And Grill,BAR,,,"2 Kennedy Road Brampton, ON L6W 3E1","American, Grill",25.0,Oakville
+Teriyaki Experience,QUICK BITES,3.0,10.0,"Oakville Town Centre, 240 North Service Road West, Oakville",Japanese,20.0,Oakville
+Topper's Pizza,QUICK BITES,3.5,9.0,"220 North Service Road West, Oakville L6M2T3 2Y3","Pizza, Fast Food",25.0,Oakville
+Jimmy The Greek,QUICK BITES,3.2,6.0,"Oakville Place Mall, Food Court, 240 Leighland Avenue, Oakville",Greek,25.0,Oakville
+Domino's,QUICK BITES,3.8,9.0,"2690 Westoak Trails Boulevard, Oakville","Fast Food, Pizza",25.0,Oakville
+Dairy Queen Grill & Chill,FAST FOOD,3.5,9.0,295 Hayes Boulevard,"Ice Cream, Desserts, Fast Food",20.0,Oakville
+McDonald's,QUICK BITES,,,"375 Iroquois Shore Road, Oakville",Fast Food,25.0,Oakville
+Pizza Nova,QUICK BITES,3.8,9.0,"1133 Monastery Drive, Oakville","Pizza, Fast Food",30.0,Oakville
+Thai Express,QUICK BITES,3.6,7.0,"Oakville Place Mall, Food Court, 240 Leighland Avenue, Oakville",Thai,25.0,Oakville
+Little Tokyo,QUICK BITES,3.9,7.0,"386 Iroquois Shore Road, Oakville","Sushi, Japanese",30.0,Oakville
+Dirty Martini,BAR,3.1,7.0,"Oakville Entertainment Centre, 2075 Winston Park Drive, Oakville",Bar Food,50.0,Oakville
+Pipes and Taps Pub,Other,,,"231 Oak Park Boulevard, Oakville",Bar Food,20.0,Oakville
+On A Bun,QUICK BITES,3.0,5.0,"266 Hays Boulevard, Oakville L6H 7P3","Sandwich, Italian",20.0,Oakville
+Buon Appetito,CASUAL DINING,3.3,5.0,"1470 Speers Road, Oakville",Italian,40.0,Oakville
+Tim Hortons,CAFÉ,3.0,8.0,494 Dundas Street West,"American, Donuts, Desserts",20.0,Oakville
+Mucho Burrito,QUICK BITES,2.7,6.0,"SmartCentres Oakville, 266 Hays Boulevard, Oakville",Tex-Mex,30.0,Oakville
+Boon Burger Cafe,FAST CASUAL,,,"497 Dundas St W unit 1, Oakville, ON L6M 4M2",Burger,20.0,Oakville
+Subway,QUICK BITES,3.3,5.0,"4 Lakeshore Road West, Oakville",Fast Food,20.0,Oakville
+Sammy's Famous,QUICK BITES,2.8,7.0,"2376 Lakeshore Road West, Oakville",Fish and Chips,25.0,Oakville
+Pizzaiolo,QUICK BITES,3.4,6.0,"341 Lakeshore Road East, Oakville","Pizza, Fast Food",30.0,Oakville
+Mumma's Burritos,FAST CASUAL,,,"2055 Winston Park Dr Unit K1, Oakville, ON L6H 6P5",Mexican,25.0,Oakville
+Sunlight Grill,CASUAL DINING,,,"2308 Royal Windsor Drive, Oakville",Diner,30.0,Oakville
+J & N Pub,CASUAL DINING,2.9,5.0,"Great Lakes Centre Plaza, 3420 Rebecca Street, Oakville L6L 6W2",Bar Food,50.0,Oakville
+Irie Cuisine,QUICK BITES,3.3,4.0,"121 North Service Road East, Oakville L6H",Caribbean,25.0,Oakville
+The Thirsty Penguin - Canlan Ice Sports,BAR,2.7,7.0,"2300 Cornwall Road, Oakville","Bar Food, American",50.0,Oakville
+Wendy's,FAST FOOD,3.8,6.0,1530 North Service Road West,"Fast Food, Burger",20.0,Oakville
+Justino's Woodoven Pizza,Other,3.1,4.0,"125 Kerr Street, Oakville L6K 3A4",Pizza,20.0,Oakville
+Cool Licks D-Lite,DESSERT PARLOR,,,"77 Bronte Rd Unit 103a, Oakville L6L3B7","Ice Cream, Desserts, Cafe",13.0,Oakville
+Firehouse Subs,QUICK BITES,,,"230 N Service Road W, Oakville L6M 2Y4","Sandwich, Fast Food",20.0,Oakville
+Extreme Pita,QUICK BITES,3.6,5.0,"330 Dundas Street East, Oakville","Fast Food, Mediterranean",25.0,Oakville
+Pizza Hut,QUICK BITES,,,"360 Dundas Street East, Oakville","Pizza, Fast Food",25.0,Oakville
+Oakville,Other,,,CUISINES:,,,Oakville
+Tribeca Coffee,BEVERAGE SHOP,,,174 Lakeshore Road E L6J 1H6,Coffee and Tea,,Oakville
+Shawarmarama,CASUAL DINING,,,"620 Ford Drive, Unit 1, Oakville L6J 7V7",Mediterranean,,Oakville
+Popeyes,QUICK BITES,3.0,5.0,"579 Kerr Street, Unit 14, Oakville",Fast Food,25.0,Oakville
+Dave & Busters,CASUAL DINING,,,"2021 Winston Park Dr E, Oakville L6H 6P5",American,60.0,Oakville
+Tria Cafe & Bakery,DESSERT PARLOR,,,"2525 Old Bronte Road, Oakville","Desserts, Cafe",20.0,Oakville
+Denny's,CASUAL DINING,,,3451 South Service Road West,"Diner, Breakfast",30.0,Oakville
+Just An Olde Fashioned Butchery,QUICK BITES,,,"165 Lakeshore Road East, Oakville","Seafood, Fast Food, BBQ",13.0,Oakville
+Sweet! Bakery and Teahouse,BAKERY,,,"100 Bronte Road, Unit 1, Oakville L6L 6L5",Bakery,15.0,Oakville
+Mac's Sushi,QUICK BITES,2.8,5.0,"Oakville Place Mall, Level One, 240 Leighland Avenue, Oakville","Sushi, Japanese",25.0,Oakville
+Baskin Robbins,DESSERT PARLOR,3.4,5.0,"Abbey Plaza, 1500 Upper Middle Road, Oakville","Ice Cream, Desserts",15.0,Oakville
+La Fresca Cafe,CAFÉ,,,"5035 South Service Road, Oakville","Cafe, Sandwich",25.0,Oakville
+Chicken Squared,QUICK BITES,,,"2983 Westoak Trails Boulevard Unit 3A, Oakville L6M 4T9","Fast Food, American",25.0,Oakville
+Hampton Restaurant & Bar,CASUAL DINING,,,"Quality Suites, 754 Bronte Road, Oakville",Canadian,60.0,Oakville
+Mr. Sub,QUICK BITES,,,"667 Fourth Line, Oakville",Fast Food,25.0,Oakville
+Hoyi Sushi,CASUAL DINING,3.4,4.0,"Bronte Village Mall, 2441 Lakeshore Road West, Oakville","Japanese, Sushi, Asian",25.0,Oakville
+Oakville Halal Grill,QUICK BITES,,,"441 Kerr Street, Oakville",Pakistani,20.0,Oakville
+Purdy's,DESSERT PARLOR,,,"Oakville Place Mall, Level One, 240 Leighland Avenue, Oakville","Desserts, Ice Cream",20.0,Oakville
+The Boot Social Pizzeria,CASUAL DINING,,,"579 Kerr St, Oakville, ON L6K 3E1",Italian,50.0,Oakville
+Eggsactly,CASUAL DINING,,,"Upper Oakville Shopping Centre, 1011 Upper Middle Road East, Unit C22, Oakville","Breakfast, Diner",25.0,Oakville
+Pho Mama,CASUAL DINING,,,"515 Dundas Street West, Oakville, ON L6M 4M2","Thai, Vietnamese",,Oakville
+Kebab Stop,QUICK BITES,,,"1260 Speers Road, Unit 4, Oakville",Iranian,30.0,Oakville
+A & W,QUICK BITES,,,"Oakville Place Mall, Food Court, 240 Leighland Avenue, Oakville","Burger, Fast Food",25.0,Oakville
+Manchu Wok,QUICK BITES,,,"Oakville Place Mall, Food Court, 240 Leighland Avenue, Oakville","Fast Food, Chinese, Asian",25.0,Oakville
+241 Pizza,QUICK BITES,,,"115 Maurice Drive, Unit 196, Oakville","Pizza, Fast Food",30.0,Oakville
+Quiznos,QUICK BITES,,,601 Ford Drive,Fast Food,25.0,Oakville
+KFC,QUICK BITES,,,"330 South Service Road, Oakville L6L5B8",Fast Food,13.0,Oakville
+Drafted Sports Bar & Grill,CASUAL DINING,,,"379 Speers Road, Oakville L6K 3T2",Bar Food,50.0,Oakville
+Pomodoro Ristorante,CASUAL DINING,,,"374 S Service Road East, Oakville L6J 2X6",Italian,45.0,Oakville
+Om Juice,BEVERAGE SHOP,,,"131 Kerr Street, Oakville",Juices,15.0,Oakville
+The Moonshine Cafe,CASUAL DINING,,,"137 Kerr Street, Oakville L6K 3A6","Bar Food, American",30.0,Oakville
+Pho Vuho,CASUAL DINING,,,"360 Dundas Street East, Oakville, ON L6H 6Z9",Vietnamese,25.0,Oakville
+Sixth Line Pub & Sports Bar,BAR,,,"1500 Sixth Line, Oakville L6H 2P2",Bar Food,45.0,Oakville
+Shawarma X,QUICK BITES,,,"483 Dundas St W Unit no 2, Oakville","Middle Eastern, Lebanese",25.0,Oakville
+Walker's Chocolates,DESSERT PARLOR,,,"Upper Oakville Shopping Centre, 1011 Upper Middle Road East, Oakville",Desserts,10.0,Oakville
+WingsUp!,QUICK BITES,,,"2423 Trafalgar Road, Oakville L6H 6K7",Fast Food,30.0,Oakville
+Yogurty's,DESSERT PARLOR,,,"482 Dundas St West, Oakville L6H 6R8","Frozen Yogurt, Desserts",15.0,Oakville
+Second Cup Coffee Co.,CAFÉ,,,1430 Trafalgar Road,"Cafe, Coffee and Tea, Frozen Yogurt",10.0,Oakville
+Less Than Level,CASUAL DINING,,,"381 Kerr Street, Oakville",Bar Food,40.0,Oakville
+David's Tea,BEVERAGE SHOP,,,"Oakville Place Mall, Level One, 240 Leighland Avenue, Oakville","Tea, Beverages",15.0,Oakville
+Jugo Juice,BEVERAGE SHOP,,,"Oakville Place Mall, Food Court, 240 Leighland Avenue, Oakville","Juices, Beverages",20.0,Oakville
+Anora's,CASUAL DINING,,,"2309 Lakeshore Rd L6L1H2 Oakville, Toronto","Egyptian, Mediterranean",30.0,Oakville
+Sidra,CASUAL DINING,,,"667 Fourth Line, Oakville L6L 5B5","Middle Eastern, Lebanese",,Oakville
+Sandwich Tree,QUICK BITES,,,"Oakville Place Mall, Food Court, 240 Leighland Avenue, Oakville",Fast Food,20.0,Oakville
+Bronte Sports Kitchen,BAR,,,"2544 Speers Road, Oakville",Bar Food,50.0,Oakville
+Shakers Smokehouse,BAR,,,"580 Kerr Street, Oakville","BBQ, Bar Food",50.0,Oakville
+Timothy's,CAFÉ,,,"Oakville Place Mall, Level One, 240 Leighland Avenue, Oakville",Cafe,25.0,Oakville
+Bar Burrito,QUICK BITES,,,"Oakville Place Mall, 240 Leighland Avenue, Oakville",Tex-Mex,25.0,Oakville
+Shams Cafe & Grill,QUICK BITES,,,"2345 Wyecroft Road, Oakville","Cafe, Canadian",25.0,Oakville
+Pita Pit,QUICK BITES,,,"266, Hays Blvd, Unit A Oakville",Healthy Food,25.0,Oakville
+Quesada,QUICK BITES,,,"Maple Grove Village, 511 Maple Grove Drive, Unit 13, Oakville",Tex-Mex,25.0,Oakville
+Corks,CASUAL DINING,,,"469 Cornwall Road, Inside Longos, Oakville","Tapas, Pizza, Bar Food",50.0,Oakville
+Funky Thai 2 Go,CASUAL DINING,,,"Great Lakes Centre Plaza, 3420 Rebecca Street, Unit 3, Oakville L6L 6W2","Thai, Asian",40.0,Oakville
+Oakville Fish & Chips,CASUAL DINING,,,"109 Maurice Drive, Oakville",Fish and Chips,40.0,Oakville
+Big Wolf's,QUICK BITES,,,"78 Dundas Street W, Suite 7 L6H 6Y3","Deli, Sandwich",,Oakville
+Trish Juice,Other,,,"8 Lakeshore Road W, Oakville, ON L6K 1C5","Bubble Tea, Coffee and Tea, Juices, Salad, Sandwich",15.0,Oakville
+Hexagon Restaurant,CASUAL DINING,,,"210 Lakeshore Road East, Oakville, Toronto",American,40.0,Oakville
+The Garden Grille & Bar - Hilton Garden Inn,CASUAL DINING,,,"Hilton Garden Inn, 2774 South Sheridan Way, Oakville","American, Grill, Steak",50.0,Oakville
+Cooks Door BBQ & Grill,QUICK BITES,,,"667 Fourth Line, Unit 5, Oakville","Fast Food, Lebanese, BBQ",40.0,Oakville
+Lusitania Bakery & Cafe,BAKERY,,,"314 Kerr Street, Oakville","Deli, Bakery, Cafe",40.0,Oakville
+Solasta Foods,QUICK BITES,,,"343 Kerr Street, Oakville L6K 3B7","Healthy Food, Vegetarian, Juices",25.0,Oakville
+Eighteen at Glen Abbey,CASUAL DINING,,,"1333 Dorval Drive, Oakville",American,60.0,Oakville
+Papa John's Pizza,FAST CASUAL,,,511 Maple Grove Drive,"Fast Food, Italian",25.0,Oakville
+British Treat Shoppe,QUICK BITES,,,"Bronte Village Mall, 2441 Lakeshore Road West, Oakville",British,15.0,Oakville
+The Marquis Bistro - Hilton Garden Inn,CASUAL DINING,,,"Hilton Garden Inn, 2525 Wyecroft Road, Oakville",Canadian,60.0,Oakville
+Golden Coast,CAFÉ,,,"278 Kerr Street, Oakville","Tea, Cafe, Chinese, Asian, Drinks Only",15.0,Oakville
+Old Mill Bakery & Deli,BAKERY,,,"2530 Sixth Line, Oakville","Bakery, European",15.0,Oakville
+Oliveiro's Sandwich Spot Ltd.,QUICK BITES,,,"700 Dorval Drive, Oakville","Cafe, Healthy Food",25.0,Oakville
+Frankie Dee's,Other,,,"2318 Lakeshore Road West, Oakville",Drinks Only,70.0,Oakville
+The Pizza Boutique,FAST CASUAL,,,"2335 Trafalgar Road, Oakville, ON L6H 6N9",Pizza,25.0,Oakville
+Casa Romana Sweets,CAFÉ,,,"609 Ford Dr 601 Unit A2, Oakville, ON L6J 7Z6",Cafe,20.0,Oakville
+Biryani & Tea Co,CASUAL DINING,,,"775 Pacific Road 23, Oakville, ON L6L 6M4",Indian,35.0,Oakville
+Dar Nabati,CAFÉ,,,"333 Lakeshore Rd E B, Oakville, ON L6J 1J4",Cafe,25.0,Oakville
+Kenzo Ramen,FAST CASUAL,,,"1122 Dorval Dr #4, Oakville, ON L6M 3E4",Chinese,20.0,Oakville
+Cirqus Nightclub,Other,,,"Oakville Entertainment Centre, 2065 Winston Park Drive, Oakville",Drinks Only,50.0,Oakville
+Burrito z Fresh Mexican Grill,CASUAL DINING,,,"2320 Royal Windsor Drive, Oakville L6J 7Y1","Mexican, Grill",25.0,Oakville
+Fuego Tapas Bar,CASUAL DINING,,,151 Lakeshore Road E L6J 1H3,"Mediterranean, Tapas",25.0,Oakville
+OKO Bagels,QUICK BITES,,,"499 Cornwall Rd, Oakville, ON L6J 7S8",Bagels,15.0,Oakville
+Osmow's Grill,CASUAL DINING,,,"3513 Wyecroft Road, Oakville L6L 0B6",Middle Eastern,25.0,Oakville
+Oakville's Temple Bar,Other,,,"1140, Winston Churchill Blvd, Toronto",Bar Food,25.0,Oakville
+Pizzaville,Other,,,"483 Dundas St W, Oakville",Pizza,25.0,Oakville
+Hero Certified Burgers,FAST CASUAL,,,"380 Dundas St E, Oakville, ON L6H 6Z9",Fast Food,15.0,Oakville
+Tim Hortons,CAFÉ,,,1 Canadian Road,"Cafe, Donuts",20.0,Oakville
+Tim Hortons,CAFÉ,,,1151 Bronte Road,"Cafe, Donuts",20.0,Oakville
+Wendy's,QUICK BITES,,,2355 Trafalgar Road building A1,Fast Food,15.0,Oakville
+Second Cup Coffee Co. featuring Pinkberry Frozen Yogurt,Other,,,245 Lakeshore Road East,Coffee and Tea,15.0,Oakville
+Tim Hortons,CAFÉ,,,111 Cross Avenue,Cafe,20.0,Oakville

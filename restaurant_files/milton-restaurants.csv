@@ -1,0 +1,144 @@
+Name,EstablishmentType,Rating,NumReviews,Address,Cuisine,CostForTwo,City
+Memphis BBQ & Wicked Wings,CASUAL DINING,4.5,58.0,"327 Bronte Street South, Milton","BBQ, American",35.0,Milton
+Toss Thai,CASUAL DINING,4.1,67.0,"1120 Steeles Avenue East, Milton L9T6R1","Asian, Chinese, Thai",43.0,Milton
+Marquee Steakhouse & Piano Lounge,FINE DINING,4.3,66.0,"500 Steeles Avenue East, Milton L9T3G4","European, Seafood, Steak",80.0,Milton
+Pasqualino,CASUAL DINING,4.2,61.0,"248 Main Street East, Milton","Seafood, Italian",60.0,Milton
+Symposium Cafe Restaurant & Lounge,CASUAL DINING,3.7,68.0,611 Holly Avenue. L9T0K4,"Diner, Burger, Desserts",65.0,Milton
+Thai House,CASUAL DINING,4.1,67.0,"181 Main Street East, Milton","Thai, Asian",35.0,Milton
+Aji Sai Sushi,CASUAL DINING,3.5,73.0,"478 Steeles Avenue East, Milton L9T 3P7","Sushi, Japanese, Asian",50.0,Milton
+Royal Garden,CASUAL DINING,3.1,46.0,"550 Ontario St S, Milton L9T5E4","Hakka Chinese, Thai, Asian",13.0,Milton
+Halifax Donair,QUICK BITES,4.1,63.0,"295 Main Street East, Milton",Fast Food,20.0,Milton
+Sushi-Ya,CASUAL DINING,3.8,40.0,"8 Martin Street, Milton","Sushi, Japanese, Korean, Asian",35.0,Milton
+Portabello's,CASUAL DINING,3.5,50.0,"10220 Derry Road, Milton","Italian, Pizza",50.0,Milton
+Oshima Sushi,CASUAL DINING,3.5,46.0,"395 Main Street East, Milton","Sushi, Japanese, Asian",30.0,Milton
+Paramount Fine Foods,CASUAL DINING,3.6,43.0,"1149 Maple Avenue, Milton","Lebanese, Middle Eastern",40.0,Milton
+Troy's Diner,CASUAL DINING,3.3,63.0,"295 Main Street East, Milton",Diner,40.0,Milton
+EddieO's Pourhouse & Kitchen,CASUAL DINING,4.1,50.0,"370 Main Street East, Milton","Bar Food, American",50.0,Milton
+The Bistro on Main,CASUAL DINING,3.9,34.0,"164 Main Street East, Milton","Canadian, European",35.0,Milton
+The WORKS,CASUAL DINING,3.9,35.0,"190 Main Street East, Milton",Burger,45.0,Milton
+Mr. Dumpling,QUICK BITES,3.0,42.0,"Milton Common, 890 Main Street East, Milton","Chinese, Asian",25.0,Milton
+Casa Americo,CASUAL DINING,3.9,43.0,"144 Main Street East, Milton L9T 1N6",Italian,50.0,Milton
+Pho Milton,CASUAL DINING,3.8,35.0,"500 Laurier Avenue, Milton","Vietnamese, Asian",35.0,Milton
+East Side Mario's,CASUAL DINING,2.8,37.0,"860 Main Street East, Milton L9T 0J4","Italian, Canadian, Pizza",40.0,Milton
+The Ivy Arms,CASUAL DINING,3.7,41.0,"201 Main Street East, Milton",Bar Food,60.0,Milton
+Cora's Breakfast & Lunch,CASUAL DINING,3.8,45.0,"Milton Mall, 65 Ontario Street South, Milton","Diner, Canadian",35.0,Milton
+Hood & Grill,CASUAL DINING,3.9,32.0,"260 Main Street East, Milton",Mediterranean,40.0,Milton
+La Rose Italian Bakery,BAKERY,3.9,34.0,"327 Bronte Street South, Milton L9T 4A4","Cafe, Bakery",15.0,Milton
+The Bombay Grill,CASUAL DINING,3.9,37.0,"370 Main Street East, Milton",Indian,40.0,Milton
+Gold City,CASUAL DINING,3.8,40.0,"425 Main Street East, Milton","Chinese, Asian",35.0,Milton
+Luigi's Lasagna & Pizzeria,CASUAL DINING,3.4,30.0,"17 Commercial St, Milton L9T",Italian,30.0,Milton
+Heritage Fish & Chips,QUICK BITES,3.9,39.0,"Milton Common, 840 Main Street East, Milton L9T 0J4",Fish and Chips,30.0,Milton
+Ned Devine's,BAR,3.0,42.0,"575 Ontario Street South, Milton","Bar Food, Irish",75.0,Milton
+Shoeless Joe's,BAR,3.0,42.0,"Milton Common, 800 Main Street East, Milton","American, Bar Food",60.0,Milton
+Cafe Zauq,QUICK BITES,3.7,27.0,"327 Bronte Street South, Milton",Indian,40.0,Milton
+La Toscana,FINE DINING,3.9,26.0,"165 Main Street East, Milton L9T 1N7","Seafood, Italian",90.0,Milton
+Vito's,QUICK BITES,3.7,37.0,"464 Steeles Avenue East, Milton","Pizza, Fast Food",20.0,Milton
+Benny's Curry & Roti,CASUAL DINING,3.8,31.0,"468 Steeles Avenue East, Milton","Indian, West Indian",30.0,Milton
+Risposta Bistro,CASUAL DINING,3.4,9.0,24 Crawford Crescent,Italian,80.0,Milton
+Louie's Diner,CASUAL DINING,3.9,21.0,"466 Steeles Avenue East, Milton L9T 3P7",Diner,35.0,Milton
+Hero Certified Burgers,QUICK BITES,3.4,32.0,"Milton Common, 850 Main Street East, Milton","Burger, Sandwich",25.0,Milton
+Montana's Cookhouse,CASUAL DINING,3.1,26.0,"1230 Steeles Avenue East, Milton L9T 6R1","Canadian, Grill, BBQ, Steak",50.0,Milton
+Empire Wok,QUICK BITES,3.1,19.0,"1040 Kennedy Circle, Milton",Chinese,35.0,Milton
+Osmow's,CASUAL DINING,3.0,22.0,"875 Main Street East, Milton",Mediterranean,30.0,Milton
+Chef Sanjeev Kapoor's Khazana - Milton,CASUAL DINING,3.4,16.0,"1185 Maple Avenue, Milton L9T 0A5",Indian,30.0,Milton
+Kelsey's,CASUAL DINING,3.1,21.0,"45 Chisholm Drive, Milton L9T 4A6",Canadian,65.0,Milton
+WingsUp!,QUICK BITES,3.7,28.0,"228 Main Street East, Milton L9T 1N8",Fast Food,30.0,Milton
+Swiss Chalet,CASUAL DINING,3.4,17.0,"50 Market Drive, Milton L9T 3H5","Canadian, Grill, Beverages",40.0,Milton
+Grill Daddy,CASUAL DINING,3.8,16.0,"140 Main Street East, Milton","Breakfast, Diner, American",45.0,Milton
+Silver Spoon,QUICK BITES,3.1,18.0,"500 Laurier Avenue, Milton","Pakistani, Indian, Hakka Chinese",20.0,Milton
+Sunset Grill,CASUAL DINING,3.3,21.0,"Derry Heights Plaza, 6941 Derry Road, Milton","Diner, Breakfast",30.0,Milton
+Wild Wing,CASUAL DINING,3.7,22.0,"Derry Heights Plaza, 6921 Derry Road, Milton",Bar Food,50.0,Milton
+Pita Nutso,QUICK BITES,2.7,21.0,"Derry Heights Plaza, 6901 Derry Road, Milton","Mediterranean, Sandwich",25.0,Milton
+Coffee Culture,CAFÉ,3.2,19.0,"265 Main Street East, Milton",Cafe,20.0,Milton
+Mucho Burrito,QUICK BITES,3.7,23.0,"Milton Common, 890 Main Street East, Milton",Tex-Mex,30.0,Milton
+Pizzaville,QUICK BITES,3.9,21.0,"1030 Kennedy Cir #10, Milton, ON L9T 0J9","Pizza, Fast Food",25.0,Milton
+KFC,QUICK BITES,2.7,10.0,"405 Martin Street, Milton",Fast Food,25.0,Milton
+Marble Slab Creamery,DESSERT PARLOR,3.3,15.0,"1003 Maple Avenue, Milton","Ice Cream, Desserts",20.0,Milton
+Milton Fish & Chips,QUICK BITES,3.8,20.0,"17 Wilson Drive, Milton",Fish and Chips,25.0,Milton
+Boston Pizza,CASUAL DINING,3.8,20.0,"1085 Maple Avenue, Milton","American, Pizza",40.0,Milton
+Rad Brothers,CASUAL DINING,3.5,17.0,"550 Ontario Street South, Milton","American, Bar Food",60.0,Milton
+Thai House Cuisine,CASUAL DINING,3.7,14.0,"43 Main Street South, Campbellville","Thai, Asian",45.0,Milton
+Chorizo,QUICK BITES,3.8,17.0,"1120 Steeles Avenue East, Milton","Mexican, Fast Food",25.0,Milton
+Bryden's Pub,CASUAL DINING,3.6,18.0,"270 Main Street East, Milton",Bar Food,50.0,Milton
+The Green Eatery,BEVERAGE SHOP,3.3,8.0,"20 Martin Street S, Milton L9T 2P9","Healthy Food, Beverages",30.0,Milton
+Pizza Hut,QUICK BITES,2.9,14.0,"611 Holly Avenue, Milton","Pizza, Fast Food",25.0,Milton
+Pita Pit,QUICK BITES,3.6,14.0,"1120 Steeles Avenue East, Milton",Healthy Food,25.0,Milton
+Koozina,QUICK BITES,3.6,12.0,"Milton Mall, 65 Ontario Street South, Milton","Mediterranean, Fast Food",25.0,Milton
+Galito's,CASUAL DINING,3.3,12.0,"81 James Snow Parkway, Milton","Portuguese, African",30.0,Milton
+Champs Sports Bar - Champs Family Entertainment Centre,BAR,3.0,14.0,"300 Bronte Street South, Milton","American, Bar Food",50.0,Milton
+The Escarpment Tea Room,BEVERAGE SHOP,,,"104 Tremaine Road, Milton","Tea, Sandwich",40.0,Milton
+Tony Spiducci's Ristorante,CASUAL DINING,3.9,12.0,"The Grand Chalet, 324 Steeles Avenue East, Milton",Italian,50.0,Milton
+Golden Fish & Chips,QUICK BITES,3.7,13.0,"388 Main Street East, Milton",Fish and Chips,25.0,Milton
+Curry N Tandoor,CASUAL DINING,3.3,9.0,"585 Ontario Street South, Unit 4, Milton","Indian, Pakistani",25.0,Milton
+Hawthorne Cafe,DESSERT PARLOR,3.5,7.0,"10220 Derry Road, Milton","Cafe, Desserts",25.0,Milton
+Joya,CASUAL DINING,3.3,5.0,"202 Main Street East, Milton L9T 1N8","Japanese, Korean",25.0,Milton
+Topper's Pizza,QUICK BITES,3.5,13.0,"1155 Maple Avenue, Milton L9T0A5","Pizza, Fast Food",25.0,Milton
+McDonald's,QUICK BITES,3.3,7.0,"1280 Steeles Avenue East, Inside Walmart, Milton",Fast Food,25.0,Milton
+Thai Express,QUICK BITES,3.0,6.0,"Milton Common, 870 Main Street East, Milton",Thai,25.0,Milton
+Harvey's,QUICK BITES,3.3,12.0,"50 Market Dr, Milton L9T 3H5","Fast Food, Canadian, Burger",25.0,Milton
+Shawarma Town Mediterranean Grill,QUICK BITES,3.5,5.0,"500 Laurier Avenue, Unit 8, Milton",Mediterranean,25.0,Milton
+Lone Star Texas Grill,CASUAL DINING,,,"1100 Steeles Avenue East, Milton","Tex-Mex, Bar Food",80.0,Milton
+OPA! Of Greece,QUICK BITES,2.8,12.0,"Milton Common, 850 Main Street East, Milton",Greek,25.0,Milton
+Domino's,QUICK BITES,3.8,10.0,"17 Wilson Drive, Milton","Fast Food, Pizza",25.0,Milton
+Tim Hortons,CAFÉ,2.7,4.0,6941 Derry Road Building B,"American, Donuts, Desserts",20.0,Milton
+Extreme Pita,QUICK BITES,3.1,11.0,"Milton Common, 840 Main Street East, Milton","Fast Food, Mediterranean",25.0,Milton
+Jay's Ice Cream & Sunshine's Gelato,DESSERT PARLOR,3.7,7.0,"146 Main Street East, Milton","Ice Cream, Desserts",25.0,Milton
+Pho Mi 89,CASUAL DINING,3.0,4.0,"Derry Heights Plaza, 6941 Derry Road, Unit B03, Milton L9T 7H5","Vietnamese, Asian",35.0,Milton
+Bread N Batter,BAKERY,3.4,6.0,"875 Main Street East, Milton",Bakery,15.0,Milton
+Mary Brown's,QUICK BITES,3.0,6.0,"20 Market Drive, Milton L9T3H5",Fast Food,30.0,Milton
+Lazeez Shawarma & Mediterranean Grill,CASUAL DINING,2.7,4.0,"598 Ontario Street South, Milton L9T 5E4",Mediterranean,25.0,Milton
+Dairy Queen,DESSERT PARLOR,3.7,8.0,"500 Laurier Avenue, Milton","Ice Cream, Desserts, Fast Food",20.0,Milton
+Taco Bell,QUICK BITES,2.9,7.0,"405 Martin Street, Milton","Fast Food, Mexican",20.0,Milton
+Main Street Italian Bakery,QUICK BITES,,,"18 Thompson Road, Milton",Italian,25.0,Milton
+Goodfellas Wood Oven Pizza,CASUAL DINING,,,"22 Ontario St S, Milton, ON L9T 2M6","Italian, Pizza, Sandwich",50.0,Milton
+Restaurant at Mohawk Inn,CASUAL DINING,,,"9230 Guelph Line, Milton L0P","Steak, Bar Food, American",80.0,Milton
+Sunrise Grill,CASUAL DINING,3.0,4.0,"327 Bronte Street South, Milton L9T4A4",Diner,30.0,Milton
+Pizza Nova,QUICK BITES,3.4,7.0,"Milton Common, 890 Main Street East, Milton","Pizza, Fast Food",30.0,Milton
+China Star,CASUAL DINING,3.5,5.0,"Derry Heights Plaza, 6921 Derry Road, Milton","Chinese, Asian",45.0,Milton
+Capt'n Fry's,QUICK BITES,,,57 Steeles Avenue West,Fast Food,20.0,Milton
+Yamato,QUICK BITES,3.3,6.0,"Milton Mall, 55 Ontario Street South, Milton","Japanese, Asian",25.0,Milton
+Yogurty's,DESSERT PARLOR,3.7,7.0,"147 Main Street East, Milton","Frozen Yogurt, Desserts",15.0,Milton
+Saucy,CASUAL DINING,3.1,5.0,"243 Main Street East, Milton",Italian,,Milton
+Mo-Bay Jerk - A Taste Of The Caribbean,CASUAL DINING,,,"173 Main Street E, Milton L9T 1N7",Caribbean,25.0,Milton
+Super Deal,QUICK BITES,3.8,4.0,"15 Martin Street, Milton","Pizza, Fast Food",25.0,Milton
+Baskin Robbins,DESSERT PARLOR,3.7,6.0,"Milton Common, 850 Main Street East, Milton","Ice Cream, Desserts",15.0,Milton
+Allison's at the Best,CASUAL DINING,3.3,4.0,"161 Chisholm Drive, Milton","Diner, Canadian",80.0,Milton
+Booster Juice,BEVERAGE SHOP,,,"1155 Maple Avenue, Milton","Juices, Beverages, Healthy Food",20.0,Milton
+Ice Cream Lab,DESSERT PARLOR,,,"245 Main St E, Unit 1, Milton L9T 1P1",Ice Cream,25.0,Milton
+Subway,QUICK BITES,3.1,5.0,"389 Main Street East, Milton",Fast Food,20.0,Milton
+Pizza Pizza,QUICK BITES,,,"6521 Derry Road, Milton","Pizza, Fast Food",25.0,Milton
+Taco Del Mar,QUICK BITES,3.4,4.0,"20 Market Drive, Milton","Mexican, Fast Food",25.0,Milton
+Mr. Sub,QUICK BITES,3.9,4.0,"Milton Common, 850 Main Street East, Milton",Fast Food,25.0,Milton
+Twice The Deal Pizza,QUICK BITES,,,"327 Bronte Street South, Milton","Pizza, Fast Food",25.0,Milton
+Choose N' Cook,QUICK BITES,3.1,4.0,"810 Nippising Road, Milton",Indian,30.0,Milton
+Gino's Pizza,QUICK BITES,3.6,4.0,"431 Main Street East, Milton","Pizza, Fast Food",30.0,Milton
+Quik Chik,QUICK BITES,,,"6521 Derry Road, Milton",Fast Food,25.0,Milton
+Fresh Addicts Juice Bar,BEVERAGE SHOP,,,"71 James Snow Parkway, Milton","Juices, Beverages",,Milton
+Pita Factory,QUICK BITES,3.7,4.0,"50 Market Drive, Unit 3, Milton L9T 3H5","Mediterranean, Middle Eastern, Fast Food",20.0,Milton
+Terrace Trackside Buffet,CASUAL DINING,,,"9430 Guelph Line, L0P 1B0, Milton, Toronto",Italian,40.0,Milton
+Tim Hortons,CAFÉ,,,"575 Ontario Street S, Milton",Cafe,20.0,Milton
+Kevin's Hamburger House,QUICK BITES,,,"55 Ontario Street South, Milton, ON L9T 2M3","Fast Food, Burger",15.0,Milton
+Starbucks,CAFÉ,,,"20 Market Drive, Milton",Cafe,20.0,Milton
+Karpaty European Bakery & Deli,BAKERY,,,"205 James Snow Parkway, Milton","Bakery, Deli, European",20.0,Milton
+Little Kabul,QUICK BITES,,,"925 Main Street East, Milton",Middle Eastern,25.0,Milton
+Double Double,QUICK BITES,,,"50 Market Drive, Milton","Pizza, Fast Food",25.0,Milton
+241 Pizza,QUICK BITES,,,"525 Ontario Street South, Milton","Pizza, Fast Food",30.0,Milton
+Little Caesars,QUICK BITES,,,"Milton Mall, 65 Ontario Street South, Milton","Pizza, Fast Food",25.0,Milton
+Ako Greek,QUICK BITES,,,"Milton Mall, 55 Ontario Street South, Milton","Greek, Fast Food",25.0,Milton
+Lunchbox Cafe & Catering,CAFÉ,,,"917 Nipissing Road, Milton",Cafe,25.0,Milton
+Pizza @ Turtle,QUICK BITES,,,"11318 Guelph Line, Milton","Pizza, Fast Food",25.0,Milton
+Locanda,CASUAL DINING,,,"175 Main Street E, Milton, ON L9T 1N7, Canada",Italian,20.0,Milton
+Halton Country Inn,CASUAL DINING,,,"9196 6th Line, Milton L9T2X7","Bar Food, Irish",43.0,Milton
+Mommy's Best Variety,QUICK BITES,,,"17 Wilson Drive, Milton",Filipino,25.0,Milton
+Pita & Grill,QUICK BITES,,,"1003 Maple Avenue, Milton",Middle Eastern,35.0,Milton
+Turtle Jack's,CASUAL DINING,,,"1101 Maple Ave, Milton L9T 0A5",Canadian,60.0,Milton
+Wendy's,FAST FOOD,,,80 Market Drive,"Fast Food, Burger",20.0,Milton
+The Trail Eatery,QUICK BITES,,,"35 Crawford Crescent, Toronto L0P 1B0",Canadian,30.0,Milton
+A & W,QUICK BITES,,,"235 Steeles Avenue East, Milton","Burger, Fast Food",25.0,Milton
+P.A.M.'S Coffee & Tea,QUICK BITES,,,"Milton Mall, 55 Ontario Street South, Milton",Cafe,25.0,Milton
+Country Style,CAFÉ,,,"1077A Guelph Line, Inside Petro Canada, Milton",Cafe,20.0,Milton
+Everest Restaurant,CASUAL DINING,,,"8724 Regional Road 25, Milton","Diner, Breakfast",25.0,Milton
+Dairy Queen Grill & Chill,FAST CASUAL,,,"500 Laurier Avenue, Unit 16",Fast Food,20.0,Milton
+Pure Health Bar,QUICK BITES,,,"Milton Mall, 55 Ontario Street South, Milton",Healthy Food,25.0,Milton
+Le Chateau Chicken,QUICK BITES,,,"13850 Steeles Avenue West, Milton, Ontario L7G 0J1",Fast Food,20.0,Milton
+Castle Lounge and Grill,BAR,,,"220 Main Street East, Milton",Bar Food,20.0,Milton

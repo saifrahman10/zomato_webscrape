@@ -1,0 +1,116 @@
+Name,EstablishmentType,Rating,NumReviews,Address,Cuisine,CostForTwo,City
+Sabai Sabai,CASUAL DINING,4.5,237.0,"81 Bloor Street E, Toronto M4W 1A9","Thai, Asian, Tapas",50.0,Yorkville
+Sassafraz,CASUAL DINING,4.2,300.0,"100 Cumberland Street, Toronto M5S 2W7","Canadian, French",90.0,Yorkville
+Trattoria Nervosa,CASUAL DINING,4.4,278.0,"75 Yorkville Avenue, Toronto M5R 1B8",Italian,70.0,Yorkville
+Café Boulud,FINE DINING,4.1,142.0,"Four Seasons Hotel Toronto, 60 Yorkville Avenue M4W 0A4",French,140.0,Yorkville
+Buca Osteria & Bar,CASUAL DINING,4.2,77.0,"53 Scollard Street, Toronto M5R 0A1","Italian, Seafood",90.0,Yorkville
+Yamato,CASUAL DINING,4.4,185.0,"24 Bellair Street, Toronto M5R 2C7","Japanese, Asian",100.0,Yorkville
+Joso's,FINE DINING,4.3,107.0,"202 Davenport Road, Toronto M5R 1J2","Mediterranean, Seafood",100.0,Yorkville
+Hemingway Bar & Restaurant,BAR,3.4,169.0,"142 Cumberland Street, Toronto M5R 1A8","Bar Food, Grill",70.0,Yorkville
+Sushi Inn,CASUAL DINING,3.9,172.0,"120 Cumberland Street, Toronto M5R 1A6","Sushi, Japanese",30.0,Yorkville
+Dimmi,CASUAL DINING,4.1,126.0,"140 Cumberland Street, Toronto M5R 1A8","Italian, Pizza",70.0,Yorkville
+Kothur Indian Cuisine,CASUAL DINING,3.9,117.0,"649 Yonge Street, Toronto M4Y 1Z9",Indian,50.0,Yorkville
+Jacques Bistro Du Parc,CASUAL DINING,4.4,75.0,"126A Cumberland Street, Toronto M5R 1A6",French,70.0,Yorkville
+Lee Chen,CASUAL DINING,4.0,86.0,"832 Yonge Street, Toronto M4W 2H1","Taiwanese, Chinese, Asian",35.0,Yorkville
+Courtyard Cafe - Windsor Arms,FINE DINING,3.7,75.0,"Windsor Arms, 18 St. Thomas Street, Toronto M5S 3E7",Canadian,110.0,Yorkville
+Museum Tavern,CASUAL DINING,3.9,84.0,"208 Bloor Street West, Second Floor, Toronto","Bar Food, American",70.0,Yorkville
+Carole's Cheesecake Cafe,CAFÉ,4.0,69.0,"114 Cumberland Street, Toronto M5R 3V5","Cafe, Bakery, Sandwich",25.0,Yorkville
+Blu Ristorante,CASUAL DINING,4.2,82.0,17A Yorkville Avenue M4W 1L1,Italian,90.0,Yorkville
+Kasa Moto,CASUAL DINING,3.2,34.0,"115 Yorkville Avenue, Toronto M5R 1C1","Sushi, Japanese",110.0,Yorkville
+Utsav,CASUAL DINING,4.2,84.0,"69 Yorkville Avenue, Toronto M5R 1B6",Indian,45.0,Yorkville
+Summer's,DESSERT PARLOR,4.3,77.0,"101 Yorkville Avenue, Toronto M5R 1C1","Ice Cream, Desserts",20.0,Yorkville
+Ici Bistro - Windsor Arms,CASUAL DINING,4.0,45.0,"Windsor Arms, 18 St. Thomas Street, Toronto M5S2C1",French,100.0,Yorkville
+Over Easy,CASUAL DINING,3.6,96.0,"208 Bloor Street West, Toronto M5S 3B4",Diner,35.0,Yorkville
+The Bagel Stop,CAFÉ,3.1,94.0,"Manulife Centre, Lower Level, 55 Bloor Street West, Toronto M4W 1A5",Cafe,15.0,Yorkville
+Dynasty Chinese,CASUAL DINING,3.5,76.0,"69 Yorkville Avenue, Toronto M5R 1B6","Dim Sum, Cantonese",80.0,Yorkville
+Aji Sai,CASUAL DINING,3.9,77.0,"813 Yonge Street, Toronto","Sushi, Japanese, Asian",70.0,Yorkville
+The One Eighty,CASUAL DINING,3.0,22.0,"51st Floor, Manulife Centre, 55 Bloor Street West, Toronto M4W 1A5",Canadian,90.0,Yorkville
+The Pilot,BAR,3.7,74.0,"22 Cumberland Street, Toronto M4W 1J5","Bar Food, American, Italian",60.0,Yorkville
+Paramount Fine Foods,CASUAL DINING,3.4,35.0,"1250 Bay Street, Toronto M5R 2A7","Lebanese, Middle Eastern",40.0,Yorkville
+Planta Yorkville,CASUAL DINING,3.6,25.0,1221 Bay Street M5R 3P5,Canadian,25.0,Yorkville
+Rawlicious,CASUAL DINING,3.7,56.0,"20 Cumberland Street, Toronto M4W 1J5","Healthy Food, Cafe",45.0,Yorkville
+Flo's Diner,CASUAL DINING,3.6,71.0,"70 Yorkville Avenue, Upper Level, Toronto M5R 1B9","Diner, Canadian",35.0,Yorkville
+Zaza Espresso Bar,CAFÉ,4.1,52.0,"75 Yorkville Avenue, Toronto M5R 1B8",Cafe,25.0,Yorkville
+Vaticano,CASUAL DINING,3.5,56.0,"25 Bellair Street, Toronto M5R3L3",Italian,80.0,Yorkville
+Dumpling Queen,CASUAL DINING,3.7,49.0,"649 Yonge Street, Toronto","Northern Chinese, Chinese, Asian",35.0,Yorkville
+Chabrol,CASUAL DINING,3.7,7.0,90 Yorkville Avenue,French,60.0,Yorkville
+Scaccia,CASUAL DINING,3.1,51.0,"Manulife Centre, Lower Level, 55 Bloor Street West, Toronto M4W 1A5",Italian,35.0,Yorkville
+Koko! Share Bar,CASUAL DINING,3.9,37.0,"81 Yorkville Avenue, Toronto M5R 1C1","Japanese, Korean",65.0,Yorkville
+Salute Piano Bar and Restaurant,BAR,3.4,44.0,"29 Bellair Street, Unit 7, Toronto M5R 1B8","European, Italian",90.0,Yorkville
+Holts Coffee Bar,CAFÉ,3.8,46.0,"Holt Renfrew Centre, 50 Bloor Street West, Toronto M4W 1A5",Cafe,25.0,Yorkville
+Caffe Di Portici,CAFÉ,3.9,28.0,"6 Scollard Street, Toronto M5R 1E9","Cafe, Italian",35.0,Yorkville
+70 Down,CASUAL DINING,3.4,35.0,"70 Yorkville Avenue, Toronto M5R 1B9","Mediterranean, Afghan",65.0,Yorkville
+Pusateri's,QUICK BITES,3.8,47.0,"57 Yorkville Avenue, Toronto M5R 3V6",Deli,25.0,Yorkville
+Cibo Wine Bar Yorkville,CASUAL DINING,3.4,10.0,"133 Yorkville Avenue, Toronto M5R 1C4",Italian,70.0,Yorkville
+Dessert Lady,DESSERT PARLOR,3.9,32.0,"12 Cumberland Street, Toronto M4W 1J5",Desserts,20.0,Yorkville
+Govinda's,CASUAL DINING,3.1,13.0,"243 Avenue Road, Toronto M5R 2J6",Indian,30.0,Yorkville
+Mykonos Mediterranean Grill,CASUAL DINING,4.0,42.0,"881 Yonge Street, Toronto M4W 2H2","Greek, Mediterranean",50.0,Yorkville
+STK Toronto,CASUAL DINING,2.9,13.0,153 Yorkville Avenue M5R 1C4,"Steak, Bar Food",125.0,Yorkville
+Salad Days,QUICK BITES,3.7,22.0,"Cumberland Terrace, 2 Bloor Street West, Toronto M4W 1A8",Healthy Food,25.0,Yorkville
+The Good Press,BEVERAGE SHOP,3.6,24.0,"87 Yorkville Avenue, Toronto M5R 1B9","Beverages, Juices, Healthy Food",30.0,Yorkville
+Bar Reyna,CASUAL DINING,3.3,10.0,"158 Cumberland Street, Toronto M5R 1A8","Mediterranean, Bar Food",25.0,Yorkville
+Xtreme Taste,QUICK BITES,3.8,27.0,"6 Cumberland Street, Toronto M4W 1j5","Mediterranean, Fast Food",20.0,Yorkville
+Shogun,CASUAL DINING,3.9,30.0,"154 Cumberland Street, Toronto M5R 1A8",Sushi,40.0,Yorkville
+Sawasdee,CASUAL DINING,3.1,26.0,"895 Yonge Street, Toronto M4W 2H2",Thai,35.0,Yorkville
+.Gelato Simply Italian,DESSERT PARLOR,3.8,28.0,"146 Cumberland Street, Toronto M5R 1A8","Ice Cream, Desserts, Cafe",15.0,Yorkville
+Sandwich Box,QUICK BITES,3.7,34.0,"1200 Bay Street, Toronto M5R2A5",Healthy Food,20.0,Yorkville
+Nespresso Boutique Bar,CAFÉ,3.7,18.0,"159 Cumberland Street, Toronto M5R 1A2",Cafe,25.0,Yorkville
+Prairie Girl Bakery,DESSERT PARLOR,3.5,20.0,"150 Bloor Street West, Toronto M5S 2X9",Desserts,15.0,Yorkville
+Caplansky's Deli,CASUAL DINING,3.2,9.0,"156 Cumberland Street, Toronto M5R 1A8","Deli, Diner, Sandwich",,Yorkville
+A La Carte At The Gardiner,CASUAL DINING,3.1,9.0,"The Gardiner Museum, 111 Queens Park, Toronto",European,70.0,Yorkville
+Kathmandu Restaurant,CASUAL DINING,3.6,12.0,"12 Cumberland Street, Toronto M4W 1J5","Nepalese, Indian",60.0,Yorkville
+Revitasize - Cold Pressed Juices,QUICK BITES,3.6,11.0,"70 Yorkville Avenue, Toronto M5R 1B9","Healthy Food, Juices",25.0,Yorkville
+Sorry Coffee Co.,CAFÉ,3.4,14.0,"102 Bloor Street West, Toronto M5S 1M8","Cafe, Coffee and Tea",15.0,Yorkville
+Trattoria Bacio,CASUAL DINING,3.8,20.0,"95 Cumberland Street, Toronto M5R3N7",Italian,30.0,Yorkville
+Esther Soups,QUICK BITES,3.8,13.0,"Cumberland Terrace, 2 Bloor Street West, Toronto M4W 1A8",Fast Food,10.0,Yorkville
+Pi Co.,CASUAL DINING,3.3,8.0,"1200 Bay Street, Toronto M5R 2A5",Pizza,25.0,Yorkville
+Picnic,CAFÉ,3.7,11.0,"Holt Renfrew Centre, 60 Bloor Street West, Toronto M4W 3L8","Healthy Food, Cafe",25.0,Yorkville
+BBQ Express,QUICK BITES,2.9,12.0,"1240 Bay Street, Toronto M5R 3N7",Fast Food,20.0,Yorkville
+Starbucks,CAFÉ,2.5,10.0,"1250 Bay Street, Toronto M5R 2A7",Cafe,20.0,Yorkville
+Estia,FINE DINING,,,90 Avenue Road M5R 2H2,"Italian, Spanish",,Yorkville
+Timothy's,CAFÉ,3.1,17.0,"Manulife Centre, 55 Bloor Street West, Toronto M4W 1A5",Cafe,25.0,Yorkville
+The Grind,QUICK BITES,3.2,7.0,"Hudson Bay Centre, 20 Bloor Street West, Toronto M4W 3G7",Cafe,,Yorkville
+Bhoj Indian Cuisine,CASUAL DINING,3.0,11.0,"21 Davenport Road, Toronto M5R 1H2",Indian,25.0,Yorkville
+Big Smoke Burger,QUICK BITES,3.2,12.0,"830 Yonge Street, Toronto M4W2H1","Burger, Fast Food",25.0,Yorkville
+Eat A Pita,QUICK BITES,3.0,11.0,"6 Cumberland Street, Toronto M5R 3V5","Middle Eastern, Fast Food",25.0,Yorkville
+Freshii,QUICK BITES,2.6,8.0,"1250 Bay Street, Toronto M5R 2A7",Healthy Food,30.0,Yorkville
+Roasty Jack,QUICK BITES,3.0,12.0,"Cumberland Terrace, Food Court, 2 Bloor Street West, Toronto M4W1A8",American,20.0,Yorkville
+Dessert Lady Cafe & Bakery,CAFÉ,,,"1 Sultan Street, Yorkville, Toronto","Cafe, Bakery",15.0,Yorkville
+Cafe Moi,CAFÉ,3.7,4.0,"1200 Bay Street, Toronto M5R2A5","Cafe, Colombian, Sandwich",15.0,Yorkville
+Colonnade Gourmet & Kitchen,CAFÉ,3.6,13.0,"131 Bloor Street West, Toronto M5S 3L7",Cafe,25.0,Yorkville
+Anoush,QUICK BITES,2.8,10.0,"Cumberland Terrace, Food Court, 2 Bloor Street West, Toronto M4W 1A8",Middle Eastern,25.0,Yorkville
+Second Cup,CAFÉ,2.6,8.0,"Holt Renfrew Centre, 60 Bloor Street West, Toronto M4W 1J2","Cafe, Coffee and Tea, Frozen Yogurt",10.0,Yorkville
+Holts Gourmet,CASUAL DINING,2.8,8.0,"Holt Renfrew Centre, 50 Bloor Street West, Toronto M4W 1A1",Cafe,,Yorkville
+Tim Hortons,CAFÉ,3.7,9.0,1170 Bay Street,"American, Donuts, Desserts",20.0,Yorkville
+Sushi On The Run,QUICK BITES,3.4,8.0,"Cumberland Terrace, Food Court, 2 Bloor Street West, Toronto M4W 3E2","Sushi, Japanese, Asian",20.0,Yorkville
+Metropolis Bakeshop,QUICK BITES,3.1,6.0,"Cumberland Terrace, 2 Bloor Street West, Toronto M4W 1A8",Korean,20.0,Yorkville
+Pizzaiolo,QUICK BITES,3.1,6.0,"834 Yonge Street, Toronto M4W 2H1","Pizza, Fast Food",30.0,Yorkville
+Monga Fried Chicken,CASUAL DINING,,,"692 Yonge St, Toronto, ON M4Y 2A6",Chinese,20.0,Yorkville
+L'Express - The Bloor Street Diner,CAFÉ,3.3,9.0,"Manulife Centre, 55 Bloor Street West, Toronto M4W 1A5",Cafe,30.0,Yorkville
+Teriyaki Experience,QUICK BITES,2.8,7.0,"Cumberland Terrace, Food Court, 2 Bloor Street West, Toronto M4W 1A8",Japanese,20.0,Yorkville
+Trattoria Fieramosca,CASUAL DINING,,,"36 A Prince Arthur Ave, Yorkville, Toronto",Italian,50.0,Yorkville
+South St. Burger Co.,QUICK BITES,,,"102 Yorkville Avenue, Toronto M5R 1B9","Fast Food, Burger",25.0,Yorkville
+Manchu Wok,QUICK BITES,3.1,7.0,"Cumberland Terrace, Food Court, 2 Bloor Street West, Toronto M4W 1A8","Fast Food, Chinese, Asian",25.0,Yorkville
+Scollard Deli,CASUAL DINING,3.5,4.0,"105 Scollard Street, Toronto M5R 1G4","Deli, Mediterranean",35.0,Yorkville
+Cafe Iris,CAFÉ,3.6,4.0,"1240 Bay Street, Toronto M5R 3N7","Cafe, Asian, Chinese",20.0,Yorkville
+T-Rex Zone,QUICK BITES,3.4,6.0,"Cumberland Terrace, Food Court, 2 Bloor Street West, Toronto M4W 1J5",Healthy Food,20.0,Yorkville
+Metropolis Cafe,Other,,,"Cumberland Terrace, Food Court, 2 Bloor Street West, Toronto M4W3E2",Korean,25.0,Yorkville
+Golden Mint Coffee + Tea Co.,CAFÉ,,,"990 Yonge Street, Toronto M4W 2H2",Cafe,30.0,Yorkville
+Posh Supperclub,CASUAL DINING,,,50 Cumberland Street M4W 3R1,Canadian,,Yorkville
+Nero Express,QUICK BITES,3.2,5.0,"Cumberland Terrace, Food Court, 2 Bloor Street West, Toronto M4W 1A8","Fast Food, Italian",20.0,Yorkville
+Freshii in Yorkville Village,CASUAL DINING,,,"55 Avenue Road, Food Hall, Toronto M5R 3LR","Canadian, Healthy Food, Sandwich",15.0,Yorkville
+Freshly Squeezed,BEVERAGE SHOP,,,"Holt Renfrew Centre, 50 Bloor Street West, Toronto M4W 1A5","Juices, Beverages",15.0,Yorkville
+Goldstruck Coffee,CAFÉ,,,"130 Cumberland Street, Toronto M5R",Cafe,10.0,Yorkville
+Teuscher,DESSERT PARLOR,,,"Manulife Centre, Inside William Ashley, 55 Bloor Street West, Toronto M4W 1A5",Desserts,15.0,Yorkville
+Second Cup Coffee Co. featuring Pinkberry Frozen Yogurt,Other,,,60 Bloor Street West M4W1J2,Coffee and Tea,13.0,Yorkville
+Druxy's Famous Deli,QUICK BITES,,,"60 Bloor Street West, Unit C10 Toronto M4W 3B8","Fast Food, Sandwich",25.0,Yorkville
+L'Unità Enoteca,CASUAL DINING,,,"134 Avenue Road, Yorkville, Toronto",Italian,55.0,Yorkville
+Jack Astor's - Toronto (Yonge & Dundas),CASUAL DINING,,,2 Bloor Street East M4W 3T3,Canadian,,Yorkville
+Calii Love,QUICK BITES,,,"1235 Bay Street, Toronto, ON M5R 3K4","Hawaiian, Vegetarian",15.0,Yorkville
+Country Style,CAFÉ,,,"706 Yonge Street, Toronto",Cafe,20.0,Yorkville
+Teavana,BEVERAGE SHOP,,,"Holt Renfrew Centre, 50 Bloor Street West, Toronto M4W 1A5","Tea, Beverages",20.0,Yorkville
+Druxy's Famous Deli,CASUAL DINING,,,200 Elizabeth Street M5G 2C4,Canadian,20.0,Yorkville
+Spring Cafe Bistro,CAFÉ,,,"931 Yonge Street, Toronto M4W 2H2","Cafe, Breakfast",30.0,Yorkville
+McEwan,QUICK BITES,,,"1 Bloor Street East, Toronto, ON M4W 1A9",Bakery,15.0,Yorkville
+Kiro Sushi,CASUAL DINING,,,"4 Collier Street, Toronto, ON M4W 2G9",Sushi,35.0,Yorkville
+Fennel Organic Eatery,QUICK BITES,,,"322 Bloor St W, Yorkville, Toronto",Healthy Food,30.0,Yorkville

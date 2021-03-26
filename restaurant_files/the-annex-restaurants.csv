@@ -1,0 +1,115 @@
+Name,EstablishmentType,Rating,NumReviews,Address,Cuisine,CostForTwo,City
+Playa Cabana,CASUAL DINING,4.4,309.0,"111 Dupont Street, Toronto M5R 1V4",Mexican,70.0,The Annex
+Rose & Sons,CASUAL DINING,4.1,200.0,"176 Dupont Street, Toronto M5R 2E6","American, Fusion",70.0,The Annex
+El Furniture Warehouse,CASUAL DINING,3.8,142.0,"410 Bloor Street West, Toronto","American, Bar Food",30.0,The Annex
+Fat Pasha,CASUAL DINING,3.9,130.0,"414 Dupont Street, Toronto M5R 1V9",Middle Eastern,80.0,The Annex
+Snakes & Lattes,CAFÉ,4.4,157.0,"600 Bloor Street West, Toronto M6G 1K4",Cafe,30.0,The Annex
+Sotto Sotto,FINE DINING,4.1,163.0,"120 Avenue Road, Toronto M5R 2H4",Italian,150.0,The Annex
+Live Organic Food Bar,CASUAL DINING,4.1,126.0,"264 Dupont Street, Toronto M5R 1V9",Healthy Food,60.0,The Annex
+Roti Cuisine Of India,CASUAL DINING,4.6,116.0,"308 Dupont Street, Toronto M5R 1V9",Indian,40.0,The Annex
+Mistura,FINE DINING,4.3,122.0,"265 Davenport Road, Toronto M5R 1J9",Italian,150.0,The Annex
+Morton's - Park Hyatt Toronto Yorkville,FINE DINING,4.1,119.0,"Park Hyatt Toronto Yorkville, 4 Avenue Road, Toronto M5R 2E8",Steak,180.0,The Annex
+Country Style Hungarian Restaurant,CASUAL DINING,4.4,114.0,"450 Bloor Street West, Toronto M5S 1X8",Hungarian,55.0,The Annex
+Le Paradis,CASUAL DINING,4.3,147.0,"166 Bedford Road, Toronto M5R 2K9","French, Brasserie",80.0,The Annex
+One Restaurant,FINE DINING,4.0,136.0,"116 Yorkville Avenue, Toronto M5R 1C2","Modern European, Steak, Seafood, Italian, Breakfast",150.0,The Annex
+Famoso Neapolitan Pizzeria,CASUAL DINING,4.2,118.0,"386 Bloor Street West, Toronto M5S 1X4","Pizza, Italian",40.0,The Annex
+Aroma Espresso Bar,CAFÉ,4.2,169.0,"500 Bloor Street West, Toronto",Cafe,25.0,The Annex
+Thai Basil,CASUAL DINING,4.1,132.0,"467 Bloor Street West, Toronto M5S 1X9","Thai, Asian",50.0,The Annex
+The Host,CASUAL DINING,4.1,115.0,"14 Prince Arthur Avenue, Toronto M5R 1A9",Indian,60.0,The Annex
+Playa Cabana Hacienda,CASUAL DINING,3.7,95.0,"14 Dupont Street, Toronto M5R 1V2",Mexican,70.0,The Annex
+Victory Cafe,CASUAL DINING,3.7,122.0,"440 Bloor Street W, The Annex, Toronto M6G 2L7","Bar Food, Canadian",55.0,The Annex
+Fanny Chadwick's,CASUAL DINING,3.9,90.0,"268 Howland Avenue, Toronto M5R 3B6","Canadian, Diner",55.0,The Annex
+Big Crow,CASUAL DINING,3.8,44.0,"176 Dupont Street, Toronto M5R2E6","American, BBQ",70.0,The Annex
+L'Unita,CASUAL DINING,4.0,75.0,"134 Avenue Road, Toronto",Italian,90.0,The Annex
+Annona - Park Hyatt Toronto Yorkville,CASUAL DINING,3.9,74.0,"Park Hyatt Toronto Yorkville, 4 Avenue Road, Toronto M5R 2E8","Canadian, Breakfast",100.0,The Annex
+Big Sushi,CASUAL DINING,4.2,103.0,"388 Bloor Street West, Toronto M5X 1S4","Sushi, Japanese, Asian",30.0,The Annex
+Ka Chi,CASUAL DINING,4.1,112.0,"585 Bloor Street West, Toronto","Korean, Asian",45.0,The Annex
+Sky Blue Sky Sandwich Company,QUICK BITES,4.1,67.0,"605 Bloor Street West, Toronto M6G 1K6",Sandwich,20.0,The Annex
+Sakura,CASUAL DINING,3.9,87.0,"394 Bloor Street West, Toronto M5S 1Y2","Sushi, Japanese, Asian",45.0,The Annex
+The Oxley,CASUAL DINING,4.0,71.0,"121 Yorkville Avenue, Toronto M5R 1C4","British, Bar Food",90.0,The Annex
+Opus Restaurant,FINE DINING,4.1,54.0,"37 Prince Arthur Avenue, Toronto M5R 1B2",Canadian,85.0,The Annex
+Burrito Bandidos,QUICK BITES,4.2,99.0,"2 Walmer Road, Toronto M5R 2W3","Fast Food, Mexican",25.0,The Annex
+Bar Mercurio,CASUAL DINING,4.1,73.0,"270 Bloor Street West, Toronto M5S 1V8",Italian,80.0,The Annex
+Paupers Pub,BAR,3.4,86.0,"539 Bloor Street West, Toronto M5S1Y5","Bar Food, American",70.0,The Annex
+The Pour House,CASUAL DINING,3.8,81.0,"182 Dupont Street, Toronto M5R 2E6","Bar Food, Irish",65.0,The Annex
+L'Espresso Bar Mercurio,CASUAL DINING,3.4,71.0,"321 Bloor Street West, Toronto M5S 1S5","European, Cafe",50.0,The Annex
+The Bedford Academy,CASUAL DINING,3.8,72.0,"36 Prince Arthur Avenue, Toronto M5R 1A9","Bar Food, Canadian",60.0,The Annex
+Aka Teppan,CASUAL DINING,3.5,17.0,"394 Bloor Street West, Toronto","Japanese, Asian",30.0,The Annex
+Madison Avenue Pub,BAR,3.6,78.0,"14 Madison Avenue, Toronto M5R 2S1",Bar Food,50.0,The Annex
+Ghazale,QUICK BITES,4.0,78.0,"504 Bloor Street West, Toronto M5S 1Y3",Middle Eastern,20.0,The Annex
+Avenue Diner,CASUAL DINING,3.9,64.0,222 Davenport Road,Diner,35.0,The Annex
+Duke Of York,BAR,3.6,55.0,"39 Prince Arthur Avenue, Toronto M5R 1B2",Bar Food,60.0,The Annex
+Cantine,CASUAL DINING,3.7,54.0,"138 Avenue Road, Toronto M5R 2H6",Italian,80.0,The Annex
+Fieramosca,CASUAL DINING,4.2,44.0,"36A Prince Arthur Avenue, Toronto M5R 1A9",Italian,80.0,The Annex
+Korea House,CASUAL DINING,3.8,52.0,"666 Bloor Street West, Toronto","Korean, Asian",40.0,The Annex
+Ezra's Pound,CAFÉ,3.5,49.0,"238 Dupont Street, Toronto M5R1V7",Cafe,20.0,The Annex
+Original Gyros,CASUAL DINING,3.6,25.0,"4 Walmer Road, Toronto M5S 1X2","Greek, Fast Food",25.0,The Annex
+Gabby's,BAR,2.7,59.0,"192 Bloor Street West, Toronto M5S 1T8",Bar Food,55.0,The Annex
+Figures,CASUAL DINING,3.1,11.0,"137 Avenue Road, Toronto M5R 1R2","Canadian, Continental, Tapas",25.0,The Annex
+The Roof Lounge - Park Hyatt Toronto Yorkville,Other,3.5,24.0,"Park Hyatt Toronto Yorkville, 4 Avenue Road, Toronto M5R 2E5","Bar Food, American, European",70.0,The Annex
+Aviv,CASUAL DINING,3.2,29.0,"328 Dupont Street, Toronto",Mediterranean,65.0,The Annex
+Martino,QUICK BITES,3.9,34.0,"178 Dupont Street, Toronto M5R 2E6","Chinese, Thai, Asian, Pizza, Italian",25.0,The Annex
+Bryan's BBQ,CASUAL DINING,2.8,28.0,"606 Bloor Street West, Toronto","BBQ, Korean, Asian",50.0,The Annex
+Gordo Ex Cafe,CAFÉ,3.4,18.0,"1048 Bathurst Street, Toronto","Latin American, Cafe",30.0,The Annex
+Il Posto,CASUAL DINING,2.8,32.0,"148 Yorkville Avenue, Toronto M5R 3N5",Italian,80.0,The Annex
+St. Louis Bar and Grill,BAR,3.7,35.0,"376 Bloor Street West, Toronto M5S 1X2","Bar Food, Grill",40.0,The Annex
+Mariko,CASUAL DINING,2.8,38.0,"551 Bloor Street West, Toronto","Sushi, Japanese, Asian",45.0,The Annex
+Be Thai,CASUAL DINING,3.7,22.0,"150 Avenue Road, Toronto M5R 2H8",Thai,45.0,The Annex
+Big Tuna Poké Bar,CASUAL DINING,3.5,11.0,"599 Bloor Street West, Toronto, M6G 1K5","Asian, Asian Fusion",25.0,The Annex
+Schmaltz Appetizing,QUICK BITES,3.5,10.0,"414 Dupont Street, Toronto M5R 1V9",Jewish,25.0,The Annex
+Chatime,BEVERAGE SHOP,3.0,15.0,"337A Bloor Street West, Toronto","Bubble Tea, Beverages, Taiwanese",15.0,The Annex
+Flaming Bull,CASUAL DINING,2.9,4.0,378 Bloor Street West,"Asian Fusion, Chinese, Taiwanese",130.0,The Annex
+Hancook,CASUAL DINING,3.4,5.0,"605 Bloor Street W, Toronto M6G 1K6",Korean,25.0,The Annex
+Signatures Restaurant - InterContinental Toronto...,FINE DINING,3.7,14.0,"InterContinental Toronto Yorkville, 220 Bloor Street West, Toronto M56 1T8",Canadian,140.0,The Annex
+Havana Coffee Bar,CAFÉ,3.4,13.0,"233 Davenport Road, Toronto M5R 1J8",Cafe,20.0,The Annex
+Proof Vodka Bar - InterContinental Toronto Yorkville,Other,3.2,17.0,"InterContinental Toronto Yorkville, 220 Bloor Street West, Toronto M5S 1T8","Tapas, Grill, Seafood",100.0,The Annex
+Fuwa Fuwa Japanese Pancakes,CAFÉ,3.2,7.0,"408 Bloor St W, The Annex, Toronto",Cafe,15.0,The Annex
+Regal Beagle Pub,BAR,3.3,21.0,"355 Bloor Street West, Toronto M5S",Bar Food,55.0,The Annex
+Sopra Upper Lounge,CASUAL DINING,3.7,19.0,"265 Davenport Road, Second Floor, Toronto M5R",Italian,80.0,The Annex
+Toronto SkyLounge - InterContinental Toronto Yorkville,Other,2.7,11.0,"InterContinental Toronto Yorkville, 220 Bloor Street West, Toronto M5S 1T8",Tapas,80.0,The Annex
+Master's Buffeteria,CASUAL DINING,3.1,5.0,"310 Bloor Street West, Toronto M5S 1W4",Diner,30.0,The Annex
+Evoo Ristorante,CASUAL DINING,3.2,5.0,"138 Avenue Road, Toronto M5R 2H6",Italian,,The Annex
+Tim Hortons,CAFÉ,3.5,16.0,246 Bloor Street West,"American, Donuts, Desserts",20.0,The Annex
+Chadwick's Craft Kitchen & Bar,CASUAL DINING,3.0,6.0,"268 Howland Avenue, Toronto M5R 3B6","Canadian, Southern",40.0,The Annex
+Super Jet International,CAFÉ,3.2,13.0,"346 Dupont Street, Toronto M5R 1V9",Cafe,15.0,The Annex
+David's Tea,BEVERAGE SHOP,3.8,12.0,"424 Bloor Street West, Toronto","Tea, Beverages",15.0,The Annex
+Sweet Fantasies,DESSERT PARLOR,3.6,12.0,"398 Bloor Street West, Toronto","Ice Cream, Desserts",15.0,The Annex
+Popeyes,QUICK BITES,3.1,11.0,"553 Bloor Street West, Toronto",Fast Food,25.0,The Annex
+Swiss Chalet,QUICK BITES,2.7,8.0,"346 Bloor Street West, Toronto M5S 2J2",Canadian,40.0,The Annex
+Eat BKK,Other,,,"384 Bloor Street West, Toronto, ON M5S 1X2",Thai,20.0,The Annex
+Beer Station,BAR,2.6,9.0,"549 Bloor Street West, Toronto","Bar Food, American",55.0,The Annex
+Creeds Coffee Bar,CAFÉ,3.3,13.0,"390 Dupont Street, Toronto M5R 1V9","Cafe, Coffee and Tea",20.0,The Annex
+Annex Grill & Bar,CASUAL DINING,3.2,12.0,"262 Dupont Street, Toronto M5R 1V7","Chinese, Canadian",25.0,The Annex
+MoRoCo Chocolate,DESSERT PARLOR,,,"215 Madison Avenue, Toronto M5R 2S6",Desserts,15.0,The Annex
+Hero Certified Burgers,QUICK BITES,3.7,11.0,"55 Avenue Road, Toronto M5R 3L2","Burger, Sandwich",25.0,The Annex
+Pizzaiolo,QUICK BITES,3.0,7.0,"346 Bloor Street West, Toronto","Pizza, Fast Food",30.0,The Annex
+The Burger's Priest,QUICK BITES,3.6,6.0,"406 Bloor Street West, Toronto M5S 1X5",Burger,30.0,The Annex
+Subway,QUICK BITES,3.2,9.0,"306 Davenport Road, Toronto",Fast Food,20.0,The Annex
+Amber,Other,3.0,7.0,"119 Yorkville Avenue, Toronto M5R 1C4",Bar Food,75.0,The Annex
+The Salt & Pepper Catering Co.,CAFÉ,2.3,9.0,"287 Davenport Road, Toronto","Cafe, Desserts",25.0,The Annex
+Pizza Pizza,QUICK BITES,2.3,9.0,"328 Bloor Street West, Toronto","Pizza, Fast Food",25.0,The Annex
+Ghazi,BEVERAGE SHOP,3.5,6.0,"508 Bloor Street West, Toronto M5S1Y5","Juices, Beverages",15.0,The Annex
+The Original Gyro Grill,CASUAL DINING,,,"4 Walmer Road, Toronto M5S 1X2","Greek, BBQ",25.0,The Annex
+Abokichi,QUICK BITES,,,"258 Dupont Street, Toronto M5R1V7",Cafe,20.0,The Annex
+Union Juice,BEVERAGE SHOP,,,"382 Bloor Street West, Toronto M5S1X2","Beverages, Juices",20.0,The Annex
+Seoul Shakers,CASUAL DINING,,,"1241 Bloor Street West, Toronto, ON M6H 1N6",Korean,25.0,The Annex
+The Boil Bar,CASUAL DINING,,,"442 Bloor Street W, Toronto M5S 1X8","Seafood, Cajun",30.0,The Annex
+Starbucks,CAFÉ,3.0,5.0,"1 Bedford Road, Toronto",Cafe,20.0,The Annex
+Menchella's Gourmet Pizza,QUICK BITES,3.4,6.0,"454 Bloor Street West, Toronto M5S 1X8","Pizza, Italian",25.0,The Annex
+Hi! There,CASUAL DINING,2.6,4.0,"599 Bloor Street West, Toronto M6G 1K5",Korean,35.0,The Annex
+Vietnam Lovely Noodle,CASUAL DINING,,,"378 Bloor Street W, Toronto, ON M5S 1X2",Vietnamese,35.0,The Annex
+Fennel Eatery,CASUAL DINING,,,"322 Bloor St W, Toronto, ON",Vegetarian,20.0,The Annex
+Fet Zun,FAST CASUAL,,,"252 Dupont Street, Toronto, ON M5R 1V7",Middle Eastern,35.0,The Annex
+OISE Cafe,CAFÉ,,,"University of Toronto - Ontario Institute for Studies in Education, 252 Bloor Street West, Toronto M5S 1V6",Cafe,20.0,The Annex
+The Coffee Lab,BAKERY,,,"333 Bloor Street, West M5S 1W7","Bakery, Coffee and Tea",,The Annex
+Potbelly Sandwich Shop,QUICK BITES,,,"180 Bloor Street, W Suite 107, Toronto, ON M5S 1T6, Toronto","Salad, Sandwich",15.0,The Annex
+Gyubee Japanese BBQ,CASUAL DINING,,,"335 Bloor Street West, Toronto, ON M5S 1W7","Japanese, Grill",35.0,The Annex
+P.G Clucks,Other,,,"384 Bloor Street West, Toronto, ON M5S 1X2","Sandwich, Fast Food",15.0,The Annex
+Avocado,QUICK BITES,,,"284 Dupont Street, Toronto M5R1V9",Healthy Food,35.0,The Annex
+Country Style,BAKERY,,,"272 Dupont Street, Toronto",Cafe,20.0,The Annex
+Fit For Life,QUICK BITES,,,"819 Bathurst Street, Toronto","Healthy Food, Fast Food",25.0,The Annex
+Mean Bao,Other,,,"384 Bloor Street West, Toronto, ON M5S 1X2",Chinese,20.0,The Annex
+Rustle and Still Vietnamese Cafe,CAFÉ,,,"605 Bloor Street W, Toronto, ON M6G 1K6",Cafe,20.0,The Annex
+La Luce Cakes,BAKERY,,,"182 Avenue Road, Toronto M5R2J1",Bakery,15.0,The Annex
+South St. Burger,QUICK BITES,,,55 Avenue Rd F02,Fast Food,25.0,The Annex
+Daddyo’s Pasta & Salads,FAST CASUAL,,,"673 Spadina Avenue, Toronto, ON M5S 2H9","Salad, Italian",25.0,The Annex

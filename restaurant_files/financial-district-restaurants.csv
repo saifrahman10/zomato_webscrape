@@ -1,0 +1,192 @@
+Name,EstablishmentType,Rating,NumReviews,Address,Cuisine,CostForTwo,City
+Richmond Station,CASUAL DINING,4.8,490.0,"1 Richmond Street West, Suite 120, Toronto M5H 3W4","Italian, Canadian",80.0,Financial District
+Canoe,FINE DINING,4.4,675.0,"66 Wellington St. W, TD Bank Tower, 54th Floor, Toronto M5K 1H6 1H6","Canadian, Bar Food",150.0,Financial District
+Bymark,FINE DINING,4.7,290.0,"Toronto Dominion Centre, 66 Wellington Street West, Toronto M5K 1M6",Canadian,120.0,Financial District
+The Gabardine,CASUAL DINING,4.1,190.0,"372 Bay Street, Toronto M5H 2W9","Canadian, Breakfast",75.0,Financial District
+Earls,CASUAL DINING,4.0,220.0,"150 King Street West, Toronto M5H 1J9",Grill,100.0,Financial District
+The Chase,FINE DINING,4.1,149.0,"10 Temperance Street, 5th Floor, Toronto","Seafood, Canadian",120.0,Financial District
+ki modern japanese + bar,CASUAL DINING,4.1,223.0,181 Bay Street M5J 2T3,"Japanese, Asian",80.0,Financial District
+Jump,CASUAL DINING,4.1,206.0,"18 Wellington Street West, Toronto, ON M5L 1G4","Grill, American, Italian, Bar Food, Canadian",,Financial District
+Cactus Club Cafe,CASUAL DINING,4.0,83.0,"77 Adelaide St W, Toronto M5X 1C1",Grill,50.0,Financial District
+Drake One Fifty,CASUAL DINING,4.0,123.0,"150 York Street, Toronto M5H 3S5","Canadian, American, Grill",120.0,Financial District
+Reds Wine Tavern,CASUAL DINING,3.9,144.0,"First Canadian Place, 77 Adelaide Street West, Toronto","Grill, European",70.0,Financial District
+VOLOS,CASUAL DINING,4.1,110.0,133 Richmond Street West M5H 2L3,"Greek, Seafood, Mediterranean",100.0,Financial District
+Ruth's Chris Steak House,CASUAL DINING,3.8,169.0,145 Richmond Street Hilton Toronto M5H 2L2,"Steak, American",150.0,Financial District
+Bannock,CASUAL DINING,3.9,82.0,"401 Bay St., Toronto, ON M5H 2Y4",Canadian,60.0,Financial District
+East Thirty-Six,CASUAL DINING,3.8,63.0,"36 Wellington Street East, Toronto M5E 1C9","Canadian, European",80.0,Financial District
+Hy's Steakhouse,FINE DINING,4.0,108.0,"Richmond Adelaide Centre, 120 Adelaide Street West, Toronto M5H 1T1",Steak,120.0,Financial District
+Mercatto,CASUAL DINING,4.1,116.0,"330 Bay Street, Toronto",Italian,70.0,Financial District
+America Restaurant - Trump International Hotel and...,FINE DINING,3.7,62.0,"Trump International Hotel and Tower, 31st Floor, 325 Bay Street, Toronto M5H 4G3","American, European",180.0,Financial District
+Maman,CAFÉ,3.2,21.0,"First Canadian Place, Upper Level, 100 King Street West, Toronto M5X 1B1",Cafe,25.0,Financial District
+Benihana Japanese Steakhouse - The Fairmont Royal York,CASUAL DINING,3.4,72.0,"The Fairmont Royal York, 100 Front Street West, Toronto M5J 1E3","Japanese, Steak",100.0,Financial District
+Library Bar - The Fairmont Royal York,CASUAL DINING,3.8,50.0,"The Fairmont Royal York, 100 Front Street West, Toronto M5J 1E3","Bar Food, Canadian, Tea",70.0,Financial District
+Sunset Grill,CASUAL DINING,3.9,66.0,"1 Richmond Street West, Toronto","Diner, Breakfast",30.0,Financial District
+Kupfert & Kim,CAFÉ,3.7,44.0,"First Canadian Place, 100 King Street West, The PATH, Toronto MX5 1C7","Cafe, Healthy Food",30.0,Financial District
+Quinn's Steakhouse & Irish Bar - Sheraton Hotel,BAR,3.9,74.0,"Sheraton Centre Toronto Hotel, 96 Richmond Street West, Toronto","Steak, Bar Food, Irish",120.0,Financial District
+Little Anthony's,CASUAL DINING,3.8,71.0,121 Richmond Street,Italian,100.0,Financial District
+Leña Restaurante,CASUAL DINING,3.2,30.0,"176 Yonge Street, Toronto, ON M5C 2L7 2L7",Latin American,,Financial District
+Over Easy - Hotel Victoria,CASUAL DINING,3.5,60.0,"Hotel Victoria, 56 Yonge Street, Toronto M5E1G5",Diner,35.0,Financial District
+Modus Ristorante,FINE DINING,3.9,45.0,"145 King Street West, Toronto M5H 1J8",Italian,100.0,Financial District
+iQ Food Co.,CAFÉ,3.7,32.0,"Brookfield Place, 181 Bay Street, Toronto",Cafe,25.0,Financial District
+Duke Of Devon,CASUAL DINING,3.7,53.0,"Toronto Dominion Centre, 66 Wellington Street West, Toronto M5K 1H1",British,50.0,Financial District
+Speakeasy 21,CASUAL DINING,3.3,37.0,"Scotia Plaza, 21 Adelaide Street West, Toronto M5H 1N1",Canadian,60.0,Financial District
+The 3 Brewers,CASUAL DINING,3.0,23.0,"Richmond Adelaide Centre, 120 Adelaide Street West, Toronto","American, Bar Food",65.0,Financial District
+Shopsy's - Sheraton Hotel,CAFÉ,3.2,47.0,"Sheraton Centre Toronto Hotel, 96 Richmond Street West, Toronto M5H 2A3","Deli, Cafe",45.0,Financial District
+Rocky Mountain Chocolate Factory,DESSERT PARLOR,3.7,40.0,"Brookfield Place, 181 Bay Street, The PATH, Toronto",Desserts,15.0,Financial District
+John & Sons Oyster House,CASUAL DINING,3.6,23.0,"56 Temperance Street, Toronto",Seafood,100.0,Financial District
+Four,CASUAL DINING,3.8,40.0,"187 Bay Street, Lower Level, Toronto M5L1G5",Canadian,100.0,Financial District
+Ninki,CASUAL DINING,3.2,36.0,"Scotia Plaza, 40 King Street West, The PATH, Toronto","Japanese, Asian",70.0,Financial District
+LBS,CASUAL DINING,3.5,11.0,100 Yonge Street M5C 2W1,"Burger, Canadian, Seafood",,Financial District
+The Strath Pub - The Strathcona Hotel,BAR,3.6,20.0,"The Strathcona Hotel, 60 York Street, Toronto",Bar Food,65.0,Financial District
+The Rum Exchange,BAR,3.6,14.0,"67 Richmond Street West, Toronto M5H 1Z5",Bar Food,60.0,Financial District
+Stratus,CASUAL DINING,3.6,18.0,"TD South Tower, 36th Floor, 79 Wellington Street West, Toronto M5J 2Z9","Grill, Canadian, European",70.0,Financial District
+Crave Healthy Habits,QUICK BITES,2.9,11.0,"145 King Street West, THE PATH, Toronto M5H 1J8",Healthy Food,25.0,Financial District
+Bardi's Steak House,FINE DINING,3.6,31.0,"56 York Street, Toronto M5J 1S8",Steak,120.0,Financial District
+CRAFT Beer Market,CASUAL DINING,3.3,8.0,"1 Adelaide Street E, Suite 101, Toronto","American, Pub Food",,Financial District
+Tundra,CASUAL DINING,2.7,34.0,145 Richmond Street West M5H 2L2,Canadian,90.0,Financial District
+Rosalinda,CASUAL DINING,3.2,10.0,"133 Richmond St W Toronto, ON",Mexican,50.0,Financial District
+The Bottom Line,CASUAL DINING,3.6,32.0,"22 Front Street West, Toronto M5J 1C4","Grill, Bar Food",65.0,Financial District
+M Square Coffee Co.,CAFÉ,3.6,13.0,"The Plaza At Sheraton Centre, 123 Queen Street West, The PATH, Toronto M5H 3K6",Cafe,20.0,Financial District
+Sam James Coffee Bar,CAFÉ,3.7,14.0,"Sun Life Financial Tower, 150 King Street West, The PATH, Toronto",Cafe,15.0,Financial District
+Amaya Express,QUICK BITES,3.1,24.0,"First Canadian Place, Food Court, 100 King Street West, Toronto",Indian,40.0,Financial District
+Nadège,DESSERT PARLOR,3.3,10.0,"Richmond Adelaide Centre, 120 Adelaide Street West, The PATH, Toronto","Desserts, Patisserie, Cafe",20.0,Financial District
+Mos Mos,CAFÉ,3.7,13.0,"Commerce Court, 25 King Street West, The PATH, Toronto M5L 2A1",Cafe,15.0,Financial District
+Jelly Modern Doughnuts,DESSERT PARLOR,3.1,9.0,"181 Bay Street, Toronto M5J2T3",Desserts,10.0,Financial District
+Mio Ristobar,CASUAL DINING,3.0,21.0,"Scotia Plaza, 40 King Street West, The PATH, Toronto",Italian,25.0,Financial District
+Z-Teca,QUICK BITES,2.6,24.0,"Commerce Court, 199 Bay Street, The PATH, Toronto",Tex-Mex,25.0,Financial District
+Prairie Girl Bakery,DESSERT PARLOR,3.1,11.0,"First Canadian Place, 100 King Street West, The PATH, Toronto",Desserts,15.0,Financial District
+Pumpernickel's,QUICK BITES,2.9,19.0,"Brookfield Place, 181 Bay Street, The PATH, Toronto","Deli, Fast Food",25.0,Financial District
+Market Coffee,QUICK BITES,3.8,14.0,"Richtree Market, Eaton Centre, Level One, 14 Queen Street West, Toronto",Cafe,20.0,Financial District
+Freshii,QUICK BITES,3.1,14.0,"Exchange Tower, 130 King Street West, The PATH, Toronto",Healthy Food,30.0,Financial District
+Maëzo,CASUAL DINING,3.3,6.0,"67 Richmond Street W, Toronto M5H 1Z5","American, Asian Fusion",25.0,Financial District
+Hero Certified Burgers,QUICK BITES,2.6,21.0,"TD West Tower, 100 Wellington Street West, The PATH, Toronto","Burger, Sandwich",25.0,Financial District
+Furama,BAKERY,3.6,8.0,"First Canadian Place, 100 King Street West, The PATH, Toronto","Bakery, Chinese",25.0,Financial District
+Starbucks,CAFÉ,3.9,22.0,"Eaton Centre, Level One, 220 Yonge Street, Toronto M5B 2H6",Cafe,20.0,Financial District
+Maezo Restaurant & Bar,CASUAL DINING,2.9,9.0,"67 West Richmond Street , Toronto M5H 1W2","Fusion, Indian, Italian",30.0,Financial District
+Tim Hortons,CAFÉ,3.6,16.0,"55 York Street, Toronto","American, Donuts, Desserts",20.0,Financial District
+Marché Bakery,QUICK BITES,3.1,14.0,"Brookfield Place, 181 Bay Street, Unit C350, The PATH, Toronto M5J 2V1","Desserts, Juices",25.0,Financial District
+York Street Cafe - The Strathcona Hotel,CAFÉ,2.8,12.0,"The Strathcona Hotel, 60 York Street, Toronto",Cafe,40.0,Financial District
+Freshwest Grill,QUICK BITES,3.8,14.0,"TD West Tower, 100 Wellington Street West, The PATH, Toronto M5J 2R2",Tex-Mex,20.0,Financial District
+Thai Island,QUICK BITES,3.4,15.0,"Exchange Tower, 130 King Street West, The PATH, Toronto","Thai, Asian",25.0,Financial District
+Villa Madina,QUICK BITES,3.3,11.0,"Scotia Plaza, 40 King Street West, The PATH, Toronto",Mediterranean,25.0,Financial District
+Edo Japan,QUICK BITES,3.7,15.0,"Brookfield Place, 161 Bay Street, The PATH, Toronto",Japanese,20.0,Financial District
+Wendy's,FAST FOOD,3.5,12.0,55 University Avenue,"Fast Food, Burger",20.0,Financial District
+China Wok,QUICK BITES,2.8,13.0,"Commerce Court, 199 Bay Street, The PATH, Toronto","Fast Food, Chinese, Asian",25.0,Financial District
+Szechuan Express,Other,3.4,12.0,"Royal Bank Plaza, 200 Bay Street, The PATH, Toronto",Chinese,20.0,Financial District
+Sushi Shop Exchange Tower,QUICK BITES,3.0,10.0,"130 King Street W, Toronto M5X 1A9 2A2",Sushi,30.0,Financial District
+Mucho Burrito,QUICK BITES,2.7,7.0,"First Canadian Place, Food Court, 100 King Street West, Toronto",Tex-Mex,30.0,Financial District
+Piazza Manna,QUICK BITES,2.2,16.0,"Exchange Tower, 130 King Street West, The PATH, Toronto","Pizza, Fast Food, Italian",20.0,Financial District
+Noodle King,QUICK BITES,3.6,14.0,"The Plaza At Sheraton Centre, 123 Queen Street West, The PATH, Toronto",Chinese,25.0,Financial District
+The Cereal Bar,QUICK BITES,3.7,10.0,"Commerce Court, 199 Bay Street, The PATH, Toronto M5L 1G9",Healthy Food,20.0,Financial District
+Biryani House,QUICK BITES,3.4,9.0,"Richmond Adelaide Centre, 120 Adelaide Street West, The PATH, Toronto",Indian,25.0,Financial District
+McDonald's,QUICK BITES,2.9,15.0,"TD West Tower, 100 Wellington Street West, The PATH, Toronto",Fast Food,25.0,Financial District
+Chotto Matte,CASUAL DINING,,,"Brookfield Place, 161 Bay Street Financial District, Toronto","Japanese, Peruvian",70.0,Financial District
+Uncle Tetsu Cheesecake,DESSERT PARLOR,3.8,7.0,"Union Station, 65 Front Street W, Toronto M5J 1E6","Desserts, Japanese",15.0,Financial District
+Hidden Burger,QUICK BITES,2.9,4.0,"22 Front Street W, Toronto M5J 1C4",Burger,25.0,Financial District
+Manchu Wok,QUICK BITES,3.0,14.0,"Brookfield Place, 161 Bay Street, The PATH, Toronto","Fast Food, Chinese, Asian",25.0,Financial District
+Naturally Yours,BAKERY,3.6,9.0,"100 King Street West, Toronto M5X1B8",Bakery,20.0,Financial District
+Second Cup,CAFÉ,3.7,8.0,"Scotia Plaza, 40 King Street West, The PATH, Toronto","Cafe, Coffee and Tea, Frozen Yogurt",10.0,Financial District
+Touch,CASUAL DINING,3.0,9.0,"Dynamic Funds Tower, 1 Adelaide Street East, The PATH, Toronto",Indian,35.0,Financial District
+Marcello's,Other,2.9,13.0,"Scotia Plaza, 40 King Street West, The PATH, Toronto",Deli,20.0,Financial District
+Fourno,Other,3.5,9.0,"Exchange Tower, 130 King Street West, The PATH, Toronto M5X 1K6",Healthy Food,25.0,Financial District
+La Prep,QUICK BITES,2.3,7.0,"The Plaza At Sheraton Centre, 123 Queen Street West, The PATH, Toronto",Cafe,25.0,Financial District
+Ho Ga,QUICK BITES,3.3,11.0,"Standard Life Centre, 121 King Street West, The PATH, Toronto",Asian,25.0,Financial District
+Sushi-Q,QUICK BITES,3.1,9.0,"Commerce Court, 199 Bay Street, The PATH, Toronto",Sushi,25.0,Financial District
+Burger King,FAST FOOD,3.0,14.0,130 King Street West,"Fast Food, Burger",20.0,Financial District
+The Great Canadian Bagel,QUICK BITES,3.1,7.0,"First Canadian Place, 100 King Street West, The PATH, Toronto",Cafe,15.0,Financial District
+Amano Pasta,CASUAL DINING,,,"65 Front St W, Toronto, ON M5J 1E6",Italian,55.0,Financial District
+Sud Forno,BAKERY,3.3,4.0,"132 Yonge Street, Financial District, Toronto ON M5C 1X3","Bakery, Italian",20.0,Financial District
+Umi Sushi Express,Other,3.3,10.0,"TD West Tower, 100 Wellington Street West, The PATH, Toronto","Sushi, Japanese, Asian",25.0,Financial District
+Bibab Express,QUICK BITES,2.8,11.0,"Richmond Adelaide Centre, 120 Adelaide Street West, The PATH, Toronto","Korean, Japanese",25.0,Financial District
+Pizzeria Bosco,QUICK BITES,2.7,11.0,"Richtree Market, Eaton Centre, Level One, 14 Queen Street West, Toronto","Pizza, Fast Food",25.0,Financial District
+Richtree Queen Street Deli,QUICK BITES,3.1,6.0,"Richtree Market, Eaton Centre, Level One , 14 Queen Street West, Toronto",Deli,20.0,Financial District
+Harvey's,QUICK BITES,3.8,13.0,"200 Bay Street Stn Commerce Court, Toronto M5J 2J1","Fast Food, Canadian, Burger",25.0,Financial District
+David's Tea,BEVERAGE SHOP,3.8,10.0,"First Canadian Place, 100 King Street West, The PATH, Toronto","Tea, Beverages",15.0,Financial District
+Michel's Bakery Cafe,Other,3.2,6.0,"Commerce Court, 199 Bay Street, The PATH, Toronto","Cafe, Bakery",20.0,Financial District
+Café Plenty - One King West Hotel & Residence,CAFÉ,3.2,9.0,"One King West Hotel & Residence, 1 King Street West, Toronto M5H 1A1",Cafe,20.0,Financial District
+McEwan,QUICK BITES,,,"Toronto Dominion Centre, 66 Wellington Street West, Toronto",Canadian,20.0,Financial District
+Bento Zushi,QUICK BITES,2.9,11.0,"Sun Life Financial Tower, 150 King Street West, The PATH, Toronto","Sushi, Fast Food",25.0,Financial District
+Wikki Hut,QUICK BITES,2.1,9.0,"Richmond Adelaide Centre, 120 Adelaide Street West, The PATH, Toronto","Fast Food, Asian",25.0,Financial District
+Teller's Bar - One King West Hotel & Residence,BAR,3.0,8.0,"One King West Hotel & Residence, 1 King Street West, Toronto M5H1A1",Bar Food,60.0,Financial District
+Mr. Souvlaki,QUICK BITES,3.6,12.0,"145 King Street West, The PATH, Toronto","Greek, Fast Food",20.0,Financial District
+Manhattan's,QUICK BITES,2.8,9.0,"Bay Adelaide Centre, 333 Bay Street, The PATH, Toronto","Burger, Fast Food",25.0,Financial District
+Teriyaki Experience,QUICK BITES,2.5,10.0,"Scotia Plaza, 40 King Street West, The PATH, Toronto",Japanese,20.0,Financial District
+Quesada,QUICK BITES,3.1,10.0,"The Plaza At Sheraton Centre, 123 Queen Street West, The PATH, Toronto",Tex-Mex,25.0,Financial District
+Pizzaiolo,QUICK BITES,3.6,8.0,"104 Yonge Street, Toronto","Pizza, Fast Food",30.0,Financial District
+Bistro On King - One King West Hotel & Residence,CASUAL DINING,3.5,9.0,"One King West Hotel & Residence, 1 King Street West, Toronto",Canadian,80.0,Financial District
+Thai Express,QUICK BITES,3.3,7.0,"Scotia Plaza, 40 King Street West, The PATH, Toronto",Thai,25.0,Financial District
+Bagel & Co.,CAFÉ,2.8,8.0,"Richmond Adelaide Centre, 120 Adelaide Street West, The PATH, Toronto","Cafe, Bakery",25.0,Financial District
+Soup Nutsy,QUICK BITES,3.6,10.0,"Richmond Adelaide Centre, 120 Adelaide Street West, The PATH, Toronto M5H 1T1","Healthy Food, Canadian",25.0,Financial District
+O&B Artisan,DESSERT PARLOR,3.5,10.0,"Hudson's Bay Company, Lower Level, 176 Yonge Street, Toronto M5B1S6",Desserts,50.0,Financial District
+Kupfert & Kim,QUICK BITES,,,"140 Spadina Avenue, Toronto M5V 2L4","Vegetarian, Salad, Healthy Food",20.0,Financial District
+Olly Fresco's,QUICK BITES,3.2,4.0,"Royal Bank Plaza, 200 Bay Street, Toronto M5J2J3","Deli, Sandwich, Mediterranean, Italian",30.0,Financial District
+Maxim,QUICK BITES,3.2,7.0,"First Canadian Place, Food Court, 100 King Street West, Toronto M5X 1C8",Fast Food,25.0,Financial District
+Jimmy The Greek,QUICK BITES,3.3,11.0,"Commerce Court, 199 Bay Street, The PATH, Toronto",Greek,25.0,Financial District
+Greenleafs,QUICK BITES,2.6,9.0,"First Canadian Place, 100 King Street West, The PATH, Toronto",Healthy Food,25.0,Financial District
+Tahini,Other,3.1,5.0,"TD West Tower, 100 Wellington Street West, The PATH, Toronto M5K 1A1","Mediterranean, Middle Eastern",30.0,Financial District
+Eat Canteen,QUICK BITES,2.9,9.0,"TD West Tower, 100 Wellington Street West, The PATH, Toronto",Asian,25.0,Financial District
+Modern Wok,QUICK BITES,3.7,9.0,"145 King Street West, The PATH, Toronto M5H 1J8","Asian, Chinese",25.0,Financial District
+Sushi Cafe,QUICK BITES,,,"Empire Plaza, 33 University Avenue, Toronto M5J 2S7","Sushi, Japanese",15.0,Financial District
+Subway,QUICK BITES,2.7,10.0,"60 Yonge Street, Toronto",Fast Food,20.0,Financial District
+The Custom Grill,QUICK BITES,3.3,9.0,"Richtree Market, Eaton Centre, Level One , 14 Queen Street West, Toronto","Grill, Fast Food",25.0,Financial District
+Mmmuffins,BAKERY,3.5,5.0,"Scotia Plaza, 40 King Street West, The PATH, Toronto","Bakery, Cafe",25.0,Financial District
+Piper's Gastropub - The Fairmont Royal York,CASUAL DINING,3.3,10.0,"The Fairmont Royal York, 100 Front Street West, Toronto M5J 1E3","Bar Food, Burger, Canadian",65.0,Financial District
+Mr. Sub,QUICK BITES,3.6,10.0,"Commerce Court, 199 Bay Street, The PATH, Toronto",Fast Food,25.0,Financial District
+Cultures,QUICK BITES,2.4,7.0,"Standard Life Centre, 121 King Street West, The PATH, Toronto M5H","Healthy Food, Sandwich",25.0,Financial District
+Extreme Pita,QUICK BITES,2.3,9.0,"Brookfield Place, 161 Bay Street, The PATH, Toronto","Fast Food, Mediterranean",25.0,Financial District
+Mrs. Fields,DESSERT PARLOR,3.3,9.0,"Commerce Court, 199 Bay Street, The PATH, Toronto",Desserts,15.0,Financial District
+Sauté Rosé,Other,3.3,9.0,"Royal Bank Plaza, 55 University Avenue, The PATH, Toronto","Fast Food, Italian",25.0,Financial District
+The Calvin Bar - Trump International Hotel and Tower,BAR,3.5,6.0,"Trump International Hotel and Tower, 325 Bay Street, Toronto M5H 3C2",Bar Food,120.0,Financial District
+Astarté,DESSERT PARLOR,,,"Sun Life Financial Tower, 150 King Street West, The PATH, Toronto",Desserts,15.0,Financial District
+The Croissant Tree,CAFÉ,2.4,8.0,"60 Yonge Street, Toronto M5E1H5",Cafe,25.0,Financial District
+Fast Fresh Foods,QUICK BITES,3.7,10.0,"145 King Street West, The PATH, Toronto",Healthy Food,25.0,Financial District
+Thai Bowl,QUICK BITES,2.3,10.0,"Royal Bank Plaza, 55 University Avenue, The PATH, Toronto","Thai, Asian",20.0,Financial District
+Swiss Chalet Express,Other,3.2,6.0,"Royal Bank Plaza, 200 Bay Street, The PATH, Toronto M5J 2J1",Canadian,40.0,Financial District
+KFC,QUICK BITES,3.6,9.0,"Scotia Plaza, 40 King Street West, The PATH, Toronto",Fast Food,25.0,Financial District
+Fit For Life,QUICK BITES,3.2,7.0,"Commerce Court, 199 Bay Street, The PATH, Toronto","Healthy Food, Fast Food",25.0,Financial District
+Timothy's,CAFÉ,2.3,9.0,"State Street Financial Centre, 30 Adelaide Street East, Toronto",Cafe,25.0,Financial District
+Starbucks,CAFÉ,,,"650 Wellington Street East , Toronto M5J 2W4",Cafe,,Financial District
+Greenhouse Juice Co.,BEVERAGE SHOP,,,"Commerce Court, 199 Bay Street, The PATH, Toronto M5L 1E2","Juices, Healthy Food, Beverages",30.0,Financial District
+Clipper Cafe,CAFÉ,3.2,7.0,"44 King Street West, Inside The Bank of Nova Scotia Building, 4th Floor, Toronto M5H 3Y2",Cafe,25.0,Financial District
+Taste Of Orient,QUICK BITES,3.3,6.0,"Richmond Adelaide Centre, 120 Adelaide Street West, The PATH, Toronto","Chinese, Asian",25.0,Financial District
+OPA! Of Greece,Other,2.7,8.0,"Royal Bank Plaza, 200 Bay Street, The PATH, Toronto",Greek,25.0,Financial District
+Five Guys,QUICK BITES,,,"100 King Street W, Toronto M5X 1A9","Fast Food, Burger",25.0,Financial District
+Soup It Up,QUICK BITES,,,"First Canadian Place, 100 King Street West, THE PATH, Toronto M5J 2S4",Deli,15.0,Financial District
+Druxy's Famous Deli,QUICK BITES,3.4,5.0,"199 Bay Street, Toronto, ON M5L 1G5","Fast Food, Sandwich",25.0,Financial District
+Heidi's Deli,QUICK BITES,3.6,8.0,"Commerce Court, 199 Bay Street, The PATH, Toronto",Fast Food,35.0,Financial District
+Planta Burger,QUICK BITES,,,"4 Temperance Street, Financial District, Toronto",Burger,15.0,Financial District
+Booster Juice,BEVERAGE SHOP,,,"Exchange Tower, 130 King Street West, The PATH, Toronto","Juices, Beverages, Healthy Food",20.0,Financial District
+Bite Bar,DESSERT PARLOR,,,"Commerce Court, 199 Bay Street, The PATH, Toronto M5J 2W4","Desserts, Bakery",25.0,Financial District
+The Bagel Stop,CAFÉ,2.9,7.0,"Scotia Plaza, 40 King Street West, The PATH, Toronto",Cafe,25.0,Financial District
+Wok Licious,QUICK BITES,2.5,7.0,"The Plaza At Sheraton Centre, 123 Queen Street West, The PATH, Toronto","Chinese, Fast Food",25.0,Financial District
+Kid Lee,QUICK BITES,,,"2nd Floor, First Canadian Pl, Toronto, ON M5X 1A1",Asian,20.0,Financial District
+Sweet Surrender,DESSERT PARLOR,,,"Richtree Market, Eaton Centre, Level One, 14 Queen Street West, Toronto",Desserts,15.0,Financial District
+Tropical Energy Juice Bar,BEVERAGE SHOP,2.6,5.0,"Commerce Court, 199 Bay Street, The PATH, Toronto","Juices, Beverages",15.0,Financial District
+Sweet Rosie's,CAFÉ,3.2,5.0,"The Plaza At Sheraton Centre, 123 Queen Street West, The PATH, Toronto L5N 2W3",Cafe,20.0,Financial District
+A & W,QUICK BITES,2.6,5.0,"1 Richmond Street West, Toronto","Burger, Fast Food",25.0,Financial District
+Teavana,BEVERAGE SHOP,2.6,5.0,"Brookfield Place, 181 Bay Street, The PATH, Toronto","Tea, Beverages",20.0,Financial District
+Yogen Früz,DESSERT PARLOR,,,"TD West Tower, 100 Wellington Street West, The PATH, Toronto","Frozen Yogurt, Desserts",15.0,Financial District
+Sense Asian,QUICK BITES,2.6,5.0,"Scotia Plaza, 40 King Street West, The PATH, Toronto","Chinese, Asian, Fast Food",40.0,Financial District
+Teppanyaki Grill,QUICK BITES,2.6,5.0,"The Plaza At Sheraton Centre, 123 Queen Street West, The PATH, Toronto","Japanese, Asian",25.0,Financial District
+Walrus Pub & Beer Hall,BAR,,,"187 Bay Street, Toronto, ON",American,45.0,Financial District
+Jacked Up Coffee,Other,,,Location Varies,Beverages,,Financial District
+Happy Bowl,QUICK BITES,,,"Richtree Market, Eaton Centre, Level One, 14 Queen Street West, Toronto","Korean, Asian",30.0,Financial District
+Loaded Pierogi,BAR,,,"65 Front St W, Toronto, ON M5J 1E6","Fast Food, Polish",30.0,Financial District
+Freshly Squeezed,BEVERAGE SHOP,,,"Eaton Centre, Level One, 14 Queen Street West, Toronto","Juices, Beverages",15.0,Financial District
+Liquid Nutrition,BEVERAGE SHOP,,,"145 King Street West, The PATH, Toronto","Beverages, Healthy Food, Juices",15.0,Financial District
+Street Eats,QUICK BITES,,,"Richtree Market, Eaton Centre, Level One, 14 Queen Street West, Toronto",Mexican,30.0,Financial District
+CRU Restaurant,FINE DINING,,,"100 Yonge Street Suite 100, Toronto, ON M5C 2W1",Canadian,100.0,Financial District
+York's Cafe - The Fairmont Royal York Hotel,CAFÉ,,,"The Fairmont Royal York, 100 Front Street West, Toronto M5J1E5","Cafe, Breakfast",25.0,Financial District
+Kanga Pies - Commerce Court PATH,BAKERY,,,"199 Bay Street, C-142, Toronto M5J","Bakery, Australian",15.0,Financial District
+Plancha,CASUAL DINING,,,"44 Victoria St, Toronto, ON M5C 1Y2",Mediterranean,30.0,Financial District
+Purblendz,BEVERAGE SHOP,,,"Bay Adelaide Centre, 333 Bay Street, The PATH, Toronto","Juices, Beverages",15.0,Financial District
+Godiva Chocolatier,DESSERT PARLOR,,,"Royal Bank Plaza, 200 Bay Street, Toronto",Desserts,25.0,Financial District
+Purdy's,DESSERT PARLOR,,,"Toronto Dominion Centre, 66 Wellington Street West, Toronto","Desserts, Ice Cream",20.0,Financial District
+Petit Four,BAKERY,,,"Commerce Court, 187 Bay Street, The PATH, Toronto M5H 3C2","Cafe, Bakery",30.0,Financial District
+Pretzel Maker,QUICK BITES,,,"Commerce Court, 199 Bay Street, The PATH, Toronto",Fast Food,10.0,Financial District
+Kernels Popcorn,QUICK BITES,,,"Eaton Centre, Level One, 14 Queen Street, Toronto",Fast Food,15.0,Financial District
+Bagels 'N Bites,QUICK BITES,,,"The Plaza At Sheraton Centre, 123 Queen Street West, The PATH, Toronto",Sandwich,15.0,Financial District
+Croissant Express Café,CAFÉ,,,"60 Yonge St, Financial District, Toronto",Cafe,20.0,Financial District
+Link - Sheraton Hotel,CAFÉ,,,"Sheraton Centre Toronto Hotel, 123 Queen Street West, Toronto M5H 2M9",Cafe,25.0,Financial District
+Second Cup Coffee Co. featuring Pinkberry Frozen Yogurt,Other,,,40 King Street West,Coffee and Tea,15.0,Financial District
+Second Cup Coffee Co.,Other,,,333 Bay Street Unit C11-12,Coffee and Tea,15.0,Financial District

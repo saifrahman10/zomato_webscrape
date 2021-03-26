@@ -1,0 +1,166 @@
+Name,EstablishmentType,Rating,NumReviews,Address,Cuisine,CostForTwo,City
+Zeera By The Bay,CASUAL DINING,4.2,209.0,"713 Krosno Boulevard, Unit 1, Pickering",Indian,35.0,Pickering
+Hot Mama Noi's Thai On The Fly,CASUAL DINING,4.5,100.0,"1410 Bayly Street, Unit 6A, Pickering","Thai, Asian",25.0,Pickering
+Port,CASUAL DINING,4.1,79.0,"1289 Wharf Street, Pickering","American, Grill",55.0,Pickering
+Cielito Lindo,CASUAL DINING,4.3,74.0,"1660 Kingston Road, Pickering",Mexican,45.0,Pickering
+The Big M,QUICK BITES,4.7,94.0,"711 Krosno Boulevard, Pickering",Fast Food,20.0,Pickering
+Makimono,CASUAL DINING,3.8,101.0,"1790 Liverpool Road, Pickering","Sushi, Japanese, Asian",35.0,Pickering
+Pig Out BBQ,QUICK BITES,4.1,85.0,"780 Kingston Road, Pickering",BBQ,30.0,Pickering
+Dragon Rolls,CASUAL DINING,3.8,61.0,"1105 Kingston Road, Pickering","Sushi, Japanese, Asian",45.0,Pickering
+Red House,CASUAL DINING,3.6,65.0,"Whites Road Shopping Centre, 705 Kingston Road, Unit 8, Pickering","Thai, Malaysian, Asian",30.0,Pickering
+Mandarin Restaurant - Pickering,CASUAL DINING,3.5,40.0,"Brockington Plaza, 1725 Kingston Road, Pickering","Chinese, Asian, Canadian",60.0,Pickering
+Jasper Fish 'N' Chips,CASUAL DINING,4.0,43.0,"1794 Liverpool Road, Unit 19, Pickering",Fish and Chips,30.0,Pickering
+Spicy Dragon,CASUAL DINING,3.0,37.0,"1340 Kingston Road, Unit 3, Pickering","Hakka Chinese, Cantonese",25.0,Pickering
+Affy's Premium Grill,CASUAL DINING,3.0,45.0,"2200 Brock Road, Pickering","BBQ, Burger, Steak",60.0,Pickering
+Kobo,CASUAL DINING,3.9,30.0,"512 Kingston Road, Pickering","Japanese, Asian",30.0,Pickering
+East Side Mario's,CASUAL DINING,3.1,24.0,"1355 Kingston Rd, Pickering, ON L1V 1B8","Italian, Canadian, Pizza",40.0,Pickering
+Pho Saigon,CASUAL DINING,3.6,42.0,"1799 Liverpool Road, Pickering","Vietnamese, Asian",30.0,Pickering
+That's 50's Diner,CASUAL DINING,3.5,34.0,"1660 Kingston Drive, Pickering L1V 3E2","Diner, American",25.0,Pickering
+Wild Wing,CASUAL DINING,3.9,42.0,"Steeple Hill Shopping Centre, 570 Kingston Road, Pickering",Bar Food,50.0,Pickering
+Sakada Sushi,CASUAL DINING,3.5,27.0,"Amberlea Shopping Centre, 1822 Whites Road, Pickering","Sushi, Japanese, Asian",30.0,Pickering
+Thai Orchid,CASUAL DINING,3.9,37.0,"1450 Kingston Road, Pickering","Thai, Asian",30.0,Pickering
+Lone Star Texas Grill,CASUAL DINING,3.2,38.0,"Whites Road Shopping Centre, 705 Kingston Road, Pickering","Tex-Mex, Bar Food",80.0,Pickering
+Patois,QUICK BITES,3.8,25.0,"Liverpool Plaza, 1289 Kingston Road, Pickering","Jamaican, Caribbean",30.0,Pickering
+Amici Trattoria,CASUAL DINING,3.5,12.0,"1305 Pickering Parkway, Pickering",Italian,,Pickering
+Thai One On,CASUAL DINING,3.8,36.0,"570 Kingston Road, Pickering","Thai, Asian",45.0,Pickering
+Island Mix Restaurant & Lounge,CASUAL DINING,3.7,29.0,"1050 Brock Road, Pickering",Caribbean,30.0,Pickering
+Moxie's Grill & Bar,CASUAL DINING,3.1,18.0,"1815 Liverpool Road, Pickering L1V 1W2","Grill, Steak, Canadian, Fusion",65.0,Pickering
+Roland's Restaurant,QUICK BITES,3.9,24.0,"2200 Brock Road, Pickering",Caribbean,30.0,Pickering
+Horn Dawgs Smokin' BBQ & Catering,QUICK BITES,3.6,16.0,"1410 Bayly Street, Pickering",BBQ,30.0,Pickering
+Paul Wong's,CASUAL DINING,3.6,27.0,"376 Kingston Road, Unit 8, Pickering","Chinese, Asian",40.0,Pickering
+Kips Flaming Burgers,QUICK BITES,3.5,21.0,"Brockington Plaza, 1725 Kingston Road, Pickering",Burger,43.0,Pickering
+I Love Roti,QUICK BITES,3.8,22.0,"Brockington Plaza, 1725 Kingston Road, Pickering",Caribbean,20.0,Pickering
+Pizza Shack,QUICK BITES,3.7,20.0,"893 Bayly Street, Pickering L1W 3P6","Pizza, Fast Food",25.0,Pickering
+Fat Bastard Burrito,QUICK BITES,3.7,23.0,"726 Kingston Road, Pickering","Mexican, Fast Food",25.0,Pickering
+Massey's Restaurant,CASUAL DINING,3.6,25.0,"774 Liverpool Road South, Pickering","Bar Food, American",40.0,Pickering
+Food Time,CASUAL DINING,3.2,22.0,"1660 Kingston Road, Pickering","Indian, Pakistani",30.0,Pickering
+Roti n'Ting,QUICK BITES,3.9,17.0,"Liverpool Plaza, 1298 Kingston Road, Pickering",Caribbean,25.0,Pickering
+Malt N Salt Fish & Chips,QUICK BITES,3.7,22.0,"750 Oklahoma Drive, Unit 8, Pickering",Fish and Chips,35.0,Pickering
+Dragon Gem,QUICK BITES,3.9,23.0,"Amberlea Shopping Centre, 1822 Whites Road, Unit 19, Pickering","Chinese, Asian",30.0,Pickering
+Milos Greek Restaurant,CASUAL DINING,2.9,24.0,"1450 Kingston Road, Pickering","Greek, Mediterranean",35.0,Pickering
+The House Of Pizzeria,QUICK BITES,3.2,4.0,"2062 Liverpool Road, Pickering","Pizza, Fast Food",25.0,Pickering
+Hakka Fusion,CASUAL DINING,3.1,19.0,"1670 Kingston Road, Pickering","Hakka Chinese, Asian",35.0,Pickering
+Pickle Barrel,CASUAL DINING,3.2,17.0,Opening Soon,"Grill, Canadian",60.0,Pickering
+Afghan Kebab & Shawarma,QUICK BITES,3.1,14.0,"734 Kingston Road, Pickering","Middle Eastern, Afghan",25.0,Pickering
+Bollock's Pub & Kitchen,BAR,3.1,14.0,"734 Kingston Road, Pickering",Bar Food,50.0,Pickering
+Cora's Breakfast & Lunch,CASUAL DINING,3.5,5.0,"1755 Pickering Parkway, Pickering","Diner, Canadian",35.0,Pickering
+Swiss Chalet Rotisserie & Grill,CASUAL DINING,3.2,15.0,"734 Kingston Road, Pickering","Canadian, Grill, Beverages",40.0,Pickering
+Jack Astor's,CASUAL DINING,3.4,13.0,"Pickering Town Centre, 1355 Kingston Road, Pickering",Bar Food,55.0,Pickering
+Usmania Grill,CASUAL DINING,3.3,10.0,"1211 Kingston Road, Unit 9, Pickering L1V 6M5","Indian, Pakistani, Kebab",25.0,Pickering
+Harp & Crown Pub,BAR,3.5,12.0,"300 Kingston Road, Pickering",Bar Food,60.0,Pickering
+Popeyes,QUICK BITES,2.9,16.0,"Brockington Plaza, 1725 Kingston Road, Pickering",Fast Food,25.0,Pickering
+Mucho Burrito,QUICK BITES,2.9,16.0,"1550 Kingston Road, Pickering",Tex-Mex,30.0,Pickering
+The WORKS,CASUAL DINING,3.5,8.0,"1794 Liverpool Road, Pickering",Burger,45.0,Pickering
+Pita Delites,QUICK BITES,3.0,13.0,"Brockington Plaza, 1725 Kingston Road, Pickering",Middle Eastern,43.0,Pickering
+Irish Times,CASUAL DINING,2.9,9.0,"1400 Bayly Street, Pickering","Bar Food, Irish",45.0,Pickering
+Boston Pizza,CASUAL DINING,2.8,15.0,1899 Brock Rd,"American, Pizza",40.0,Pickering
+Baskin Robbins,DESSERT PARLOR,3.5,8.0,"1794 Liverpool Road, Pickering","Ice Cream, Desserts",15.0,Pickering
+Jumbo Burger,CASUAL DINING,3.2,7.0,"512 Kingston Road, Pickering",Diner,30.0,Pickering
+The Stone Corner Pub,BAR,2.7,10.0,1900 Dixie Road Pickering,Bar Food,50.0,Pickering
+Sabina's Casual Dining & Pub,CASUAL DINING,3.1,10.0,"1755 Pickering Parkway, Unit 20, Pickering L1V 6K5","Bar Food, Canadian",65.0,Pickering
+Big Bite Gourmet Burgers,QUICK BITES,3.4,11.0,"Amberlea Shopping Centre, 1822 Whites Road, Pickering L1V 4M1","Burger, Diner",25.0,Pickering
+On The Beach,QUICK BITES,3.8,11.0,"Steeple Hill Shopping Centre, 570 Kingston Road, Pickering",Caribbean,25.0,Pickering
+Gino's Famous Pizza,QUICK BITES,3.2,10.0,"750 Oklahoma Drive, Pickering","Pizza, Fast Food",25.0,Pickering
+Asia Hut,QUICK BITES,3.7,9.0,"1450 Kingston Road, Unit 2, Pickering","Chinese, Caribbean",25.0,Pickering
+Sun Win,QUICK BITES,3.7,10.0,"1477 Bayly Street, Pickering L1W 1H6",Chinese,25.0,Pickering
+Jimmy The Greek,QUICK BITES,3.0,9.0,"Pickering Town Centre, 1355 Kingston Road, Pickering",Greek,25.0,Pickering
+Herongate Barn Dinner Theatre,CASUAL DINING,3.5,4.0,"2885 Altona Rd, Pickering L0H 1J0",American,125.0,Pickering
+Zeus Greek Grill Gods,QUICK BITES,2.9,7.0,"780 Kingston Road, Pickering",Greek,25.0,Pickering
+Chick-N-Joy,QUICK BITES,3.4,10.0,"Whites Road Shopping Centre, 705 Kingston Road, Unit 4, Pickering",Fast Food,25.0,Pickering
+Chuuk,CASUAL DINING,,,774 Liverpool Rd,Mexican,45.0,Pickering
+Belaggio's Gelato,DESSERT PARLOR,3.3,6.0,"Whites Road Shopping Centre, 705 Kingston Road, Unit 16, Pickering","Fast Food, Desserts, Italian",15.0,Pickering
+Taco Bell,QUICK BITES,2.8,7.0,"Pickering Town Centre, 1355 Kingston Road, Pickering","Fast Food, Mexican",20.0,Pickering
+Grizzly's Bar & Grill,BAR,3.6,4.0,"985 Brock Road South, Pickering",Bar Food,35.0,Pickering
+philthy philly's,QUICK BITES,3.1,5.0,"726 Kingston Road, Pickering","American, Sandwich",35.0,Pickering
+The Cupcake Place,DESSERT PARLOR,,,"1450 Kingston Road, Pickering","Desserts, Bakery",20.0,Pickering
+EGGcellent Diner,CASUAL DINING,2.9,4.0,"375 Kingston Road, Pickering","Diner, Breakfast",25.0,Pickering
+Pizzaville,QUICK BITES,3.6,7.0,"734 Kingston Road, Pickering L1V 1A8","Pizza, Fast Food",25.0,Pickering
+Cinnabon,BAKERY,3.9,9.0,"Pickering Town Centre, 1355 Kingston Road, Pickering",Desserts,15.0,Pickering
+Knight's Corner,BAR,2.8,6.0,"Steeple Hill Shopping Centre, 605 Kingston Road, Pickering",Bar Food,50.0,Pickering
+Big Boy's Burgers,QUICK BITES,3.4,6.0,"Whites Road Shopping Centre, 705 Kingston Road, Unit 5, Whites Road, Pickering",Fast Food,25.0,Pickering
+The Fox Goes Free,BAR,2.9,5.0,"339 Kingston Road, Pickering",Bar Food,50.0,Pickering
+Umi Sushi Express,Other,2.5,7.0,"Pickering Town Centre, 1355 Kingston Road, Pickering","Sushi, Japanese, Asian",25.0,Pickering
+Thai Express,QUICK BITES,3.3,5.0,"Pickering Town Centre, 1355 Kingston Road, Pickering",Thai,25.0,Pickering
+Orsola's Cucina,CAFÉ,3.3,5.0,"750 Oklahoma Drive, Unit 4, Pickering","Italian, Cafe",20.0,Pickering
+The Roti House,QUICK BITES,3.2,4.0,"1660 Kingston Road, Pickering",Caribbean,25.0,Pickering
+The Breadhouse,BAKERY,,,"893 Bayly Street, Pickering",Bakery,15.0,Pickering
+The Great Canadian Bagel,QUICK BITES,3.2,5.0,"Whites Road Shopping Centre, 705 Kingston Road, Unit 3, Pickering",Cafe,15.0,Pickering
+Starbucks,CAFÉ,,,"1300 Kingston Road, Pickering",Cafe,20.0,Pickering
+Baba Jon Pizza & Shawarma,QUICK BITES,3.5,5.0,"2200 Brock Road, Pickering","Pizza, Fast Food, Middle Eastern",25.0,Pickering
+Wendy's,FAST FOOD,,,742 Kingston Road,"Fast Food, Burger",20.0,Pickering
+Silver Spoon,QUICK BITES,,,"2200 Brock Road, Pickering L1V 2P8","Pakistani, Indian",20.0,Pickering
+Manchu Wok,QUICK BITES,2.8,4.0,"Pickering Town Centre, 1355 Kingston Road, Pickering","Fast Food, Chinese, Asian",25.0,Pickering
+Pizza Pizza,QUICK BITES,3.4,7.0,"1450 Kingston Road, Pickering","Pizza, Fast Food",25.0,Pickering
+South St. Burger Co.,QUICK BITES,,,"1105E Kingston Road Unit 12, Pickering L1V 1B5","Fast Food, Burger",25.0,Pickering
+Edo Japan,QUICK BITES,3.5,4.0,"Pickering Town Centre, 1355 Kingston Road, Pickering",Japanese,20.0,Pickering
+Burger King,FAST FOOD,3.2,5.0,650 Kingston Road,"Fast Food, Burger",20.0,Pickering
+Dairy Queen Grill & Chill,FAST FOOD,,,1-1099 Kingston Road,"Ice Cream, Desserts, Fast Food",20.0,Pickering
+Second Cup Coffee Co.,CAFÉ,,,1550 Kingston Road,"Cafe, Coffee and Tea, Frozen Yogurt",10.0,Pickering
+Kathryn's Bar & Grill,CASUAL DINING,,,"376 Kingston Road, Unit 14, Pickering","Seafood, American",40.0,Pickering
+Open Studio Art Cafe Espresso Bar,CAFÉ,,,"617 Liverpool road, Pickering",Cafe,15.0,Pickering
+Booster Juice,BEVERAGE SHOP,,,"Steeple Hill Shopping Centre, 650 Kingston Road, Pickering","Juices, Beverages, Healthy Food",20.0,Pickering
+Domino's,QUICK BITES,,,"1235 Bayly Street, Pickering","Fast Food, Pizza",25.0,Pickering
+Pizza Nova,QUICK BITES,,,"The Hub, 1360 Kingston Road, Unit 11, Pickering","Pizza, Fast Food",30.0,Pickering
+Grand Dad's,DESSERT PARLOR,,,"597 Liverpool Road, Pickering","Ice Cream, Desserts",15.0,Pickering
+Kernels Popcorn,QUICK BITES,,,"Pickering Town Centre, 1355 Kingston Road, Pickering",Fast Food,15.0,Pickering
+Pete's Gourmet Burgers,QUICK BITES,,,"1848 Liverpool Road, Pickering","Burger, Fast Food",25.0,Pickering
+Little Caesars,QUICK BITES,,,"Steeple Hill Shopping Centre, 570 Kingston Road, Pickering","Pizza, Fast Food",25.0,Pickering
+Serendipity,BAKERY,,,"1295 Wharf Street, Unit 10, Pickering","Desserts, Bakery, Cafe",20.0,Pickering
+Villa Madina,Other,,,"Pickering Town Centre, 1355 Kingston Road, Pickering",Mediterranean,25.0,Pickering
+Pita Pit,QUICK BITES,,,"1105 Kingston Road, Building E, Pickering",Healthy Food,25.0,Pickering
+KFC,QUICK BITES,,,"Pickering Town Centre, 1355 Kingston Road, Pickering",Fast Food,25.0,Pickering
+Extreme Pita,QUICK BITES,,,"Pickering Town Centre, 1355 Kingston Road, Pickering","Fast Food, Mediterranean",25.0,Pickering
+Orange Julius,BEVERAGE SHOP,,,"Pickering Town Centre, 1355 Kingston Road, Pickering",Beverages,25.0,Pickering
+But 'N' Ben,BAKERY,,,"613 Kingston Road, Pickering",Bakery,15.0,Pickering
+West Shore Bar & Grill,CASUAL DINING,,,"877 Bayly Street, Pickering",Bar Food,60.0,Pickering
+Ma Yvé Grill,QUICK BITES,,,"1980 Rosefield Road, Pickering","Fast Food, African",25.0,Pickering
+Mrs. Fields,DESSERT PARLOR,,,"Pickering Town Centre, 1355 Kingston Road, Pickering",Desserts,15.0,Pickering
+A & W,QUICK BITES,,,"Pickering Town Centre, 1355 Kingston Road, Pickering","Burger, Fast Food",25.0,Pickering
+Mahipar Kabab,CASUAL DINING,,,"1450 Kingston Road, Pickering","Kebab, Middle Eastern, Afghan",30.0,Pickering
+Mary Brown's,QUICK BITES,,,"780 Kingston Road, Pickering",Fast Food,30.0,Pickering
+Sunset Grill,CASUAL DINING,,,"1105 Kingston Road, Pickering","Diner, Breakfast",30.0,Pickering
+Beryl's Pepper Pot,CASUAL DINING,,,"1101B Kingston Road, Unit 3, Toronto L1V 1B5","Caribbean, Jamaican",25.0,Pickering
+Coco Cake Co,DESSERT PARLOR,,,"774 Liverpool Road South, Pickering",Desserts,15.0,Pickering
+Hy Tea,BEVERAGE SHOP,,,"1295 Wharf Street, Pickering",Beverages,25.0,Pickering
+Pizza Hut,QUICK BITES,,,"1794 Liverpool Road, Pickering","Pizza, Fast Food",25.0,Pickering
+Square Boy Pizza,QUICK BITES,,,"713 Krosno Boulevard, Pickering L1W 1G4",Pizza,30.0,Pickering
+Country Style,CAFÉ,,,"Pickering Town Centre, 1355 Kingston Road, Pickering",Cafe,20.0,Pickering
+Rocky Mountain Chocolate Factory,DESSERT PARLOR,,,"Pickering Town Centre, 1355 Kingston Road, Pickering",Desserts,15.0,Pickering
+Mr. Sub,QUICK BITES,,,"1794 Liverpool Road, Pickering",Fast Food,25.0,Pickering
+Basir Azizi Bakery,BAKERY,,,"Brockington Plaza, 1725 Kingston Road, Pickering, Pickering, GTA",Bakery,12.0,Pickering
+Wow! Wing House,CASUAL DINING,,,"Rose Finch Plaza, 550 Finch Avenue, Unit 4A, Pickering","American, Bar Food",45.0,Pickering
+Tim Hortons,CAFÉ,,,1709 Kingston Road,"American, Donuts, Desserts",20.0,Pickering
+Subway,QUICK BITES,,,"SmartCentres Pickering, 1899 Brock Road, Pickering",Fast Food,20.0,Pickering
+Laura Secord,DESSERT PARLOR,,,"Pickering Town Centre, 1355 Kingston Road, Pickering",Desserts,15.0,Pickering
+New York Fries,QUICK BITES,,,"1355 Kingston Road Unit 16, Pickering ON L1V 1B8",Fast Food,15.0,Pickering
+Bakery & Flowers,DESSERT PARLOR,,,"375 Kingston Road, Unit 8, Pickering","Bakery, Desserts",10.0,Pickering
+Flavors Cafe & Eatery,QUICK BITES,,,"2200 Brock Road, Pickering","American, Cafe, Fast Food",20.0,Pickering
+Pita Zone,QUICK BITES,,,"1550 Kingston Road, Pickering","Middle Eastern, Fast Food",20.0,Pickering
+Tudor Arms Pub,BAR,,,"Amberlea Shopping Centre, 1822 Whites Road, Pickering",Bar Food,50.0,Pickering
+Taco Del Mar,QUICK BITES,,,"SmartCentres Pickering, 1899 Brock Road, Pickering","Mexican, Fast Food",25.0,Pickering
+Sweet Emma’s Cakery,BAKERY,,,"1105 Kingston Rd unit 9, Pickering, ON L1V 1B5",Bakery,15.0,Pickering
+David's Tea,BEVERAGE SHOP,,,"Pickering Town Centre, 1355 Kingston Road, Pickering","Tea, Beverages",15.0,Pickering
+Jukebox Live,BAR,,,"1211 Kingston Road, Pickering",Bar Food,80.0,Pickering
+Free Topping Pizza,QUICK BITES,,,"376 Kingston Road, Pickering","Pizza, Fast Food",25.0,Pickering
+Pappa Marshall's Family Restaurant,CASUAL DINING,,,"719 Krosno Boulevard, Pickering","Fish and Chips, Canadian",,Pickering
+GRK Bites,DESSERT PARLOR,,,"605 Liverpool Road, Pickering",Ice Cream,15.0,Pickering
+1298 Sushi,FAST CASUAL,,,"1298 Kingston Rd, Pickering",Sushi,25.0,Pickering
+Bourbon St. Grill,QUICK BITES,,,"Pickering Town Centre, 1355 Kingston Road, Pickering","Cajun, Southern",20.0,Pickering
+Sunrise,QUICK BITES,,,"780 Kingston Road, Pickering",Caribbean,25.0,Pickering
+McDonald's,QUICK BITES,,,"SmartCentres Pickering, 1899 Brock Road, Pickering",Fast Food,25.0,Pickering
+Pretzel Maker,QUICK BITES,,,"Pickering Town Centre, 1355 Kingston Road, Pickering",Fast Food,10.0,Pickering
+St. Louis Bar & Grill,CASUAL DINING,,,"1635A Bayly St Unit 2, Pickering, Toronto","Bar Food, Grill",40.0,Pickering
+Perkins Restaurant & Bakery,CASUAL DINING,,,1097 Kingston Road,American,30.0,Pickering
+Timothy's,CAFÉ,,,"Pickering Town Centre, 1355 Kingston Road, Pickering",Cafe,25.0,Pickering
+Vanellis,QUICK BITES,,,"Pickering Town Centre, 1355 Kingston Road, Pickering","Pizza, Fast Food, Italian",25.0,Pickering
+Purblendz,BEVERAGE SHOP,,,"Pickering Town Centre, 1355 Kingston Road, Pickering","Juices, Beverages",15.0,Pickering
+Papa John's Pizza,FAST CASUAL,,,820 Kingson Road,"Fast Food, Italian",25.0,Pickering
+Milanu's Tandoori Grill,CASUAL DINING,,,"705 Kingston Road #2, Pickering, Toronto",North Indian,25.0,Pickering
+Harvey's,FAST CASUAL,,,"1635A Bayly Street, Pickering, ON L1W 0B1",Fast Food,25.0,Pickering
+State & Main Kitchen & Bar,QUICK BITES,,,"1355 Kingston Rd Unit 510, Pickering, Toronto L1V 1B8","Burger, Sandwich",25.0,Pickering
+Sunrise Grill,CASUAL DINING,,,"1550 Kingston Road, Pickering",Grill,30.0,Pickering
+Kingsmen Pub and Grill,CASUAL DINING,,,"1550 Kingston Road, Pickering, ON L1V 1C3","Canadian, Grill",80.0,Pickering
+Freshly Squeezed,BEVERAGE SHOP,,,"Pickering Town Centre, 1355 Kingston Road, Pickering","Juices, Beverages",15.0,Pickering
+Express Submarine & Pizza,QUICK BITES,,,"981 Brock Road South, Pickering","Pizza, Fast Food",25.0,Pickering
+Pannizza,QUICK BITES,,,"1105 Kingston Road,Unit 5, Toronto",Pizza,,Pickering
+Tim Hortons,CAFÉ,,,1800 Brock Road North,Cafe,15.0,Pickering

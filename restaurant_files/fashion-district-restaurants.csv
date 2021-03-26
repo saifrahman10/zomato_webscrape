@@ -1,0 +1,130 @@
+Name,EstablishmentType,Rating,NumReviews,Address,Cuisine,CostForTwo,City
+Banh Mi Boys,QUICK BITES,4.7,940.0,"392 Queen Street West, Toronto",Sandwich,25.0,Fashion District
+Gusto 101,CASUAL DINING,4.5,507.0,"101 Portland Street, Toronto M5V 2N3","Pizza, Italian",75.0,Fashion District
+Lee,CASUAL DINING,4.5,570.0,"601 King Street West, Toronto M5V 1M5","Asian Fusion, Asian",85.0,Fashion District
+Rodney's Oyster House,CASUAL DINING,4.6,474.0,"469 King Street West, Toronto M5V 1K4",Seafood,75.0,Fashion District
+Buca,CASUAL DINING,4.5,433.0,"604 King Street West, Toronto M5V 1M6",Italian,80.0,Fashion District
+Le Sélect Bistro,CASUAL DINING,4.4,490.0,"432 Wellington Street West, Toronto M5V 1E3",French,85.0,Fashion District
+Jacob's and Co. Steakhouse,FINE DINING,4.9,316.0,"12 Brant Street, Toronto",Steak,140.0,Fashion District
+Marben,CASUAL DINING,4.4,377.0,"488 Wellington Street West, Fashion District","Burger, Spanish, Canadian",70.0,Fashion District
+Patria,CASUAL DINING,4.3,297.0,478 King Street. West M5V 1L7,"Tapas, Spanish",120.0,Fashion District
+Wilbur Mexicana,QUICK BITES,4.5,200.0,"552 King Street West, Toronto M5V 1M3",Mexican,35.0,Fashion District
+Gandhi Indian Cuisine,CASUAL DINING,4.3,382.0,554 Queen Street West M5V 2B7,Indian,30.0,Fashion District
+Le Gourmand,CAFÉ,4.6,172.0,"152 Spadina Avenue, Toronto M5V 3S6",Cafe,25.0,Fashion District
+Big Smoke Burger,QUICK BITES,4.4,289.0,"573 King Street West, Toronto","Burger, Fast Food",25.0,Fashion District
+Fresh Off the Boat,QUICK BITES,3.8,114.0,"404 Queen Street West, Toronto",Seafood,30.0,Fashion District
+La Palette,CASUAL DINING,4.5,195.0,"492 Queen Street West, Toronto",French,60.0,Fashion District
+Arepa Cafe,CAFÉ,4.4,159.0,"490 Queen Street West, Toronto","Cafe, Venezuelan",30.0,Fashion District
+The One That Got Away,CASUAL DINING,4.4,176.0,"581 King Street West, Toronto","Fish and Chips, British",35.0,Fashion District
+Brassaii,FINE DINING,4.0,205.0,"461 King Street West, Toronto M5V 1K4",Mediterranean,130.0,Fashion District
+Cibo Wine Bar King St West,CASUAL DINING,4.0,154.0,"522 King Street West, Toronto",Italian,70.0,Fashion District
+Dark Horse Espresso Bar,CAFÉ,4.3,170.0,"215 Spadina Avenue, Toronto M5T2C7",Cafe,25.0,Fashion District
+Soma Chocolate Maker,DESSERT PARLOR,4.3,103.0,"443 King Street West, Toronto M5V 2Z4","Desserts, Cafe",15.0,Fashion District
+Jules Bistro,CASUAL DINING,4.2,114.0,"147 Spadina Avenue, Toronto M5V 2L7",French,80.0,Fashion District
+BarChef,BAR,4.0,91.0,"472 Queen Street West, Toronto M5V 2B2",Bar Food,70.0,Fashion District
+Weslodge Bar & Grill,CASUAL DINING,4.1,203.0,480 King Street. West M5V 1L7,Fusion,120.0,Fashion District
+SPiN Toronto,BAR,3.8,69.0,461 King Street West,American,80.0,Fashion District
+Jimmy's Coffee,CAFÉ,4.2,97.0,"107 Portland Street, Toronto",Cafe,15.0,Fashion District
+KINTON RAMEN,CASUAL DINING,3.6,70.0,"402 Queen Street West, Toronto","Ramen, Japanese",35.0,Fashion District
+Bar Wellington,CASUAL DINING,3.9,105.0,"520 Wellington Street West, Toronto","Bar Food, Grill",75.0,Fashion District
+The Citizen,CASUAL DINING,3.0,60.0,"522 King Street West, Toronto","Bar Food, Steak",80.0,Fashion District
+What A Bagel,CAFÉ,3.6,65.0,"130 Spadina Avenue, Toronto M5V 2L4","Cafe, Bakery",20.0,Fashion District
+Epicure Cafe & Grill,CASUAL DINING,3.7,93.0,"502 Queen Street West, Toronto",Italian,60.0,Fashion District
+Coco Rice,CASUAL DINING,4.0,88.0,"669 King Street West, Toronto M5V 1M9","Thai, Asian",45.0,Fashion District
+Pat's Homestyle,CASUAL DINING,4.0,64.0,"558 Queen Street W, Toronto M5V 2B5","Jamaican, Caribbean",25.0,Fashion District
+Nook,CAFÉ,4.1,51.0,"469 King Street West, Toronto","Cafe, Breakfast",20.0,Fashion District
+SpiritHouse,CASUAL DINING,4.2,64.0,"487 Adelaide Street West, Toronto",Bar Food,75.0,Fashion District
+Kekou Gelato,DESSERT PARLOR,3.8,42.0,"394 Queen Street West, Toronto M5V 2A6","Ice Cream, Asian",15.0,Fashion District
+Smoke's Poutinerie,QUICK BITES,3.9,94.0,"578 Queen Street West, Toronto",Canadian,25.0,Fashion District
+New York Subs and Burritos,QUICK BITES,3.9,79.0,"520 Queen Street West, Toronto M5V 2B7","Mexican, Fast Food",20.0,Fashion District
+La Hacienda,CASUAL DINING,3.4,64.0,"640 Queen Street West, Toronto M6J 1E6",Mexican,55.0,Fashion District
+Mean Bao.,QUICK BITES,3.1,32.0,"165 Bathurst Street, Toronto","Chinese, Asian",30.0,Fashion District
+Avenue Open Kitchen,QUICK BITES,3.9,43.0,"7 Camden Street, Toronto M5V 1V2","Deli, Fast Food",20.0,Fashion District
+Campechano Taqueria,CASUAL DINING,3.5,19.0,504 Adelaide Street West,Mexican,,Fashion District
+Saffron Spice Kitchen,QUICK BITES,3.6,43.0,"459 Queen Street W, Toronto","Indian, Sri Lankan",30.0,Fashion District
+Saku Sushi,CASUAL DINING,3.3,25.0,478 Queen Street West M5V 2B2,"Japanese, Sushi",35.0,Fashion District
+La Merceria,CAFÉ,3.9,33.0,"506 Adelaide Street West, Toronto M5V 1T5","Cafe, Argentine",15.0,Fashion District
+The Keg,CASUAL DINING,3.8,33.0,"560 King St W, Toronto, ON M5V 0L5",Steak,100.0,Fashion District
+Brioche Dorée,CAFÉ,3.3,36.0,"648 King Street West, Toronto M5V 1M5","Bakery, Cafe",30.0,Fashion District
+Pizzeria Libretto,CASUAL DINING,3.8,20.0,545 King Street West M5V 1M1,"Pizza, Italian",40.0,Fashion District
+Firkin On King,CASUAL DINING,3.8,55.0,"461 King Street West, Toronto",Bar Food,65.0,Fashion District
+Banknote Bar,CASUAL DINING,3.8,54.0,"663 King Street West, Toronto","Bar Food, Italian, Pizza",60.0,Fashion District
+Baro,CASUAL DINING,3.4,19.0,485 King Street West M5V 1K4,Latin American,35.0,Fashion District
+Thor Espresso Bar,CAFÉ,3.5,45.0,"35 Bathurst Street, Toronto M5V 2P2",Cafe,20.0,Fashion District
+Freshii,QUICK BITES,2.7,51.0,"140 Spadina Avenue, Toronto",Healthy Food,30.0,Fashion District
+Maker Pizza,QUICK BITES,3.7,18.0,"59 Cameron Street, Toronto M5T 2H1",Pizza,,Fashion District
+Bamboo Buddha,CASUAL DINING,3.7,45.0,"752 King Street West, Toronto M5V 2W8","Chinese, Asian",35.0,Fashion District
+Fancy Franks,QUICK BITES,3.2,17.0,"453 Queen Street West, Toronto",Fast Food,25.0,Fashion District
+Rush Lane,BAR,3.7,28.0,"563 Queen Street West, Toronto",Tapas,90.0,Fashion District
+Ichiban Sushi,CASUAL DINING,3.8,48.0,"750 King Street West, Toronto","Sushi, Japanese, Asian",55.0,Fashion District
+Pamier Kabob,CASUAL DINING,3.7,37.0,"119 Spadina Avenue, Toronto M5V 2L1",Afghan,35.0,Fashion District
+I Love Sushi,CASUAL DINING,2.9,49.0,"494 Queen Street West, Toronto M5V 2B3","Sushi, Japanese, Thai, Asian",40.0,Fashion District
+Porchetta & Co,QUICK BITES,3.2,24.0,545 King West,Sandwich,30.0,Fashion District
+Quantum Coffee,CAFÉ,3.5,19.0,"460 King Street West, Toronto M5V 1L7",Cafe,25.0,Fashion District
+Belfast Love Public House,Other,3.3,14.0,548 King Street W M5V 1M3,Bar Food,70.0,Fashion District
+Bac Ky Vietnamese Canteen,QUICK BITES,2.9,15.0,"567 King Street West, Toronto","Vietnamese, Asian",25.0,Fashion District
+Her Majesty's Pleasure,CAFÉ,3.1,8.0,"556 King Street West, Toronto",Cafe,50.0,Fashion District
+Pizzaiolo,QUICK BITES,3.6,33.0,"521 King Street West, Toronto","Pizza, Fast Food",30.0,Fashion District
+McDonald's,QUICK BITES,2.7,21.0,"160 Spadina Avenue, Toronto",Fast Food,25.0,Fashion District
+Pizza Hut,QUICK BITES,3.3,22.0,"720 King Street West, Toronto","Pizza, Fast Food",25.0,Fashion District
+Masseria,CASUAL DINING,3.3,6.0,"577 King Street West, Toronto M5V 1M1",Italian,25.0,Fashion District
+Caplansky Food Truck,Other,3.0,12.0,Location Varies,"Deli, Sandwich",25.0,Fashion District
+Constantinople Bakery & Coffee,CAFÉ,3.1,4.0,"536 Queen Street West, Toronto M5V 2B5",Cafe,,Fashion District
+b.good,QUICK BITES,,,"573 Queen Street West, Toronto",Healthy Food,35.0,Fashion District
+Poutini's House of Poutine,QUICK BITES,2.9,13.0,617 King Street West M5V 1M5,Canadian,25.0,Fashion District
+Mini Bar,QUICK BITES,3.7,14.0,"116 Spadina Avenue, Toronto M5V",Fast Food,15.0,Fashion District
+Starbucks,CAFÉ,2.9,11.0,"438 Richmond Street West, Toronto",Cafe,20.0,Fashion District
+Chubby's Jamaican Kitchen,CASUAL DINING,3.6,8.0,"104 Portland St, Toronto, ON M5V 2N2",Jamaican,25.0,Fashion District
+Kupfert & Kim,CASUAL DINING,3.4,6.0,"140 Spadina Avenue, Toronto","Healthy Food, Vegetarian",25.0,Fashion District
+Hibachi Teppanyaki & Bar,CASUAL DINING,,,"550 Wellington Street West, Toronto M5V 2V5","Japanese, Sushi, Steak",30.0,Fashion District
+2.9,Other,,,Fashion District,"Japanese, Sushi, Asian Fusion",25.0,Fashion District
+Mira,CASUAL DINING,3.4,5.0,420A Wellington Street West,Peruvian,40.0,Fashion District
+Bovine Sex Club,Other,3.2,17.0,"542 Queen Street West, Toronto",Drinks Only,50.0,Fashion District
+The Cloak Bar,BAR,3.2,5.0,488 Wellington Street West,Bar Food,80.0,Fashion District
+Thai One On,CASUAL DINING,2.9,11.0,"500 Queen Street West, Toronto","Thai, Asian",45.0,Fashion District
+Food Palace Gelato,DESSERT PARLOR,3.3,5.0,"217 Bathurst Street, Toronto",Ice Cream,15.0,Fashion District
+Atlas Espresso Bar,CAFÉ,3.3,9.0,"550 Front Street West, Unit 59, Toronto M5V",Cafe,20.0,Fashion District
+My Roti Place,QUICK BITES,3.1,10.0,"406 Queen St W, Toronto, ON M5V 2A6",Indian,15.0,Fashion District
+Early Mercy,BAR,,,540 King Street West M5V 1M3,Bar Food,1240.0,Fashion District
+Pita Choice,QUICK BITES,3.7,16.0,"744 King Street West, Toronto M5V","Fast Food, Mediterranean",25.0,Fashion District
+King Chef,CASUAL DINING,3.5,15.0,"740 King Street West, Toronto M5V","Chinese, Asian",45.0,Fashion District
+Forget Me Not Cafe,CAFÉ,3.3,4.0,506 Adelaide Street West M5S 2P9,Coffee and Tea,,Fashion District
+Pizza Pizza,QUICK BITES,3.0,15.0,"540 King Street West, Toronto","Pizza, Fast Food",25.0,Fashion District
+The Hoxton,Other,2.3,10.0,"69 Bathurst Street, Toronto M5V 2P6",Drinks Only,50.0,Fashion District
+2 Cats,Other,3.3,9.0,"569 King Street West, Toronto M5M 1M1",Drinks Only,50.0,Fashion District
+Lawai'a Poké,CASUAL DINING,3.6,4.0,"700 King Street W, Toronto M5V 2Y6",Hawaiian,25.0,Fashion District
+EFS,Other,3.2,8.0,"647 King Street West, Toronto M5V 1M5","BBQ, Bar Food",40.0,Fashion District
+Lobby Lounge - Thompson Toronto Hotel,Other,2.6,5.0,"Thompson Toronto Hotel, 550 Wellington Street, Toronto M5V",Bar Food,65.0,Fashion District
+Sara,FINE DINING,3.4,4.0,"98 Portland St, Toronto","Fusion, Japanese",80.0,Fashion District
+Bootleg Smokehouse,CASUAL DINING,,,"64 Spadina Avenue, Fashion District, Toronto","BBQ, American",35.0,Fashion District
+ACE,Other,3.4,11.0,"425 Adelaide Street West, Toronto M5V 2B5",Drinks Only,45.0,Fashion District
+Locals Only,BAR,,,"589 King Street W, Toronto M5V 1M5","Drinks Only, Bar Food",35.0,Fashion District
+Uniun Nightclub,Other,3.2,4.0,"473 Adelaide Street West, Toronto M5V 1T1",Drinks Only,80.0,Fashion District
+Ristorante Rosina,CASUAL DINING,,,"740 King St. West, Toronto, ON M5V 1N3",Italian,50.0,Fashion District
+Everleigh,Other,3.2,5.0,"580 King Street West, Toronto",Bar Food,,Fashion District
+Barfish,BAR,,,"668 King Street West, Toronto M5V 1M7","Bar Food, Japanese",60.0,Fashion District
+MARBL,CASUAL DINING,3.3,7.0,"455 King St W, Fashion District, Toronto",American,80.0,Fashion District
+Escobar,BAR,,,"606 King Street West, Inside Valdez, Toronto",Drinks Only,50.0,Fashion District
+Brant Street Cafe,QUICK BITES,,,"425 Adelaide Street West, Toronto","Canadian, Breakfast",,Fashion District
+Tosto Quickfire Pizza Pasta,CASUAL DINING,,,"431 Richmond St W, Toronto, ON M5V 1X9",Italian,30.0,Fashion District
+Druxy's Famous Deli,Other,,,"419 King Street West, Toronto","Fast Food, Sandwich",25.0,Fashion District
+Greek & Co,FAST CASUAL,,,"529 King St W, Toronto, ON M5V 1K4",Greek,20.0,Fashion District
+Petty Cash,BAR,,,"487 Adelaide St W, Toronto, ON M5V 1T4",Canadian,30.0,Fashion District
+Jimmy's Coffee,CAFÉ,,,"100 Portland Street, Fashion District, Toronto, M5V 2N2",Cafe,20.0,Fashion District
+Fashion District,Other,,,CUISINES:,"Lebanese, Mediterranean, Cafe",25.0,Fashion District
+Fit for Life,QUICK BITES,,,"519 King Street West, Toronto","Healthy Food, Fast Food",25.0,Fashion District
+Craft Kitchen,CAFÉ,,,"410 Adelaide Street West, Toronto M5V 1S8",Canadian,25.0,Fashion District
+Country Style,CAFÉ,,,"38 Spadina Avenue, Toronto",Cafe,20.0,Fashion District
+Ganto Sushi,CASUAL DINING,,,565 King Street West,"Sushi, Japanese",35.0,Fashion District
+Bar Altura,BAR,,,"571 Queen Street W, Toronto, ON M5V 2B6",Italian,40.0,Fashion District
+The Foundry Gastro Tap House,CASUAL DINING,,,"487 Adelaide Street West, Toronto M5V 1T4",Bar Food,60.0,Fashion District
+Rosina Toronto,CASUAL DINING,,,"740A King Street W, Toronto, ON M5V 1N3",Italian,40.0,Fashion District
+Saisons Restaurant & Catering,QUICK BITES,,,"555 Richmond Street West, Toronto",Cafe,20.0,Fashion District
+Same Nightclub,Other,,,"510 King Street West, Fort York",Drinks Only,,Fashion District
+Lost & Found,Other,,,"577 King Street West, Toronto M5V",Drinks Only,70.0,Fashion District
+Tattoo Queen West,Other,,,"567 Queen Street West, Toronto M5V 2B6",Drinks Only,20.0,Fashion District
+"Bathurst Street, Fashion District",Other,,,CUISINES:,Diner,43.0,Fashion District
+Drom Taberna,BAR,,,"458 Queen Street W, Fashion District, Toronto","Eastern European, Polish, Russian, Bar Food",60.0,Fashion District
+Freshslice Pizza,CASUAL DINING,,,"744 King St W, Fashion District, Toronto","Pizza, Fast Food",,Fashion District
+Ganto Sushi,CASUAL DINING,,,565 King Street West M5V 1M1,"Japanese, Sushi",,Fashion District
+Souvlaki Kalamaki,CASUAL DINING,,,1405 Queen Street West,Greek,,Fashion District

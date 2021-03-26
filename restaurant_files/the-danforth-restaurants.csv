@@ -1,0 +1,139 @@
+Name,EstablishmentType,Rating,NumReviews,Address,Cuisine,CostForTwo,City
+Messini,CASUAL DINING,4.4,609.0,"445 Danforth Avenue, Toronto M4K 1P2",Greek,40.0,The Danforth
+Pizzeria Libretto,CASUAL DINING,4.3,281.0,"550 Danforth Avenue, Toronto M4K 1P8","Pizza, Italian",50.0,The Danforth
+Mezes,CASUAL DINING,4.4,242.0,"456 Danforth Avenue, Toronto M4K 1P4",Greek,60.0,The Danforth
+Square Boy,QUICK BITES,4.3,199.0,"875 Danforth Avenue, Toronto","Greek, Burger",20.0,The Danforth
+Astoria Shish Kebob House,CASUAL DINING,4.2,239.0,"390 Danforth Avenue, Toronto M4K 1P3","Greek, Kebab",50.0,The Danforth
+Allen's,CASUAL DINING,4.1,196.0,"143 Danforth Avenue, Toronto M4K 1N2","Canadian, Bar Food",55.0,The Danforth
+7 Numbers,CASUAL DINING,4.1,145.0,"307 Danforth Avenue, Toronto",Italian,60.0,The Danforth
+Pantheon,CASUAL DINING,4.3,132.0,"407 Danforth Avenue, Toronto M4K 1P1",Greek,70.0,The Danforth
+Globe Bistro,CASUAL DINING,3.7,113.0,"124 Danforth Avenue, Toronto M4K 1N1",Canadian,90.0,The Danforth
+Rodeo Brazilian Steakhouse,CASUAL DINING,4.2,125.0,"95 Danforth Avenue, Toronto","Brazilian, Steak",80.0,The Danforth
+Off The Hook,CASUAL DINING,4.4,101.0,"749 Broadview Avenue, Toronto M4K 2P6",Fish and Chips,35.0,The Danforth
+PAN,CASUAL DINING,4.0,109.0,"516 Danforth Avenue, Toronto M4K 1P6","Greek, Mediterranean",55.0,The Danforth
+Ouzeri,CASUAL DINING,4.1,105.0,"500A Danforth Avenue, Toronto","Greek, Mediterranean",60.0,The Danforth
+Tapas at Embrujo,CASUAL DINING,4.2,48.0,"97 Danforth Avenue, Toronto M4K1N2","Spanish, Tapas",50.0,The Danforth
+Instant Confirmation,Other,,,Factory Girl,"Pizza, Grill, Italian",65.0,The Danforth
+VON Doughnuts,DESSERT PARLOR,3.9,47.0,"713 Danforth Avenue, Toronto M4J 1L2","Desserts, Coffee and Tea",15.0,The Danforth
+Casa Sushi,CASUAL DINING,4.4,66.0,"469 Danforth Avenue, Toronto M4K 1P1","Sushi, Japanese",35.0,The Danforth
+Athens Pastries,CAFÉ,4.4,86.0,"509 Danforth Avenue, Toronto M4K 3E1","Cafe, Greek, Bakery",25.0,The Danforth
+Christina's,CASUAL DINING,3.7,103.0,"492 Danforth Avenue, Toronto","Greek, Mediterranean",50.0,The Danforth
+The Auld Spot,CASUAL DINING,4.1,83.0,"347 Danforth Avenue, Toronto",Bar Food,60.0,The Danforth
+Greenwood Smokehouse BBQ,CASUAL DINING,3.5,44.0,"673 Danforth Avenue, Toronto","BBQ, Diner",50.0,The Danforth
+Katsu Sushi,CASUAL DINING,3.7,89.0,"572 Danforth Avenue, Toronto","Sushi, Japanese",50.0,The Danforth
+Asteria,CASUAL DINING,4.1,84.0,"292 Danforth Avenue, Toronto",Greek,35.0,The Danforth
+The Only Cafe,BAR,4.0,56.0,"972 Danforth Avenue, Toronto M4J 1L9","Bar Food, Cafe",30.0,The Danforth
+Burger Stomper - Gourmet Burger & Milkshake Bar,QUICK BITES,4.0,55.0,"364 Danforth Avenue, Toronto M4K 1N8","Burger, Beverages",30.0,The Danforth
+The Combine Eatery,CASUAL DINING,3.9,73.0,"162 Danforth Avenue, Toronto M4K 1N1",American,65.0,The Danforth
+Il Fornello,CASUAL DINING,4.0,73.0,"576 Danforth Avenue, Toronto",Italian,65.0,The Danforth
+Kalyvia,CASUAL DINING,3.9,69.0,"420 Danforth Avenue, Toronto",Greek,60.0,The Danforth
+Mambo Lounge,CASUAL DINING,3.7,56.0,"120 Danforth Avenue, Toronto M4K 1N1",Cuban,55.0,The Danforth
+Ha Gow Dim Sum House,CASUAL DINING,3.9,38.0,"988 Danforth Avenue, Toronto M4J 1L9","Dim Sum, Chinese",30.0,The Danforth
+Dolce Gelato,DESSERT PARLOR,4.0,49.0,"414 Danforth Avenue, Toronto M4K 1P3","Ice Cream, Desserts",20.0,The Danforth
+Danforth Dragon,CASUAL DINING,3.9,56.0,"861 Danforth Avenue, Toronto M4J 1L8",Hakka Chinese,40.0,The Danforth
+Louis Cifer Brew Works,CASUAL DINING,3.4,29.0,"417 Danforth Avenue, Toronto M4K 1P1",Bar Food,45.0,The Danforth
+Mr. Pide,QUICK BITES,3.9,40.0,"800A Danforth Avenue, Toronto M4J 1L6",Turkish,25.0,The Danforth
+Mocha Mocha,CAFÉ,3.9,64.0,"489 Danforth Avenue, Toronto M4K 1P6",Cafe,40.0,The Danforth
+Sher-E-Punjab,CASUAL DINING,3.8,45.0,"351 Danforth Avenue, Toronto M4K 1N7",Indian,45.0,The Danforth
+Danforth Pizza House,QUICK BITES,4.1,46.0,"920 Danforth Avenue, Toronto",Pizza,35.0,The Danforth
+Cafe Fiorentina,CASUAL DINING,3.8,29.0,"463 Danforth Avenue, Toronto M4K 1P1",Italian,35.0,The Danforth
+Sushi Delight,CASUAL DINING,4.0,59.0,"461 Danforth Avenue, Toronto M4K 1P1","Sushi, Japanese",40.0,The Danforth
+New York Cafe,CASUAL DINING,3.9,50.0,"757 Broadview Avenue, Toronto M4K 2P6","American, Canadian",50.0,The Danforth
+Simone's Caribbean Restaurant,CASUAL DINING,3.8,28.0,"596 Danforth Avenue, Toronto M4K 1R1",Caribbean,35.0,The Danforth
+Caffe Demetre,DESSERT PARLOR,3.7,46.0,"400 Danforth Avenue, Toronto M4K 1P3","Desserts, Ice Cream, Cafe",35.0,The Danforth
+The Friendly Greek,CASUAL DINING,3.6,53.0,"494 Danforth Avenue, Toronto M4K 1P6","Greek, Mediterranean",65.0,The Danforth
+Megas,CASUAL DINING,3.5,43.0,"402 Danforth Avenue, Toronto M4K 1P3",Greek,50.0,The Danforth
+Avli,CASUAL DINING,3.9,44.0,"401 Danforth Avenue, Toronto M4K 1P1","Greek, Mediterranean",70.0,The Danforth
+Aji Sai,CASUAL DINING,3.9,40.0,"783 Danforth Avenue, Toronto","Sushi, Japanese, Asian",40.0,The Danforth
+Makkah Restaurant,QUICK BITES,3.9,27.0,"1020 Danforth Avenue, Toronto M4J 1M2","Pakistani, Indian",25.0,The Danforth
+Detroit Eatery,CASUAL DINING,3.6,38.0,"389 Danforth Avenue, Toronto","American, Breakfast",30.0,The Danforth
+Athens Restaurant & Tavern,CASUAL DINING,3.8,31.0,"707 Danforth Avenue, Toronto M4J 1L2","Greek, Mediterranean",50.0,The Danforth
+Nakayoshi,CASUAL DINING,3.7,29.0,"812 Danforth Avenue, Toronto M4J 1L2","Sushi, Japanese",40.0,The Danforth
+The Big Carrot,CAFÉ,3.8,41.0,"348 Danforth Avenue, Toronto","Juices, Cafe, Deli",25.0,The Danforth
+Big House Pizza,CASUAL DINING,3.9,25.0,"962 Danforth Avenue, Toronto M4J 1L9",Pizza,40.0,The Danforth
+Dough Bakeshop,BAKERY,3.7,34.0,"173 Danforth Avenue, Toronto M4K 1N2","Bakery, Cafe",20.0,The Danforth
+Fox & Fiddle,CASUAL DINING,2.7,36.0,"535 Danforth Avenue, Toronto M4K 1P7","Bar Food, British",55.0,The Danforth
+Broadview Espresso,CAFÉ,3.9,29.0,"817 Broadview Avenue, Toronto",Cafe,20.0,The Danforth
+Serano Bakery,BAKERY,3.5,13.0,"830 Pape Avenue, Toronto",Bakery,20.0,The Danforth
+Alexandros,QUICK BITES,3.8,26.0,"484 Danforth Avenue, Toronto",Greek,30.0,The Danforth
+Licken Chicken,QUICK BITES,3.5,17.0,"1028 Danforth Avenue, Toronto",Fast Food,20.0,The Danforth
+Akropolis Pastries,CAFÉ,3.6,19.0,"708 Danforth Avenue, Toronto M4J 1L1","Cafe, Greek, Bakery",25.0,The Danforth
+The Old Nick,CASUAL DINING,3.9,30.0,"123 Danforth Avenue, Toronto M4K 1N2",Bar Food,40.0,The Danforth
+Mong-Kut Thai Gold,CASUAL DINING,3.1,20.0,"471 Danforth Avenue, Toronto M4K 1P1",Thai,40.0,The Danforth
+Ali Baba's,QUICK BITES,3.8,17.0,"113 Danforth Avenue, Toronto",Middle Eastern,25.0,The Danforth
+Tsaa Tea Shop,BEVERAGE SHOP,3.9,16.0,"412 Danforth Avenue, Toronto","Tea, Cafe, Beverages",20.0,The Danforth
+Brass Taps Pizza Pub,CASUAL DINING,3.0,17.0,"493 Danforth Avenue, Toronto","Italian, Pizza",40.0,The Danforth
+Motorama Restaurant,CASUAL DINING,3.7,15.0,"862 Danforth Avenue, Toronto","Canadian, Greek",40.0,The Danforth
+La Diperie,DESSERT PARLOR,3.3,7.0,"372 Danforth Avenue, Toronto M4K 1P1","Desserts, Frozen Yogurt, Ice Cream",10.0,The Danforth
+Kobo Nobu,CASUAL DINING,3.6,6.0,"786 Broadview Avenue, Toronto M4K 2P7",Japanese,40.0,The Danforth
+Cafe Frappe,CAFÉ,3.2,11.0,"519 Danforth Avenue, Toronto",Cafe,25.0,The Danforth
+Indira's Caribbean Spot,CASUAL DINING,3.0,12.0,"937 Danforth Avenue, Toronto M4J 1L8","Guyanese, Caribbean",25.0,The Danforth
+Red Castle,CASUAL DINING,3.1,6.0,"531 Danforth Avenue, Toronto M4K 1P7","Mediterranean, Lebanese, Moroccan",30.0,The Danforth
+Second Cup Coffee Co.,Other,3.9,12.0,355 Danforth Avenue,"Cafe, Coffee and Tea, Frozen Yogurt",10.0,The Danforth
+521 Cafe & Bar,BAR,3.0,12.0,"521 Danforth Avenue, Toronto M4K 1P7","Sandwich, Coffee and Tea",45.0,The Danforth
+Trapezzi Kafe & Bar,CAFÉ,3.7,14.0,"505 Danforth Avenue, Toronto","Cafe, Drinks Only",25.0,The Danforth
+Gabby's,BAR,2.7,14.0,"729 Danforth Avenue, Toronto M4J 1L2",Bar Food,55.0,The Danforth
+Madina Halal Pizza,QUICK BITES,3.6,8.0,"1078 Danforth Avenue, Toronto M4J 1M2","Pizza, Fast Food",25.0,The Danforth
+Bread & Greens,QUICK BITES,3.1,15.0,"102 Danforth Avenue, Toronto M4K 1N1",Deli,20.0,The Danforth
+Green Lady,QUICK BITES,2.6,8.0,"1176 Danforth Avenue, Toronto","Thai, Chinese",40.0,The Danforth
+City Fried Chicken & Pizza,QUICK BITES,3.4,7.0,"990 Danforth Avenue, Toronto","Pizza, Fast Food",25.0,The Danforth
+Bite Me Grill,CASUAL DINING,2.7,11.0,"730 Danforth Avenue, Toronto M4J 1L5","American, Grill",35.0,The Danforth
+Kefi Lounge,BAR,,,"511 Danforth Avenue, Toronto M4K 1P5",Mediterranean,50.0,The Danforth
+Popeyes,QUICK BITES,3.3,5.0,"523 Danforth Avenue, Toronto",Fast Food,25.0,The Danforth
+8 Sushi,CASUAL DINING,3.2,6.0,551 Danforth Avenue,"Sushi, Japanese, Asian",40.0,The Danforth
+Revere,CASUAL DINING,,,"804 Danforth Avenue, Toronto M4J 1L2",Canadian,25.0,The Danforth
+The Peoples Caribbean Dutch Pot,CASUAL DINING,3.0,7.0,"751 Broadview Avenue, Toronto M4K 2P6",Caribbean,25.0,The Danforth
+Holy Chicken,FAST CASUAL,,,"1028 Danforth Avenue, Toronto M4J 1M2","Fast Food, Canadian",25.0,The Danforth
+Marvel Coffee,CAFÉ,3.7,6.0,"6 Donlands Avenue, Toronto",Cafe,20.0,The Danforth
+Sakawa Coffee,CAFÉ,,,"867 Danforth Avenue, Toronto","Japanese, Coffee and Tea",25.0,The Danforth
+Rails And Ales,CASUAL DINING,3.4,8.0,"1106 Danforth Avenue, Toronto M4J 1M3",Bar Food,60.0,The Danforth
+Green Basil,CASUAL DINING,,,"353 Danforth Avenue, Toronto",Thai,40.0,The Danforth
+Si Espresso & Pasticceria Bar,CAFÉ,3.3,5.0,"748 Broadview Avenue, Toronto M4K 2P1",Cafe,20.0,The Danforth
+Pizzaiolo,QUICK BITES,3.0,6.0,"588 Danforth Avenue, Toronto","Pizza, Fast Food",30.0,The Danforth
+Timothy's,CAFÉ,2.9,5.0,"320 Danforth Avenue, Toronto",Cafe,25.0,The Danforth
+Yogurty's,DESSERT PARLOR,,,"475 Danforth Avenue, Toronto","Frozen Yogurt, Desserts",15.0,The Danforth
+Dora Keogh,CASUAL DINING,2.5,6.0,"141 Danforth Avenue, Toronto M4K 1N2","Irish, Bar Food",90.0,The Danforth
+Momo Hut & Gardens,QUICK BITES,,,"401 Danforth Avenue, Toronto, ON M4K 1P1",Canadian,15.0,The Danforth
+Fernando's Hideaway,CASUAL DINING,,,"785 Danforth Aveune, Toronto M4J 1L2",Tex-Mex,25.0,The Danforth
+Sultan Shawarma & Falafel,QUICK BITES,2.9,5.0,"721 Pape Avenue, Toronto",Middle Eastern,20.0,The Danforth
+A & W,QUICK BITES,3.0,5.0,"654 Danforth Avenue, Toronto","Burger, Fast Food",25.0,The Danforth
+Brigantino's on the Danforth,CASUAL DINING,,,"401 Danforth Avenue, Toronto M4K 1P1","Italian, Steak",25.0,The Danforth
+Pizza Pizza,QUICK BITES,2.9,4.0,"780 Danforth Avenue, Toronto","Pizza, Fast Food",25.0,The Danforth
+KO Burgers,QUICK BITES,2.8,4.0,"788 Broadview Avenue, Toronto","Burger, Fast Food",25.0,The Danforth
+Wing House & Sports Bar,CASUAL DINING,,,"630 Danforth Avenue, Toronto M4K 1R3",Bar Food,40.0,The Danforth
+Billiards Academy & Sports Lounge,BAR,,,"485 Danforth Avenue, Toronto M4K1P5 1P5",Bar Food,40.0,The Danforth
+The Black Swan,BAR,2.6,5.0,"154 Danforth Avenue, Toronto M4K 1N1",Bar Food,40.0,The Danforth
+Original Gyro,CASUAL DINING,,,"547 Danforth Ave, ON M4K 1P7, Toronto","Greek, Mediterranean",15.0,The Danforth
+The Olde Eton House,BAR,,,"710 Danforth Avenue, The Danforth, Toronto M4J 1L1",Bar Food,40.0,The Danforth
+Kabsa Mandi,CASUAL DINING,,,"1008 Danforth Avenue, Toronto",Middle Eastern,30.0,The Danforth
+Anestis Taverna,CASUAL DINING,,,"526 Danforth Ave, Toronto M4K 1P8",Greek,45.0,The Danforth
+Pizza Nova,QUICK BITES,2.8,4.0,"240 Danforth Avenue, Toronto","Pizza, Fast Food",30.0,The Danforth
+Efes Bar and Grill,CASUAL DINING,,,"940 Danforth Avenue, Toronto M4J 1L9","Mediterranean, Turkish",25.0,The Danforth
+Desta Market,QUICK BITES,,,"843 Danforth Avenue, Toronto M4J 1L2",Ethiopian,15.0,The Danforth
+Hunters on the Danforth,CASUAL DINING,,,"674 Danforth Avenue, Toronto M4J 1L1",Greek,25.0,The Danforth
+Starbucks,CAFÉ,,,"106 Danforth Avenue, Toronto M4K 1N1",Cafe,20.0,The Danforth
+Wing Machine,QUICK BITES,,,"1160 Danforth Avenue, Toronto",Fast Food,30.0,The Danforth
+Mavi Cafe,CAFÉ,,,"960 Danforth Avenue, Toronto","Cafe, Turkish",35.0,The Danforth
+The Edmund Burke,Other,,,"107 Danforth Avenue, Toronto M4K 1N2",Bar Food,,The Danforth
+Moonlight Pub,BAR,,,"1162 Danforth Avenue, Toronto",Drinks Only,40.0,The Danforth
+Rivals Sports Pub,BAR,,,560 Danforth Avenue,Bar Food,45.0,The Danforth
+Leonidas,DESSERT PARLOR,,,"484 Danforth Avenue, Toronto",Desserts,20.0,The Danforth
+Tia's Bakery,BAKERY,,,"761 Pape Avenue, Toronto",Bakery,15.0,The Danforth
+Jamba Juice,BEVERAGE SHOP,,,"475 Danforth Avenue, Toronto","Juices, Beverages",25.0,The Danforth
+Le Plato,CASUAL DINING,,,"785 Danforth Avenue, Toronto M4J 1L2",African,45.0,The Danforth
+Kaoe Bar,BAR,,,"768 Pape Avenue, Toronto",Drinks Only,30.0,The Danforth
+Subway,QUICK BITES,,,"671 Danforth Avenue, Toronto",Fast Food,20.0,The Danforth
+Legends Sports Lounge,CASUAL DINING,,,"774 Danforth Avenue, Toronto M4J 1L5",Bar Food,55.0,The Danforth
+Red Dice Pizza,QUICK BITES,,,"884 Danforth Avenue, Toronto M4J 1L7","Pizza, Burger, Greek, Fast Food",20.0,The Danforth
+Maple Leaf Sports Bar,BAR,,,"828 Danforth Avenue, Toronto",Bar Food,50.0,The Danforth
+Baskin Robbins,DESSERT PARLOR,,,"552 Danforth Avenue, Toronto","Ice Cream, Desserts",15.0,The Danforth
+Tim Hortons,CAFÉ,,,91 Danforth Avenue,"American, Donuts, Desserts",20.0,The Danforth
+Domino's,QUICK BITES,,,"871 Danforth Avenue, Toronto","Fast Food, Pizza",25.0,The Danforth
+Caffe Greco,CAFÉ,,,"463 Danforth Avenue , Toronto M4K 1P1",Cafe,20.0,The Danforth
+Tim Hortons,CAFÉ,,,743 Pape Avenue,Cafe,15.0,The Danforth
+Le Plato,CASUAL DINING,,,"785 B Danforth, Toronto M4J 1L2",African,,The Danforth
+808 Social,CAFÉ,,,"808 Pape Avenue, Toronto M4K 3S7","Cafe, Bakery",10.0,The Danforth
+The One In The Only Coffee House,CAFÉ,,,"970 Danforth Avenue, Toronto M4J 1L9","Bar Food, Cafe",30.0,The Danforth
+Starbucks,CAFÉ,,,106 Danforth Avenue M4K 1N1,Coffee and Tea,,The Danforth
+Rikkochez,CASUAL DINING,,,"341 Danforth Ave, Toronto, ON M4K 1N7",Mediterranean,30.0,The Danforth
+Sidebar,BAR,,,"161 Danforth Ave, Toronto, ON M4K 1N2",Bar Food,30.0,The Danforth

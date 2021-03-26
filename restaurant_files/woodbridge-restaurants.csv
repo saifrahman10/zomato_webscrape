@@ -1,0 +1,240 @@
+Name,EstablishmentType,Rating,NumReviews,Address,Cuisine,CostForTwo,City
+Memphis BBQ & Wicked Wings,CASUAL DINING,4.8,254.0,"8074 Islington Avenue, Vaughan","BBQ, American",35.0,Woodbridge
+Spoon & Fork,CASUAL DINING,3.7,164.0,"11 Colossus Drive, Vaughan","Japanese, Thai, Asian",65.0,Woodbridge
+Desserts Plus,CASUAL DINING,4.1,165.0,"8611 Weston Road, Vaughan",Italian,60.0,Woodbridge
+Ricci's,CASUAL DINING,4.2,112.0,"8401 Weston Road, Unit 19, Woodbridge L4L 1A6","Pizza, Italian",30.0,Woodbridge
+Earls,CASUAL DINING,4.1,112.0,"RioCan Colossus Centre, 40 Colossus Drive, Vaughan",Grill,100.0,Woodbridge
+Akita Sushi,CASUAL DINING,3.8,112.0,"5451 Highway 7, Vaughan","Sushi, Japanese, Asian",50.0,Woodbridge
+Indian Hero,CASUAL DINING,3.9,93.0,"8920 Highway 50, Woodbridge","Indian, Afghan",40.0,Woodbridge
+Ciao Roma,CASUAL DINING,4.3,59.0,"28 Roytec Road, Unit 12A, Vaughan","Pizza, Italian",35.0,Woodbridge
+Kyoto Sushi Bar,CASUAL DINING,4.0,68.0,"3883 Rutherford Road, Vaughan L4L 9R8","Sushi, Japanese, Asian",35.0,Woodbridge
+Castello Ristorante,CASUAL DINING,3.7,64.0,"3600 Langstaff Road, #12",Italian,50.0,Woodbridge
+Kookoo's Kitchen,QUICK BITES,3.6,54.0,"Rutherford Shopping Centre, 5100 Rutherford Road, Vaughan L4H 2J2","Fish and Chips, Grill",25.0,Woodbridge
+Five Guys,QUICK BITES,3.7,84.0,"Woodbridge Square, 7600 Weston Road, Vaughan","Fast Food, Burger",25.0,Woodbridge
+That's Italian Ristorante,CASUAL DINING,4.1,60.0,"2 Tall Grass Trail, Unit 4-5, Vaughan L4L 3Y9",Italian,112.0,Woodbridge
+Ice Cream Patio,CASUAL DINING,3.5,61.0,"5451 Highway 7, Vaughan",Italian,50.0,Woodbridge
+The Burger's Priest,QUICK BITES,3.6,47.0,"Vaughan 400/7 Power Centre, 7887 Weston Road, Vaughan",Burger,30.0,Woodbridge
+Moxie's Grill & Bar,CASUAL DINING,4.1,71.0,"30 Colossus Drive, Unit B, Vaughan L4L 0B7","Grill, Steak, Canadian, Fusion",65.0,Woodbridge
+Zizi Trattoria,CASUAL DINING,4.1,57.0,"9311 Weston Road, Woodbridge, ON, L4H 3G8",Italian,55.0,Woodbridge
+Ginza,CASUAL DINING,4.1,62.0,"8401 Weston Road, Unit 3-4, Vaughan","Sushi, Japanese, Asian, Thai",30.0,Woodbridge
+Sapore By Zafferano,CASUAL DINING,4.0,66.0,"8000 Highway 27, Vaughan",Italian,65.0,Woodbridge
+Koganei Japanese Seafood Restaurant,CASUAL DINING,4.0,57.0,3901 Hwy 7 West #103,"Sushi, Japanese, Asian",40.0,Woodbridge
+Holy Chuck Burgers,CASUAL DINING,3.8,42.0,"4421 Highway 7, Vaughan",Burger,30.0,Woodbridge
+Mastroroberto Trattoria & Pizzeria,CASUAL DINING,4.1,59.0,"Vaughan 400/7 Power Centre, 7887 Weston Road, Unit 8, Vaughan",Italian,80.0,Woodbridge
+Sake Sushi,CASUAL DINING,3.9,44.0,"5875 Highway 7, Vaughan","Sushi, Japanese, Asian",50.0,Woodbridge
+Zafferano Ristorante,CASUAL DINING,4.1,56.0,"8633 Weston Road, Vaughan",Italian,50.0,Woodbridge
+Basilico Ristorante,CASUAL DINING,4.2,59.0,"Rutherford Shopping Centre, 5100 Rutherford Road, Unit 4-5, Vaughan",Italian,60.0,Woodbridge
+Burrito Burrito,QUICK BITES,3.8,51.0,"9200 Weston Road, Unit 21, Vaughan L4H 2P8",Mexican,30.0,Woodbridge
+Enoteca Motorino,CASUAL DINING,3.8,51.0,"4101 Rutherford Road, Vaughan",Italian,50.0,Woodbridge
+Caffe Demetre,DESSERT PARLOR,3.2,54.0,"7540 Weston Rd, Unit 6, Vaughan L4L 9L9","Desserts, Ice Cream, Cafe",35.0,Woodbridge
+Mandarin Restaurant - Vaughan,CASUAL DINING,3.1,37.0,"8787 Weston Road, Vaughan","Chinese, Asian, Canadian",60.0,Woodbridge
+Piacere Ristorante,CASUAL DINING,3.9,42.0,"9311 Weston Road, Unit 1-2, Vaughan",Italian,70.0,Woodbridge
+Peperoncino Trattoria,CASUAL DINING,3.9,33.0,"200 Whitmore Road, Vaughan",Italian,65.0,Woodbridge
+Symposium Cafe Restaurant & Lounge,CASUAL DINING,3.3,38.0,31 Colossus Drive L4L9K4 9K4,"Diner, Burger, Desserts",65.0,Woodbridge
+Galaxie Diner,CASUAL DINING,3.4,37.0,"4441 Highway 7, Vaughan","Deli, American",30.0,Woodbridge
+The Lobster Trap,CASUAL DINING,3.4,39.0,"8099 Weston Road, Vaughan",Seafood,110.0,Woodbridge
+Nove Ristorante,CASUAL DINING,4.0,47.0,"8383 Weston Road, Vaughan",Italian,60.0,Woodbridge
+Jack Astor's,CASUAL DINING,3.3,51.0,"10 Colossus Drive, Vaughan L4L",Bar Food,55.0,Woodbridge
+Masa Sushi,CASUAL DINING,3.4,41.0,"9200 Weston Road, Unit 14-16, Vaughan","Sushi, Japanese, Asian",50.0,Woodbridge
+Yo Amo Tacos,CASUAL DINING,3.0,31.0,"7034 Islington Ave, Vaughan L4L1V8",Mexican,85.0,Woodbridge
+Oca Nera,CASUAL DINING,3.9,30.0,"8348 Islington Avenue, Unit 5-6, Vaughan",Italian,80.0,Woodbridge
+California Sandwiches,QUICK BITES,3.9,37.0,"SmartCentres Piazza Del Sole, 200 Windflower Gate, Vaughan",Sandwich,20.0,Woodbridge
+Choice Of The Orient,CASUAL DINING,3.9,34.0,"5694 Highway 7, Vaughan","Chinese, Asian",,Woodbridge
+Il Piccolo Forno,CAFÉ,3.9,28.0,"40 Innovation Drive, Unit 12, Woodbridge","Cafe, Desserts, Bakery",25.0,Woodbridge
+San Antonio's Deli & Catering,QUICK BITES,3.9,25.0,"5731 Highway 7, Vaughan","Pizza, Sandwich",15.0,Woodbridge
+Siamese Thai Cuisine,CASUAL DINING,3.6,30.0,"200 Whitmore Road, Vaughan L4L 7K4","Thai, Asian",55.0,Woodbridge
+Panini Italian Sandwiches,QUICK BITES,3.9,33.0,"Woodbridge Square, 7600 Weston Road, Unit 64, Vaughan","Fast Food, Italian",25.0,Woodbridge
+Il Cavallino Ristorante,CASUAL DINING,3.8,29.0,"8077 Islington Avenue, Vaughan",Italian,80.0,Woodbridge
+Cora's Breakfast & Lunch,CASUAL DINING,3.7,29.0,"8401 Weston Road, Vaughan L4L 1A6","Diner, Canadian",35.0,Woodbridge
+Ital Vera Pizza,QUICK BITES,3.9,26.0,"270 Chancellor Drive, Unit 1, Vaughan","Pizza, Fast Food",25.0,Woodbridge
+Romano's Restaurant,CASUAL DINING,3.7,18.0,830 Rowntree Dairy Road,Italian,45.0,Woodbridge
+Mr. Thai,CASUAL DINING,3.8,35.0,"40 Innovation Drive, Vaughan","Thai, Asian",25.0,Woodbridge
+Rosa's Place,CASUAL DINING,3.9,30.0,"3650 Langstaff Road, Unit 3-6, Vaughan",Italian,70.0,Woodbridge
+Pho Real,CASUAL DINING,3.9,23.0,"8099 Weston Road, Vaughan","Vietnamese, Asian",30.0,Woodbridge
+Pita Lite,QUICK BITES,3.8,29.0,"Islington Village Centre, 9600 Islington Avenue, Vaughan",Mediterranean,25.0,Woodbridge
+Lavish Cupcakes Inc,DESSERT PARLOR,3.7,30.0,"8611 Weston Road, Unit 34B, Vaughan",Desserts,15.0,Woodbridge
+Boom Breakfast & Co,CASUAL DINING,3.3,19.0,"145 Hawkview Boulevard, Unit 7, Vaughan","Diner, Canadian",45.0,Woodbridge
+Shitake Sushi and Thai,CASUAL DINING,3.4,11.0,"4401 Highway 7, Vaughan","Japanese, Sushi, Thai",40.0,Woodbridge
+Bocconcino Ristorante,CASUAL DINING,3.6,21.0,"331 Trowers Road, Vaughan",Italian,65.0,Woodbridge
+La Paloma Gelateria & Cafe,DESSERT PARLOR,3.3,17.0,"SmartCentres Piazza Del Sole, 200 Windflower Gate, Vaughan","Italian, Ice Cream, Desserts",20.0,Woodbridge
+Parmigiana Sandwiches,QUICK BITES,3.4,17.0,"180 Winges Road, Vaughan",Italian,30.0,Woodbridge
+Milestones,CASUAL DINING,3.8,27.0,"3900 Highway 7, Vaughan L4L 9C3","Grill, Canadian",65.0,Woodbridge
+Nino D'Aversa Bakery,BAKERY,3.5,26.0,"7960 Kipling Avenue, Vaughan","Italian, Bakery",35.0,Woodbridge
+Pho Linh,CASUAL DINING,3.6,15.0,"2100 Steeles Avenue West, Unit 2",Vietnamese,20.0,Woodbridge
+Corned Beef House,CASUAL DINING,3.7,16.0,"120 Whitmore Drive, Unit# 19, Vaughan",Deli,35.0,Woodbridge
+Eastern Sense,CASUAL DINING,3.8,19.0,"200 Marycroft Avenue, Vaughan","Chinese, Asian",45.0,Woodbridge
+E & R Sweetery,BAKERY,,,"90 Winges Road Unit 21, Toronto","Bakery, Desserts",10.0,Woodbridge
+Xpress BBQ,QUICK BITES,3.9,16.0,"40 Innovation Dr, Vaughan","Portuguese, Grill",25.0,Woodbridge
+Trattoria Re Di Napoli,CASUAL DINING,3.6,10.0,"8787 Weston Road, Vaughan",Italian,60.0,Woodbridge
+Oh So Sweet,BAKERY,3.1,17.0,"8099 Weston Road, Woodbridge","Coffee and Tea, Desserts",15.0,Woodbridge
+Boar N Wing,BAR,2.9,20.0,"40 Innovation Drive, Woodbridge",Bar Food,60.0,Woodbridge
+Mucho Burrito,QUICK BITES,3.8,33.0,"RioCan Colossus Centre, 30 Famous Avenue, Vaughan",Tex-Mex,30.0,Woodbridge
+Spin Dessert Cafe,CAFÉ,3.5,14.0,"Woodbridge Square, 7600 Weston Road, Vaughan","Desserts, Breakfast, Cafe",40.0,Woodbridge
+Pho Tan Dinh Restaurant,CASUAL DINING,3.6,12.0,"Vaughan 400/7 Power Centre, 7887 Weston Road, Unit 21, Vaughan","Vietnamese, Asian",35.0,Woodbridge
+Gran Gusto Ristorante Pizzeria,CASUAL DINING,3.9,13.0,"3883 Highway 7, Vaughan",Italian,70.0,Woodbridge
+Pho Asia Vietnamese Noodle House,CASUAL DINING,3.2,12.0,"110 Woodbridge Avenue, Vaughan","Vietnamese, Asian",25.0,Woodbridge
+Tremonti,CASUAL DINING,3.5,20.0,"3850 Steeles Avenue West, Vaughan",Italian,90.0,Woodbridge
+Swiss Chalet,CASUAL DINING,3.8,19.0,"3737 Rutherford Road, Vaughan","Canadian, Grill, Beverages",40.0,Woodbridge
+T2 Lounge,CASUAL DINING,2.8,18.0,"177 Whitmore Road, Vaughan",Italian,90.0,Woodbridge
+Texas Pit,QUICK BITES,3.8,18.0,"5731 Highway 7, Vaughan","American, Grill, BBQ",30.0,Woodbridge
+Pie Wood Fired Pizza Joint,CASUAL DINING,3.2,5.0,"200 Whitmore Road, Unit 13, Woodbridge L4L 7K4","Pizza, Italian",25.0,Woodbridge
+Osteria Berto,CASUAL DINING,3.7,16.0,"6150 Highway 7, Vaughan",Italian,40.0,Woodbridge
+Emily's Bakery,CAFÉ,3.6,4.0,"Shop of Vellore Plaza, 9591 Weston Road, Vaughan","Cafe, Bakery, Italian",25.0,Woodbridge
+Chiaro Ristorante,CASUAL DINING,3.4,8.0,"28 Roytec Road, Unit 3, Vaughan","Italian, Seafood",70.0,Woodbridge
+Artigiano Ristorante,CASUAL DINING,3.3,6.0,"40 Hanlan Road, Unit 39, Vaughan, Woodbridge, GTA","Italian, Seafood",80.0,Woodbridge
+Patisserie V Marie,BAKERY,3.7,13.0,"27 Roytec Road, Vaughan","Bakery, Coffee and Tea",10.0,Woodbridge
+Sunset Grill,CASUAL DINING,2.9,13.0,"8280 Highway 27, Vaughan","Diner, Breakfast",30.0,Woodbridge
+The Moose and Firkin,CASUAL DINING,3.4,8.0,"7600 Weston Road, Vaughan",Bar Food,65.0,Woodbridge
+Sweet Boutique,BAKERY,3.0,15.0,"471 Jevlan Drive, Vaughan","Desserts, Italian",125.0,Woodbridge
+Nu Panino,QUICK BITES,3.6,15.0,"6150 Highway 7, Vaughan",Italian,30.0,Woodbridge
+Spigolo Ristorante,CASUAL DINING,2.8,12.0,"200 Marycroft Avenue, Vaughan","Italian, Mediterranean",50.0,Woodbridge
+L'Antipasto Ristorante,CASUAL DINING,3.3,15.0,"8001 Weston Road, Vaughan",Italian,75.0,Woodbridge
+Al Fogolar,CASUAL DINING,3.7,13.0,"7065 Islington Avenue, Vaughan","Italian, European",75.0,Woodbridge
+Pita Land,QUICK BITES,3.8,15.0,"3650 Langstaff Road, Vaughan",Middle Eastern,30.0,Woodbridge
+Greek Brothers,CASUAL DINING,3.3,13.0,"3603 Langstaff Road, Woodbridge","Greek, Mediterranean",30.0,Woodbridge
+Mr. Greek,CASUAL DINING,3.1,14.0,"SmartCentres Piazza Del Sole, 130 Windflower Gate, Vaughan","Greek, Mediterranean",45.0,Woodbridge
+La Forketta,CASUAL DINING,3.7,5.0,"4300 Steeles Avenue West, Vaughan","Breakfast, Italian",60.0,Woodbridge
+Costa Verde,QUICK BITES,3.3,8.0,"3737 Major Mackenzie Drive, Vaughan","Grill, Portuguese",35.0,Woodbridge
+Belleenys,BAR,3.3,9.0,"4000 Steeles Avenue West, Unit 14, Vaughan",Bar Food,60.0,Woodbridge
+Copacabana Grilled Brazilian,CASUAL DINING,3.2,6.0,"205 Marycroft Avenue, Toronto L4L 5X7","Brazilian, Grill",100.0,Woodbridge
+Hama Sushi,CASUAL DINING,3.3,5.0,"3611 Major Mackenzie Drive, Vaughan","Sushi, Japanese, Asian",40.0,Woodbridge
+Starbucks,CAFÉ,3.7,14.0,"SmartCentres Piazza Del Sole, 3900 Highway 7, Inside Chapters, Vaughan",Cafe,20.0,Woodbridge
+Remo's Bistro Cafe,CAFÉ,3.7,8.0,"4610 Highway 7, Woodbridge","Italian, Cafe",,Woodbridge
+Pizzaville,QUICK BITES,3.6,9.0,"31 Colossus Dr Unit 101, Woodbridge L4L 9K4","Pizza, Fast Food",25.0,Woodbridge
+Pizza Nova,QUICK BITES,3.5,10.0,"Rutherford Shopping Centre, 5100 Rutherford Road, Vaughan","Pizza, Fast Food",30.0,Woodbridge
+Hero Certified Burgers,QUICK BITES,2.7,9.0,"RioCan Colossus Centre, 21 Famous Avenue, Vaughan","Burger, Sandwich",25.0,Woodbridge
+Gelato Gelato,CASUAL DINING,,,"3650 Langstaff Road, Vaughan","Pizza, Italian, Ice Cream",30.0,Woodbridge
+King Of Fish 'N' Chips,CASUAL DINING,3.6,7.0,Opening Soon,"Fish and Chips, Middle Eastern",30.0,Woodbridge
+By Mongiovi,CASUAL DINING,3.3,7.0,"688 Chrislea Road, Vaughan","Italian, Spanish",60.0,Woodbridge
+Spinello,CASUAL DINING,3.5,8.0,"129 Rowntree Dairy Road, Vaughn",Italian,55.0,Woodbridge
+Porcello Cantina,CASUAL DINING,2.9,5.0,125 Hawkview Boulevard L4H 2E2,Italian,30.0,Woodbridge
+Johnathan's,CASUAL DINING,3.6,9.0,"200 Marycroft Ave, Vaughan","Coffee and Tea, Portuguese",25.0,Woodbridge
+Amici Pizzeria & Panini,QUICK BITES,3.9,5.0,"3550 Rutherford Road, Vaughan","Pizza, Italian",35.0,Woodbridge
+La Fonte Trattoria,CASUAL DINING,3.5,6.0,"4370 Steeles Avenue West, Woodbridge",Italian,,Woodbridge
+Rosticcera Dolce E Salato,CASUAL DINING,3.5,8.0,"8611 Weston Road, Unit 12, Vaughan",Italian,35.0,Woodbridge
+Aida's Pine Valley Bakery,BAKERY,,,"830 Rowntree Dairy Road, Unit 8, Vaughan L4L 5V2","Bakery, Italian",15.0,Woodbridge
+Bar Burrito,QUICK BITES,3.3,6.0,"8290 Highway 27, Unit 9, Vaughan",Tex-Mex,25.0,Woodbridge
+Mrs. Greek Souvlaki,CASUAL DINING,3.5,4.0,"3850 Steeles Avenue West, Vaughan L4L 6Y6","Greek, Mediterranean",30.0,Woodbridge
+Green Grotto Tea Room,CAFÉ,,,"3600 Rutherford Road, Unit 100, Woodbridge L4H 3T8","Cafe, Taiwanese, Bubble Tea",25.0,Woodbridge
+Extreme Pita,QUICK BITES,3.1,7.0,"25 Woodstream Boulevard, Vaughan","Fast Food, Mediterranean",25.0,Woodbridge
+Wok With Yu,CASUAL DINING,3.1,6.0,"4000 Steeles Avenue West, Vaughan","Hakka Chinese, Thai, Asian",35.0,Woodbridge
+Harvey's,QUICK BITES,3.7,9.0,"1000 Rowntree Dairy Road, Vaughan L4L 5X3","Fast Food, Canadian, Burger",25.0,Woodbridge
+Steeles Garden,CASUAL DINING,3.9,6.0,"3850 Steeles Avenue West, Vaughan","Chinese, Asian",40.0,Woodbridge
+Miss Pho Restaurant,CASUAL DINING,3.3,4.0,"4040 Steeles Avenue West, Unit 17, Vaughan L4L 4Y5","Vietnamese, Chinese, Asian",30.0,Woodbridge
+Ichiki,CASUAL DINING,3.3,5.0,"3520 Major MacKenzie Drive W, Woodbridge L4L 1A6","Japanese, Thai",25.0,Woodbridge
+Second Cup,QUICK BITES,3.8,8.0,"21 Famous Avenue, Unit 4, Woodbridge","Cafe, Coffee and Tea, Frozen Yogurt",10.0,Woodbridge
+Sharks Sports Pub,BAR,3.6,7.0,"7007 Islington Avenue, Unit 7, Vaughan",Bar Food,50.0,Woodbridge
+Mare e Monte,Other,,,"4040 Steeles Avenue West, Woodbridge",Bar Food,,Woodbridge
+Fat Bastard Burrito,QUICK BITES,3.4,5.0,"Woodbridge Square, 7600 Weston Road, Unit 9, Vaughan","Mexican, Fast Food",25.0,Woodbridge
+Caldense Bakery,BAKERY,,,"3651 Major Mackenzie Drive, Unit E5, Vaughan","Bakery, Cafe",15.0,Woodbridge
+"Ay Caramba, Eh!",FAST CASUAL,3.5,4.0,"65, 3540 Rutherford Road, Toronto L4H 3T8",Mexican,15.0,Woodbridge
+Dolce Bombe Cafe,DESSERT PARLOR,,,"7611 Pine Valley Drive, Unit 4, Vaughan",Desserts,10.0,Woodbridge
+Tropical Island Carribean,QUICK BITES,,,"5731 Highway 7, Vaughan",Caribbean,20.0,Woodbridge
+Taste of Hakka,CASUAL DINING,,,"Vellore Village Plaza, 3737 Major MacKenzie Dr W #104, Woodbridge",Hakka Chinese,30.0,Woodbridge
+Freshii,QUICK BITES,,,"7600 Weston Road, Vaughan",Healthy Food,30.0,Woodbridge
+Timmy's Bagel & Coffee,CAFÉ,,,"145 Haist Avenue, Vaughan",Fast Food,15.0,Woodbridge
+Asian One,QUICK BITES,,,"Islington Village Centre, 9600 Islington Avenue, Unit D1, Vaughan L4H 2T1","Chinese, Thai",30.0,Woodbridge
+Tokaji Wine Boutique + Restaurant,CASUAL DINING,3.3,4.0,"Vaughan 400/7 Power Centre, 7887 Weston Road, Vaughan","Diner, Hungarian",70.0,Woodbridge
+Burger King,QUICK BITES,,,"200 Winges Road, Vaughan","Fast Food, Burger",20.0,Woodbridge
+Tim Hortons,CAFÉ,3.4,6.0,9600 Islington Avenue building D Unit 3,"American, Donuts, Desserts",20.0,Woodbridge
+Teriyaki Experience,QUICK BITES,3.6,5.0,"6150 Highway 7, Woodbridge",Japanese,20.0,Woodbridge
+Návita Bakery & Trattoria,BAKERY,,,"9750 Weston Road, Unit 18, Vaughan","Italian, Bakery, Cafe",15.0,Woodbridge
+Popeyes,QUICK BITES,,,"7766 Martin Grove Road, Vaughan",Fast Food,25.0,Woodbridge
+Nantha Caters,QUICK BITES,,,"5010 Steeles Avenue West, Unit 18, Woodbridge","Sri Lankan, South Indian",20.0,Woodbridge
+Smoke's Poutinerie,QUICK BITES,,,"Woodbridge Square, 7600 Weston Road, Unit 37, Vaughan",Canadian,25.0,Woodbridge
+Mr. Sub,QUICK BITES,3.9,4.0,"7700 Pine Valley Drive, Vaughan",Fast Food,25.0,Woodbridge
+Pizza Break,QUICK BITES,3.6,4.0,"3560 Rutherford Road, Vaughan",Pizza,25.0,Woodbridge
+Babylonian Fine Foods,QUICK BITES,,,"3603 Langstaff Road, Vaughan, Woodbridge","Mediterranean, Middle Eastern",25.0,Woodbridge
+Quesada,QUICK BITES,2.9,4.0,"6150 Highway 7 West, Vaughan",Tex-Mex,25.0,Woodbridge
+Nishi Sushi,CASUAL DINING,3.5,4.0,"9750 Weston Road, Unit 17, Vaughan","Sushi, Japanese, Asian",45.0,Woodbridge
+St. Phillips Bakery,BAKERY,,,"5100 Rutherford Road, Vaughan","Bakery, Cafe",15.0,Woodbridge
+Cameo Lounge,Other,,,"4120 Steeles Avenue West, Woodbridge","Bar Food, American",60.0,Woodbridge
+The Big Cannoli,BAKERY,,,"28 Roytec Road, Vaughan","Bakery, Desserts",20.0,Woodbridge
+Weston Vietnamese Restaurant,CASUAL DINING,,,"9750 Weston Road, Unit 24, Vaughan","Vietnamese, Asian",35.0,Woodbridge
+Taco Bell,QUICK BITES,2.2,4.0,"4421 Highway 7, Woodbridge, GTA","Fast Food, Mexican",20.0,Woodbridge
+Mcdonald's,QUICK BITES,,,"6130 Highway 7, Woodbridge, ON L4H 0R2",Fast Food,25.0,Woodbridge
+Coffee House,CASUAL DINING,,,"9400 Highway 27, Toronto L4L 1A7","Canadian, Italian",30.0,Woodbridge
+Subway,QUICK BITES,3.4,5.0,"8280 Highway 27, Vaughan",Fast Food,20.0,Woodbridge
+Burrito Boyz,CASUAL DINING,,,"4451 York Regional Road 7, Woodbridge L4L 9A9",Tex-Mex,,Woodbridge
+Gino's Pizza,QUICK BITES,,,"5451 Highway 7, Unit 112, Vaughan","Pizza, Fast Food",30.0,Woodbridge
+Nicols Pastry Shop,BAKERY,,,"8633 Weston Road Weston Road, Unit 1, Vaughan","Desserts, Bakery, Cafe",20.0,Woodbridge
+Topper's Pizza,CASUAL DINING,,,"8280 Highway 27, Unit B10, Woodbridge L4H 0R9","Pizza, Italian",25.0,Woodbridge
+Pizza Pizza,QUICK BITES,3.7,4.0,"7694 Islington Avenue, Unit 5, Vaughan","Pizza, Fast Food",25.0,Woodbridge
+Golden China Cuisine,CASUAL DINING,,,"4555 Highway, Unit 7, Vaughan L4L 1S6","Chinese, Asian",25.0,Woodbridge
+Pita Bite,QUICK BITES,,,"9200 Weston Road, Unit 6, Vaughan L4H 2P8","Middle Eastern, Lebanese",20.0,Woodbridge
+Teppan Cave,CASUAL DINING,,,"3540 Rutherford Road, Vaughan",Japanese,80.0,Woodbridge
+Sweets By Zuccaro,DESSERT PARLOR,,,"200 Marycroft Avenue, Woodbridge","European, Desserts",20.0,Woodbridge
+Midan Restaurant,CASUAL DINING,,,"3700 Steeles Ave West, Woodbridge","Italian, Eastern European, Canadian",,Woodbridge
+Ristorante Spaccanapoli,CASUAL DINING,,,"8787 Weston Rd, Toronto L4L 1A6",Italian,,Woodbridge
+Thai Express,QUICK BITES,,,"SmartCentres Piazza Del Sole, 200 Windflower Gate, Vaughan",Thai,25.0,Woodbridge
+Green Mango,CASUAL DINING,,,"8401 Weston Road, Unit 905, Vaughan","Vietnamese, Thai, Asian",25.0,Woodbridge
+Wingporium,CASUAL DINING,,,"5025 Steeles Avenue West, Woodbridge","Bar Food, Grill",50.0,Woodbridge
+Wendy's,FAST FOOD,,,25 Woodstream Boulevard,"Fast Food, Burger",20.0,Woodbridge
+Shoeless Joe's,BAR,,,"21 Colossus Dr, Woodbridge, Toronto",Bar Food,40.0,Woodbridge
+Piazza Cafe,CASUAL DINING,,,"140 Woodbridge Avenue, Vaughan","Pizza, Italian",30.0,Woodbridge
+Chop Steakhouse & Bar,CASUAL DINING,,,Opening Soon,"Steak, Bar Food",25.0,Woodbridge
+Cosenza Bakery,BAKERY,,,"471 Jevlan Drive, Woodbridge","Bakery, Italian",10.0,Woodbridge
+August Moon,CASUAL DINING,,,"Shop of Vellore, 9587 Weston Road, Vaughan","Chinese, Asian",45.0,Woodbridge
+Euro Harvest Bakery,BAKERY,,,"8677 Weston Road, Vaughan",European,20.0,Woodbridge
+La'Shish Bar & Grill,CASUAL DINING,,,"4040 Steeles Avenue West, Vaughan",Mediterranean,40.0,Woodbridge
+Baskin Robbins,DESSERT PARLOR,,,"Islington Village Centre, 9600 Islington Avenue, Unit C3, Vaughan","Ice Cream, Desserts",15.0,Woodbridge
+Me Sabe a Peru,CASUAL DINING,,,"4000 Steeles Avenue West, Woodbridge","Latin American, Peruvian",30.0,Woodbridge
+Tim Hortons,CAFÉ,,,7766 Martin Grove Road,"American, Donuts, Desserts",20.0,Woodbridge
+Espresso Blu Cafe,CAFÉ,,,"165 Woodbridge Avenue, Vaughan",Cafe,15.0,Woodbridge
+Gustoso Grill,CASUAL DINING,,,"5451 Highway 7, Woodbridge",Mediterranean,40.0,Woodbridge
+Tilal Bakery,BAKERY,,,"5601 Steeles Avenue West, Woodbridge","Middle Eastern, Bakery",10.0,Woodbridge
+Symposium Cafe Restaurant & Lounge,CASUAL DINING,,,"3450 Major McKenzie Drive West, Toronto L4L 1A6","American, Canadian, Continental, Burger",50.0,Woodbridge
+Verses Restaurant,CASUAL DINING,,,"7007 Islington Avenue, Unit 16, Vaughan",Caribbean,25.0,Woodbridge
+San Francisco Cafe,CASUAL DINING,,,"4140 Steeles Avenue West, Vaughan",Italian,35.0,Woodbridge
+KFC,QUICK BITES,,,"4421 Highway 7, Vaughan",Fast Food,25.0,Woodbridge
+Gallo Churrasquiera,QUICK BITES,,,"Villa Royale Shopping Centre, 9750 Weston Road, Vaughan","Portuguese, Fast Food",30.0,Woodbridge
+Pizza Hut,QUICK BITES,,,"3611 Major Mackenzie Drive, Vaughan","Pizza, Fast Food",25.0,Woodbridge
+Via Panini,QUICK BITES,,,"5451 Highway 7, Vaughan",Italian,30.0,Woodbridge
+Domino's,QUICK BITES,,,"4585 Highway 7 West, Vaughan","Fast Food, Pizza",25.0,Woodbridge
+Grappa Trattoria,CASUAL DINING,,,"3603 Langstaff Road, Unit 5, Vaughan",Italian,40.0,Woodbridge
+Molisano Bakery,CASUAL DINING,,,"5731 Highway 7, Vaughan",Italian,,Woodbridge
+Thai Chi Asian Kitchen,CASUAL DINING,,,"9750 Weston Road, Vaughan L4H 2Z7","Asian Fusion, Chinese, Thai",25.0,Woodbridge
+Wendy's,FAST CASUAL,,,"4114 Hwy 7, Woodbridge L4L 1A6",American,20.0,Woodbridge
+Coffee Time,CAFÉ,,,"4190 Steeles Avenue West, Unit 9, Vaughan",Cafe,25.0,Woodbridge
+Vici Bakery,BAKERY,,,"9000 Weston Road, Woodbridge","Desserts, Cafe, Coffee and Tea",20.0,Woodbridge
+Pane Vittoria,BAKERY,,,"8633 Weston Road, Unit 6, Vaughan","Italian, Bakery, Cafe",25.0,Woodbridge
+La Strada Bakery,BAKERY,,,"830 Rowntree Dairy Road, Vaughan",Bakery,10.0,Woodbridge
+The Donut Shop,CAFÉ,,,"140 Woodbridge Avenue, Block G, Vaughan",Cafe,25.0,Woodbridge
+Kestrel Bakery,BAKERY,,,"5010 Steeles Avenue West, Woodbridge","Sri Lankan, South Indian",10.0,Woodbridge
+A & W,QUICK BITES,,,"3733 Highway 7, Vaughan","Burger, Fast Food",25.0,Woodbridge
+Asian Munchies,CASUAL DINING,,,"6150 Highway 7, Vaughan",Chinese,,Woodbridge
+Punjaabi Sweets & Restaurant,CASUAL DINING,,,"150, Windflower Gate, Woodbridge, Toronto",Indian,,Woodbridge
+Flame Mediterranean Grill,CASUAL DINING,,,"9600 Islington Avenue, Woodbridge L4H 2T1",Mediterranean,,Woodbridge
+Singhskitchen,CASUAL DINING,,,"8280 Highway 27, Vaughan l4H 0R9",Indian,25.0,Woodbridge
+Cucina Guzzo,CAFÉ,,,"Nickel Gate, Woodbridge, ON L4L 6J2",Cafe,15.0,Woodbridge
+Continental Noodles Pastaio,QUICK BITES,,,"830 Rowntree Dairy Road, Unit 9, Vaughan",Italian,20.0,Woodbridge
+Dolci e Caffe,CAFÉ,,,"93A Woodbridge Avenue, Vaughan",Cafe,15.0,Woodbridge
+Cataldi Fresh Market,BAKERY,,,"140 Woodbridge Avenue, Toronto L4L 4K9","Deli, Bakery",25.0,Woodbridge
+Pane Fresco at Fortinos,CASUAL DINING,,,"8585 Highway 27 RR 3, Woodbridge, Toronto L4L 1A7","Pizza, Sandwich",25.0,Woodbridge
+Country Style,CAFÉ,,,"681 Chrislea Road, Vaughan",Cafe,20.0,Woodbridge
+Two For One Pizza & Wings,QUICK BITES,,,"9000 Weston Road, Unit 7, Woodbridge","Pizza, Grill, Fast Food",25.0,Woodbridge
+Denny's,CASUAL DINING,,,25 Woodstream Boulevard.,American,25.0,Woodbridge
+Booster Juice,BEVERAGE SHOP,,,"8280 Highway 27, Vaughan","Juices, Beverages, Healthy Food",20.0,Woodbridge
+New City Pizza,QUICK BITES,,,"8920 Highway 50, Unit 5A, Woodbridge L6P 3A3","Pizza, Fast Food",25.0,Woodbridge
+Quiznos,QUICK BITES,,,9200 Weston Road Unit G-12,Fast Food,25.0,Woodbridge
+Leone Fine Foods,CASUAL DINING,,,"8655 Weston Road Unit 4, Woodbridge",Italian,20.0,Woodbridge
+The Ice Cream Shop,DESSERT PARLOR,,,"140 Woodbridge Avenue, Vaughan","Ice Cream, Desserts",15.0,Woodbridge
+Spuntino Osteria,CASUAL DINING,,,"40 Hanlan Road, Vaughan",Italian,40.0,Woodbridge
+Ace Of Hearts,BAR,,,"4000 Steeles Avenue West, Unit 22, Vaughan","West Indian, Caribbean",25.0,Woodbridge
+Marhaba Cafe & Lounge,Other,,,"4040 Steeles Avenue West, Unit 32, Vaughan","Bar Food, Middle Eastern",30.0,Woodbridge
+Fiorucci's,QUICK BITES,,,"6923 Steeles Avenue West, Woodbridge",Italian,25.0,Woodbridge
+Sweetz Lounge,Other,,,"5289 Highway 7, Vaughan",Bar Food,,Woodbridge
+Fuoco Smokehouse,CASUAL DINING,,,"688 Chrislea Road , Toronto","American, Canadian",25.0,Woodbridge
+Table Seven Bistro,CASUAL DINING,,,"200 Marycroft Avenue Unit 22, Woodbridge, ON L4L 5X6","American, Canadian",35.0,Woodbridge
+The Keg Steakhouse + Bar - Woodbridge,CASUAL DINING,,,"6210 Hwy 7, Woodbridge, Toronto ON L4H 4G3","Seafood, Steak",70.0,Woodbridge
+Mega Bites,CAFÉ,,,"10 Strada Drive, Vaughan",Cafe,30.0,Woodbridge
+Simply Italian Restaurant,QUICK BITES,,,"40 Innovation Drive, Unit 11, Vaughan",Italian,20.0,Woodbridge
+J's Cafe Sports Bar,BAR,,,"5655 Highway 7, Vaughan","American, Bar Food",20.0,Woodbridge
+Due Nonni,CASUAL DINING,,,"7611 Pine Valley Drive, Vaughan",Italian,65.0,Woodbridge
+Sweet Regards,BAKERY,,,"8086 Islington Avenue, Vaughan",Bakery,,Woodbridge
+Ci Gusta!,DESSERT PARLOR,,,"3600 Rutherford Road, Woodbridge","Desserts, Frozen Yogurt, Cafe",15.0,Woodbridge
+Romeo's Bakery,CASUAL DINING,,,"40 Winges Road, Unit 5, Vaughan",Italian,20.0,Woodbridge
+Acoves,CASUAL DINING,,,"7611 Pine Valley Drive, Vaughan",Portuguese,,Woodbridge
+Wendy's,QUICK BITES,,,4114 Highway 7,Fast Food,15.0,Woodbridge
+Tim Hortons,CAFÉ,,,6701 Langstaff Road,Cafe,15.0,Woodbridge
+Romeo's Cafe Bar & Grill,CAFÉ,,,"2 Tall Grass Trail, Unit 9, Vaughan",Cafe,20.0,Woodbridge

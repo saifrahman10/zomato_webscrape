@@ -1,0 +1,134 @@
+Name,EstablishmentType,Rating,NumReviews,Address,Cuisine,CostForTwo,City
+The Wren,CASUAL DINING,4.2,80.0,"1382 Danforth Avenue, Toronto M4J 1M9","Bar Food, Southern",50.0,East Danforth
+Morgan's On The Danforth,CASUAL DINING,4.1,60.0,"1282 Danforth Avenue, Toronto M4J 1M6",American,85.0,East Danforth
+Rendez-Vous,CASUAL DINING,4.0,46.0,"1408 Danforth Avenue, Toronto M4J 1M9",Ethiopian,40.0,East Danforth
+Double Sushi,CASUAL DINING,3.9,39.0,"2795 Danforth Avenue, Toronto M4C 1M2","Sushi, Japanese",45.0,East Danforth
+Gerrard Spaghetti & Pizza,CASUAL DINING,3.9,58.0,"1528 Danforth Avenue, Toronto M4J 1N4",Italian,30.0,East Danforth
+El Sol,CASUAL DINING,2.9,62.0,"1448 Danforth Avenue, Toronto M4J 1N4",Mexican,40.0,East Danforth
+Melanie's Bistro,CASUAL DINING,4.1,60.0,"1870 Danforth Avenue, Toronto M4C 1J4",Grill,60.0,East Danforth
+Sarah's Cafe & Bar,CASUAL DINING,3.1,62.0,"1426 Danforth Avenue, Toronto M4J 1N4",Canadian,55.0,East Danforth
+Basil Thai Kitchen,CASUAL DINING,3.8,45.0,"2326 Danforth Avenue, Toronto M4C 1K7","Thai, Malaysian, Asian",40.0,East Danforth
+Relish Bar & Grill,CASUAL DINING,4.1,63.0,"511 Danforth Ave, Toronto M4C 1K3",Bar Food,50.0,East Danforth
+Red Rocket Coffee,CAFÉ,4.0,52.0,"1364 Danforth Avenue, Toronto M4J 1M9",Cafe,25.0,East Danforth
+Len Duckworth,QUICK BITES,4.0,42.0,"2638 Danforth Avenue, Toronto M4C 1L7",Fish and Chips,30.0,East Danforth
+Retro Burger,QUICK BITES,3.7,41.0,"1684 Danforth Avenue, Toronto M4C 1H6","Burger, Fast Food",25.0,East Danforth
+Patisserie La Cigogne,CAFÉ,3.9,41.0,"1419 Danforth Avenue, Toronto M4J 1N3","Bakery, Cafe, French",30.0,East Danforth
+Sunset Grill,CASUAL DINING,3.7,37.0,"1602 Danforth Avenue, Toronto M4J 1N4","Diner, Breakfast",30.0,East Danforth
+Red Chilli Thai,CASUAL DINING,3.3,33.0,"1266 Danforth Avenue, Toronto M4J 1M6",Thai,40.0,East Danforth
+Bistro Camino,CASUAL DINING,3.9,29.0,"2750 Danforth Avenue, Toronto M4C 1L7",Grill,65.0,East Danforth
+Wazema,CASUAL DINING,3.8,23.0,"1360 Danforth Avenue, Toronto M4J 1M9","Ethiopian, African",30.0,East Danforth
+Thai Room,CASUAL DINING,3.3,22.0,"2063 Danforth Avenue, Toronto M4C 1J8","Thai, Malaysian",45.0,East Danforth
+Local 1794,CASUAL DINING,3.1,18.0,"1794 Danforth Avenue, Toronto M4C 1H8",American,60.0,East Danforth
+Mike's Fish & Chips,QUICK BITES,3.6,17.0,"2162 Danforth Avenue, Toronto M4C 1K3",Fish and Chips,15.0,East Danforth
+Cake Town Cafe,CAFÉ,3.5,30.0,"2039 Danforth Avenue, Toronto M4C 1J8","Cafe, Bakery, Desserts",20.0,East Danforth
+St. Clair Ice Cream,DESSERT PARLOR,3.6,19.0,"2861 Danforth Avenue, Toronto M4C 1M2","Desserts, Ice Cream",15.0,East Danforth
+Mister Tasty,QUICK BITES,3.6,23.0,"2743 Danforth Avenue, Toronto M4C 1L8","Fast Food, Greek",30.0,East Danforth
+Happy Sushi,CASUAL DINING,3.2,21.0,"2143 Danforth Avenue, Toronto M4C 1K2","Sushi, Japanese, Asian",30.0,East Danforth
+Lalibela,CASUAL DINING,3.2,13.0,"1202 Danforth Avenue, Toronto M6G 1M4",Ethiopian,35.0,East Danforth
+Sauce On Danforth,BAR,3.6,17.0,"1376 Danforth Avenue, Toronto M4J 1M9",Bar Food,50.0,East Danforth
+Quattro 4 Ragazze,CASUAL DINING,3.8,17.0,"1792 Danforth Avenue, Toronto M4C 1H8",Italian,55.0,East Danforth
+Lucy,CASUAL DINING,3.9,14.0,"1690 Danforth Avenue, Toronto M4C 1H8","Ethiopian, African",30.0,East Danforth
+TKO's The Sports Pub,CASUAL DINING,3.2,16.0,"1600 Danforth Avenue, Toronto M4C 1H6",Bar Food,40.0,East Danforth
+Golden Pizza,QUICK BITES,3.9,20.0,"2360 Danforth Avenue, Toronto M4C 1K7","Pizza, Fast Food",30.0,East Danforth
+Time Capsule Cafe,CAFÉ,,,"2183 Danforth Avenue, Toronto M4C 1K4 1K4",Cafe,20.0,East Danforth
+Thai One On,CASUAL DINING,3.6,19.0,"1779 Danforth Avenue, Toronto M4C 1J2","Thai, Asian",45.0,East Danforth
+Hollandaise Diner,CASUAL DINING,3.3,7.0,2231 Danforth Avenue,Diner,35.0,East Danforth
+Poonam Delite,CASUAL DINING,3.1,15.0,"2658 Danforth Avenue, Toronto M4C 1L4",Indian,35.0,East Danforth
+Gharoa,CASUAL DINING,3.2,6.0,"2994 Danforth Avenue, Toronto M4C 1M7",Bangladeshi,30.0,East Danforth
+Grillies,QUICK BITES,3.4,11.0,"2632 Danforth Avenue, Toronto M4C 1L7","Tex-Mex, Fast Food",25.0,East Danforth
+Sala Modern Thai Kitchen & Bar,CASUAL DINING,3.5,5.0,"1262 Danforth Avenue Toronto, East Danforth, Toronto M4J 1M6","Thai, Asian",30.0,East Danforth
+Danforth Roti Shop,QUICK BITES,3.3,7.0,"2844 Danforth Avenue, Toronto M4C 1M1",Caribbean,25.0,East Danforth
+North Pole Bakery,BAKERY,3.7,12.0,"1210 Danforth Avenue, Toronto M4J 1M6","Bakery, Italian",25.0,East Danforth
+Sweet Serendipity,BAKERY,3.8,12.0,"1335 Danforth Avenue, Toronto M4J 1N1","Bakery, Desserts",20.0,East Danforth
+Viking Bakery,BAKERY,3.4,4.0,"2207 Danforth Avenue, Toronto M4C 1K4",Bakery,,East Danforth
+Celena's Bakery,BAKERY,3.1,12.0,"2036 Danforth Avenue, Toronto M4C 1J6","Bakery, Cafe",25.0,East Danforth
+Sandy's Restaurant,CASUAL DINING,3.6,9.0,"2093 Danforth Avenue, Toronto M4C 1K1","Canadian, Chinese, Asian",30.0,East Danforth
+Groove Bar & Grill,CASUAL DINING,3.4,8.0,"1952 Danforth Avenue, Toronto M4C 1J4",Bar Food,40.0,East Danforth
+Anondo Restaurant,QUICK BITES,3.7,6.0,"2891 Danforth Avenue, Toronto M4C 1M3","Indian, Bangladeshi",25.0,East Danforth
+Forth Avenue Kitchen & Bar,CASUAL DINING,,,"1820 Danforth Avenue, Toronto M4C 1H8",Canadian,60.0,East Danforth
+Hakka Chopsticks,CASUAL DINING,3.3,6.0,"2940 Danforth Avenue, Toronto M4C 1M5","Hakka Chinese, Asian",45.0,East Danforth
+Pavillion Pastries,CAFÉ,3.5,5.0,"2554 Danforth Avenue, Toronto M4C 1L3",Cafe,20.0,East Danforth
+Atlas Palace Cafe,CASUAL DINING,3.5,5.0,"1413 Danforth Avenue, Toronto M4J 1N2",Middle Eastern,30.0,East Danforth
+Smiley's,CASUAL DINING,3.1,7.0,"2543 Danforth Avenue, Toronto M4C 1L1",Greek,30.0,East Danforth
+Al Mandi,CASUAL DINING,3.5,11.0,"1328 Danforth Avenue, Toronto M4J 1M9","Middle Eastern, African",45.0,East Danforth
+Su-Good,CASUAL DINING,3.1,6.0,"2626 Danforth Avenue, Toronto M4C 1L7","Chinese, Asian",35.0,East Danforth
+Sultan Shawarma & Falafel,QUICK BITES,3.0,10.0,"2558 Danforth Avenue, Toronto M4C 4X6",Middle Eastern,20.0,East Danforth
+Makkah Restaurant,QUICK BITES,3.5,8.0,"2980 Danforth Avenue, Toronto M4J 1M2",Bangladeshi,25.0,East Danforth
+East Of York,QUICK BITES,3.3,7.0,"1904 Danforth Avenue, Toronto M4C 1J4","Indian, Cafe",20.0,East Danforth
+Subhan Pizza,QUICK BITES,2.9,7.0,"2970 Danforth Avenue, Toronto M4C 1M6",Pizza,25.0,East Danforth
+ASAP City,QUICK BITES,,,2075 Danforth Avenue M4C 1J8,Sandwich,,East Danforth
+Pizza Nova,QUICK BITES,3.1,7.0,"1954 Danforth Avenue, Toronto M4C 1J4","Pizza, Fast Food",30.0,East Danforth
+Hirut,CASUAL DINING,3.7,4.0,"2050 Danforth Avenue, Toronto M4C 1J6","Ethiopian, African",30.0,East Danforth
+Blue Nile,CASUAL DINING,3.6,5.0,"1260 Danforth Avenue, Toronto M4J 1M6","Ethiopian, African",30.0,East Danforth
+Danforth Sandwich,QUICK BITES,3.0,7.0,"2116 Danforth Avenue, Toronto M4C 1J9","Italian, Fast Food",25.0,East Danforth
+McDonald's,QUICK BITES,3.6,8.0,"1735 Danforth Avenue, Toronto M4C 1H9",Fast Food,25.0,East Danforth
+D'lusso Cafe & Bistro,CAFÉ,,,"1504 Danforth Avenue, Toronto M4J 1N4","Cafe, Juices, Pizza",35.0,East Danforth
+Star Buzz Lounge,CASUAL DINING,,,"1381 Danforth Avenue, Toronto M4J 1N2",Middle Eastern,30.0,East Danforth
+Linsmore Tavern,BAR,3.1,6.0,"1298 Danforth Avenue, Toronto M4J 1M6",Drinks Only,55.0,East Danforth
+Firkin on Danforth,Other,,,"B, 2057 Danforth Avenue M4C 1J6","Bar Food, Canadian",,East Danforth
+Maple Leaf Dairy,DESSERT PARLOR,,,"2859 Danforth Avenue, Toronto M4C 1M2",Ice Cream,15.0,East Danforth
+Kilt And Harp Pub,CASUAL DINING,3.5,6.0,"2046 Danforth Avenue, Toronto M4C 1J6",Drinks Only,40.0,East Danforth
+Burger King,FAST FOOD,2.9,6.0,3003 Danforth Avenue M4C 1M9,"Fast Food, Burger",20.0,East Danforth
+Dunn's Famous Express,CASUAL DINING,,,"1779 Danforth Ave, Toronto, ON M4C 1J2",Canadian,25.0,East Danforth
+Subway,QUICK BITES,3.0,5.0,"Shoppers World, 3003 Danforth Avenue, Toronto M4C 1M9",Fast Food,20.0,East Danforth
+Cafe Tangiers,CASUAL DINING,3.6,8.0,"1385 Danforth Avenue, Toronto M4J 1N2",Middle Eastern,30.0,East Danforth
+Circus Coffee House,CAFÉ,3.3,4.0,"7 Woodmount Avenue, Toronto M4C 3X5",Cafe,20.0,East Danforth
+Shore Leave,BAR,,,1775 Danforth Avenue,Tapas,50.0,East Danforth
+Yanagi Sushi,CASUAL DINING,,,1524 Danforth Avenue,"Sushi, Japanese",45.0,East Danforth
+Pentagram Bar & Grill,CASUAL DINING,3.2,4.0,"2620 Danforth Avenue, Toronto M4C 1L7","Chinese, Canadian, Asian",35.0,East Danforth
+Afghan Lounge,QUICK BITES,,,"1475 Danforth Avenue, Toronto M4J 1N4",Afghan,30.0,East Danforth
+Sir Greek,QUICK BITES,,,"1307 Danforth Avenue, Toronto M4J 1M8",Greek,25.0,East Danforth
+Pizza Pizza,QUICK BITES,2.8,4.0,"2077 Danforth Avenue, Toronto M4C 1J8","Pizza, Fast Food",25.0,East Danforth
+241 Pizza,QUICK BITES,,,"2318 Danforth Avenue, Toronto M4C 1K7","Pizza, Fast Food",30.0,East Danforth
+The Famous Owl Of Minerva,CASUAL DINING,,,"309 Main Street, Toronto L6J 2W7",Korean,,East Danforth
+Popeyes,QUICK BITES,,,"2733 Danforth Avenue, Toronto M4C 1L8",Fast Food,25.0,East Danforth
+The Rusty Nail Pub,CASUAL DINING,,,"2202 Danforth Avenue, Toronto M4C 1K3",Bar Food,50.0,East Danforth
+T & M Sidewalk Cafe,CASUAL DINING,,,"1344 Danforth Avenue, Toronto M4J 1M9",Ethiopian,20.0,East Danforth
+Tim Hortons,CAFÉ,,,1630 Danforth Avenue M4C 1H6,"American, Donuts, Desserts",20.0,East Danforth
+Scrumdelicious,BAR,,,"2408 Danforth Avenue, Toronto M4C 4P9",Bar Food,35.0,East Danforth
+RedHot Tandoori,QUICK BITES,,,"3030 Danforth Avenue, Toronto M4C 1N2",Indian,25.0,East Danforth
+Seb's Cappucino,CAFÉ,,,"1928 Danforth Avenue, Toronto M4C 1J4","Italian, Cafe",20.0,East Danforth
+Happy Day's,CASUAL DINING,,,"1802 Danforth Avenue, Toronto M4C 1H8",Bar Food,40.0,East Danforth
+Casablanca Cafe,CASUAL DINING,,,"1393 Danforth Avenue, Toronto M4J 1N2",Moroccan,30.0,East Danforth
+East Danforth,Other,,,CUISINES:,"Healthy Food, Italian",20.0,East Danforth
+1 Plus 2 Pizza & Wings,QUICK BITES,,,"1540 Danforth Avenue, Toronto M4J 1N4","Pizza, Fast Food",25.0,East Danforth
+Shirley Restaurant,CASUAL DINING,,,"2783 Danforth Avenue, Toronto M4C 1L9","Canadian, Chinese, Asian",30.0,East Danforth
+Eva's Bar & Restaurant,CASUAL DINING,,,"2628 Danforth Avenue, Toronto M4C 1L7","Greek, Canadian, Chinese, Asian",30.0,East Danforth
+Sora,CASUAL DINING,,,"1383 Danforth Avenue, Toronto M4J 1N2","Ethiopian, African",35.0,East Danforth
+Lazy Hour Cafe,Other,,,"1775B Danforth Avenue, Toronto M4C 1J1",Middle Eastern,30.0,East Danforth
+Sportster's Tap & Grill,BAR,,,"1430 Danforth Avenue, Toronto M4J 1N4",Bar Food,40.0,East Danforth
+Starbucks,CAFÉ,,,"1417 Danforth Avenue, Toronto M5E 1T3",Coffee and Tea,,East Danforth
+Stock In Trade,QUICK BITES,,,1272 Danforth Avenue M4J 1M6,"Sandwich, Deli, BBQ",,East Danforth
+Grumbels Deli,CAFÉ,,,"290 Main Street, Toronto M4C 4X5","Cafe, Sandwich, Fast Food",15.0,East Danforth
+The Dylan Bar,BAR,,,"1276 Danforth Avenue, Toronto M4J 1M6","Latin American, Italian, International, European, American",,East Danforth
+Swiss Bakery & Fast Food,BAKERY,,,"2984 Danforth Avenue, Toronto M4C 1M6",Indian,15.0,East Danforth
+Hot Pot Cafe,QUICK BITES,,,"1336 Danforth Avenue, Toronto M4J 1M9",Moroccan,20.0,East Danforth
+Helen's Bar & Burgers,CASUAL DINING,,,"1564 Danforth Avenue, Toronto M4J 1N4",Bar Food,20.0,East Danforth
+Mr. Sub,QUICK BITES,,,"3040 Danforth Avenue, Toronto M4C 1N2",Fast Food,25.0,East Danforth
+Country Style,CAFÉ,,,"2929 Danforth Avenue, Toronto M4C 1M4",Cafe,20.0,East Danforth
+Arabian Nights Cafe,CAFÉ,,,"1444 Danforth Avenue, Toronto M4J 1N4","Middle Eastern, Cafe",20.0,East Danforth
+Guru Coffee,CAFÉ,,,"2741 Danforth Avenue, Toronto M4C 1K4","Cafe, Healthy Food",25.0,East Danforth
+Awash Cafe,CAFÉ,,,"1230 Danforth Avenue, Toronto M4J 1M6","Cafe, Middle Eastern",20.0,East Danforth
+Press books. coffee. vinyl.,CAFÉ,,,"2442 Danforth Avenue, Toronto M4C 1K9","Coffee and Tea, Desserts",15.0,East Danforth
+Arya Home Bakery,BAKERY,,,"2644 Danforth Avenue, Toronto M4C 1L7",Bakery,20.0,East Danforth
+Sunshine Restaurant,BAR,,,"2879 Danforth Avenue, Toronto M4C 1M3",Bar Food,30.0,East Danforth
+Quattro Amici Cafe,CAFÉ,,,"1982 Danforth Avenue, Toronto M4C 1J6","Cafe, Italian",5.0,East Danforth
+Baitul Muqadus,QUICK BITES,,,"68 Sudbury Street, Unit 4, Toronto M6J 3S7","Pizza, Fast Food",30.0,East Danforth
+Simms Restaurant And Lounge,CASUAL DINING,,,"2754 Danforth Avenue East, Toronto M4C 1L7","Jamaican, Breakfast",35.0,East Danforth
+Meskerem,CASUAL DINING,,,"1333 Danforth Avenue, Toronto M4J 1N1",Ethiopian,30.0,East Danforth
+Tommy's Grill & Bar,CASUAL DINING,,,"1206 Danforth Avenue, Toronto M4J 1M6",Bar Food,25.0,East Danforth
+Lounge 2856,BAR,,,"2856 Danforth Avenue, Toronto M4C 1M1","Caribbean, Canadian",30.0,East Danforth
+The Jem Bar,BAR,,,"2662 Danforth Avenue, Toronto M4C 1L7","Drinks Only, Bar Food",30.0,East Danforth
+Coffee Time,CAFÉ,,,"1577 Danforth Avenue, Toronto M4C 1H7",Cafe,25.0,East Danforth
+Face To Face Games,CAFÉ,,,"2077a Danforth Avenue, Second Floor, Toronto M4C 1J8",Cafe,30.0,East Danforth
+Billiards Bar,BAR,,,"1218 Danforth Avenue, Toronto M4J 1M6",Bar Food,30.0,East Danforth
+Edie's Place,BAR,,,"2100 Danforth Avenue, Toronto M4C 1J9","Ethiopian, Bar Food",45.0,East Danforth
+Asmara,CASUAL DINING,,,"1236 Danforth Avenue, Toronto M4J 1M6",Bar Food,30.0,East Danforth
+Pomarosa,CAFÉ,,,"1504 Danforth Ave, Toronto, ON M4J 1N4","Cafe, Venezuelan",20.0,East Danforth
+Danforth East Soccer Cafe,CAFÉ,,,"1772 Danforth Avenue, Toronto M4C 1H8","Cafe, Ice Cream",10.0,East Danforth
+Blue River House,BAR,,,"2328 Danforth Avenue, Toronto M4C 1K7",Drinks Only,50.0,East Danforth
+Golden Restaurant & Cafe,CAFÉ,,,"1375 Danforth Avenue, East Danforth","Middle Eastern, Cafe",,East Danforth
+Harbour King,CASUAL DINING,,,"2344 Danforth Avenue, Toronto M4C 1K7",Chinese,30.0,East Danforth
+Cafe Cocoro,CAFÉ,,,"1989 Danforth Avenue, Toronto, ON M4C 1J7",Cafe,15.0,East Danforth
+Maple Cafe,CAFÉ,,,"5A Linsmore Crescent, Toronto M4J 4J5",Cafe,15.0,East Danforth
+Zav,Other,,,"2048 Danforth Avenue, Toronto, ON M4C 1J6",Coffee and Tea,15.0,East Danforth

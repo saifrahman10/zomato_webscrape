@@ -1,0 +1,101 @@
+Name,EstablishmentType,Rating,NumReviews,Address,Cuisine,CostForTwo,City
+Manpuku,CASUAL DINING,4.5,196.0,"Village by the Grange, 105 McCaul Street, Unit 29-31, Toronto M5T 2X4",Japanese,30.0,Grange Park
+Swatow Restaurant,CASUAL DINING,4.4,178.0,"309 Spadina Avenue, Toronto M5T1H1",Cantonese,25.0,Grange Park
+Little Nicky's Coffee,CAFÉ,4.3,115.0,"375 Queen Street West, Toronto M5V 2A5",Cafe,20.0,Grange Park
+Ema-Tei,CASUAL DINING,4.1,158.0,"30 St. Patrick Street, Toronto M5T 1T4",Sushi,60.0,Grange Park
+House of Gourmet,CASUAL DINING,3.9,121.0,"484 Dundas Street West, Toronto M5T1G9",Cantonese,40.0,Grange Park
+Karine's Fresh,Other,4.2,85.0,"Village by the Grange, 109 McCaul Street, Toronto M5T 3K5","Healthy Food, Vegetarian",20.0,Grange Park
+Me Va Me,CASUAL DINING,3.8,68.0,"240 Queen Street West, Toronto M5V 1Z7",Mediterranean,35.0,Grange Park
+AGO Bistro @ The Art Gallery of Ontario,CASUAL DINING,4.2,105.0,317 Dundas Street West M5T 1G4,"Fusion, Canadian",100.0,Grange Park
+Sin & Redemption,CASUAL DINING,3.7,99.0,"136 McCaul Street, Toronto M5T 1W2","Belgian, Bar Food",60.0,Grange Park
+Midi Bistro,CASUAL DINING,4.0,63.0,"168 McCaul Street, Toronto M5T1W4",French,70.0,Grange Park
+New Sky Restaurant,CASUAL DINING,4.1,74.0,"353 Spadina Avenue, Toronto M5T 2G3","Cantonese, Chinese",35.0,Grange Park
+Rivoli,CASUAL DINING,3.9,85.0,"332 Queen Street West, Toronto M5V 2A2","Asian Fusion, Canadian",50.0,Grange Park
+Peter Pan Bistro,CASUAL DINING,3.8,38.0,"373 Queen Street West, Toronto M5V 2A4","European, French, British",80.0,Grange Park
+Village Idiot Pub,BAR,3.9,80.0,"126 McCaul Street, Toronto M5T 1W2","Bar Food, British",60.0,Grange Park
+Mean Bao.,Other,3.3,51.0,"Village by the Grange, 275 Dundas Street West, Toronto M5T 3K1","Chinese, Fast Food",30.0,Grange Park
+Seor Ak San,CASUAL DINING,3.9,54.0,"357 Spadina Avenue, Toronto M5T 2G3",Korean,30.0,Grange Park
+Black Bull Tavern,BAR,3.5,71.0,"298 Queen Street West, Toronto M5V 2A1",Bar Food,45.0,Grange Park
+Krispy Kreme,DESSERT PARLOR,3.7,46.0,"164 McCaul Street, Toronto M5T1W3","Desserts, Cafe",20.0,Grange Park
+OCHO - Hotel OCHO,CASUAL DINING,3.8,37.0,"195 Spadina Avenue, Toronto M5T 2C5",Canadian,65.0,Grange Park
+The Rex Hotel Jazz and Blues Bar,CASUAL DINING,3.9,34.0,"194 Queen Street West, Toronto M5V 1Z1",Bar Food,40.0,Grange Park
+Arctic Bites,DESSERT PARLOR,3.2,17.0,"21 Baldwin Street, Toronto M5T 1L1","Ice Cream, Thai, Desserts",,Grange Park
+Anh Dao,CASUAL DINING,3.4,45.0,"383 Spadina Avenue, Toronto M5T2G6",Vietnamese,,Grange Park
+Yummy Yummy Dumplings,CASUAL DINING,3.2,27.0,"79 Huron Street, Toronto","Northern Chinese, Chinese, Asian",25.0,Grange Park
+Art Square Cafe,CAFÉ,3.5,35.0,"334 Dundas Street West, Toronto M5T1G5 1G5","Cafe, Desserts, Bakery, Coffee and Tea, Healthy Food, Mediterranean, Tea,",30.0,Grange Park
+Light Cafe,CAFÉ,3.0,12.0,"23 Baldwin Street, Toronto M5T 1L1","Cafe, Sandwich",,Grange Park
+Stelvio,CASUAL DINING,3.4,18.0,"354 Queen Street West, Toronto M5V 2A5",Italian,75.0,Grange Park
+Provo FoodBar,CASUAL DINING,3.0,20.0,"308 Dundas Street West, Toronto M5T 1G4",Italian,35.0,Grange Park
+Crêpes Club,CASUAL DINING,3.7,25.0,"49 Baldwin Street, Toronto M5T1L3","Eastern European, Desserts",25.0,Grange Park
+Origination Chinese Noodle House,CASUAL DINING,3.3,12.0,"Mandale Mall, 421 Dundas Street West, Toronto M5T2W4",Northern Chinese,30.0,Grange Park
+Little Sheep Mongolian Hot Pot,CASUAL DINING,3.1,19.0,"Mandale Mall, Main Floor, 421 Dundas Street West, Toronto M5T2W4","Mongolian, Chinese",50.0,Grange Park
+Charidise,CAFÉ,3.2,13.0,"27 Baldwin Street, Toronto M5T 1LI","Cafe, Bubble Tea, Desserts",30.0,Grange Park
+Gallery Sushi,CASUAL DINING,3.8,29.0,"Village by the Grange, 275 Dundas Street West, Toronto M5T 1G1",Sushi,45.0,Grange Park
+Avenue Cafe & Bistro,CAFÉ,3.3,34.0,"480 University Avenue, Toronto M5G1V2",Cafe,35.0,Grange Park
+Cafe Plenty,CAFÉ,3.6,30.0,"250 Dundas Street West, Toronto M5T 2Z5",Cafe,20.0,Grange Park
+Daily Press Juicery,BEVERAGE SHOP,3.1,14.0,"200 Queen Street West, Toronto M5V 1Z2","Juices, Beverages, Healthy Food",20.0,Grange Park
+Chine Legendary Hot Pot & Noodles,CASUAL DINING,3.5,9.0,"327 Spadina Avenue, Toronto M5T 2E9","Sichuan, Chinese",45.0,Grange Park
+Est West,Other,3.2,31.0,"Ontario Power Building, 700 University Avenue, Toronto M5G1Z5","American, Breakfast",20.0,Grange Park
+Horseshoe Tavern,BAR,3.6,31.0,"370 Queen Street West, Toronto M5V 2A5",Drinks Only,70.0,Grange Park
+Salmon Lovers,CASUAL DINING,3.2,14.0,"294 Dundas Street West, Toronto M5T 1G2",Sushi,50.0,Grange Park
+Sichuan Garden,CASUAL DINING,3.3,21.0,"359 Spadina Avenue, Toronto M5T 2G3",Sichuan,30.0,Grange Park
+Wafflian,DESSERT PARLOR,3.1,11.0,"Village by the Grange, 109 McCaul Street, Unit 28B, Toronto M5T 3K5","Desserts, Cafe",25.0,Grange Park
+Ding Dong Pastries & Cafe,BAKERY,3.5,22.0,"321 Spadina Avenue, Toronto M5T2E9","Bakery, Chinese",10.0,Grange Park
+Crimson Teas,CAFÉ,3.5,15.0,"415 Spadina Avenue, Toronto 1R4 M5T","Tea, Cafe",20.0,Grange Park
+Sizzler Kabab,QUICK BITES,3.5,14.0,"381 Spadina Avenue, Toronto M5T 2G6",Pakistani,20.0,Grange Park
+Grossman's Tavern,BAR,3.3,19.0,"379 Spadina Avenue, Toronto M5T 2G3",Bar Food,40.0,Grange Park
+Sang's Great Seafood,CASUAL DINING,3.5,14.0,"343 Spadina Avenue, Toronto M5T 2G3",Cantonese,30.0,Grange Park
+Ten Mile Aroma,CASUAL DINING,3.3,17.0,"428 Dundas Street West, Toronto M5T 1G7",Northern Chinese,35.0,Grange Park
+Pizzaiolo,QUICK BITES,3.9,16.0,"289 Dundas Street West, Toronto","Pizza, Fast Food",30.0,Grange Park
+The Fresh Italian Eatery,Other,3.6,9.0,"Village by the Grange, 275 Dundas Street West, Toronto M5T2W5","Italian, Fast Food",20.0,Grange Park
+A & W,QUICK BITES,3.7,12.0,"372 Queen Street West, Toronto","Burger, Fast Food",25.0,Grange Park
+Red Eye Espresso,CAFÉ,3.5,11.0,"29 McCaul Street, Toronto M5T 1V7",Cafe,15.0,Grange Park
+A-game Café,CAFÉ,3.5,5.0,"240 Queen Street West, 2nd Floor, Toronto M5V 1Z7",Cafe,20.0,Grange Park
+Starbucks,CAFÉ,3.9,15.0,"316 Queen Street West, Toronto",Cafe,20.0,Grange Park
+Espresso Etc,CAFÉ,3.5,12.0,"350 Dundas Street West, Toronto M5T 1G4","Cafe, French",20.0,Grange Park
+Sushi Cafe Bon Gung,Other,,,"109 McCaul Street, Toronto M5T3K5",Sushi,20.0,Grange Park
+Little Pebbles,CAFÉ,3.4,6.0,Kensington Market,Cafe,10.0,Grange Park
+Sumac Kebab Kitchen,QUICK BITES,3.2,7.0,"287 Dundas Street West, Toronto M5T 1G1","Kebab, Iranian",30.0,Grange Park
+CL Tea House,BEVERAGE SHOP,2.9,5.0,"Village by the Grange, 109 McCaul Street, Toronto M5T3K5",Bubble Tea,10.0,Grange Park
+Sichuan House,CASUAL DINING,3.5,8.0,"394 Spadina Avenue, Toronto M5T 2G5",Sichuan,40.0,Grange Park
+Souvlaki House,Other,3.0,13.0,"Village by the Grange, 109 McCaul Street, Toronto M5T","Fast Food, Greek",20.0,Grange Park
+Orange Alert Coffee,CAFÉ,2.7,10.0,"298 Dundas Street West, Toronto M5T 1G2",Cafe,15.0,Grange Park
+Baskin Robbins,DESSERT PARLOR,3.1,12.0,"Village by the Grange, 275 Dundas Street West, Toronto","Ice Cream, Desserts",15.0,Grange Park
+Thai Bright,Other,3.1,11.0,"Village by the Grange, 109 McCaul Street, Toronto M5T3K8",Thai,20.0,Grange Park
+Popular Pot,CASUAL DINING,3.3,13.0,"369 Spadina Avenue, Toronto M5T 2G3",Northern Chinese,45.0,Grange Park
+McDonald's,QUICK BITES,3.4,13.0,"Village By The Grange, 109 McCaul Street, Toronto",Fast Food,25.0,Grange Park
+Swiss Chalet,CASUAL DINING,2.7,8.0,"Ontario Power Building, 700 University Avenue, Toronto","Canadian, Grill, Beverages",40.0,Grange Park
+Mr. Sub,QUICK BITES,2.1,12.0,"438 University Avenue, Toronto",Fast Food,25.0,Grange Park
+Rol Jui,CASUAL DINING,3.3,19.0,"472 Dundas Street West, Toronto M5T1G9",Cantonese,35.0,Grange Park
+The Coffee Exchange,Other,3.6,7.0,"Village by the Grange, 109 McCaul Street, Toronto M5T3K5",Cafe,15.0,Grange Park
+Anoush,QUICK BITES,3.3,11.0,"250 Dundas Street West, Toronto",Middle Eastern,25.0,Grange Park
+Tim Hortons,CAFÉ,3.8,11.0,438 University Avenue,"American, Donuts, Desserts",20.0,Grange Park
+Tasty Chinese Food,Other,3.3,9.0,"Village by the Grange, 109 McCaul Street, Toronto M5T 3K5","Fast Food, Chinese",20.0,Grange Park
+Second Cup,CAFÉ,3.7,10.0,"600 University Avenue, Toronto","Cafe, Coffee and Tea, Frozen Yogurt",10.0,Grange Park
+Helena's Magic Kitchen,Other,3.5,8.0,"Village by the Grange, 109 McCaul Street, Toronto M5T3K5",Eastern European,20.0,Grange Park
+Liuuil Hot Pot,CASUAL DINING,2.6,8.0,"77 Huron Street, Toronto M5T2A8",Sichuan,45.0,Grange Park
+Sonic,CAFÉ,2.7,7.0,"60 Cecil Street, Toronto","Cafe, Bar Food",25.0,Grange Park
+Subway,Other,3.0,10.0,"Ontario Power Building, 700 University Avenue, Toronto",Fast Food,20.0,Grange Park
+Lamb Kebab,QUICK BITES,,,"492 Dundas Street West, Toronto M5T1G9",Northern Chinese,15.0,Grange Park
+Pho Express,Other,,,"Village by the Grange, 109 McCaul Street, Toronto M5T3K5","Fast Food, Vietnamese",15.0,Grange Park
+Sid's Deli,QUICK BITES,,,"160 McCaul Street, Toronto M5T1W4",Deli,25.0,Grange Park
+Wow K Food,Other,3.5,6.0,"Village by the Grange, 109 McCaul Street, Toronto M5T 3K5","Fast Food, Korean",25.0,Grange Park
+Tian An Cuisine,CASUAL DINING,,,"492 Dundas Street West, Toronto M5T1G9",Northern Chinese,30.0,Grange Park
+Bread & Bowl,CAFÉ,,,"2 Murray Street, Toronto M5G 1X5","Cafe, Breakfast, Healthy Food",30.0,Grange Park
+Mr. Souvlaki,Other,2.5,5.0,"Ontario Power Building, 700 University Avenue, Toronto","Greek, Fast Food",20.0,Grange Park
+Cube Nightclub,Other,,,"314 Queen Street West, Toronto",Drinks Only,50.0,Grange Park
+Duke Of Cornwall,Other,,,"400 University Ave, Toronto, ON M5G 1S5",American,35.0,Grange Park
+Aroma Espresso Bar,CAFÉ,,,"600 University Avenue, Toronto M5G 1X5",Cafe,25.0,Grange Park
+Druxy's Famous Deli,QUICK BITES,,,"400 University Avenue, Toronto, ON CA M5G 1S6","Fast Food, Sandwich",25.0,Grange Park
+Crazy Burrito,Other,,,University & Dundas M5G,Mexican,,Grange Park
+Fiesta Burrito,Other,,,"Village by the Grange, 109 McCaul Street, Toronto M5T 3K5 3K5",Mexican,20.0,Grange Park
+B-Boss KTV,CASUAL DINING,,,"283 Spadina Avenue, Suite 201, Toronto M5T 2E3",Bar Food,35.0,Grange Park
+Veda,CASUAL DINING,,,"500 University Avenue, Toronto M5G 1V7","Indian, Healthy Food",35.0,Grange Park
+Sushi tanoshii,CASUAL DINING,,,"45 Baldwin Street, Toronto M5T 1L1",Sushi,,Grange Park
+Jerk Brothers,Other,,,University & Dundas,Caribbean,25.0,Grange Park
+The Corner Espresso Co.,CAFÉ,,,"20 St. Patrick Street, Toronto M5T2Y4",Cafe,15.0,Grange Park
+"University Avenue, Grange Park",Other,,,CUISINES:,Greek,,Grange Park
+The Aviary,Other,,,"484 A Front St E, Grange Park, Toronto",Pub Food,35.0,Grange Park
+Carafted Bean Cafe,CAFÉ,,,"298 Dundas St W, Grange Park, Toronto",Cafe,15.0,Grange Park
+Dears Cafeteria,CAFÉ,,,"336 Dundas Street West, Toronto M5T 1G5","Asian, Cafe",20.0,Grange Park
+Manchu Wok,QUICK BITES,,,"Ontario Power Building, 700 University Avenue, Toronto","Fast Food, Chinese, Asian",25.0,Grange Park

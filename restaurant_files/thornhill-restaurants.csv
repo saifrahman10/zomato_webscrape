@@ -1,0 +1,276 @@
+Name,EstablishmentType,Rating,NumReviews,Address,Cuisine,CostForTwo,City
+Me Va Me,CASUAL DINING,4.0,458.0,"7000 Bathurst Street, Thornhill L4J 8S3",Mediterranean,35.0,Thornhill
+Song Cook's Authentic Korean Restaurant,CASUAL DINING,4.3,122.0,"72 Steeles Avenue W, Unit 6, Thornhill L4J 1A1","Korean, Asian",45.0,Thornhill
+Golden Star,QUICK BITES,4.3,210.0,"7123 Yonge Street, Thornhill","Burger, Fast Food",25.0,Thornhill
+Duo Patisserie & Cafe,CAFÉ,4.7,51.0,"230 Commerce Valley Drive E, Thornhill L3T 7Y3","Bakery, Cafe, Desserts",20.0,Thornhill
+Cho Sun Ok,CASUAL DINING,4.3,95.0,"7353 Yonge Street, Thornhill","Korean, Asian",40.0,Thornhill
+Congee Queen,CASUAL DINING,4.3,144.0,"The Shops on Steeles and 404, 2930 Steeles Avenue E, Thornhill L3T 7X1","Cantonese, Chinese, Asian",40.0,Thornhill
+Centre Street Deli,CASUAL DINING,4.3,127.0,"1136 Centre Street, Thornhill","Deli, Diner",30.0,Thornhill
+Piggy's Restaurant,CASUAL DINING,3.8,56.0,"5 Glen Cameron Road, Thornhill","Korean, Asian",30.0,Thornhill
+Gourmet Bistro,CASUAL DINING,4.0,70.0,"8707 Dufferin Street, Thornhill","American, Grill",60.0,Thornhill
+Home Of Hot Taste,CASUAL DINING,3.9,62.0,"5 Glen Cameron Road, Suite 3B, Thornhill L3T 5W2","Korean, Asian",35.0,Thornhill
+North Restaurant,CASUAL DINING,3.7,103.0,"100 Steeles Avenue West, Unit 27, Thornhill",Iranian,65.0,Thornhill
+Donburi,CASUAL DINING,3.2,68.0,"Commerce Gate, 505 Highway 7, Thornhill","Japanese, Asian",30.0,Thornhill
+Bombay Bhel,CASUAL DINING,4.1,111.0,"230 Commerce Valley Drive E, Thornhill L3T 7Y3",Indian,35.0,Thornhill
+Sofra Grill,CASUAL DINING,4.0,121.0,"8707 Dufferin Street, Unit 21, Thornhill",Mediterranean,40.0,Thornhill
+Symposium Cafe Restaurant & Lounge,CASUAL DINING,3.4,42.0,8187 Yonge Street L3T2C6 2C6,"Diner, Burger, Desserts",65.0,Thornhill
+Paramount Fine Foods,CASUAL DINING,3.9,84.0,"7315 Yonge Street, Thornhill","Lebanese, Middle Eastern",40.0,Thornhill
+Cynthia's Chinese Restaurant,CASUAL DINING,3.9,108.0,"7700 Bathurst Street, Thornhill","Chinese, Asian",40.0,Thornhill
+Terra Restaurant,FINE DINING,4.0,91.0,8199 Yonge Street,"European, Canadian",125.0,Thornhill
+Tapagria,CASUAL DINING,3.0,20.0,"230 Commerce Valley Drive East, Unit 2, Thornhill L3T 7Y3","Spanish, Tapas",60.0,Thornhill
+The Octagon,FINE DINING,4.0,87.0,"7529 Yonge Street, Thornhill","Steak, Seafood",95.0,Thornhill
+Saigon Star,CASUAL DINING,3.8,74.0,"330 Highway 7 East, Thornhill","Vietnamese, Asian",35.0,Thornhill
+Ten Ren's Tea,CAFÉ,4.1,93.0,"The Galleria, 111 Times Avenue, Thornhill","Bubble Tea, Beverages, Chinese",35.0,Thornhill
+Sariwon Korean BBQ Restaurant,CASUAL DINING,4.2,64.0,"7388 Yonge Street, Thornhill","BBQ, Korean, Asian",40.0,Thornhill
+Minoo,CASUAL DINING,3.9,20.0,"8053 Yonge Street, Thornhill","Middle Eastern, Iranian",25.0,Thornhill
+Myungdong Kalkuksu,CASUAL DINING,3.9,42.0,"8194 Bayview Avenue, Thornhill L3T 2S2","Korean, Asian",30.0,Thornhill
+Ginza,CASUAL DINING,3.4,92.0,"7330 Yonge Street, Thornhill","Sushi, Japanese, Asian, Thai",30.0,Thornhill
+O Mei,CASUAL DINING,3.9,43.0,"Doncrest Market Village Plaza, 420 Highway 7 East, Thornhill","Cantonese, Chinese, Asian, Dim Sum",35.0,Thornhill
+Hub Sushi,CASUAL DINING,3.9,32.0,"7398 Yonge Street, Thornhill","Sushi, Japanese, Asian",40.0,Thornhill
+Aji Sai,CASUAL DINING,3.7,82.0,"8206 Bayview Avenue, Thornhill L3T 2S2","Sushi, Japanese, Asian",70.0,Thornhill
+Deer Garden Signatures,CASUAL DINING,3.5,39.0,"550 Highway 7 East, Unit 108-109, Thornhill","Chinese, Asian",30.0,Thornhill
+Korean Grill House,CASUAL DINING,3.6,68.0,"Commerce Gate, 505 Hwy 7, Thornhill L3T 7T1","BBQ, Korean",45.0,Thornhill
+Hockey Sushi,CASUAL DINING,3.1,75.0,"1102 Centre Street, Thornhill","Sushi, Japanese, Asian",35.0,Thornhill
+Levetto,CASUAL DINING,3.8,57.0,"9001 Dufferin Street, Thornhill","Italian, Pizza",45.0,Thornhill
+Amadeus Fine Cakes,BAKERY,4.2,52.0,"7380 Bathurst Street, Thornhill",Bakery,20.0,Thornhill
+Sababa Restaurant,CASUAL DINING,4.1,64.0,"390 Steeles Avenue West, Vaughan",Middle Eastern,30.0,Thornhill
+Tutto Bene,CASUAL DINING,4.1,55.0,"8133 Yonge Street, Thornhill",Italian,80.0,Thornhill
+Ferrovia Ristorante,CASUAL DINING,4.0,44.0,"7355 Bayview Avenue, Thornhill",Italian,60.0,Thornhill
+Santorini,CASUAL DINING,3.9,55.0,"288 John Street, Thornhill, GTA",Greek,70.0,Thornhill
+Santo Italian Restaurant,CASUAL DINING,3.9,33.0,"10 Royal Orchard Boulevard, Thornhill L3T 3C3",Italian,60.0,Thornhill
+Meron To Go,CASUAL DINING,4.0,54.0,"SmartCentres Thornhill, 11 Disera Drive, Thornhill L4J 0G1",Lebanese,30.0,Thornhill
+KOBI Korean BBQ,CASUAL DINING,3.6,15.0,"100 Steeles Avenue, Thornhill","Korean, BBQ",25.0,Thornhill
+Stonefire Bar & Grill,CASUAL DINING,3.8,54.0,"8700 Bathurst Street, Unit 10, Thornhill",Italian,80.0,Thornhill
+The Indian Kitchen,CASUAL DINING,4.0,52.0,"7335 Yonge Street, Thornhill",Indian,45.0,Thornhill
+Yoshiko Sushi,CASUAL DINING,3.9,40.0,"7117 Bathurst Street, Thornhill","Sushi, Japanese, Asian",45.0,Thornhill
+Phoenix Restaurant,CASUAL DINING,3.7,23.0,8190 Bayview Avenue,"Hong Kong Style, Chinese, Asian",40.0,Thornhill
+Love Me Sweet,BAKERY,3.7,20.0,"7181 Yonge Street, Unit 16 L3T 0C7","Desserts, Japanese",,Thornhill
+King Dragon Cuisine,CASUAL DINING,3.0,8.0,"505 Highway 7 East, Building B, Unit 238, Thornhill L3T 7V6","Dim Sum, Cantonese, Chinese, Asian",55.0,Thornhill
+Canadian Thai,CASUAL DINING,3.7,51.0,"2300 John Street, Thornhill","Thai, Asian",45.0,Thornhill
+Legend,CASUAL DINING,3.8,35.0,"5 Glen Cameron Road, Thornhill","Chinese, Asian",30.0,Thornhill
+Chinese Dumpling House,CASUAL DINING,3.5,22.0,"Commerce Gate, 505 Highway 7, Thornhill","Northern Chinese, Chinese, Asian",35.0,Thornhill
+Mideastro,CASUAL DINING,3.7,58.0,"8020 Bathurst Street, Thornhill","Middle Eastern, Mediterranean",60.0,Thornhill
+Pho Viet Xpress,CASUAL DINING,3.9,25.0,"7077 Bathurst Street, Thornhill",Vietnamese,30.0,Thornhill
+What A Bagel,DESSERT PARLOR,3.9,39.0,"8010 Bathurst Street, Thornhill L4J 0B8","Cafe, Bakery",20.0,Thornhill
+Bâton Rouge Steakhouse & Bar,CASUAL DINING,3.9,53.0,"230 Commerce Valley Drive East Unit 7, Thornhill","Steak, American",100.0,Thornhill
+Gonoe,CASUAL DINING,3.4,20.0,"5 Glen Cameron Road, Thornhill","Japanese, Korean",43.0,Thornhill
+Red Lobster,CASUAL DINING,3.0,45.0,"7291 Yonge Street, Thornhill L3T 2A9",Seafood,60.0,Thornhill
+Yang's Chinese Cuisine,CASUAL DINING,3.5,22.0,"8432 Leslie Street, Unit 110, Thornhill L3T 7M6","Dim Sum, Cantonese, Chinese, Asian",55.0,Thornhill
+Aroma Espresso Bar,CAFÉ,3.9,53.0,"The Promenade Shopping Centre, 1 Promenade Circle, Thornhill",Cafe,25.0,Thornhill
+Game of Cheese,CASUAL DINING,3.4,8.0,"505 Highway 7, Thornhill L3T 7P6",Asian Fusion,25.0,Thornhill
+Aroowha Sushi & Sake Bar,CASUAL DINING,3.7,38.0,"1101 Rutherford Road, Thornhill","Sushi, Japanese, Asian",50.0,Thornhill
+Koi Sakana,CASUAL DINING,3.8,28.0,"Golden Well Plaza, 360 Highway 7 East, Unit 3, Thornhill","Japanese, Asian",25.0,Thornhill
+Oshio Japanese Restaurant,CASUAL DINING,3.6,27.0,"The Shops on Steeles and 404, 2900 Steeles Avenue E, Thornhill L3T 4X1","Sushi, Japanese, Asian",40.0,Thornhill
+Pickle Barrel,CASUAL DINING,3.2,43.0,"The Promenade Shopping Centre, 1 Promenade Circle, Thornhill","Grill, Canadian",60.0,Thornhill
+Mezza Notte Trattoria,CASUAL DINING,3.9,29.0,"SmartCentres Thornhill, 11 Disera Drive, Thornhill",Italian,50.0,Thornhill
+Yummy Grill Restaurant,CASUAL DINING,3.6,24.0,"531 Atkinson Avenue, Thornhill","Mediterranean, Middle Eastern, Eastern European",50.0,Thornhill
+Congee Wong,CASUAL DINING,3.5,28.0,"The Promenade Shopping Centre, 1 Promenade Circle, Vaughan","Cantonese, Chinese, Asian",35.0,Thornhill
+Sushi Bong,CASUAL DINING,3.6,11.0,"World On Yonge, 7181 Yonge Street, Thornhill",Japanese,30.0,Thornhill
+Sushi Kiku Japanese Cuisine,CASUAL DINING,3.2,21.0,"Unit 10, 230 Commerce Valley Drive, Thornhill L3T 7Y3","Sushi, Japanese, Asian",60.0,Thornhill
+It's A Bao Time,QUICK BITES,2.9,11.0,"230 Commerce Valley Drive East, Unit 2A, Thornhill L3T 7Y3",Asian Fusion,,Thornhill
+Shater Abbas Restaurant,CASUAL DINING,3.7,27.0,"8141 Yonge Street, Thornhill",Iranian,35.0,Thornhill
+Bill's Pit,CASUAL DINING,3.5,31.0,"1200 Highway 7 West, Thornhill","Steak, Grill, Seafood, Italian",70.0,Thornhill
+Pho Xe Lua,CASUAL DINING,3.2,28.0,"180 Steeles Avenue West, Thornhill",Vietnamese,30.0,Thornhill
+Boneyard Grill,CASUAL DINING,3.9,30.0,"SmartCentres Thornhill, 10 Disera Drive, Thornhill","Grill, American",50.0,Thornhill
+Royal Orchard Thai Cuisine,CASUAL DINING,3.9,30.0,"10 Royal Orchard Blvd, Thornhill",Thai,43.0,Thornhill
+Nino D'Aversa Bakery,BAKERY,3.0,29.0,"7287 Yonge, Thornhill","Italian, Bakery",35.0,Thornhill
+Leyle's Steak House & Seafood,CASUAL DINING,3.7,27.0,"8199 Yonge Street, Thornhill",Steak,90.0,Thornhill
+The Tickled Toad Bar & Grill,BAR,3.7,29.0,"330 Steeles Avenue West, Thornhill",Bar Food,40.0,Thornhill
+Wimpy's Diner,CASUAL DINING,3.9,19.0,"8123 Yonge Street, Thornhill",Diner,30.0,Thornhill
+Seoul House,CASUAL DINING,3.0,18.0,"180 Steeles Avenue West, Unit 24, Thornhill","Korean, Asian",30.0,Thornhill
+Steve's Restaurant,CASUAL DINING,3.8,30.0,"8100 Yonge Street, Unit 4, Thornhill",Diner,50.0,Thornhill
+Chocolada,DESSERT PARLOR,3.9,18.0,"180 Steeles Avenue West, Unit 11, Thornhill",Desserts,15.0,Thornhill
+Thai Room,CASUAL DINING,3.6,23.0,"1881 Steeles Avenue West, Unit 1B, Thornhill M3H 5Y4","Thai, Malaysian",45.0,Thornhill
+Cafe Sheli,CASUAL DINING,3.6,18.0,"7700 Bathurst Street, Thornhill","Diner, Cafe",35.0,Thornhill
+Health Herb Harmony,CASUAL DINING,3.6,15.0,"500 Highway 7 East, Thornhill","Chinese, Desserts",15.0,Thornhill
+Eggsmart,CASUAL DINING,2.9,22.0,"8051 Yonge Street, Thornhill",Diner,30.0,Thornhill
+Sunny Dragon,CASUAL DINING,3.6,16.0,"398 Steeles Avenue West, Thornhill","Korean, Asian",25.0,Thornhill
+Steeles Deli Restaurant,CASUAL DINING,3.8,27.0,"180 Steeles Avenue West, Unit 19, Thornhill","Deli, American",60.0,Thornhill
+White Orchid,CASUAL DINING,3.7,15.0,"360 Highway 7 East, Unit 5, Thornhill L4B 3Y7","Chinese, Malaysian, Singaporean",40.0,Thornhill
+Ariake Japanese Restaurant,CASUAL DINING,3.9,26.0,"7700 Bathurst Street, Unit 10, Thornhill","Sushi, Japanese, Asian",35.0,Thornhill
+Cafe Landwer,CAFÉ,3.1,10.0,"9340 Bathurst Street, Unit 1, Maple L6A 4N9","Cafe, Desserts",20.0,Thornhill
+Sano Sushi,CASUAL DINING,3.6,21.0,"8143 Yonge Street, Thornhill","Japanese, Sushi, Asian",45.0,Thornhill
+Szechuan Legend Restaurant,CASUAL DINING,3.6,9.0,"Commerce Gate, 505 Highway 7, Thornhill","Sichuan, Chinese, Asian",40.0,Thornhill
+Bar Burrito,QUICK BITES,3.2,25.0,"230 Commerce Valley Drive East, Unit 5, Thornhill L3T 7T2",Tex-Mex,25.0,Thornhill
+Pho Bistro,CASUAL DINING,3.7,22.0,"Yorkville North, 100 Steeles Avenue West, Unit 34, Vaughan","Vietnamese, Thai, Asian",45.0,Thornhill
+The Alley,QUICK BITES,3.4,7.0,"505 Highway 7, Unit 16, Thornhill L3T 7T1","Taiwanese, Desserts",10.0,Thornhill
+NCE BBQ,CASUAL DINING,3.4,4.0,"180 Steeles Ave West, Unit 20A, Thornhill L4J 2L1",Chinese,25.0,Thornhill
+Reginos Pizza,QUICK BITES,3.9,23.0,"126 Clark Avenue East, Thornhill","Pizza, Fast Food",25.0,Thornhill
+The Cups,DESSERT PARLOR,3.5,8.0,"5 Glen Cameron Road, Unit 25B, Thornhill L3T","Desserts, Bakery",10.0,Thornhill
+Mister Laffa,QUICK BITES,3.4,21.0,"9001 Dufferin Street, Thornhill",Middle Eastern,20.0,Thornhill
+Jacobs Deli,QUICK BITES,3.5,13.0,"1470 Centre Street, Thornhill","Deli, Fast Food",30.0,Thornhill
+Hot Taste Restaurant,CASUAL DINING,3.3,16.0,"Ho-View Plaza, 324 Highway 7 East, Unit 1, Thornhill","Sichuan, Chinese, Asian",35.0,Thornhill
+Kish Restaurant,QUICK BITES,3.7,13.0,"8136 Yonge St, Thornhill, Toronto",Iranian,30.0,Thornhill
+The Guksu and Noodle,CASUAL DINING,3.1,6.0,"7771 Yonge Street, Toronto L3T 2C4",Korean,25.0,Thornhill
+Moo Kyo Dong Nak Ji,CASUAL DINING,3.2,6.0,"7325 Yonge Street, Thornhill, GTA","Korean, Seafood",,Thornhill
+Le Delice,BAKERY,3.3,14.0,"7355 Bayview Avenue, Thornhill","Bakery, Desserts",15.0,Thornhill
+Fry Basket Fish & Chips,CASUAL DINING,3.9,11.0,"7057 Yonge Street, Thornhill",Fish and Chips,35.0,Thornhill
+Shaanxi Restaurant,CASUAL DINING,3.4,5.0,"Commerce Gate, 505 Highway 7, Thornhill","Sichuan, Chinese, Asian",40.0,Thornhill
+Red Bean Waffle House,DESSERT PARLOR,3.3,4.0,"100 Steeles Avenue West, Thornhill","Korean, Asian, Desserts",25.0,Thornhill
+Ba-Li Laffa Kosher Mediterranean Grill,CASUAL DINING,3.4,14.0,"7117 Bathurst Street, Thornhill, GTA",Mediterranean,45.0,Thornhill
+Hero Certified Burgers,QUICK BITES,3.6,20.0,"230 Commerce Valley Drive East, Thornhill","Burger, Sandwich",25.0,Thornhill
+My Zaidy's Pizza,QUICK BITES,3.3,19.0,"Spring Farm Marketplace, 441 Clark Avenue West, Thornhill","Pizza, Jewish",20.0,Thornhill
+Made in China Hotpot,CASUAL DINING,3.3,6.0,"Commerce Gate, 505 Highway 7, Thornhill","Chinese, Asian",25.0,Thornhill
+Free 2nd Pizza,QUICK BITES,,,"1118 Centre Street, Thornhill","Pizza, Fast Food",25.0,Thornhill
+Yehudale's Falafel & Pizza,QUICK BITES,3.9,16.0,"7241 Bathurst Street, Thornhill","Middle Eastern, Pizza",15.0,Thornhill
+Marado Sushi,CASUAL DINING,3.2,5.0,"7323 Yonge Street, Thornhill","Japanese, Sushi",40.0,Thornhill
+Korean Traditional Tea House - Soohyang,BEVERAGE SHOP,,,7051 Yonge street L3T 2A6 2A6,"Korean, Coffee and Tea",10.0,Thornhill
+KINTON RAMEN,CASUAL DINING,3.2,9.0,"505 Highaway 7 E, Unit 54-58, Thornhill L3T 7T1","Japanese, Ramen",20.0,Thornhill
+Tian Xin Place,CASUAL DINING,3.4,6.0,"5 Glen Cameron Road, Thornhill","Shanghai, Chinese, Asian",30.0,Thornhill
+After Queen Tea shop,BEVERAGE SHOP,,,"7355 Bayview Street, Thornhill","Tea, Beverages",20.0,Thornhill
+Grodzinski Bakery,DESSERT PARLOR,3.8,11.0,"1118 Centre Street, Thornhill",Bakery,25.0,Thornhill
+Revitasize - Cold Pressed Juices,QUICK BITES,3.3,8.0,"1470 Centre Street, Thornhill","Healthy Food, Juices",25.0,Thornhill
+Vegan Danish Bakery,BAKERY,,,"7718 Yonge Street, Thornhill",Bakery,20.0,Thornhill
+Wild Wing,CASUAL DINING,3.2,11.0,"Bayview Lanes, 8180 Bayview Avenue Thornhill",Bar Food,50.0,Thornhill
+Papa George Cafe,CASUAL DINING,3.5,7.0,"360 Highway 7 East, Thornhill",Chinese,20.0,Thornhill
+Ramona's Kitchen,CASUAL DINING,,,7355 Bayview Avenue L3T 5Z2,Diner,,Thornhill
+D-Lite's,CASUAL DINING,3.3,9.0,"Spring Farm Marketplace, 441 Clark Avenue West, Thornhill","Asian, European, Middle Eastern, Latin American",25.0,Thornhill
+Simmer Huang,CASUAL DINING,,,"505 Highway 7 East, Unit 98, Thornhill L3T 7T1","Northern Chinese, Chinese, Asian",30.0,Thornhill
+Ir Yewon,CASUAL DINING,2.8,5.0,"Yorkville North, 100 Steeles Avenue West, Unit 13 , Thornhill","Korean, Asian",20.0,Thornhill
+Cafe de Causette,CASUAL DINING,,,"505 Highway 7, Thornhill L3T 7P6","Bakery, Fast Food",,Thornhill
+Shabu & Congbul,CASUAL DINING,3.0,5.0,"390 Steeles Avenue West, Thornhill","Korean, Asian",35.0,Thornhill
+Crave Restaurant - Sheraton Parkway Hotel,CASUAL DINING,3.6,5.0,"Sheraton Parkway Hotel, 600 Highway 7 East, Thornhill","Grill, European",80.0,Thornhill
+Hunan Restaurant and Bar,CASUAL DINING,3.7,4.0,"300 John Street, Thornhill, GTA","Sichuan, Chinese, Asian",50.0,Thornhill
+Java Joe's,CAFÉ,3.4,6.0,"298 John Street, Thornhill, GTA",Cafe,15.0,Thornhill
+Heloo Goolub,BAKERY,,,"8147 Yonge Street, Thornhill, GTA","Middle Eastern, Bakery",13.0,Thornhill
+Beff Pan Steak and Roll House,CASUAL DINING,,,"Unit 17,100 Steeles Avenue West L4J 7Y1","Asian Fusion, Japanese, Korean",,Thornhill
+Chatime,BEVERAGE SHOP,3.1,7.0,"Commerce Gate, 505 Highway 7, Thornhill","Bubble Tea, Beverages, Taiwanese",15.0,Thornhill
+Pizza Nova,QUICK BITES,3.5,10.0,"SmartCentres Rutherford Village, 9200 Bathurst Street, Unit 1, Thornhill","Pizza, Fast Food",30.0,Thornhill
+1118 Bistro Bar & Grill,BAR,3.1,7.0,"1118 Centre Street, Thornhill",Grill,40.0,Thornhill
+Yummy Cone,QUICK BITES,,,"Unit 103A, 7191 Yonge Street L3T 0C4","Pizza, Coffee and Tea",15.0,Thornhill
+Ichiban Sushi House,CASUAL DINING,3.5,7.0,"8707 Dufferin Street, Thornhill","Sushi, Japanese, Asian",40.0,Thornhill
+Yogurty's,DESSERT PARLOR,3.1,6.0,"8020 Bathurst Street, Thornhill","Frozen Yogurt, Desserts",15.0,Thornhill
+Famous Laffa,QUICK BITES,3.7,4.0,"The Promenade Shopping Centre, 1 Promenade Circle, Thornhill",Iranian,25.0,Thornhill
+Top Gourmet of China,CASUAL DINING,,,"180 Steeles Ave W, Thornhill, ON, Canada, Thornhill, ON L4J 2L1",Chinese,30.0,Thornhill
+Amalfi Coast,CASUAL DINING,,,8020 Bathurst Street,Italian,50.0,Thornhill
+Ice In Paradise,QUICK BITES,,,"8139 Yonge Street, Thornhill","Ice Cream, Iranian",10.0,Thornhill
+Tim Hortons,CAFÉ,2.8,6.0,"2890 Steeles Avenue East, Thornhill","American, Donuts, Desserts",20.0,Thornhill
+General Tso's Kitchen,QUICK BITES,3.1,4.0,"7045 Yonge Street, Thornhill",Chinese,13.0,Thornhill
+The Captain's Boil,CASUAL DINING,,,"230 Commerce Valley Dr. East., Thornhill L3T 7Y3","Asian Fusion, Cajun, Seafood",30.0,Thornhill
+Kuu Sushi,CASUAL DINING,3.1,4.0,1020 Centre Street L4J 3M8,Sushi,,Thornhill
+CoCo Fresh Juice and Tea,BEVERAGE SHOP,,,"505 Highway 7 East, Unit 5, Toronto","Bubble Tea, Beverages",15.0,Thornhill
+Bagel World,QUICK BITES,,,"SmartCentres Thornhill, 10 Disera Drive, Thornhill","Bakery, Cafe",20.0,Thornhill
+Yogen Früz,DESSERT PARLOR,,,"The Promenade Shopping Centre, 1 Promenade Circle, Thornhill","Frozen Yogurt, Desserts",15.0,Thornhill
+Dizy Lounge,CASUAL DINING,3.6,7.0,"8159 Yonge Street, Thornhill",Mediterranean,,Thornhill
+Promenade Restaurant & Banquet Hall,CASUAL DINING,,,"7700 Bathurst Street, Unit 38-40, Toronto L4J 7Y3",Russian,,Thornhill
+King's Wok House,QUICK BITES,3.3,4.0,"The Shops on Steeles and 404, 2900 Steeles Avenue East, Thornhill","Chinese, Asian",15.0,Thornhill
+Pizza Hut,QUICK BITES,2.8,7.0,"392 John Street, Markham","Pizza, Fast Food",25.0,Thornhill
+Marble Slab Creamery,DESSERT PARLOR,,,"SmartCentres Thornhill, 11 Disera Drive, Thornhill","Ice Cream, Desserts",20.0,Thornhill
+ShareTea,BEVERAGE SHOP,,,"370 Highway 7 East, Unit 101, Thornhill L4B 0C4","Bubble Tea, Beverages, Taiwanese",15.0,Thornhill
+Moscow Nights Restaurant,CASUAL DINING,,,"7700 Bathurst Street, Thornhill",Russian,80.0,Thornhill
+First Choice,CASUAL DINING,2.3,9.0,"Times Square, 550 Highway 7 East, Unit 211, Second Floor, Thornhill","Vietnamese, Asian",30.0,Thornhill
+Jung Soo Ne Bonga,CASUAL DINING,,,"390 Steeles Avenue West, Unit 5, Thornhill","Korean, Asian",,Thornhill
+Swiss Chalet,CASUAL DINING,,,"7700 Bathurst Street, Thornhill L4J 7Y3","Canadian, Grill, Beverages",40.0,Thornhill
+Golden Chopsticks,CASUAL DINING,,,"7000 Bathurst Street, Thornhill","Chinese, Asian",35.0,Thornhill
+"93 Green Lane, Thornhill",Other,,,CUISINES:,"Mediterranean, Middle Eastern",40.0,Thornhill
+Taco Bell,QUICK BITES,2.8,6.0,"7028 Yonge Street,Thornhill","Fast Food, Mexican",20.0,Thornhill
+Bourbon St. Grill,QUICK BITES,3.2,6.0,"The Promenade Shopping Centre, 1 Promenade Circle, Thornhill","Cajun, Southern",20.0,Thornhill
+Bavarian Burger,QUICK BITES,,,"Grandview Square, 1200 Highway 7, Thornhill","Middle Eastern, Iranian",20.0,Thornhill
+Anzenchitai Izakaya,CASUAL DINING,,,"7059 Yonge Street, Thornhill L3T 2A6",Japanese,,Thornhill
+Melody Restaurant,CASUAL DINING,2.7,6.0,"1118 Centre Street, Thornhill",Ukrainian,40.0,Thornhill
+Starbucks - Sheraton Parkway Hotel,CAFÉ,3.3,7.0,"Sheraton Parkway Hotel, 600 Highway 7 East, Thornhill",Cafe,20.0,Thornhill
+Hwanggane Food & Osaka Sushi,Other,,,"7040 Yonge Street, Galleria Market Place, Thornhill","Korean, Japanese, Asian",,Thornhill
+Parsian Top Meal,QUICK BITES,3.3,5.0,"230 Commerce Valley Drive East, Thornhill",American,25.0,Thornhill
+Ocean Palate,QUICK BITES,,,"World On Yonge, 7181 Yonge Street, Thornhill",Indian,20.0,Thornhill
+Philoxenia Greek Cuisine,CASUAL DINING,,,"8199 Yonge St, Thornhill, ON L3T 2C6",Greek,35.0,Thornhill
+Bagel Nash,QUICK BITES,3.6,4.0,"7355 Bayview Avenue, Thornhill",Bakery,15.0,Thornhill
+Pizzaville,QUICK BITES,,,"2300 John Street, Thornhill L3T 6G7","Pizza, Fast Food",25.0,Thornhill
+Coffee Time,QUICK BITES,,,"385 John Street, Thornhill",Cafe,25.0,Thornhill
+Halibut House,QUICK BITES,,,"11 Disera Ave, Thornhill",Fish and Chips,15.0,Thornhill
+KFC,QUICK BITES,2.7,4.0,"7028 Yonge Street, Thornhill",Fast Food,25.0,Thornhill
+Pizza Pizza,QUICK BITES,3.5,5.0,"1553 Steeles Avenue East, Thornhill","Pizza, Fast Food",25.0,Thornhill
+Dr. Laffa Restaurant,CASUAL DINING,,,"441 Clark Ave W, Vaughan, Ontario L4J 6W7","Middle Eastern, Mediterranean",25.0,Thornhill
+Judy's Fine Food & Bakery,BAKERY,3.5,5.0,"The Shops on Steeles and 404, 2900 Steeles Avenue East, Thornhill","Bakery, Deli",20.0,Thornhill
+Anzenchitai Izakaya,CASUAL DINING,,,"7059 Yonge Street, Thornhill L3T 2A6",Japanese,50.0,Thornhill
+Bagel Nash,BAKERY,3.2,5.0,"8707 Dufferin Street, Unit 19, Thornhill","Bakery, Deli",20.0,Thornhill
+Asahi Japanese Restaurant,CASUAL DINING,3.1,4.0,"7000 Bathurst Street, Thornhill","Sushi, Japanese, Asian",40.0,Thornhill
+Saigon Grill,CASUAL DINING,3.3,4.0,"1200 Highway 7 West, Unit 1, Thonrhill",Vietnamese,25.0,Thornhill
+Latte mei,QUICK BITES,,,"World On Yonge, 7181 Yonge Street, Unit 242, Thornhill","Beverages, Taiwanese",25.0,Thornhill
+Second Cup,CAFÉ,3.8,4.0,"The Promenade Shopping Centre, 1 Promenade Circle, Thornhill","Cafe, Coffee and Tea, Frozen Yogurt",10.0,Thornhill
+Spirits Bar & Lounge - Sheraton Parkway Hotel,BAR,2.5,6.0,"Sheraton Parkway Hotel, 600 Highway 7 East, Thornhill",Bar Food,80.0,Thornhill
+Cafe Chic,Other,,,"263 Bay Thorn Drive, Thornhill","Middle Eastern, Desserts",20.0,Thornhill
+Banzai Sushi,QUICK BITES,,,"300 John Street, Thornhill, GTA","Sushi, Japanese, Asian",30.0,Thornhill
+Negin Bakery,BAKERY,,,"7163 Yonge Street, Thornhill","Bakery, Desserts",25.0,Thornhill
+A Yiddishe Mame,CASUAL DINING,,,"1416 Centre Street, Thornhill",Jewish,50.0,Thornhill
+St. Urbain Bagel,BAKERY,,,"7077 Bathurst Street, Thornhill","Bakery, Cafe",15.0,Thornhill
+Jordan's Shawarma,QUICK BITES,,,"2300 John St, Thornhill, ON L3T 6G7",Middle Eastern,15.0,Thornhill
+Sakura Sushi,Other,,,"World on Yonge, Food Court, 2181 Yonge Street, Thornhill","Sushi, Japanese",25.0,Thornhill
+King David Laffa Grill,QUICK BITES,,,"11 Disera Drive, Thornhill","Middle Eastern, Pizza",,Thornhill
+Mr Zagros,CASUAL DINING,,,"9200 Bathurst St #6, Thornhill, ON L4J 8W1",Middle Eastern,25.0,Thornhill
+Thornhill,Other,,,CUISINES:,Bar Food,,Thornhill
+McDonald's,QUICK BITES,2.7,4.0,"The Promenade Shopping Centre, 1 Promenade Circle, Thornhill",Fast Food,25.0,Thornhill
+Domino's,QUICK BITES,3.5,4.0,"531 Atkinson Avenue, Vaughan","Fast Food, Pizza",25.0,Thornhill
+Cafe Sanguiccio,CAFÉ,,,"87 Green Ln #4, Thornhill, ON, L3T 6K6, Toronto","Cafe, Italian",20.0,Thornhill
+Sushi Seoul,CASUAL DINING,,,"7089 Yonge Street, Thornhill",Sushi,80.0,Thornhill
+Atlantide Cafe Sport,CAFÉ,,,"1450 Centre Street, Thornhill",Cafe,15.0,Thornhill
+Cakes Royale,BAKERY,,,"50 Doncaster Avenue, Thornhill","Eastern European, Cafe, Bakery",20.0,Thornhill
+The Indian Cuisine,CASUAL DINING,,,"398 Steeles Ave W, Thornhill, Toronto",Indian,65.0,Thornhill
+Ani Ristorante,CASUAL DINING,,,"1450 Clark Avenue W, Thornhill L4J 7J9","Armenian, Mediterranean",50.0,Thornhill
+Carbon Bar & Grill,BAR,,,"126 Clark Avenue, Thornhill",Bar Food,35.0,Thornhill
+Popeyes,QUICK BITES,,,"The Galleria, 111 Times Avenue, Thornhill",Fast Food,25.0,Thornhill
+Kruzo Grill,QUICK BITES,,,"1470 Centre Street, Thornhill",Middle Eastern,40.0,Thornhill
+Melodie's,QUICK BITES,,,"230 Commerce Valley Drive East, Unit 8, Thornhill L3T 7Y3","Middle Eastern, Mediterranean",30.0,Thornhill
+Tea Shop 168,BEVERAGE SHOP,,,"Commerce Gate, 505 Highway 7, Thornhill","Bubble Tea, Taiwanese, Beverages",25.0,Thornhill
+Burrito Zone,QUICK BITES,,,"2300 John St, Thornhill, ON",Mexican,10.0,Thornhill
+R Cottage Restaurant,CASUAL DINING,,,"3385 Muskoka Street, Washago L0K 2B0","American, Sandwich, BBQ",,Thornhill
+Treats,CAFÉ,,,"105 Commerce Valley Drive West, Thornhill","Cafe, Bakery",15.0,Thornhill
+Jang Kang,Other,,,"Galleria Market Place, 7040 Yonge Street, Thornhill","Korean, Asian",,Thornhill
+Subway,QUICK BITES,,,"The Shops on Steeles and 404, 2900 Steeles Avenue East, Thornhill",Fast Food,20.0,Thornhill
+Hey Spicy Hot Pot,CASUAL DINING,,,"360 Highway 7 East, Unit 15-16, Thornhill",Asian,45.0,Thornhill
+Thai Express,QUICK BITES,,,"The Promenade Shopping Centre, 1 Promenade Circle, Thornhill",Thai,25.0,Thornhill
+A & W,QUICK BITES,,,"7011 Bathurst Street, Thornhill","Burger, Fast Food",25.0,Thornhill
+MyMy Chicken,FAST CASUAL,,,"7359 Yonge St, Thornhill",Korean,25.0,Thornhill
+Dairy Queen (Treat),QUICK BITES,,,531 Atkinson Avenue Unit 12,"Ice Cream, Desserts, Fast Food",20.0,Thornhill
+Bubble Tea and Me,QUICK BITES,,,"7330 Yonge Street, Thornhill","Bubble Tea, Desserts",15.0,Thornhill
+Frilu,CASUAL DINING,,,"7713 Yonge St, Thornhill, Toronto",Italian,60.0,Thornhill
+Bakery Gateau,BAKERY,,,"7040 Yonge Street, Thornhill",Bakery,20.0,Thornhill
+Howie T's,QUICK BITES,,,"800 Steeles Avenue, Thornhil",Burger,,Thornhill
+Pizza Napoli & Sub,QUICK BITES,,,"7368 Yonge Street, Thornhill","Italian, Pizza",,Thornhill
+Tea Va See,CAFÉ,,,"1416 Centre Street, Thornhill","Tea, Beverages, Cafe",30.0,Thornhill
+Ssangkye Braised Chicken House,CASUAL DINING,,,"100 Steeles Ave W, Thornhill, ON L4J 7Y1",Korean,30.0,Thornhill
+My Zaidy's Bakery & Kosher Sushi,QUICK BITES,,,"7241 Bathurst Street, Thornhill","Jewish, Japanese, Bakery",,Thornhill
+Druxy's Famous Deli,CASUAL DINING,,,"399 Bathurst Street, Toronto M5T 2S8",Canadian,20.0,Thornhill
+Empire Bakery,BAKERY,,,"180 Steeles Avenue West, Thornhill",Bakery,10.0,Thornhill
+Marouf Tochal Pomegranate Juice,BEVERAGE SHOP,,,"7368 Yonge Street, Thornhil","Juices, Beverages",15.0,Thornhill
+Rocky Mountain Chocolate Factory,DESSERT PARLOR,,,"The Promenade Shopping Centre, 1 Promenade Circle, Thornhill",Desserts,15.0,Thornhill
+Kernels Popcorn,QUICK BITES,,,"The Promenade Shopping Centre, 1 Promenade Circle, Thornhill",Fast Food,15.0,Thornhill
+Crepes and Honey,CAFÉ,,,"100 Steeles Avenue West, Thornhill","Cafe, Desserts",25.0,Thornhill
+Baskin Robbins,DESSERT PARLOR,,,"SmartCentres Rutherford Village, 9200 Bathurst Street, Unit 11, Thornhill","Ice Cream, Desserts",15.0,Thornhill
+Dejavu Mediterranean Cuisine,CASUAL DINING,,,"1470 Centre Street, Unit 7, Thornhill L4J 3N1","Mediterranean, Middle Eastern",25.0,Thornhill
+Mr. Sub,QUICK BITES,,,"Rutherford Marketplace, 9340 Bathurst Street, Thornhill",Fast Food,25.0,Thornhill
+Ice N Bean,DESSERT PARLOR,,,"2300 John Street, Thornhill","Ice Cream, Desserts",15.0,Thornhill
+Yasaman,CASUAL DINING,,,"7089 Yonge Street, Thornhill",Iranian,30.0,Thornhill
+Tuono,DESSERT PARLOR,,,"World On Yonge, Second Floor, 7178 Yonge Street, Thornhill","Desserts, Ice Cream",,Thornhill
+Freshly Squeezed,BEVERAGE SHOP,,,"The Promenade Shopping Centre, 1 Promenade Circle, Thornhill","Juices, Beverages",15.0,Thornhill
+David's Tea,CAFÉ,,,"1 Promenade Circle, Thornhill","Tea, Beverages",15.0,Thornhill
+Wow Korean Restaurant,Other,,,"7040 Yonge Street, Galleria Market Place, Thornhill","Korean, Asian",,Thornhill
+The Ultimate Truffle,DESSERT PARLOR,,,"7713 Yonge Street, Thornhill L3T 2C4",Desserts,,Thornhill
+Alminz Kakanin,BAKERY,,,"300 Steeles Avenue West, Thornhill","Filipino, Desserts",,Thornhill
+Zack's Chocolates,DESSERT PARLOR,,,"7117 Bathurst Street, Thornhill",Desserts,15.0,Thornhill
+North Town Korean Restaurant 엄마 해물탕,CASUAL DINING,,,"7368 Yonge Street, Thornhill, ON L4J 8H9",Korean,35.0,Thornhill
+Salamat Bakery,BAKERY,,,"100 Steeles Avenue West, Unit 15, Thornhill","Bakery, Middle Eastern",10.0,Thornhill
+Garden Grille Bar - Hilton Garden Inn Toronto/Markham,CASUAL DINING,,,"Hilton Garden Inn Toronto/Markham, 300 Commerce Valley Drive, Thornhill","Breakfast, Grill",70.0,Thornhill
+Jamba Juice,BEVERAGE SHOP,,,"8020 Bathurst Street, Thornhill","Juices, Beverages",25.0,Thornhill
+Oishi Sushi,CASUAL DINING,,,"Unit 9, 10 Royal Orchard Boulevard, Thornhill, ON L3T 3C3",Sushi,45.0,Thornhill
+The Bistro,CASUAL DINING,,,"65 Minthorn Boulevard, Inside the Courtyard By Marriott, Thornhill",Canadian,60.0,Thornhill
+Pavillion Lounge,BAR,,,"Hilton Grand Inn, 300 Commerce Valley Road, Thornhill L3T 7X3",Drinks Only,30.0,Thornhill
+My Sweet Escape,DESSERT PARLOR,,,"7707 Yonge Street. , Thornhill",Desserts,,Thornhill
+South St. Burger,CASUAL DINING,,,"20 John St, Thornhill, Toronto M5V 0G5","Burger, Fast Food",25.0,Thornhill
+Teriyaki Experience,QUICK BITES,,,"The Promenade Shopping Centre, 1 Promenade Circle, Thornhill",Japanese,20.0,Thornhill
+Diamonds Fine Foods,CAFÉ,,,"7700 Bathurst Street, Thornhill, GTA",Cafe,13.0,Thornhill
+Bunker's Espresso,CAFÉ,,,"Commerce Gate, 505 Highway 7, Thornhill",Cafe,20.0,Thornhill
+Tiki Ming,Other,,,"The Promenade Shopping Centre, 1 Promenade Circle, Thornhill","Fast Food, Chinese, Asian",25.0,Thornhill
+Sushi California,QUICK BITES,,,"1450 Clark Avenue West, Unit 15, Thornhill","Korean, Japanese, Sushi",20.0,Thornhill
+Patogh Bistro,CAFÉ,,,"The Shops on Steeles and 404, 2900 Steeles Avenue East, Thornhill","Cafe, Coffee and Tea",,Thornhill
+Anthony’s On Promenade,CAFÉ,,,"7700 Bathurst Street, Promenade Village Shops, Thornhill L4J 7Y3",Cafe,,Thornhill
+Wing Machine,QUICK BITES,,,"787 Steeles Avenue West, Thornhill",Fast Food,30.0,Thornhill
+Chinois Express,QUICK BITES,,,"1450 Clark Avenue West, Thornhill","Indonesian, Asian",25.0,Thornhill
+Royal Toast,CAFÉ,,,"1450 Clark Avenue West, Unit 24,Thornhill",Cafe,25.0,Thornhill
+Mool & Grill,CASUAL DINING,,,"100 Steeles Avenue West, Unit 20, Thornhill",Grill,55.0,Thornhill
+D-Lite Sushi,QUICK BITES,,,"800 Steeles Avenue, Thornhill",Sushi,15.0,Thornhill
+DvLux Express Food,QUICK BITES,,,"1102 Centre Street Unit 2, Thornhill","European, BBQ",25.0,Thornhill
+La Vida Cocoa Craft Bakery & Cafe,CAFÉ,,,"398 Steeles Avenue West Unit 9, Thornhill, ON L4J 6X3","American, European",20.0,Thornhill
+Ann's Congee,CASUAL DINING,,,"1102 Centre St #2, Thornhill, ON L4J 3M8",Asian,25.0,Thornhill
+Sheli's,QUICK BITES,,,"7241 Bathurst St, Thornhill, ON L4J 3W","Burger, Sandwich",30.0,Thornhill
+Celebration Restaurant,CASUAL DINING,,,"72 Steeles Avenue West, Unit 4, Thornhill, Ontario",Canadian,35.0,Thornhill
+Danmuji,CASUAL DINING,,,"5 Glen Cameron Road Unit 7, Thornhill, ON L3T 5W2",Korean,35.0,Thornhill

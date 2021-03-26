@@ -1,0 +1,254 @@
+Name,EstablishmentType,Rating,NumReviews,Address,Cuisine,CostForTwo,City
+Salad King,CASUAL DINING,4.2,1260.0,"340 Yonge Street, Toronto M5B 1R8","Thai, Asian",30.0,Downtown Yonge
+Chipotle,FAST CASUAL,4.3,495.0,"323 Yonge Street, Toronto M5B 1R7",Tex-Mex,30.0,Downtown Yonge
+Barberian's Steakhouse And Tavern,FINE DINING,4.4,276.0,"7 Elm Street, Toronto M5G 1H1",Steak,160.0,Downtown Yonge
+7 West Cafe,CAFÉ,4.3,299.0,"7 Charles Street West, Toronto M4Y 1R4","Cafe, Italian",45.0,Downtown Yonge
+The 3 Brewers,CASUAL DINING,4.1,313.0,"275 Yonge Street, Toronto M5B 1N8","American, Bar Food",65.0,Downtown Yonge
+JOEY Eaton Centre,CASUAL DINING,4.5,264.0,"1 Dundas Street W, Toronto M5G 1Z3","Steak, Grill, Fusion",70.0,Downtown Yonge
+The Queen And Beaver Public House,CASUAL DINING,4.3,227.0,"35 Elm Street, Toronto","British, Bar Food",70.0,Downtown Yonge
+Banh Mi Boys,QUICK BITES,4.6,202.0,"399 Yonge Street, Toronto",Sandwich,25.0,Downtown Yonge
+Paramount Fine Foods,CASUAL DINING,4.0,224.0,"253 Yonge Street, Toronto M5B 1N8","Lebanese, Middle Eastern",40.0,Downtown Yonge
+Scaddabush,CASUAL DINING,4.4,162.0,"382 Yonge Street, Toronto M5B 1S8",Italian,60.0,Downtown Yonge
+Crown Princess Fine Dining,CASUAL DINING,4.1,137.0,"1033 Bay Street, Toronto","Dim Sum, Cantonese, Chinese, Asian",80.0,Downtown Yonge
+Okonomi House,CASUAL DINING,4.4,133.0,"23 Charles Street West, Toronto","Japanese, Asian",30.0,Downtown Yonge
+Ethiopian House,CASUAL DINING,4.3,181.0,"4 Irwin Avenue, Toronto M4Y 1K9","Ethiopian, African",35.0,Downtown Yonge
+Jack Astor's,CASUAL DINING,3.7,181.0,"10 Dundas East, L4, Toronto M5B 2G9",Bar Food,55.0,Downtown Yonge
+Pickle Barrel,CASUAL DINING,2.8,168.0,"312 Yonge Street, Toronto M5B 1R4","Grill, Canadian",60.0,Downtown Yonge
+Wow Sushi,CASUAL DINING,4.1,101.0,"11 Charles Street West, Toronto M4Y 1R4","Sushi, Japanese, Asian",40.0,Downtown Yonge
+Elm Tree Restaurant,CASUAL DINING,4.2,59.0,"43 Elm Street, Toronto","Mediterranean, French, European",60.0,Downtown Yonge
+Trattoria Mercatto,CASUAL DINING,3.7,120.0,"Eaton Centre, Level Three, 220 Yonge Street, Toronto",Italian,70.0,Downtown Yonge
+Spring Rolls,CASUAL DINING,3.4,148.0,"40 Dundas Street West, Toronto M5G 2C2",Asian Fusion,50.0,Downtown Yonge
+Bangkok Garden,CASUAL DINING,3.5,111.0,"18 Elm Street, Toronto M5G 1G7","Thai, Asian",50.0,Downtown Yonge
+Buffet Palace,CASUAL DINING,3.3,83.0,"361 Yonge Street, Toronto M5B 1S1",Indian,40.0,Downtown Yonge
+Sansotei Ramen,CASUAL DINING,3.9,71.0,"650 Yonge Street, Toronto M4Y 2A6",Ramen,40.0,Downtown Yonge
+Red Lobster,CASUAL DINING,3.8,133.0,20 Dundas Street West M5G 2C2,Seafood,60.0,Downtown Yonge
+Koyoi,BAR,4.1,60.0,"2 Irwin Avenue, Toronto M4Y 1K9","Japanese, Asian",70.0,Downtown Yonge
+Fran's,CASUAL DINING,3.7,236.0,"20 College Street, Toronto","Grill, Diner, Burger, American",40.0,Downtown Yonge
+Adega,CASUAL DINING,4.4,96.0,"33 Elm Street, Toronto M5G 1H1","Portuguese, Seafood",100.0,Downtown Yonge
+Eggspectation Restaurant-Café,CASUAL DINING,3.8,54.0,"Bell Trinity Square, South Tower, 20 Albert Street, Toronto M5G 2C9","Diner, American, Canadian",40.0,Downtown Yonge
+Brownstone Bistro,CASUAL DINING,3.8,118.0,"601 Yonge Street, Toronto M4Y 1Z5",Italian,75.0,Downtown Yonge
+Chatime,BEVERAGE SHOP,4.4,130.0,"132 Dundas Street West, Toronto","Bubble Tea, Beverages, Taiwanese",15.0,Downtown Yonge
+TLP Sandwich Co.,QUICK BITES,4.0,43.0,"15 Elm Street, Toronto M5G 1H1","Fast Food, Steak, Burger, Sandwich",20.0,Downtown Yonge
+Donatello,CASUAL DINING,4.1,79.0,"37 Elm Street, Toronto M5G 1H1",Italian,80.0,Downtown Yonge
+Wanda's Belgian Waffles,CAFÉ,3.2,88.0,"361 Yonge Street, Toronto","Cafe, Belgian, Desserts",30.0,Downtown Yonge
+Duke's Refresher + Bar,BAR,3.8,63.0,"382 Yonge Street, Toronto M5B 1S8",Bar Food,60.0,Downtown Yonge
+Como En Casa,QUICK BITES,4.0,65.0,"565 Yonge Street, Toronto M4Y 1Z2",Mexican,30.0,Downtown Yonge
+Asian Bowl,CASUAL DINING,3.6,80.0,"271 Yonge Street, Toronto M5B 1N8","Vietnamese, Thai, Chinese, Asian",35.0,Downtown Yonge
+Urban Herbivore,QUICK BITES,3.7,59.0,"Eaton Centre, Urban Eatery, 220 Yonge Street, Toronto M5B 2H1",Healthy Food,30.0,Downtown Yonge
+Cora's Breakfast & Lunch,CASUAL DINING,3.8,75.0,"27 Carlton Street, Toronto","Diner, Canadian",35.0,Downtown Yonge
+Ginger,QUICK BITES,3.9,87.0,"695 Yonge Street, Toronto",Vietnamese,25.0,Downtown Yonge
+Kimchi Korea House,CASUAL DINING,3.8,60.0,"149 Dundas Street West, Toronto M5G 1C6",Korean,45.0,Downtown Yonge
+Tokyo Grill,CASUAL DINING,4.0,75.0,"582 Yonge Street, Toronto M4Y 1Z3",Japanese,40.0,Downtown Yonge
+Jackson's Burger,QUICK BITES,3.8,57.0,"38 Elm St, Toronto, ON M5G 2K5","Burger, Fast Food",25.0,Downtown Yonge
+Coach House,CASUAL DINING,4.1,63.0,"574 Yonge Street, Toronto",Diner,30.0,Downtown Yonge
+The Captain’s Boil,CASUAL DINING,3.2,32.0,476 Yonge Street,"Cajun, Seafood",60.0,Downtown Yonge
+Tokyo Sushi,CASUAL DINING,4.0,60.0,"33 Saint Joseph Street, Toronto","Sushi, Japanese, Asian",70.0,Downtown Yonge
+Not Just Noodles,CASUAL DINING,3.7,84.0,"570 Yonge Street, Toronto","Chinese, Thai, Vietnamese, Asian",35.0,Downtown Yonge
+Burrito Bandidos,QUICK BITES,4.0,72.0,"496 Yonge Street, Toronto M4Y 1A8","Fast Food, Mexican",25.0,Downtown Yonge
+Pogue Mahone,CASUAL DINING,3.6,65.0,"College Park, 777 Bay Street, Toronto M5G 2C8","Irish, Bar Food",60.0,Downtown Yonge
+Big Smoke Burger,QUICK BITES,4.0,51.0,"Eaton Centre, Urban Eatery, 220 Yonge Street, Toronto M5B 2L7","Burger, Fast Food",25.0,Downtown Yonge
+Hot Star Large Fried Chicken,QUICK BITES,2.9,27.0,"374A Yonge Street Toronto,",Taiwanese,40.0,Downtown Yonge
+Aji Sai Plus,CASUAL DINING,2.9,55.0,"637 Yonge Street, Toronto M4Y 1Z5","Sushi, Japanese, Asian",40.0,Downtown Yonge
+Darvish,CASUAL DINING,3.9,47.0,"508 Yonge Street, Toronto M4Y 1X9",Iranian,65.0,Downtown Yonge
+Ritz Caribbean Foods,QUICK BITES,3.9,53.0,"450 Yonge Street, Toronto M4Y 1W9","Caribbean, Jamaican",30.0,Downtown Yonge
+Shark Club - Sports Bar & Grill,CASUAL DINING,3.0,58.0,"10 Dundas East, L3, Toronto M5B 2G9","Bar Food, Grill",75.0,Downtown Yonge
+Oro Restaurant,CASUAL DINING,3.7,57.0,"45 Elm Street, Toronto M5G 1H1",Italian,80.0,Downtown Yonge
+Sushi Sky,CASUAL DINING,3.4,77.0,"478 Yonge Street, Toronto M4Y 1X5","Sushi, Japanese, Asian",30.0,Downtown Yonge
+Basil Box,QUICK BITES,3.6,35.0,"Ryerson Student Learning Centre, 351 Yonge Street, Toronto M5B 1S1","Vietnamese, Asian",,Downtown Yonge
+Firkin On Yonge,CASUAL DINING,3.0,39.0,"207 Yonge Street, Toronto M5B 1M4",Bar Food,65.0,Downtown Yonge
+Patties Express,QUICK BITES,3.5,36.0,"4 Elm Street, Toronto M5G 1G7",Jamaican,15.0,Downtown Yonge
+Duke Of Richmond,CASUAL DINING,3.7,44.0,"20 Queen Street West, Toronto M5H 3R3","British, Bar Food",65.0,Downtown Yonge
+Avocado Sushi,CASUAL DINING,3.6,34.0,"1105 Bay Street, Toronto M5S 2B3","Sushi, Japanese, Asian",35.0,Downtown Yonge
+Daio,CASUAL DINING,3.9,40.0,"45 Carlton Street, Unit 5, Toronto M5B 2H9","Sushi, Japanese, Asian",55.0,Downtown Yonge
+Colaba Junction,CASUAL DINING,2.9,26.0,"801 Bay Street, Toronto M5S 1Y9",Indian,25.0,Downtown Yonge
+deKEFIR,DESSERT PARLOR,3.9,27.0,"Bay Adelaide Centre, 333 Bay Street, THE PATH, Toronto M5H 2R2","Frozen Yogurt, Desserts",20.0,Downtown Yonge
+Miss Korea,BAR,3.5,28.0,"687 Yonge Street, Toronto M4Y 2B2",Korean,60.0,Downtown Yonge
+Roti Roll,QUICK BITES,3.8,21.0,"361 Yonge Street, Toronto M5B 1S1",Caribbean,25.0,Downtown Yonge
+Bar Burrito,QUICK BITES,3.5,41.0,"544 Yonge Street, Toronto",Tex-Mex,25.0,Downtown Yonge
+St. Louis Bar and Grill,CASUAL DINING,3.4,47.0,"595 Bay Street, #A09, Toronto M5G 2C2","Bar Food, Grill",40.0,Downtown Yonge
+Amaya Express,QUICK BITES,2.9,36.0,"Eaton Centre, Urban Eatery, 220 Yonge Street, Toronto M5B 2L7",Indian,40.0,Downtown Yonge
+W Burger Bar,CASUAL DINING,2.9,27.0,"10 College Street, Toronto M5G 1K2",Burger,30.0,Downtown Yonge
+Golden Griddle,CASUAL DINING,2.7,47.0,"45 Carlton Street, Toronto M5B2H9",Canadian,40.0,Downtown Yonge
+Popeyes,FAST CASUAL,2.9,43.0,"273 Yonge Street, Toronto M5B 1N8",Fast Food,25.0,Downtown Yonge
+Sushi Club,CASUAL DINING,2.8,41.0,"41 Charles Street West, Toronto M4Y 2R4","Sushi, Japanese, Asian",40.0,Downtown Yonge
+California Sandwiches,QUICK BITES,3.1,27.0,"435 Yonge Street, Toronto",Sandwich,20.0,Downtown Yonge
+Slab Burgers,QUICK BITES,3.9,32.0,"47 Charles Street W, Toronto M4Y 2R4","Fast Food, Burger",30.0,Downtown Yonge
+Sushi Box,CASUAL DINING,3.9,23.0,"891 Bay Street, Toronto M5S 3K5","Sushi, Japanese, Asian",35.0,Downtown Yonge
+Sweet Lulu,CASUAL DINING,3.7,27.0,"350 Bay Street, Toronto M5H2S6","Thai, Chinese, Asian",25.0,Downtown Yonge
+Thai On Yonge,CASUAL DINING,3.3,15.0,"370 Yonge Street, Second Floor, Toronto M5B",Thai,35.0,Downtown Yonge
+The Wickson Social,CASUAL DINING,3.6,8.0,"5 St Joseph Street, Toronto M4Y 1Z3","Bar Food, Canadian",60.0,Downtown Yonge
+Infuse Cafe,CAFÉ,3.5,19.0,"354 Yonge Street, Toronto M5B 1S5",Cafe,10.0,Downtown Yonge
+Denny's,CASUAL DINING,2.7,25.0,121 Dundas Street West,"Diner, Breakfast",30.0,Downtown Yonge
+Marche Restaurant,CASUAL DINING,3.3,17.0,"Bay Adelaide Centre, 333 Bay Street, The PATH, Toronto M5H 2R2",American,50.0,Downtown Yonge
+Amato Pizza,QUICK BITES,3.5,41.0,"429 Yonge Street, Toronto","Pizza, Fast Food",25.0,Downtown Yonge
+The Halal Guys,CASUAL DINING,3.0,21.0,"563 Yonge St, Toronto M4Y 1Z2",Middle Eastern,25.0,Downtown Yonge
+Szechuan Express,QUICK BITES,2.8,26.0,"Eaton Centre, Urban Eatery, 220 Yonge Street, Toronto M5B 2L7",Chinese,20.0,Downtown Yonge
+Jimmy The Greek,QUICK BITES,3.3,32.0,"Eaton Centre, Urban Eatery, 220 Yonge Street, Toronto M5B 2H6",Greek,25.0,Downtown Yonge
+Mick E Fynn's,BAR,3.4,34.0,"45 Carlton Street, Toronto M5B 2A1",Bar Food,65.0,Downtown Yonge
+Trios Bistro - Toronto Marriott Downtown Eaton...,CASUAL DINING,3.8,28.0,"Toronto Marriott Downtown Eaton Centre Hotel, 525 Bay Street, Toronto M5G 2L2","Canadian, Grill, Breakfast",70.0,Downtown Yonge
+Foodwares Cafe,CAFÉ,3.2,26.0,"Hudson's Bay Company, Lower Level, 176 Yonge Street, Toronto M5H1A1",Cafe,30.0,Downtown Yonge
+Sushi Garden,CASUAL DINING,3.2,24.0,"3 Wellesley Street, Toronto","Sushi, Japanese, Asian",35.0,Downtown Yonge
+The Boil Bar,CASUAL DINING,,,"664 Yonge Street, Toronto M4Y 2A6",Seafood,25.0,Downtown Yonge
+Sushi Tower,CASUAL DINING,3.7,28.0,"374A Yonge Street, Toronto","Sushi, Japanese, Asian",40.0,Downtown Yonge
+McDonald's,QUICK BITES,3.2,25.0,"Eaton Centre, Urban Eatery, 220 Yonge Street, Toronto M5B 2L9",Fast Food,25.0,Downtown Yonge
+Rex Bar & Kitchen,CASUAL DINING,3.3,26.0,"635 Bay Street, Toronto",Bar Food,50.0,Downtown Yonge
+Coco Fresh Juice & Tea,BEVERAGE SHOP,3.5,9.0,648 Yonge Street,"Bubble Tea, Beverages",15.0,Downtown Yonge
+Upper Deck by Fran's,CASUAL DINING,3.3,9.0,"2-20 College Street, Toronto M5G 1K2",American,,Downtown Yonge
+Burgs Bar & Grill,CASUAL DINING,3.4,22.0,"730 Yonge Street, Toronto M4Y 2B7","Canadian, Bar Food",50.0,Downtown Yonge
+Wild Wing,CASUAL DINING,3.2,25.0,"431 Yonge Street, Toronto",Bar Food,50.0,Downtown Yonge
+Milo's Pita,Other,3.5,18.0,"10 Dundas East, L3, Toronto M5B 2G9","Fast Food, Lebanese, Mediterranean",25.0,Downtown Yonge
+Aroma Espresso Bar,CAFÉ,3.3,18.0,"1110 Bay Street, Toronto, Toronto",Cafe,25.0,Downtown Yonge
+Ruby Thai,QUICK BITES,2.7,21.0,"Eaton Centre, Urban Eatery, 220 Yonge Street, Toronto M5B 2L9",Thai,25.0,Downtown Yonge
+Liberty Noodle,QUICK BITES,2.5,25.0,"Eaton Centre, Urban Eatery, 220 Yonge Street, Toronto M5B 2H1","Japanese, Asian, Fast Food",20.0,Downtown Yonge
+Frascati,CASUAL DINING,3.2,24.0,"13 Elm Street, Toronto M5G 1H1",Italian,80.0,Downtown Yonge
+ShiShawarma,QUICK BITES,3.8,22.0,"599 Yonge Street, Toronto M4Y 1Z4","Fast Food, Middle Eastern",25.0,Downtown Yonge
+Ho Jan,CASUAL DINING,3.6,20.0,"45 Carlton Street, Toronto","Chinese, Asian",40.0,Downtown Yonge
+Cafe M,CAFÉ,3.6,20.0,"672 Yonge Street, Toronto M4Y 2A6",Cafe,25.0,Downtown Yonge
+Ginger,QUICK BITES,3.1,21.0,"355 1/2 Yonge Street, Toronto M5B 1S1",Vietnamese,30.0,Downtown Yonge
+Ravi Soups,QUICK BITES,3.4,13.0,"9 Charles Street West, Toronto","Sri Lankan, Healthy Food",35.0,Downtown Yonge
+Villa Madina,QUICK BITES,2.9,19.0,"372 Yonge Street, Toronto M5B 1S6",Mediterranean,25.0,Downtown Yonge
+Swiss Chalet,CASUAL DINING,3.5,24.0,"362 Yonge Street, Toronto M5B 1S5","Canadian, Grill, Beverages",40.0,Downtown Yonge
+Falafel House,QUICK BITES,3.4,18.0,"760 Yonge Street, Toronto M4Y 2B6",Middle Eastern,20.0,Downtown Yonge
+South St. Burger,QUICK BITES,3.0,13.0,"360 Bay Street, Toronto, ON, M5H 2V6","Fast Food, Burger",25.0,Downtown Yonge
+Panago,QUICK BITES,3.9,47.0,"44 Gerrard Street West, Toronto M5B 2K3","Pizza, Fast Food",30.0,Downtown Yonge
+Beijing Dumplings,CASUAL DINING,3.5,15.0,"66 Edward Street, Toronto M5G 1C9","Northern Chinese, Chinese, Asian",35.0,Downtown Yonge
+Tim Hortons,CAFÉ,2.0,31.0,595 Bay Street M5G 1M6,"American, Donuts, Desserts",20.0,Downtown Yonge
+Ali Baba's,QUICK BITES,3.4,10.0,"357 Yonge Street, Toronto",Middle Eastern,25.0,Downtown Yonge
+Chachago,BEVERAGE SHOP,3.3,10.0,"3 Elm Street, Toronto M5G 1H1",Bubble Tea,15.0,Downtown Yonge
+Sbarro,QUICK BITES,2.9,19.0,"Eaton Centre, Urban Eatery, 220 Yonge Street, Toronto M5B 2H1","Pizza, Fast Food",25.0,Downtown Yonge
+Sushi-Q,QUICK BITES,3.1,15.0,"Eaton Centre, Urban Eatery, 220 Yonge Street, Toronto M5B 2L9",Sushi,25.0,Downtown Yonge
+New York Fries,QUICK BITES,3.7,18.0,"Eaton Centre, Urban Eatery, 220 Yonge Street, Toronto M5B 2H6",Fast Food,15.0,Downtown Yonge
+Bourbon St. Grill,QUICK BITES,3.4,16.0,"Eaton Centre, Urban Eatery, 220 Yonge Street, Toronto","Cajun, Southern",20.0,Downtown Yonge
+Hangry Burger,CASUAL DINING,3.0,9.0,435 Yonge Street M5B 1T3,Burger,,Downtown Yonge
+Dan Ji,CASUAL DINING,3.0,8.0,"590 Yonge Street, Toronto M4Y 1Z3","Korean, Japanese, Asian",30.0,Downtown Yonge
+The Poke Box,CASUAL DINING,3.7,5.0,"36 Toronto Street, Toronto M5C 2C5","Hawaiian, Seafood",25.0,Downtown Yonge
+California Thai,Other,3.0,12.0,"10 Dundas East, L3, Toronto M5B 2G9","Fast Food, Thai, Asian",25.0,Downtown Yonge
+VIP Lounge & Billiards Club,BAR,3.7,10.0,"385 Yonge Street, Lower Level, Toronto M5B 1S1",Bar Food,40.0,Downtown Yonge
+Guschlbauer,BAKERY,3.5,5.0,"690 Yonge Street, Toronto, Downtown Yonge, Toronto M4Y 2A6","Bakery, Desserts",15.0,Downtown Yonge
+Vino Rosso,CASUAL DINING,3.2,19.0,"955 Bay Street, Toronto M5S 3C4",Italian,65.0,Downtown Yonge
+Hendriks Restaurant & Bar,BAR,3.0,6.0,"218 Yonge St, Toronto, ON M5B 2H6",American,50.0,Downtown Yonge
+Versus Coffee,CAFÉ,3.5,8.0,"70 Adelaide Street E, Toronto M5C 2R6","Cafe, Coffee and Tea",15.0,Downtown Yonge
+"The Captain's Boil, Little Italy",CASUAL DINING,3.4,6.0,"671 College Street, Toronto",Seafood,,Downtown Yonge
+Green Grotto Tea Room,QUICK BITES,3.0,7.0,"35 Saint Joesph, Toronto M4Y 1J8","Bubble Tea, Cafe, Desserts",30.0,Downtown Yonge
+Hero Certified Burgers,QUICK BITES,3.6,16.0,"987 Bay Street, Toronto","Burger, Sandwich",25.0,Downtown Yonge
+P'Karos,CAFÉ,3.4,7.0,"645 Yonge Street, Toronto M4Y 1Z9",Cafe,40.0,Downtown Yonge
+Harvey's,Other,3.0,14.0,"10 Dundas Street East Unit #318, Toronto M5B 2L6","Fast Food, Canadian, Burger",25.0,Downtown Yonge
+Thai Express,QUICK BITES,3.8,19.0,"Eaton Centre, Urban Eatery, 220 Yonge Street, Toronto M5B 2H6",Thai,25.0,Downtown Yonge
+ShareTea,BEVERAGE SHOP,3.1,5.0,"576 Yonge Street, Toronto M4Y 1Z2","Bubble Tea, Beverages, Taiwanese",15.0,Downtown Yonge
+Pita Way,QUICK BITES,3.0,15.0,"45 Carlton Street, Unit 4, Toronto","Fast Food, Middle Eastern",25.0,Downtown Yonge
+Booster Juice,BEVERAGE SHOP,2.9,13.0,"Atrium On Bay, Unit F07, 20 Dundas Street West, The PATH, Toronto M5G 2C2","Juices, Beverages, Healthy Food",20.0,Downtown Yonge
+Crepe de Licious,CAFÉ,3.2,10.0,"Eaton Centre, Urban Eatery, 220 Yonge Street, Toronto M5B 2H1","Cafe, Desserts",20.0,Downtown Yonge
+Pita Pure House,QUICK BITES,3.6,12.0,"717 Bay Street, Toronto",Middle Eastern,20.0,Downtown Yonge
+Taco Bell,QUICK BITES,2.4,11.0,"College Park, Food Court, 444 Yonge Street, The PATH, Toronto M5B 2H4","Fast Food, Mexican",20.0,Downtown Yonge
+Diners Corner,CASUAL DINING,3.4,11.0,"51 St Nicholas Street, Toronto M4Y 1W6","West Indian, Caribbean",30.0,Downtown Yonge
+Duck,QUICK BITES,3.3,13.0,"College Park, Food Court, 444 Yonge Street, The PATH, Toronto M5B 2H4","Cantonese, Chinese",25.0,Downtown Yonge
+Market Garden - Chelsea Hotel,CAFÉ,3.5,10.0,"Chelsea Hotel, 33 Gerrard Street West, Toronto M5G 1Z4","Healthy Food, Cafe, Fast Food",40.0,Downtown Yonge
+Mullins,BAR,2.9,13.0,"1033 Bay Street, Toronto M4W 1A7",Bar Food,55.0,Downtown Yonge
+Second Cup,CAFÉ,3.1,10.0,"730 Yonge Street, Toronto M4Y 2B7","Cafe, Coffee and Tea, Frozen Yogurt",10.0,Downtown Yonge
+The Carlton,CASUAL DINING,2.8,12.0,"Holiday Inn Toronto Downtown Centre, 30 Carlton Street, Toronto M5B2E9",Canadian,60.0,Downtown Yonge
+Freshii,QUICK BITES,3.1,13.0,"23 College Street, Toronto M5G",Healthy Food,30.0,Downtown Yonge
+Fat Bastard Burrito,QUICK BITES,3.4,14.0,"634 Yonge Street, Toronto M4Y 1Z8","Mexican, Fast Food",25.0,Downtown Yonge
+Teriyaki Experience,QUICK BITES,3.4,13.0,"Eaton Centre, Urban Eatery, 220 Yonge Street, Toronto M5B 2H1",Japanese,20.0,Downtown Yonge
+Alio,CASUAL DINING,3.1,12.0,"108 Dundas Street West, Toronto M5G 1C3",Italian,70.0,Downtown Yonge
+Slice of New York,QUICK BITES,3.4,7.0,"64 Edward Street, Toronto","Pizza, Fast Food",30.0,Downtown Yonge
+Starbucks,CAFÉ,3.2,13.0,"10 Dundas East, L1, Toronto M5B 2G4",Cafe,20.0,Downtown Yonge
+Godiva Chocolatier,DESSERT PARLOR,3.4,9.0,"Eaton Centre, Level Two, 220 Yonge Street, Toronto",Desserts,25.0,Downtown Yonge
+Sushi & BBbop,QUICK BITES,3.1,10.0,"Aura Food Court, 384 Yonge Street, The PATH, Toronto M5B 1S8","Sushi, Japanese, Korean, Asian",30.0,Downtown Yonge
+Mrs. Fields,BAKERY,3.5,15.0,"Eaton Centre, Level One, 220 Yonge Street, Toronto M5B 2H6",Desserts,15.0,Downtown Yonge
+T Bar Chelsea Hotel,Other,2.9,10.0,"Chelsea Hotel, Toronto, 33 Gerrard Street West, Toronto M5G 1Z4","Indian, Burger",40.0,Downtown Yonge
+SÜÜP Health Bar,QUICK BITES,,,"382 Yonge Street, Unit 1, Toronto M5B 1S8","Fusion, Salad, Vegetarian, Healthy Food",20.0,Downtown Yonge
+Dessert Guru,QUICK BITES,,,"29B St. Joseph Street, Toronto M4Y","Desserts, Chinese, Asian",25.0,Downtown Yonge
+Subway,QUICK BITES,2.1,18.0,"Atrium On Bay, 595 Bay Street, The PATH, Toronto M5G 2C2",Fast Food,20.0,Downtown Yonge
+OPA! Of Greece,Other,2.7,11.0,"10 Dundas East, L3, Toronto M5B",Greek,25.0,Downtown Yonge
+Pizzaiolo,QUICK BITES,3.5,12.0,"550 Yonge Street, Toronto M4Y 1Y8","Pizza, Fast Food",30.0,Downtown Yonge
+Pretzel Maker,QUICK BITES,3.6,13.0,"10 Dundas East, B1, Toronto M5B 2L6",Fast Food,10.0,Downtown Yonge
+Butter Baker,BAKERY,,,"120 Dundas Street West, Toronto, ON M5G 1C3","Bakery, Desserts",20.0,Downtown Yonge
+Wendy's,FAST FOOD,3.5,11.0,475 Yonge Street,"Fast Food, Burger",20.0,Downtown Yonge
+Yogen Früz,DESSERT PARLOR,2.7,8.0,"Eaton Centre, Level One, 220 Yonge Street, Toronto M5B 2H1","Frozen Yogurt, Desserts",15.0,Downtown Yonge
+Fusia Asian Kitchen,QUICK BITES,3.0,9.0,"Atrium on Bay, 595 Bay Street, The PATH, Toronto M5G 2C2",Chinese,25.0,Downtown Yonge
+Aura Sushi,QUICK BITES,2.7,11.0,"The Shops At Aura, 384 Yonge Street, The PATH, Toronto","Sushi, Japanese, Asian",35.0,Downtown Yonge
+The Original San Francesco,QUICK BITES,3.1,5.0,"736 Bay Street, Downtown Yonge, Toronto",Italian,25.0,Downtown Yonge
+650 Cafe Bistro,CASUAL DINING,2.9,7.0,"650 Bay Street, Toronto M5G1M8","Cafe, Greek, Mediterranean",35.0,Downtown Yonge
+Feta & Olives / Yogen Früz,QUICK BITES,3.5,11.0,"Atrium On Bay, 595 Bay Street, The PATH, Toronto M5G 2C2","Fast Food, Mediterranean",25.0,Downtown Yonge
+KFC,QUICK BITES,2.6,11.0,"College Park, Food Court, 444 Yonge Street, The PATH, Toronto M5B 2H4",Fast Food,25.0,Downtown Yonge
+Yummy Zone,QUICK BITES,,,"895 Bay Street, Toronto","Taiwanese, Beverages",25.0,Downtown Yonge
+Fresh Start,CAFÉ,3.4,6.0,"655 Bay Street, Toronto M5G",Cafe,25.0,Downtown Yonge
+Baskin Robbins,DESSERT PARLOR,2.4,8.0,"Eaton Centre, Level One, 220 Yonge Street, Toronto M5B 2H6","Ice Cream, Desserts",15.0,Downtown Yonge
+Real Fruit Bubble Tea,BEVERAGE SHOP,3.9,4.0,"10 Dundas East, L3, Toronto M5B 2G9",Bubble Tea,15.0,Downtown Yonge
+Fit For Life,QUICK BITES,3.2,9.0,"Atrium On Bay, 595 Bay Street, The PATH, Toronto","Healthy Food, Fast Food",25.0,Downtown Yonge
+Thirty Bar & Lounge,BAR,3.3,9.0,"Holiday Inn Toronto Downtown Centre, 30 Carlton Street, Toronto M5B 2E9",Bar Food,40.0,Downtown Yonge
+Presse Cafe,CAFÉ,3.0,9.0,"875 Bay Street, Toronto M5S 3K6",Cafe,25.0,Downtown Yonge
+Extreme Pita,QUICK BITES,2.7,9.0,"Eaton Centre, Urban Eatery, 220 Yonge Street, Toronto M5B 2L7","Fast Food, Mediterranean",25.0,Downtown Yonge
+Baroli Caffe,CAFÉ,3.6,10.0,"Eaton Centre, Level Two, 220 Yonge Street, Toronto","Cafe, Breakfast",20.0,Downtown Yonge
+Kin-Kin Bakery & Bubble Tea,BAKERY,,,"Atrium On Bay, 595 Bay Street, The PATH, Toronto","Bakery, Bubble Tea, Beverages",15.0,Downtown Yonge
+KaKa All You Can Eat,CASUAL DINING,,,"655 Bay Street Toronto, ON M5G 1Z4",Japanese,25.0,Downtown Yonge
+Pizza Pizza,QUICK BITES,2.4,8.0,"346 Yonge Street, Toronto M5B 1R8","Pizza, Fast Food",25.0,Downtown Yonge
+7 Baker,BAKERY,,,"3 Wellesley Street West, Toronto, ON M4Y 1E8",Bakery,15.0,Downtown Yonge
+WA Bar,BAR,2.8,8.0,"3 Isabella Street, Toronto","Bar Food, Korean, Asian",70.0,Downtown Yonge
+Omni Eatery,CAFÉ,2.5,7.0,"24 Wellesley Street West, Toronto M4Y 2X6","Asian Fusion, Cafe",20.0,Downtown Yonge
+Vegan Bear,FAST CASUAL,,,"335 Yonge St, Toronto, ON M5B 1R7",Fast Food,20.0,Downtown Yonge
+Froshberg Gelato,DESSERT PARLOR,2.3,7.0,"Eaton Centre, Urban Eatery, 220 Yonge Street, Toronto M5B 2H1","Ice Cream, Desserts",15.0,Downtown Yonge
+KATANA on Bay,CASUAL DINING,,,"333 Bay Street, Toronto M5H 2R2","Asian Fusion, Sushi",75.0,Downtown Yonge
+Bar Verde,CASUAL DINING,,,260 Yonge Street M5B 2L9,American,45.0,Downtown Yonge
+Mr. Sub,QUICK BITES,2.5,6.0,"494 Yonge Street, Toronto M4Y 1X5",Fast Food,25.0,Downtown Yonge
+Timothy's,CAFÉ,2.5,6.0,"483 Bay Street, Toronto M5G 2C9",Cafe,25.0,Downtown Yonge
+KaKa All You Can Eat,CASUAL DINING,,,"655 Bay Street Suite 5, Toronto, ON M5G 2K4",Japanese,45.0,Downtown Yonge
+Tandori,QUICK BITES,2.6,5.0,"College Park, 777 Bay Street, Toronto M5G",Indian,35.0,Downtown Yonge
+China King,QUICK BITES,2.6,5.0,"College Park, Food Court, 444 Yonge Street, The PATH, Toronto","Chinese, Asian",20.0,Downtown Yonge
+City Zen Sushi,QUICK BITES,2.5,6.0,"Richtree Market, Eaton Centre, Level One, 14 Queen Street West, Toronto","Sushi, Japanese, Asian",25.0,Downtown Yonge
+Rolltation,CAFÉ,,,"758 Yonge St, Downtown Yonge, Toronto","Asian, Fusion, American",20.0,Downtown Yonge
+Caribbean Queen,Other,2.8,5.0,"10 Dundas East, L3, Toronto",Caribbean,20.0,Downtown Yonge
+Cultures,QUICK BITES,3.6,4.0,"College Park, 777 Bay Street, Toronto","Healthy Food, Sandwich",25.0,Downtown Yonge
+Thai Bowl,QUICK BITES,2.6,5.0,"College Park, Food Court, 444 Yonge Street, The PATH, Toronto","Thai, Asian",20.0,Downtown Yonge
+Labothéry Inc,CAFÉ,,,"717 Bay Street Unit D, Toronto, ON M5G 2J9",Cafe,20.0,Downtown Yonge
+The Bagel Stop,CAFÉ,,,"686 Bay Street, Toronto",Cafe,15.0,Downtown Yonge
+Bar+ Karaoke Lounge,BAR,,,"360 Yonge Street, Toronto M5B 1S5",Bar Food,50.0,Downtown Yonge
+Ramen Isshin,CASUAL DINING,,,"111 Richmond Street West, Downtown Yonge, Toronto","Ramen, Japanese",45.0,Downtown Yonge
+Ooshee Mediterranean Oven,FAST CASUAL,,,"9 Charles St W, Toronto, ON M4Y 1R4, Canada",Lebanese,20.0,Downtown Yonge
+Zeytouna Restaurant,CASUAL DINING,,,"171 Dundas Street W, Toronto M5G 1C7",Mediterranean,25.0,Downtown Yonge
+Prince Edward's Fries,Other,,,Location Varies,Fast Food,,Downtown Yonge
+Argila Cafe,CAFÉ,,,"361 Yonge Street, Lower Level, Toronto","Cafe, Middle Eastern",25.0,Downtown Yonge
+Bubblicious,BEVERAGE SHOP,,,"372 Yonge Street, Toronto","Juices, Beverages, Tea",15.0,Downtown Yonge
+Freshwest Grill,QUICK BITES,,,660 Bay Street M5G,"Tex-Mex, Southwestern",20.0,Downtown Yonge
+Striker,BAR,,,"31 St. Joseph Street, Toronto M4Y 1J8","Bar Food, Canadian",30.0,Downtown Yonge
+Fast Fresh Foods,QUICK BITES,,,"660 Bay Street, Toronto",Healthy Food,25.0,Downtown Yonge
+Krispy kreme,QUICK BITES,,,"164 McCaul Street, Toronto M5T 1W3","Fast Food, Donuts, Coffee and Tea",20.0,Downtown Yonge
+Foundation Bar,BAR,,,"Richtree Market, Eaton Centre, Level One, 14 Queen Street, Toronto",Bar Food,30.0,Downtown Yonge
+David's Tea,CAFÉ,,,"220 Yonge Street, Toronto M5B 2H1","Tea, Beverages",15.0,Downtown Yonge
+Druxy's Famous Deli,QUICK BITES,,,"College Park, 777 Bay Street, The PATH, Toronto","Fast Food, Sandwich",25.0,Downtown Yonge
+The Good Son Restaurant,CASUAL DINING,,,"111 Richmond St W, Downtown Yonge, Toronto","Canadian, European",60.0,Downtown Yonge
+GP8 Juice Bar,BEVERAGE SHOP,,,"5 Isabella Street, Toronto M4Y1M7","Juices, Healthy Food, Beverages",15.0,Downtown Yonge
+Dagu Rice Noodles,CASUAL DINING,,,"115 Dundas St W, Toronto, ON M6K 1T7",Chinese,25.0,Downtown Yonge
+Bubble Tease,BEVERAGE SHOP,,,"570 Bay Street, Toronto","Bubble Tea, Beverages",15.0,Downtown Yonge
+Teavana,BEVERAGE SHOP,,,"Eaton Centre, Level One, 220 Yonge Street, Toronto","Tea, Beverages",20.0,Downtown Yonge
+Kernels Popcorn,QUICK BITES,,,"Eaton Centre, Level One, 220 Yonge Street, Toronto",Fast Food,15.0,Downtown Yonge
+Nordstrom Ebar Artisan Coffee,CAFÉ,,,260 Yonge Street M5B 2L9,Cafe,10.0,Downtown Yonge
+Tiffany Cafe,CAFÉ,,,"648 Yonge Street, Toronto M4Y 2A6","Cafe, Asian",20.0,Downtown Yonge
+Poptopia / Yoyo's,DESSERT PARLOR,,,"10 Dundas East, L1, Toronto M5B","Desserts, Frozen Yogurt",15.0,Downtown Yonge
+Tasty's Caribbean Cuisine,QUICK BITES,,,"405 Spadina Avenue, Toronto, ON M5T 2G6",Caribbean,15.0,Downtown Yonge
+Resto Boemo,FAST CASUAL,,,"111 Richmond St W, Downtown Yonge, Toronto",Canadian,40.0,Downtown Yonge
+Hibiscus,CAFÉ,,,"111 Richmond St W, Downtown Yonge, Toronto",Cafe,30.0,Downtown Yonge
+Cherry Street Bar-B-Que,CASUAL DINING,,,"111 Richmond St. West, Downtown Yonge, Toronto",BBQ,30.0,Downtown Yonge
+Coffee Court,QUICK BITES,,,"60 Queen Street West, Toronto M5H 2M3",Cafe,10.0,Downtown Yonge
+Nutbar,CAFÉ,,,"111 Richmond St W, Downtown Yonge, Toronto",Cafe,30.0,Downtown Yonge
+Colibri,CASUAL DINING,,,"111 Richmond St W, Downtown Yonge, Toronto",Mexican,45.0,Downtown Yonge
+Hero Certified Burgers,FAST CASUAL,,,"100 Queen Street West M5H 2N2, Toronto, Downtown Yonge, Toronto","Fast Food, Burger",15.0,Downtown Yonge
+Pizza Nova,QUICK BITES,,,"977 Bay Street, Toronto M5S 3C4","Pizza, Fast Food",30.0,Downtown Yonge
+Six O Five,BAR,,,"605 Yonge Street, Toronto M4Y 1Z5",Bar Food,,Downtown Yonge
+Habitant,CASUAL DINING,,,260 Yonge Street M5B 2L9,"American, Tapas",45.0,Downtown Yonge
+Oh My Gyro,QUICK BITES,,,"155 John Street, Toronto, ON M5V 2Z5",Fast Food,15.0,Downtown Yonge
+Salus Fresh Foods Inc.,QUICK BITES,,,"25 Carlton Street, Toronto, ON M5B 1L4",Healthy Food,20.0,Downtown Yonge
+Thai Fantasy,CASUAL DINING,,,"578 Yonge Street, Toronto, ON M4Y 1Z3",Thai,35.0,Downtown Yonge
+King Shisha Lounge,CAFÉ,,,"112 Dundas St W, Downtown Yonge, Toronto",Cafe,25.0,Downtown Yonge
+Bar Reyna,CASUAL DINING,,,"111 Richmond St W, Downtown Yonge, Toronto",Mediterranean,30.0,Downtown Yonge
+Tim Hortons,CAFÉ,,,218 Yonge Street,"Cafe, Donuts",20.0,Downtown Yonge
+Second Cup Coffee Co. featuring Pinkberry Frozen Yogurt,Other,,,1000 Bay Street Unit 101,Coffee and Tea,15.0,Downtown Yonge
+Shish Kebab,CASUAL DINING,,,Opening Soon,Middle Eastern,40.0,Downtown Yonge
+Zeytouna,CASUAL DINING,,,"10 Dundas Street E, Suite 707, Toronto M5B 0A1",Mediterranean,25.0,Downtown Yonge
+Druxy's Famous Deli,QUICK BITES,,,"777 Bay St, Toronto M5G 2C8",Canadian,25.0,Downtown Yonge
+Holy Chuck,QUICK BITES,,,"586 Yonge Street, Toronto, ON M4Y 1Z3","Burger, Fast Food",15.0,Downtown Yonge
+Mövenpick Cafe,CAFÉ,,,"42 Yonge Street, Downtown Yonge, Toronto",Cafe,20.0,Downtown Yonge
+Gogi Bap,QUICK BITES,,,"946 Yonge St, Downtown Yonge, Toronto",Korean,20.0,Downtown Yonge
+Tsujiri Patisserie,BAKERY,,,"596 Yonge Street, Toronto, ON M4Y 1Z3","Japanese, Bakery, Desserts",20.0,Downtown Yonge
+DaiLo,CASUAL DINING,,,"111 Richmond St W, Downtown Yonge, Toronto","Asian, Chinese",70.0,Downtown Yonge
+Little Khao,CASUAL DINING,,,"111 Richmond St W, Downtown Yonge, Toronto",Thai,15.0,Downtown Yonge

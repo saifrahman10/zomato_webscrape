@@ -1,0 +1,518 @@
+Name,EstablishmentType,Rating,NumReviews,Address,Cuisine,CostForTwo,City
+Tandoori Flame,CASUAL DINING,4.0,247.0,"8150 Dixie Road, Brampton","North Indian, Indian",35.0,Brampton
+Brar's Sweets & Restaurant,CASUAL DINING,4.3,181.0,"199 Advance Boulevard, Unit 11, Brampton L6T 4N2",Indian,35.0,Brampton
+168 Sushi Japan Buffet,CASUAL DINING,4.2,201.0,"168 Kennedy Rd S, Brampton L6W3G6","Japanese, Sushi",80.0,Brampton
+Spoonful,CASUAL DINING,3.8,115.0,"499 Main Street South, Brampton L6Y 1N7","Chinese, Japanese, Thai, Canadian",55.0,Brampton
+Mandarin Restaurant - Brampton,CASUAL DINING,4.3,151.0,238 Biscayne Crescent L6W 4S1,"Chinese, Asian, Canadian",60.0,Brampton
+Sushi House,CASUAL DINING,4.4,153.0,"135 Main Street North, Brampton L6X 1M9","Sushi, Japanese, Asian",30.0,Brampton
+Burrito Boyz,QUICK BITES,4.7,165.0,"210 Queen Street E, Brampton L6V 1B7","Mexican, Fast Food",25.0,Brampton
+Khazana,CASUAL DINING,3.1,68.0,"9121 Airport Road, Brampton L6S 0B8",Indian,80.0,Brampton
+Wok of Fame,CASUAL DINING,3.6,137.0,"7700 Hurontario Street, Brampton","Chinese, Asian",65.0,Brampton
+La Cakery,BAKERY,3.3,32.0,"8975 McLaughlin Road, Brampton L6Y 0Z6",Bakery,20.0,Brampton
+Kwality Sweets,CASUAL DINING,3.2,101.0,"2150 Steeles Avenue East, Brampton","Indian, Desserts",35.0,Brampton
+That Italian Place Cafe & Eatery,CASUAL DINING,3.9,81.0,"Chrysler Drive Centre, 470 Chrysler Drive, Brampton",Pizza,40.0,Brampton
+Thai Pepper,CASUAL DINING,4.2,94.0,"2 Fisherman Drive, Brampton L7A2X9","Thai, Asian",43.0,Brampton
+Mackay Pizza,QUICK BITES,4.3,124.0,"930 North Park Drive, Brampton L6S 3Y5","Pizza, Fast Food",15.0,Brampton
+India's Taste,CASUAL DINING,3.9,86.0,900 Ray Lawson Boulevard L6Y 5H7,Indian,45.0,Brampton
+Sonny's,QUICK BITES,4.1,112.0,"21 Kennedy Road North, Brampton L6V 1X5",Fast Food,25.0,Brampton
+Flips,CAFÉ,4.1,90.0,"575 Main Street N, Brampton L6X 0G6","Cafe, American",25.0,Brampton
+The WORKS,CASUAL DINING,4.0,83.0,"8 Queen Street East, Brampton L6V 1A2",Burger,45.0,Brampton
+Aria Bistro & Lounge,FINE DINING,4.0,57.0,"485 Main Street North, Brampton",American,100.0,Brampton
+Dosa Paradise,CASUAL DINING,3.7,69.0,"7920 Hurontario Street, Unit. 40, Brampton L6Y 0B8",Indian,40.0,Brampton
+Pickle Barrel,CASUAL DINING,3.3,75.0,"25 Peel Centre Drive, Brampton L6T 3R5","Grill, Canadian",60.0,Brampton
+Hockey Sushi,CASUAL DINING,3.7,84.0,"7694 Hurontario Street, Brampton L6Y 4M3","Sushi, Japanese, Asian",50.0,Brampton
+Nine18 - Turnberry Golf Club,CASUAL DINING,4.2,52.0,"Turnberry Golf Club, 10100 Heart Lake Road, Brampton",Canadian,125.0,Brampton
+Heritage Fish & Chips,CASUAL DINING,4.1,62.0,"295 Queen Street East, Brampton L6W 3R1",Fish and Chips,30.0,Brampton
+Sul Irmaos Smoke House,CASUAL DINING,3.8,47.0,"73 George St South, Brampton L6Y 1P4","Sandwich, Southern",45.0,Brampton
+Tony & Jim's,QUICK BITES,4.3,49.0,"10 Flowertown Avenue, Brampton L6X 2J9","Pizza, Fast Food",25.0,Brampton
+Moxie's Grill & Bar,CASUAL DINING,3.6,64.0,"56 Peel Centre Dr, Brampton L6T0E2","Grill, Steak, Canadian, Fusion",65.0,Brampton
+Hakka Village Chinese,CASUAL DINING,3.9,32.0,"144 Kennedy Road S, Brampton L6W 3G4",Hakka Chinese,30.0,Brampton
+Tokyo Maki Sushi,CASUAL DINING,3.9,73.0,"2 Bartley Bull Parkway, Brampton L6W 3P9","Sushi, Japanese, Asian",45.0,Brampton
+BriSkit,QUICK BITES,3.9,40.0,"160 Wilkinson Road, Unit 40 L6T 4Z4",Canadian,20.0,Brampton
+Chawla's,CASUAL DINING,3.7,54.0,"7916 Hurontario Street, Brampton",Indian,45.0,Brampton
+Jack Astor's,CASUAL DINING,4.0,69.0,"154 West Drive, Brampton L6T 5P1",Bar Food,55.0,Brampton
+Toshi,CASUAL DINING,4.3,63.0,"Rona Plaza, Unit 8, 10 Gillingham Drive, Brampton L6X 5A5","Sushi, Japanese, Asian",40.0,Brampton
+Pomodoro Italian Kitchen,QUICK BITES,4.0,48.0,"200 County Court Boulevard, Brampton L6W 4K7","Italian, Pizza",30.0,Brampton
+Freshly Thai,CASUAL DINING,3.5,49.0,"48 Queen Street West, Brampton L6X 1A1","Thai, Asian",35.0,Brampton
+Turtle Jack's,CASUAL DINING,3.9,50.0,"20 Cottrelle Boulevard, Brampton L6S 0E1","Grill, Canadian",55.0,Brampton
+Osmow's,CASUAL DINING,3.9,47.0,"470 Chrysler Drive, Brampton L6S 6G3",Mediterranean,30.0,Brampton
+Louisiana Seafood & Steakhouse,CASUAL DINING,3.0,47.0,"1 Steeles Avenue East, Brampton L6W 4J4","Seafood, Steak",65.0,Brampton
+Baba Dhaba,CASUAL DINING,3.7,45.0,"255 Rutherford Road South, Brampton",Indian,40.0,Brampton
+Sunset Grill,CASUAL DINING,4.0,74.0,"Squires Plaza, 10025 Hurontario Street, Unit 13, Brampton","Diner, Breakfast",30.0,Brampton
+The Keg Steakhouse + Bar - Brampton,CASUAL DINING,3.9,62.0,70 Gillingham Drive L6X 4X7,Steak,100.0,Brampton
+Bakers Jerk House,QUICK BITES,4.0,42.0,"50 Sunnyvale Gate, Unit 14, Brampton",Jamaican,30.0,Brampton
+India Curry House,CASUAL DINING,3.7,43.0,"80 Pertosa Drive, Brampton L6X 5E9","Indian, Hakka Chinese",30.0,Brampton
+Fanzorelli's,CASUAL DINING,3.8,36.0,"50 Queen Street West, Brampton L6X 4H3",Italian,60.0,Brampton
+Sweet Palace,CASUAL DINING,3.7,41.0,"1098 Peter Robertson Boulevard, Brampton L6R 3A5","Indian, Desserts",35.0,Brampton
+Caffe Demetre,DESSERT PARLOR,3.7,25.0,"Bramalea City Centre, 50 Peel Centre Drive, Building M, Unit 110-111 L6T 0E2","Desserts, Ice Cream, Cafe",35.0,Brampton
+Get Grill,CASUAL DINING,3.9,36.0,7910 Hurontario Street L6Y 0P6,"African, Asian, Fusion",30.0,Brampton
+Rajdhani Sweets,CASUAL DINING,3.4,32.0,"2260 Bovaird Drive East, Brampton L6R 3J5",Indian,20.0,Brampton
+macaronZ,BAKERY,3.4,17.0,43 Queen Street East L6W 2A7,Desserts,20.0,Brampton
+Stacy Lee's Family Restaurant,CASUAL DINING,4.1,43.0,"4 Mc Laughlin Road, Brampton L6Y 5T1",Diner,40.0,Brampton
+Five Guys,QUICK BITES,3.6,52.0,"Bramalea City Centre, 48 Peel Centre Drive L6T 5M2","Fast Food, Burger",25.0,Brampton
+Indian Sweet Master,QUICK BITES,3.3,30.0,503 Ray Lawson Boulevard L6Y 0N2,"Indian, Hakka Chinese, Desserts",25.0,Brampton
+Mackay Pizza & Submarines,QUICK BITES,4.3,44.0,"Rona Plaza, 40 Gillingham Drive, Brampton","Pizza, Fast Food",25.0,Brampton
+Hakka Flavours,CASUAL DINING,3.8,37.0,"2880 Queen Street E, Brampton L6S 6H4","Hakka Chinese, Sichuan, Asian",50.0,Brampton
+Venezia Pizza,QUICK BITES,3.9,30.0,"230 Sandalwood Parkway East, Brampton L6Z 1R3","Pizza, Fast Food",25.0,Brampton
+Anjappar Chettinad,CASUAL DINING,3.4,35.0,"Bartley's Square, 1 Bartley Bull Parkway, Brampton L6W 3T7",South Indian,40.0,Brampton
+Tonino Pizzeria & Panini,CASUAL DINING,3.9,29.0,"10088 McLaughlin Road, Brampton L7A 2X6","Pizza, Italian",25.0,Brampton
+La Capannina Restaurant,CASUAL DINING,3.9,38.0,21 George Street North L6X 1R3,Italian,80.0,Brampton
+Pamier Kabob,CASUAL DINING,3.9,39.0,"200 Country Court Boulevard, Unit C L6W 4K7",Afghan,35.0,Brampton
+Lone Star Texas Grill,CASUAL DINING,3.9,37.0,"156 West Drive, Brampton L6T 5P1","Tex-Mex, Bar Food",80.0,Brampton
+Ellen's Bar & Grill,BAR,3.5,27.0,"190 Bovaird Drive West, Unit 41 L7A 1A2","Bar Food, American",80.0,Brampton
+East Side Mario's,CASUAL DINING,3.3,33.0,"9055 Airport Road, Brampton L6S 0B8","Italian, Canadian, Pizza",40.0,Brampton
+Rashmi's Bakery,BAKERY,3.9,27.0,"80 Pertosa Drive, Unit 13 L6X 5E9","Desserts, Bakery",35.0,Brampton
+Sanjhi Rasoi,QUICK BITES,3.8,36.0,"2565 Steeles Avenue East, Unit 1, Brampton",Indian,25.0,Brampton
+Madras,CASUAL DINING,2.9,28.0,"2280 Bovaird Drive East, Brampton L6R 3J5",South Indian,35.0,Brampton
+Gusto Pizzeria,QUICK BITES,3.9,29.0,"135 Main Street North, Brampton L6X 1M9","Pizza, Italian",25.0,Brampton
+Golden Palace Restaurant,CASUAL DINING,3.9,34.0,9886 Torbram Road L6S 3L9,"Chinese, Asian",25.0,Brampton
+Bombay Palace,CASUAL DINING,3.7,35.0,200 Advance Boulevard L6T 4V4,Indian,40.0,Brampton
+Red Lobster,CASUAL DINING,3.8,41.0,"368 Queen Street East, Brampton L6V 1C3",Seafood,60.0,Brampton
+Pho Dau Bo,CASUAL DINING,3.6,34.0,"Rona Plaza, 20 Gillingham Drive, Brampton",Vietnamese,30.0,Brampton
+Wimpy's Diner,CASUAL DINING,3.4,32.0,"9025 Torbram Road, Brampton L6S 3L2",Diner,30.0,Brampton
+Dalchini,CASUAL DINING,3.7,18.0,"1098 Peter Robertson Boulevard, Unit 10, Brampton L6R 3A5","Hakka Chinese, Asian",30.0,Brampton
+Paranthe Wali Gali,QUICK BITES,3.5,23.0,"143 Clarence Street 3, Brampton, ON L6W 1T2",Indian,20.0,Brampton
+King Tandoori,CASUAL DINING,3.0,29.0,"270 Rutherford Road South, Brampton L6W 3K7",Indian,40.0,Brampton
+Hakka No. 1,CASUAL DINING,3.0,12.0,2 Melanie Drive Unit 10 L6T 4K9,"Hakka Chinese, Asian, Bubble Tea",40.0,Brampton
+Boston Pizza,CASUAL DINING,3.6,32.0,"2458 Queen Street E, Brampton L6S 5X9","American, Pizza",40.0,Brampton
+The Crown and Lion Pub,BAR,3.9,31.0,"7985 Financial Drive, Brampton L6Y 0B4","Bar Food, British",45.0,Brampton
+Williams Fresh Café,CAFÉ,3.7,30.0,"2454 Queen Street East, Brampton L6S 5X9",Cafe,25.0,Brampton
+Churrasqueira Nova Esperanca,CASUAL DINING,3.7,27.0,"110 Brickyard Way, Brampton L6V 4L9",Portuguese,25.0,Brampton
+Fionn MacCool's,CASUAL DINING,3.6,24.0,"Main Street Village, 11 Ray Lawson Boulevard, Brampton L6Y 5L8","Bar Food, Irish, Canadian",60.0,Brampton
+Canelli's,CASUAL DINING,4.0,48.0,"252 Queen Street East, Brampton L6V 1C1",Italian,50.0,Brampton
+Nando's,CASUAL DINING,3.6,27.0,"Unit 1, Building D, 10015 Hurontario St, Brampton, Toronto L6Z 0E5","Portuguese, African",25.0,Brampton
+Montana's Cookhouse,CASUAL DINING,3.4,30.0,"9065 Airport Road, Brampton L6S 0B8","Canadian, Grill, BBQ, Steak",50.0,Brampton
+Falafel Garden,QUICK BITES,3.7,30.0,"90 Kennedy Road South, Brampton",Middle Eastern,20.0,Brampton
+Taste of Punjab,CASUAL DINING,3.9,25.0,"8 Strathearn Avenue, Unit 11, Brampton L6T 4L9",Indian,30.0,Brampton
+Joe's Pizzeria and Spaghetti House,QUICK BITES,3.9,21.0,51 McMurchy Avenue South L6Y 1Y4,"Italian, Pizza, Fast Food",35.0,Brampton
+Golden Lake,CASUAL DINING,3.2,30.0,380 Bovaird Drive East L6Z 2S7,"Chinese, Asian",25.0,Brampton
+La Catrina,CASUAL DINING,3.4,12.0,35 Queen Street West L6Y 1L9,Mexican,43.0,Brampton
+Vesuvio Ristorante,CASUAL DINING,3.4,24.0,"91 George Street South, Brampton",Italian,65.0,Brampton
+Gem's House Of Jerk,CASUAL DINING,3.5,27.0,"Rona Plaza, 20 Gillingham Drive, Brampton","Jamaican, Caribbean",35.0,Brampton
+Bombay Bakers,BAKERY,3.5,21.0,"375 Howden Boulevard, Brampton","Indian, Bakery",15.0,Brampton
+Menchie's,DESSERT PARLOR,3.2,26.0,"Bramalea City Centre, 100 Peel Centre Drive, Brampton L6T 4G8",Frozen Yogurt,15.0,Brampton
+Caravan Kabob House,CASUAL DINING,3.6,21.0,"547 Steeles Avenue East, Brampton L6W 4S2",Afghan,35.0,Brampton
+Bar Burrito,QUICK BITES,2.7,24.0,48 Peel Centre Drive L6T 4G8,Tex-Mex,13.0,Brampton
+Lally's Restaurant,QUICK BITES,3.9,19.0,"499 Raylawson Boulevard, Brampton",Indian,20.0,Brampton
+Mimi's Fish & Chips,CASUAL DINING,3.5,17.0,"184 Main Street South, Brampton L6W 2E2",Fish and Chips,30.0,Brampton
+Doaba Sweets & Snacks,QUICK BITES,3.8,18.0,"305 Charolais Boulevard, Unit 9, Brampton","Indian, Desserts",30.0,Brampton
+McDonald's,QUICK BITES,3.1,14.0,"7690 Hurontario Street, Brampton",Fast Food,25.0,Brampton
+Biryani King,QUICK BITES,3.6,24.0,"Rona Plaza, 40 Gillingham Drive, Brampton","North Indian, Pakistani",20.0,Brampton
+Village of India,QUICK BITES,3.0,19.0,"114 Kennedy Road, Brampton",Indian,30.0,Brampton
+Slumdog Bar & Grill,BAR,3.4,13.0,"15 Brisdale Drive, Brampton L7A 2Y7","Hakka Chinese, Bar Food",45.0,Brampton
+Giggling Tomatoes,CASUAL DINING,3.2,27.0,"2280 Bovaird Drive East, Brampton",American,30.0,Brampton
+Mr. Greek Express,QUICK BITES,2.7,19.0,140 Great Lakes Drive L6R 2K7,Greek,40.0,Brampton
+Daddy's Jerk,QUICK BITES,3.6,23.0,"545 Steeles Avenue W, Unit 15, Brampton L6Y 4E7",Caribbean,20.0,Brampton
+Cocelli Pizza,QUICK BITES,3.8,22.0,"205 Van Kirk Drive, Brampton L7A 3V4","Pizza, Fast Food",25.0,Brampton
+Molisana Bakery,QUICK BITES,3.7,21.0,"2 Philosophers Trail, Brampton L6S 4C9","Pizza, Bakery",25.0,Brampton
+Mayura - Inspired Indian Dining,FINE DINING,3.1,12.0,"200 County Court Boulevard, Brampton L6W 4K7",Indian,,Brampton
+Cora's Breakfast & Lunch,CASUAL DINING,3.2,24.0,"9045 Airport Road, Brampton L6S 0B6","Diner, Canadian",35.0,Brampton
+520 Sushi,CASUAL DINING,3.5,40.0,"252 Queen Street E, Brampton L6V 1B9","Sushi, Japanese",35.0,Brampton
+Martin's BBQ Chicken,CASUAL DINING,3.6,17.0,389 Main Street N L6X 3P1,"Portuguese, Italian",40.0,Brampton
+Magnums Bar & Eatery,CASUAL DINING,3.2,20.0,21 McMurchy Avenue N L6X 1X4,Bar Food,80.0,Brampton
+Jake's Boathouse,CASUAL DINING,3.4,20.0,"59 First Gulf Boulevard, Brampton L6W 4P9",American,45.0,Brampton
+Portland Jerk,QUICK BITES,3.3,17.0,"9025 Torbram Road, Brampton L6S 3L2",Caribbean,25.0,Brampton
+Guru's Chinese Cuisine,CASUAL DINING,3.4,20.0,"8917 The Gore Road, Brampton L6P 0B7","Chinese, Indian, Hakka Chinese",25.0,Brampton
+New China Garden,CASUAL DINING,3.7,17.0,200 County Court Boulevard L6W 4L2,"Chinese, Hakka Chinese",45.0,Brampton
+Terrace on the Green,FINE DINING,3.4,16.0,"8672 Mississauga Road, Brampton L6Y 0C4",Canadian,125.0,Brampton
+Pho Mi 99,CASUAL DINING,2.9,13.0,"7916 Hurontario Street, Brampton","Vietnamese, Thai, Asian",40.0,Brampton
+Coffee Culture,CAFÉ,3.5,19.0,"9 Queen Street East, Brampton L6W 2A7",Cafe,20.0,Brampton
+Oscar's Roadhouse,BAR,3.5,18.0,"1785 Queen Street East, Brampton L6T 4S3","Bar Food, Grill",50.0,Brampton
+Shangri-La Bar & Grill,BAR,3.5,8.0,"305 Charolais Boulevard, Unit 2 L6Y 2R2","Hakka Chinese, Canadian",30.0,Brampton
+Henry's Fish & Chips,CASUAL DINING,3.8,22.0,320 Main Street North L6V 4A3,Fish and Chips,35.0,Brampton
+Sunrise,QUICK BITES,3.0,17.0,"410 and Steeles, 80 Resolution Road, Unit 102, Brampton L6W 0A7",Caribbean,25.0,Brampton
+Pho Bo Saigon,CASUAL DINING,3.7,15.0,"380 Bovaird Drive East, Unit 14, Brampton","Vietnamese, Asian",30.0,Brampton
+Swiss Chalet,CASUAL DINING,3.4,17.0,"Conestoga Square Plaza, 370 Bovaird Drive East L6Z 2S8","Canadian, Grill, Beverages",40.0,Brampton
+Warraich Grill,CASUAL DINING,3.6,5.0,"60 Cottrelle Boulevard, Brampton","Indian, Grill",45.0,Brampton
+Shawarma Queen,QUICK BITES,3.4,12.0,"10 Gillingham Drive, Unit 105, Brampton",Middle Eastern,25.0,Brampton
+Shawarma House,QUICK BITES,3.0,17.0,"545 Steeles Avenue West, Brampton",Middle Eastern,15.0,Brampton
+Shriji,QUICK BITES,3.6,9.0,"71 West Drive, Brampton",Indian,,Brampton
+Rose's Kitchen,CASUAL DINING,3.6,14.0,"7916 Hurontario Street, Brampton",Caribbean,20.0,Brampton
+Kelsey's,CASUAL DINING,3.3,12.0,"70 Quarry Edge Drive , Brampton L6Z4K2",Canadian,65.0,Brampton
+Grabb-A-Pizza,QUICK BITES,3.6,17.0,"Centennial Mall, 227 Vodden Street, Unit 14, Brampton L6V 3C9","Pizza, Fast Food",25.0,Brampton
+The Frigate and Firkin,CASUAL DINING,3.0,13.0,"378 Queen Street East, Brampton L6V 1C3",Bar Food,65.0,Brampton
+Lily Thai Cuisine,CASUAL DINING,3.3,13.0,"15 Ashby Field Road, Brampton L6X","Thai, Chinese, Asian",50.0,Brampton
+Friends,CASUAL DINING,3.6,15.0,"860 North Park Drive, Unit 10, Brampton L6S 4N5","Indian, Desserts",35.0,Brampton
+Guddu's Chilli Chicken,QUICK BITES,3.1,9.0,"205 Van Kirk Drive, Brampton L7A3V4","Hakka Chinese, Asian",30.0,Brampton
+Keltic Rock,BAR,3.3,20.0,"180 Sandalwood Parkway, Brampton L6Z1Y4",Bar Food,45.0,Brampton
+The Pizza Edge,QUICK BITES,3.6,17.0,"Chinguacousy Plaza, 8990 Chinguacousy Road, Unit 5 L6Y 5X6","Pizza, Fast Food",25.0,Brampton
+Singapore Garden,CASUAL DINING,3.2,10.0,"226 Queen Street E, Brampton L6V 1B8","Chinese, Asian",40.0,Brampton
+Marble Slab Creamery,DESSERT PARLOR,3.3,13.0,"Trinity Common Mall, 160 Great Lakes Drive, Brampton","Ice Cream, Desserts",20.0,Brampton
+Pho Viet Nam,CASUAL DINING,3.5,7.0,"14 Main Street South, Brampton L6W 2C3","Vietnamese, Asian",25.0,Brampton
+Dairy Queen (Treat),DESSERT PARLOR,3.9,16.0,133 Queen Street East,"Ice Cream, Desserts, Fast Food",20.0,Brampton
+Guru Sweets & Restaurant,CASUAL DINING,2.9,8.0,15 Fandor Way L7A 2G6,"Indian, Desserts",25.0,Brampton
+The Nilgiris,CASUAL DINING,3.2,11.0,"4525 Ebenezer Road, Brampton",Indian,25.0,Brampton
+Mumma's Burritos,CASUAL DINING,3.6,10.0,"373 Steeles Avenue West, Unit 1, Brampton L6Y 5H9","Mexican, Fast Food",20.0,Brampton
+Symposion Greek,CASUAL DINING,3.7,14.0,"148 Queen Street East, Brampton L6V 1B2",Greek,50.0,Brampton
+3.6,Other,,,"Dewside Drive, Brampton",Indian,30.0,Brampton
+Burger King,FAST FOOD,3.8,11.0,285 Queen Street East L6W 2C2,"Fast Food, Burger",20.0,Brampton
+Chicken Master,QUICK BITES,3.3,11.0,"13 Fisherman Drive, Unit 15 L7A 2X9","Fast Food, American",35.0,Brampton
+Eggsmart,CASUAL DINING,3.8,14.0,"164 Sandalwood Parkway East, Brampton L6H 3S4",Diner,30.0,Brampton
+Punjabi By Nature,CASUAL DINING,2.9,10.0,"SmartCentres Bramport, 9980 Airport Road, Unit 6, Brampton L6S 0C5",Indian,30.0,Brampton
+Kalpataru,CASUAL DINING,3.5,4.0,"120 Clementine Drive, Brampton L6Y 0L8",South Indian,30.0,Brampton
+J Red & Co.,CASUAL DINING,3.2,9.0,341 Main Street L6X 4A3 3C7,"Pizza, Italian",70.0,Brampton
+Yarl Dosa Corner,CASUAL DINING,3.3,6.0,83 Kennedy Road South L6W 3P3,Indian,20.0,Brampton
+Popular Pizza,QUICK BITES,3.1,13.0,499 Ray Lawson Boulevard L6Y 4E6,"Pizza, Fast Food",30.0,Brampton
+The Clock On Queen,CASUAL DINING,3.3,12.0,"1779 Queen Street East, Brampton L6T 4S3",Bar Food,50.0,Brampton
+Firangi by Host,CASUAL DINING,3.4,16.0,"2880 Queen Street E, Brampton L6S 6H4",Indian,40.0,Brampton
+China Palace,CASUAL DINING,3.7,11.0,"Cottrelle Business Centre, 60 Cottrelle Boulevard L6S 0E1","Hakka Chinese, Asian",35.0,Brampton
+Annalakshmi,CASUAL DINING,3.1,13.0,"10086 Hurontario Street, Toronto L7A 1E5",South Indian,25.0,Brampton
+Molly's Hotte Shoppe,QUICK BITES,3.5,11.0,"470 Chrysler Drive, Brampton","Caribbean, Chinese",25.0,Brampton
+Popeyes,FAST CASUAL,3.1,13.0,"269 Queen Street East, Brampton L6W 2C2",Fast Food,25.0,Brampton
+Papas Pizza & Mamas Chicken,QUICK BITES,3.1,10.0,"1098 Peter Robertson Boulevard, Brampton L4R 3M5",Pizza,25.0,Brampton
+Baskin Robbins,DESSERT PARLOR,3.9,13.0,"170 Sandalwood Parkway East, Brampton","Ice Cream, Desserts",15.0,Brampton
+Desi Shawarma,QUICK BITES,3.6,11.0,"Main Street Village, 17 Ray Lawson Boulevard, Brampton","Middle Eastern, Indian",13.0,Brampton
+August8,CASUAL DINING,3.1,6.0,"Bramalea City Centre, 25 Peel Centre Drive, Unit 513 L6T 0E2",Japanese,25.0,Brampton
+Wendy's,FAST FOOD,3.1,14.0,353 Main Street North,"Fast Food, Burger",20.0,Brampton
+John's Family Restaurant,CASUAL DINING,3.1,12.0,"1 Fisherman Drive, Brampton L7A 2X9","Canadian, Burger",45.0,Brampton
+Spot 1 Grill,CASUAL DINING,3.0,12.0,"289 Rutherford Road South, Brampton","American, Bar Food",40.0,Brampton
+Silver Spoon,QUICK BITES,3.4,6.0,"249 Queen Street E, Brampton L6W 2B8","Pakistani, Indian, Hakka Chinese",20.0,Brampton
+Minar Fine Indian Cuisine,CASUAL DINING,3.5,12.0,"284 Orenda Road, Brampton L6T 4X6",Indian,45.0,Brampton
+Wild Wing,CASUAL DINING,3.4,17.0,"2880 Queen Street East, Brampton",Bar Food,50.0,Brampton
+Pizza Hut,QUICK BITES,3.2,6.0,"10088 McLaughlin Road, Unit 6, Brampton","Pizza, Fast Food",25.0,Brampton
+All Stars Bar & Grill,BAR,2.9,16.0,"73 Bramalea Road, Brampton L6T 2W9",Bar Food,40.0,Brampton
+Authentic Trini Cuisine,QUICK BITES,3.3,10.0,"1650 Williams Parkway, Brampton",Caribbean,15.0,Brampton
+Hero Certified Burgers,QUICK BITES,3.0,13.0,"Squires Plaza, 10025 Hurontario Street, Brampton","Burger, Sandwich",25.0,Brampton
+Karachi Kitchen,QUICK BITES,3.8,7.0,"20 Red Maple Drive, Unit 3 L6X 4L9","Pakistani, Indian",20.0,Brampton
+Radica's Hot & Spicy,CASUAL DINING,3.4,7.0,"263 Queen Street East, Brampton L6W 2B8","West Indian, Caribbean",20.0,Brampton
+Genesis Bistro & Lounge,CASUAL DINING,3.2,7.0,"83 Kennedy Road South, Brampton",Bar Food,25.0,Brampton
+Bucatini,CASUAL DINING,,,"170 Bovaird Drive West, Unit 16, Brampton L7A 1A1",Italian,75.0,Brampton
+Friends - All Day Breakfast,CASUAL DINING,3.5,7.0,"155 Clark Boulevard, Brampton L6T 4G6","Canadian, Coffee and Tea",30.0,Brampton
+Tandoori Style,CASUAL DINING,3.5,14.0,30 Melanie Drive L6T 4L4,"Pakistani, Indian",35.0,Brampton
+Khalsa Pizza,QUICK BITES,3.7,11.0,"Chrysler Drive Centre, 470 Chrysler Drive, Unit 7, Brampton","Pizza, Indian",25.0,Brampton
+Good Egg Dining,CASUAL DINING,3.0,7.0,"3 Gateway Boulevard, Unit 5, Brampton L6T 4X2","Diner, Breakfast",25.0,Brampton
+Calypso Garden,CASUAL DINING,3.9,8.0,"83 Kennedy Road South, Brampton L6W 3P3","Caribbean, Chinese",25.0,Brampton
+Tadka Nation,CASUAL DINING,3.3,6.0,"1625 Steeles Avenue East, Brampton L6T4T7","Chinese, Indian",13.0,Brampton
+Royal India,CASUAL DINING,2.7,11.0,"116 Kennedy Road South, Brampton L6W 3E7",Indian,30.0,Brampton
+OccaSSions,DESSERT PARLOR,3.5,7.0,"33 McMurchy Avenue North, Brampton","Bakery, Desserts",15.0,Brampton
+Bistro at Riverstone,CASUAL DINING,3.7,10.0,"195 Don Minaker Drive, Brampton",American,70.0,Brampton
+Di Giovanni Bakery & Deli,BAKERY,3.9,10.0,"9185 Torbram Road, Brampton L6S 6H3","Bakery, Deli, Sandwich",20.0,Brampton
+Paramount Fine Foods,CASUAL DINING,3.3,8.0,25 Peel Centre Drive L6T 53H,"Lebanese, Middle Eastern",40.0,Brampton
+Mary Brown's,QUICK BITES,3.4,13.0,"Squires Plaza, 10045 Hurontario Street, Unit 8, Brampton",Fast Food,30.0,Brampton
+Thinusha,QUICK BITES,3.3,6.0,"107 Kennedy Road South, Brampton L6W 3G2","Sri Lankan, South Indian",25.0,Brampton
+Pita Land,QUICK BITES,3.1,12.0,"Squires Plaza, 10045 Hurontario Street, Brampton L6Z 0E6",Middle Eastern,30.0,Brampton
+Golden Empire,QUICK BITES,3.3,12.0,"Wanless Centre, 10886 Hurontario Street, Brampton L7A 3R9",Chinese,30.0,Brampton
+Pizza Depot,QUICK BITES,3.7,10.0,"65 Braydon Boulevard, Brampton","Pizza, Fast Food",25.0,Brampton
+Indo-Canadian Food Hut,CASUAL DINING,3.3,5.0,"373 Steeles Avenue West, Brampton L6Y 0P8",Indian,20.0,Brampton
+Taco Bell,QUICK BITES,2.9,10.0,"230 Queen Street East, Brampton","Fast Food, Mexican",20.0,Brampton
+Bangalore Biriyani,QUICK BITES,3.5,7.0,"116 Kennedy Road South, Brampton L6W 3E7",Indian,25.0,Brampton
+Booster Juice,QUICK BITES,3.4,8.0,"Bramalea City Centre, 25 Peel Centre Drive, Unit 311, Brampton","Juices, Beverages, Healthy Food",20.0,Brampton
+Chinese Delicacies,QUICK BITES,3.0,10.0,"220 Wexford Road, Brampton",Chinese,20.0,Brampton
+T By Daniel,BEVERAGE SHOP,3.7,6.0,"46 Main St N, Brampton","Tea, Beverages",15.0,Brampton
+Pita Nutso,CASUAL DINING,3.2,11.0,"9045 Airport Road, Brampton L6S 0B8","Mediterranean, Sandwich",25.0,Brampton
+Moga's Pizza,QUICK BITES,3.7,7.0,"475 Charolais Boulevard, Brampton","Pizza, Fast Food",25.0,Brampton
+Pizza Pizza,QUICK BITES,3.1,8.0,"545 Steeles Avenue West, Brampton","Pizza, Fast Food",25.0,Brampton
+Spartan Pita & Grill,QUICK BITES,3.4,10.0,"175 Fletcher Creek Boulevard, Brampton L6X 0Y7","Middle Eastern, Mediterranean",,Brampton
+Fook Hing,CASUAL DINING,,,499 Ray Lawson Boulevard L6Y 4E6,Chinese,,Brampton
+Warraich Meats,QUICK BITES,3.7,10.0,"527 Van Kirk Drive, Unit 101, Brampton L7A 1A4","Indian, Pakistani",35.0,Brampton
+Punjabi By Nature,CASUAL DINING,3.0,8.0,"8887 The Gore Road, Brampton",Indian,,Brampton
+City South Pizza,QUICK BITES,3.1,5.0,"7700 Hurontario Street, Brampton L6Y 4M3","Pizza, Fast Food",20.0,Brampton
+Harvey's,QUICK BITES,3.7,13.0,"2200 Queen Street East, Brampton L6S4G9","Fast Food, Canadian, Burger",25.0,Brampton
+Tropical Joe's,QUICK BITES,3.1,7.0,"Shoppers World Plaza, 499 Main Street South, Brampton",Caribbean,20.0,Brampton
+Jimmy The Greek,QUICK BITES,3.1,11.0,"Bramalea City Centre, Food Court, 25 Peel Centre Drive, Brampton",Greek,25.0,Brampton
+52nd Street Tab & Grill,CASUAL DINING,3.4,9.0,"30A Kennedy Road South, Brampton L6W 1W1","American, Grill",60.0,Brampton
+Village Deli and Pasta Shoppe,QUICK BITES,3.5,5.0,"8 Nelson Street West, Brampton",Italian,20.0,Brampton
+Subway,QUICK BITES,,,"7700 Hurontario Street, Brampton",Fast Food,20.0,Brampton
+Starbucks,CAFÉ,,,"7700 Hurontario Street, Brampton",Cafe,20.0,Brampton
+Yellow Chilli,CASUAL DINING,3.7,4.0,"10635 Creditview Road, Brampton L7A 0T4",Indian,30.0,Brampton
+Royal Paan,QUICK BITES,,,"15 Brisdale Drive Unit 6, Brampton",Indian,15.0,Brampton
+Dixie Sweets & Restaurant,CASUAL DINING,3.1,4.0,"630 Peter Robertson Boulevard, Brampton L6R 1C3","Indian, Desserts",20.0,Brampton
+Dhaba Express,CASUAL DINING,3.6,8.0,10725 McLaughlin Road L7A 3E5,Indian,20.0,Brampton
+The Vineyard Restaurant,CASUAL DINING,3.7,9.0,"3918 Cottrelle Boulevard, Brampton",Caribbean,40.0,Brampton
+Pita Pit,QUICK BITES,2.8,8.0,"2 Kennedy Road South, Brampton",Healthy Food,25.0,Brampton
+Pizza Nova,QUICK BITES,3.2,9.0,"2260 Bovaird Drive East, Brampton","Pizza, Fast Food",30.0,Brampton
+Domino's,QUICK BITES,3.8,8.0,"Kingspoint Plaza, 370 Main Street North, Brampton","Fast Food, Pizza",25.0,Brampton
+Chuck's Roadhouse,CASUAL DINING,3.4,4.0,"2 Kennedy Road S, Brampton L6W 3E1",American,25.0,Brampton
+Hyderabad House Biryani Place,FAST CASUAL,3.4,10.0,"8015 Financial Diver B8, Brampton, ON L6Y 6A1",Indian,20.0,Brampton
+Chop Chop Wok,QUICK BITES,3.5,8.0,"10671 Chinguacousy Road, Brampton L7A 3E9",Hakka Chinese,30.0,Brampton
+New York Fries - Bramalea City Centre,QUICK BITES,3.5,9.0,"25 Peel Center Drive, Unit 736 K, Bramalea, ON L6T 3R5",Fast Food,15.0,Brampton
+Anokhi - Inspired Indian Dining,CASUAL DINING,3.4,6.0,"200 County Court Blvd, Brampton",Indian,50.0,Brampton
+Joey's Deli Express,QUICK BITES,,,"47 Queen Street West, Brampton L6X 1A1",Sandwich,25.0,Brampton
+Edo Japan,QUICK BITES,3.8,6.0,"Shoppers World Plaza, 499 Main Street South, Brampton L6Y 1N7",Japanese,20.0,Brampton
+St. Louis Bar and Grill,CASUAL DINING,,,"Bramalea City Centre, 25 Peel Centre Drive, Brampton L6T 4G8","Bar Food, Grill",40.0,Brampton
+AJ's Restaurant,CASUAL DINING,3.3,5.0,"1 Regan Road, Brampton L7A 1B8","Diner, Breakfast",30.0,Brampton
+Lazeez Shawarma,CASUAL DINING,3.2,7.0,"10671 Chinguacousy Road,Unit 12, Brampton L7A 0N5","Mediterranean, Middle Eastern",25.0,Brampton
+Roti Shop,CASUAL DINING,3.7,7.0,"83 Kennedy Road South, Brampton L6W 3P3",Caribbean,30.0,Brampton
+Ice Cream Cafe,DESSERT PARLOR,3.2,7.0,"23 Main Street South, Brampton L6W 2C3","Ice Cream, Desserts",15.0,Brampton
+Agra Sweets and Tandoori,QUICK BITES,2.9,5.0,"10671 Chinguacousy Road, Brampton L7A 0N5",Indian,25.0,Brampton
+Tim Hortons,QUICK BITES,3.6,11.0,25 Peel Centre Drive,"American, Donuts, Desserts",20.0,Brampton
+Vege Foods & Bakery,BAKERY,3.3,8.0,"4525 Ebenezer Road, Brampton",Bakery,,Brampton
+Pizzaville,QUICK BITES,3.8,7.0,"375 Howden Boulevard, Brampton L6S 4L6","Pizza, Fast Food",25.0,Brampton
+Golden Star Chinese Food,CASUAL DINING,,,"164 Sandalwood Parkway E, Brampton L6Z 3S4","Chinese, Asian",30.0,Brampton
+Cantina Fellini,CASUAL DINING,3.2,7.0,"35 Main Street North, Brampton",Italian,80.0,Brampton
+Hurry Curry & Taccorito,CASUAL DINING,,,"1200 Steeles Ave E, Brampton","Indian, Mexican",60.0,Brampton
+Punjabi Tadka,CASUAL DINING,,,"10510 Torbram Road, Brampton L6R 3N9",Indian,35.0,Brampton
+Vinayagar Vilas,QUICK BITES,,,"85 Kennedy Road South, Brampton L6W 3G1",Indian,15.0,Brampton
+Daawat Sweets & Restaurant,CASUAL DINING,3.4,5.0,"375 Howden Boulevard, Brampton L6S 4L6","Indian, Desserts",35.0,Brampton
+Thai Express,QUICK BITES,3.1,12.0,"Bramlea City Centre, Food Court, 25 Peel Centre Drive, Brampton",Thai,25.0,Brampton
+Palm Palace,CASUAL DINING,,,"Kennedy Square, 50 Kennedy Road L6W 3E7","Chinese, Caribbean, Asian",35.0,Brampton
+Brampton Sweets,QUICK BITES,3.9,6.0,"124 Kennedy Road South, Brampton L6W 3E7",Indian,20.0,Brampton
+Pizza Pros,QUICK BITES,2.9,6.0,"9886 Torbram Road, Brampton","Pizza, Fast Food",25.0,Brampton
+Bourbon St. Grill,QUICK BITES,3.6,5.0,"Shoppers World Plaza, Food Court, 499 Main Street South, Brampton","Cajun, Southern",20.0,Brampton
+Crack Me Up,Other,,,"Shoppers World Plaza, 499 Main Street South, Brampton L6Y 1N7",American,30.0,Brampton
+Prem Sweets & Restaurant,QUICK BITES,,,"20 Gillingham Drive , Brampton","Indian, Desserts",25.0,Brampton
+Extreme Pita,QUICK BITES,2.7,4.0,"Bramalea City Centre, Food Court, 25 Peel Centre Drive, Brampton","Fast Food, Mediterranean",25.0,Brampton
+Yogen Früz,DESSERT PARLOR,,,"Shoppers World Plaza, 499 Main Street South, Brampton","Frozen Yogurt, Desserts",15.0,Brampton
+Moga Meat,QUICK BITES,3.5,4.0,"1098 Peter Robertson Boulevard, Brampton","Indian, Pakistani",30.0,Brampton
+Vishnues Doubles and Roti Shop,QUICK BITES,,,"10215 Kennedy Road North, Brampton",Caribbean,20.0,Brampton
+Hakka Town,CASUAL DINING,2.7,8.0,"225 Castle Oaks Crossing, Brampton","Hakka Chinese, Asian",25.0,Brampton
+Standard Sweets And Restaurant,QUICK BITES,3.1,6.0,"200 County Court Boulevard, Unit 10A, Brampton","Indian, Desserts",25.0,Brampton
+Little Shop of Ice Cream,DESSERT PARLOR,3.5,7.0,"12B Queen Street East, Brampton L6V 0A3","Ice Cream, Desserts",15.0,Brampton
+786 Pizza & Wings,QUICK BITES,3.2,4.0,"400 Queen Street West, Brampton L6X 1B3","Pizza, Fast Food",30.0,Brampton
+Pizza Fiamma,CASUAL DINING,,,"10061 McLaughlin Road, Brampton L7A 2X5",Pizza,30.0,Brampton
+Cinnabon,DESSERT PARLOR,3.7,4.0,"Bramalea City Centre, 25 Peel Drive, Brampton",Desserts,15.0,Brampton
+Gino's Pizza,QUICK BITES,3.6,8.0,"9025 Torbram Road, Unit 14, Brampton","Pizza, Fast Food",30.0,Brampton
+Pinch of Spice,CASUAL DINING,,,"130 Father Tobin Rd, Brampton, ON L6R 3P1",Indian,25.0,Brampton
+Italian Garden,QUICK BITES,,,"Squires Plaza, 10069 Hurontario Street, Brampton",Italian,25.0,Brampton
+San Francisco Place,QUICK BITES,3.4,8.0,"130 Queen Street East, Unit 4, Brampton L6V 1B1","Pizza, Italian",25.0,Brampton
+Double Double,QUICK BITES,3.8,6.0,"332 Main Street North, Brampton","Pizza, Fast Food",25.0,Brampton
+Teriyaki Experience,QUICK BITES,3.1,6.0,"148 West Drive, Brampton",Japanese,20.0,Brampton
+Standard Sweets,CASUAL DINING,3.2,5.0,"31 Steeplebush Avenue, Unit 12, Brampton L6R 2J6",Indian,30.0,Brampton
+Cristina's Tortina Shop,DESSERT PARLOR,,,"Main Street Village, 17 Ray Lawson Boulevard, Brampton",Desserts,10.0,Brampton
+KFC,QUICK BITES,3.1,4.0,"10 Steeles Plaza, 1 Steeles Avenue East, Brampton",Fast Food,25.0,Brampton
+Mr. Sub,QUICK BITES,2.9,6.0,"Dixie Plaza, 14 Lisa Street, Brampton",Fast Food,25.0,Brampton
+Quik Chik,QUICK BITES,,,"35 Resolution Drive, Brampton L6W 0A6",Fast Food,25.0,Brampton
+The Spot,CASUAL DINING,,,9980 Airport Road L6S 0C5,"American, Bar Food, Burger, Canadian, Diner, Sandwich",,Brampton
+Quiznos,QUICK BITES,2.8,4.0,"380 Bovaird Drive, Brampton",Fast Food,25.0,Brampton
+International Sports Bar,BAR,3.7,5.0,79 Clarence Street,Bar Food,45.0,Brampton
+Guildford's Fish & Chips,QUICK BITES,3.1,6.0,"34 Avondale Boulevard, Brampton",Fish and Chips,25.0,Brampton
+A & W,QUICK BITES,3.9,19.0,"Imperial Center, 2464 Queen Street East, Brampton L6S 5X9","Burger, Fast Food",25.0,Brampton
+Biryani Culture,CASUAL DINING,3.4,4.0,"3 Sidford Road, Unit 2, Brampton",Indian,20.0,Brampton
+Lena's Roti & Doubles,QUICK BITES,,,"2565 Steeles Avenue East, Brampton",West Indian,25.0,Brampton
+Villa Madina,Other,3.1,5.0,"Bramalea City Centre, 25 Peel Centre Drive, Brampton",Mediterranean,25.0,Brampton
+Denny's,CASUAL DINING,,,215 Delta Park Boulevard. L6T 0H9,"American, Diner",25.0,Brampton
+Little Caesars,QUICK BITES,3.6,7.0,"456 Vodden Streer East, Brampton","Pizza, Fast Food",25.0,Brampton
+Hakka Delight,CASUAL DINING,3.8,4.0,"7700 Hurontario Street, Brampton","Asian, Chinese",25.0,Brampton
+Royal Red Rose,CASUAL DINING,,,"7955 Torbram Road, Brampton",Mediterranean,30.0,Brampton
+Mr. Souvlaki,QUICK BITES,2.9,4.0,"Shoppers World Plaza, 499 Main Street South, Brampton","Greek, Fast Food",20.0,Brampton
+The Grainery Bakery & Deli,BAKERY,,,"1 Stafford Drive, Brampton","Bakery, Desserts, Deli",,Brampton
+Nancy Trattoria,CASUAL DINING,,,"2023 Williams Parkway East, Brampton L6S 6E7",Italian,30.0,Brampton
+Real Fruit Bubble Tea,BEVERAGE SHOP,,,"Bramalea City Centre, 25 Peel Centre Drive, Brampton",Bubble Tea,15.0,Brampton
+Prime Afghan Kabob,QUICK BITES,,,"50 Maritime Ontario Boulevard, Unit 34, Brampton, ON L6S 0E7","Kebab, Afghan",15.0,Brampton
+Galito's,CASUAL DINING,2.8,4.0,"7800 Hurontario Street, Brampton","Portuguese, African",30.0,Brampton
+Perfect Bite,CASUAL DINING,,,"4525 Ebenezer Road, Brampton","Burger, American, Fusion",35.0,Brampton
+Brampton,Other,,,CUISINES:,"Indian, Kebab, North Indian",20.0,Brampton
+Incredible India,CASUAL DINING,,,"10635 Bramalea Road J-7, Brampton, ON L6R 3P4",Indian,35.0,Brampton
+Walkers Brew,BAR,,,"Dixie Plaza, 14 Lisa Street, Brampton L6T 4W2",Bar Food,40.0,Brampton
+Betta Jerk,QUICK BITES,,,"2901 Queen Street E, Unit 7, Brampton L6P 2K1",Caribbean,15.0,Brampton
+China Palace,CASUAL DINING,,,"10061 McLaughlin Road, Brampton L7A 2X5","Chinese, Hakka Chinese",25.0,Brampton
+Keenan's Irish Pub,BAR,,,"550 Queen Street West, Brampton",Bar Food,30.0,Brampton
+Fusion Flame,CASUAL DINING,,,"155 Clark Boulevard, Brampton L6T 4G6",Hakka Chinese,25.0,Brampton
+Pro Sports Bar & Restaurant,BAR,,,"630 Peter Robertson Boulevard, Unit 1A, Brampton L6R 1C3","Bar Food, Canadian",40.0,Brampton
+Froshberg Gelato,DESSERT PARLOR,,,"Bramalea City Centre, 25 Peel Centre Drive, Brampton, GTA","Ice Cream, Desserts",15.0,Brampton
+Dhaba Express,CASUAL DINING,,,"380 Bovaird Drive, Brampton L7A 3E5",Indian,30.0,Brampton
+Uncle Bob's Country Buffet,CASUAL DINING,,,"227 Vodden Street E, Brampton",Canadian,25.0,Brampton
+Harbourside Fish & Chips,QUICK BITES,3.6,5.0,"180 Sandalwood Pkwy E, Brampton, ON L6Z 1Y4, Canada",Fish and Chips,20.0,Brampton
+Venezia Pizza,QUICK BITES,2.9,6.0,"8550 Torbram Road, Brampton","Italian, Pizza",20.0,Brampton
+Island Vibez,CASUAL DINING,,,"791 Bovaird Drive West, Brampton","Caribbean, Guyanese",35.0,Brampton
+Davide's,BAKERY,,,"10510 Torbram Road, Brampton L6P 2C9","Bakery, Cafe",20.0,Brampton
+Second Cup Coffee Co.,CAFÉ,3.2,4.0,74 Quarry Edge Drive,"Cafe, Coffee and Tea, Frozen Yogurt",10.0,Brampton
+Burrito Zone,QUICK BITES,,,"1 Kennedy Road South, Brampton",Mexican,25.0,Brampton
+Caribbean Heat,QUICK BITES,,,"180 Sandalwood Drive, Brampton L6Z 1Y4",Chinese,25.0,Brampton
+Calypso Hut,CASUAL DINING,,,"263 Queen Street E, Brampton L6W 2B8","Guyanese, Chinese, Caribbean",35.0,Brampton
+Pita Lite,QUICK BITES,,,"80 Resolution Drive, Brampton",Mediterranean,25.0,Brampton
+Kam Boat,CASUAL DINING,,,"Beech Valley Plaza, 320 Main Street North, Brampton","Chinese, Asian",25.0,Brampton
+Maguire's Irish Pub,CASUAL DINING,,,"284 Queen Street East, Brampton L6V 1C2",Bar Food,50.0,Brampton
+Grill It Up,Other,,,"Bramalea City Centre, Food Court, 25 Peel Centre Drive, Brampton",Grill,25.0,Brampton
+Freshly Squeezed,BEVERAGE SHOP,3.2,4.0,"Bramalea City Centre, 25 Peel Centre Drive, Brampton","Juices, Beverages",15.0,Brampton
+2 Bicas,Other,,,"2 Fisherman Dr, Brampton, Toronto","Modern European, Pub Food",35.0,Brampton
+Drupati's,QUICK BITES,,,"4550 Ebenezer Road, Brampton",Caribbean,20.0,Brampton
+Queen Gypsy,CAFÉ,,,"10 Main Street South, Brampton L6W 2C3",Cafe,15.0,Brampton
+The Great Canadian Bagel,CAFÉ,,,"295 Queen Street East, Brampton L6W 3W9",Cafe,15.0,Brampton
+The Govnors Pub,Other,,,"10 Bramhurst Avenue, Brampton",Bar Food,,Brampton
+Cake Village,BAKERY,,,"Kennedy Square, 50 Kennedy Road South, Brampton","Bakery, Chinese",10.0,Brampton
+New Pizza House,QUICK BITES,,,"31 Steeplebush Avenue, Brampton L6R 2J6","Pizza, Fast Food",25.0,Brampton
+Quesada Burritos & Tacos,QUICK BITES,3.4,4.0,"60 Resolution Drive, Unit 2, Brampton L6W 0A7",Tex-Mex,25.0,Brampton
+Sweet Breeze Cafe,CAFÉ,,,"20 Polonia Avenue, Brampton","Cafe, Fast Food",20.0,Brampton
+Shoeless Joe's,BAR,,,"50 Biscayne Crescent, Brampton L6W 4S1","American, Bar Food",60.0,Brampton
+En Sushi,CASUAL DINING,,,"7694 Hurontario Street, Brampton, ON L6Y 5B5","Japanese, Sushi",45.0,Brampton
+Laura Secord,DESSERT PARLOR,3.2,4.0,"Bramalea City Centre, 25 Peel Centre Drive, Brampton",Desserts,15.0,Brampton
+Kosy Korner,CAFÉ,,,"147 Queen Street E, Brampton L6W 2B1","Canadian, Cafe",20.0,Brampton
+Tropical Escape,CASUAL DINING,,,"2260 Bovaird Drive East Unit 112, Brampton","Caribbean, Chinese",25.0,Brampton
+Akwaaba Aphro-Can Lounge,CASUAL DINING,,,"83 Kennedy Road South, Brampton",Caribbean,35.0,Brampton
+Churrasqueira Grelha D'ouro,QUICK BITES,,,"5 Ardglen Drive, Brampton","Portuguese, BBQ",25.0,Brampton
+Raj Bhole Paan,QUICK BITES,,,"1098 Peter Robinson Boulevard, Brampton","Fast Food, Indian",20.0,Brampton
+Brewster's Roadhouse,BAR,,,"400 Steeles Avenue East, Brampton L6W","Burger, Bar Food",50.0,Brampton
+Taste of Mediteranean,CASUAL DINING,,,"41 George Street S, Brampton M5A 4B1",Mediterranean,25.0,Brampton
+Shawarma King,QUICK BITES,,,"345 Queen Street West Suite 7, Brampton, ON L6X 1B4","Mediterranean, Lebanese",25.0,Brampton
+Hyderabad House Biryani Place,QUICK BITES,,,"8015 Financial Dr b8, Brampton, ON L6Y 6A1",Indian,15.0,Brampton
+Chicken Ball,QUICK BITES,,,"700 Balmoral Drive, Brampton",Chinese,20.0,Brampton
+Super India Restaurant & Sweets,QUICK BITES,,,"124 Kennedy Road South, Brampton","Indian, Desserts",15.0,Brampton
+Bansie Food,QUICK BITES,,,"30 Rambler Drive, Unit 2, Brampton","Caribbean, Indian",15.0,Brampton
+Simply South,CASUAL DINING,,,"50 Lacoste Boulevard 121, Brampton, ON L6P 3Z",Indian,35.0,Brampton
+241 Pizza,QUICK BITES,,,"2 Philosophers Trail, Brampton","Pizza, Fast Food",30.0,Brampton
+Tropical Wave,QUICK BITES,,,"164 Sandalwood Parkway East, Brampton L6Z 3S4",Caribbean,25.0,Brampton
+Jamaica House Jerk,QUICK BITES,,,"145 Clarence Street, Unit 23, Brampton","Jamaican, Caribbean",25.0,Brampton
+Ann's Grove Restaurant,CASUAL DINING,,,"170 Wilkinson Road, Brampton","Caribbean, Chinese",,Brampton
+Banh Mi Brampton Bubble Tea,BEVERAGE SHOP,,,"50 Kennedy Road South, Brampton","Bubble Tea, Cafe, Beverages",10.0,Brampton
+New City Pizza,QUICK BITES,,,"9899 Airport Road, Unit 5, Brampton","Pizza, Fast Food",40.0,Brampton
+Shalimar Indian Bistro,CASUAL DINING,,,"190 Main Street S, Brampton L6W 2E2",Indian,35.0,Brampton
+Lunchbox Cafe & Catering,QUICK BITES,,,"50 Kennedy Road South, Unit 1, Brampton","Canadian, Filipino",20.0,Brampton
+Pizza Flames,QUICK BITES,,,"1965 Cottrelle Boulevard, Brampton",Pizza,30.0,Brampton
+Crown & Anchor,BAR,,,"389 Main Street North, Brampton","Bar Food, American",50.0,Brampton
+Boar N Wing,BAR,,,"Wanless Centre, 10886 Hurontario Street, Brampton",Bar Food,60.0,Brampton
+Maharaja,QUICK BITES,,,"269 Queen Street East, Brampton L6W 2C2",Indian,25.0,Brampton
+Jamaica House Kitchen,CASUAL DINING,,,"80 Pertosa Drive, Unit 2, Brampton L6X 5E9","Jamaican, Caribbean",25.0,Brampton
+Shaf's Pizza and Broast,CASUAL DINING,,,"15 Ashby Field Road, Brampton",Pizza,25.0,Brampton
+House of Cards Board Game Cafe,CAFÉ,,,"12 Queen Street E, Brampton L6V 1A2","Cafe, Coffee and Tea",15.0,Brampton
+Cakes 'n' Bakes,BAKERY,,,"1098 Peter Robertson Boulevard, Unit 23, Brampton L6R 3A5","Bakery, Desserts",15.0,Brampton
+Tastie Chicken,QUICK BITES,,,"51 McMurchy Avenue South, Brampton","Caribbean, Afghan",20.0,Brampton
+Lynn's Buccoo Reef Restaurant,FAST CASUAL,,,"3-284 Orenda Road, Brampton, ON L6T 4X6",West Indian,,Brampton
+Sweet Palace,QUICK BITES,,,"2945 Sandalwood Parkway East, Brampton","Indian, Desserts",,Brampton
+David's Restaurant,CASUAL DINING,,,"20 Shamrock Road, Erin","Italian, Canadian",40.0,Brampton
+La Favorita,QUICK BITES,,,"18 Queen Street West, Brampton L6X 1A1",Cafe,15.0,Brampton
+Bukhara Grill,CASUAL DINING,3.2,4.0,"190 Main St S, Brampton, ON L6W 2E2",Indian,50.0,Brampton
+Bubble Tease,Other,,,"Bramalea City Centre, Food Court, 25 Peel Centre Drive, Brampton",Bubble Tea,,Brampton
+Quickies' Subs & Burgers,QUICK BITES,,,"18 Rambler Drive, Unit 3, Brampton","Sandwich, Burger, Fast Food",20.0,Brampton
+Kernels Popcorn,QUICK BITES,,,"Bramalea City Centre, 25 Peel Centre Drive, Brampton",Fast Food,15.0,Brampton
+Willy's Jerk,QUICK BITES,,,"Kingspoint Plaza, 370 Main Street North, Brampton",Caribbean,35.0,Brampton
+Mughal Mahal,CASUAL DINING,,,"10088 McLaughlin Road, Unit 21, Brampton",Indian,45.0,Brampton
+Tandoori Dhaba,QUICK BITES,,,"1650 Williams Parkway, Brampton, GTA",Indian,20.0,Brampton
+Denz Egg Free Bakery,QUICK BITES,,,"145 Clarence Street, Brampton","Bakery, Desserts",10.0,Brampton
+Zecas BBQ Chicken,QUICK BITES,,,"51 McMurchy Avenue South, Brampton","BBQ, Portuguese",30.0,Brampton
+Ital Sandwiches,Other,,,"90 Maritime Ontario Boulevard, Suite 61, Brampton, ON L6S 0E7","Italian, Sandwich",15.0,Brampton
+Kishan,QUICK BITES,,,"Lake of Dreams Plaza, 50 Sunnyvale Gate, Brampton","Sri Lankan, Indian",25.0,Brampton
+Epic Pita,QUICK BITES,,,"15 Ashby Field Road, Brampton",Fast Food,20.0,Brampton
+Osmow's,CASUAL DINING,,,"120 Clementine Dr, Unit 5, Brampton L6Y 0L8",Canadian,25.0,Brampton
+Patiala House,CASUAL DINING,,,"305 Royal West Drive, Brampton, ON L6X 5K8",Indian,35.0,Brampton
+Island Style Restaurant & Bar,BAR,,,"8917 The Gore Road, Brampton L6P 0B7","Caribbean, Bar Food",45.0,Brampton
+Somethin' Sweet 4 U,QUICK BITES,,,"7916 Hurontario Street, Unit 21, Brampton L6Y0P6",Filipino,,Brampton
+Lazeez Shawarma CS,CASUAL DINING,,,"10671 Chinguacousy Road, Suite 12, Brampton L7A L7A","Mediterranean, Middle Eastern",25.0,Brampton
+Golden Star,CASUAL DINING,,,"Dixie Plaza, 14 Lisa Street, Brampton",Chinese,40.0,Brampton
+Pampanga Cuisine,CASUAL DINING,,,"400 Queen Street West, Brampton L6X 1B3","Filipino, Asian",30.0,Brampton
+Peninsula Bakery,BAKERY,,,"380 Bovaird Drive East, Unit 13, Brampton","Bakery, Chinese",15.0,Brampton
+Fresh Bite & Meat,QUICK BITES,,,"65 Braydon Boulevard, Brampton",Indian,,Brampton
+Johal Sweets & Restaurant,QUICK BITES,,,"3918 Cottrelle Boulevard, Brampton","Indian, Desserts",,Brampton
+Shanghai 360,Other,,,"Bramalea City Centre, Food Court, 25 Peel Centre Drive, Brampton",Chinese,20.0,Brampton
+California Thai,Other,,,"Bramalea City Centre, Food Court, 25 Peel Centre Drive, Brampton","Fast Food, Thai, Asian",25.0,Brampton
+Mr. Pepper's Pizza,QUICK BITES,,,"119 Queen Street West, Brampton L6Y 1M3","Pizza, Fast Food",25.0,Brampton
+Can Asian Food,QUICK BITES,,,"Lake of Dreams Plaza, 50 Sunnyvale Gate, Brampton","Filipino, Asian",,Brampton
+Kraving's,BAKERY,,,"230 Sandalwood Parkway East, Unit 9, Brampton L6Z 1R3",Bakery,15.0,Brampton
+Elsa Lutong Bahay,QUICK BITES,,,"65 Rutherford Road South, Brampton L6W 3J3","Filipino, Asian",15.0,Brampton
+Orcel Asian Cuisine,QUICK BITES,,,"3 Charles Street, Brampton","Filipino, Asian",15.0,Brampton
+Tandoori Chaska,QUICK BITES,,,"1975 Cottrelle Boulevard, Brampton",Indian,,Brampton
+Fusia Asian Kitchen,QUICK BITES,,,"Shoppers World Plaza, 499 Main Street South, Brampton",Chinese,25.0,Brampton
+Coco Cabana Caribbean Cuisine & Bakery,BAKERY,,,"423 Wanless Drive, Brampton",Caribbean,20.0,Brampton
+Azores Bakery,BAKERY,,,"5 McMurchy Avenue North, Brampton L6X 2R6",Bakery,15.0,Brampton
+Pizza King & Pasta,QUICK BITES,,,"511 Ray Lawson Boulevard, Unit 10, Brampton","Pizza, Italian",20.0,Brampton
+Country Style,QUICK BITES,,,"3995 Cottrelle Boulevard., Brampton",Cafe,20.0,Brampton
+Druxy's Famous Deli,QUICK BITES,,,"Bramalea City Centre, Food Court, 25 Peel Centre Drive, Brampton","Fast Food, Sandwich",25.0,Brampton
+Dreamz Clock 'N' Hen Restaurant and Bar,CASUAL DINING,,,"71 West Drive, Brampton L6T 2J6","Canadian, Bar Food",25.0,Brampton
+National sweets,DESSERT PARLOR,,,"Unite 1-2-3, 20 Dewside Drive, Brampton, ON L6R 3Y3",Indian,20.0,Brampton
+David's Tea,BEVERAGE SHOP,,,"25 Peel Centre Drive, Brampton","Tea, Beverages",15.0,Brampton
+Kalpataru Dosa Hub,CASUAL DINING,,,"120 Clementine Drive., Suite 3, Brampton L6Y 0L8","Indian, Vegetarian",25.0,Brampton
+Pizza 4 U,QUICK BITES,,,"130 Father Tobin Road, Unit 9, Brampton L6R 0J2","Pizza, Fast Food",25.0,Brampton
+Eeswaran,QUICK BITES,,,"105 Kennedy Road South, Unit 8, Brampton L6W 3G2","Indian, Sri Lankan",30.0,Brampton
+Clancy's Sport Bar & Grill,BAR,,,"456 Vodden Street East, Brampton",Bar Food,,Brampton
+GK Kitchenette,CASUAL DINING,,,"Harmsworth Lane, Toronto","Canadian, Caribbean",20.0,Brampton
+Mo’s Golden Pretzel,QUICK BITES,,,"25 Peel Centre Dr, Brampton, ON L6T 3R5",American,15.0,Brampton
+Pos Bueno Mexican Restaurant Bar,CASUAL DINING,,,"53 George Street S, Brampton, Toronto","Mexican, Finger Food",,Brampton
+Keboghi,CASUAL DINING,,,"10086 Hurontario Street, Brampton","Pakistani, Indian",40.0,Brampton
+Tiki Ming,Other,,,"Bramalea City Centre, Food Court, 25 Peel Centre Drive, Brampton","Fast Food, Chinese, Asian",25.0,Brampton
+World Of Patty,QUICK BITES,,,"30 Rambler Drive, Brampton",Caribbean,20.0,Brampton
+Little India Sweets & Restaurants,QUICK BITES,,,"7955 Torbram Road, Brampton",Indian,,Brampton
+Pizza Palace,QUICK BITES,,,"537 Van Kirk Drive, Brampton",Pizza,,Brampton
+The Energy Juice Bar,BEVERAGE SHOP,,,"Nutrition Source, 2120 North Park Drive, Brampton",Juices,10.0,Brampton
+Amaze Us,QUICK BITES,,,"5 McMurchy Avenue North, Brampton",Caribbean,20.0,Brampton
+Mo-Bay Jerk,QUICK BITES,,,"263 Queen Steet East, Brampton","Caribbean, Jamaican",30.0,Brampton
+Williams Fresh Café,CAFÉ,,,"150 Central Park Dr, Brampton L6T 2T9","Canadian, Cafe",20.0,Brampton
+Baba's Pizza & Wings,QUICK BITES,,,"8550 Torbram Road, Brampton","Pizza, Indian",20.0,Brampton
+Airport Sweets & Tandoori,QUICK BITES,,,"9899 Airport Road , Unit 6, Brampton",Indian,45.0,Brampton
+Traditional Bakery & Cafe,BAKERY,,,"4 McLaughlin Road South, Brampton","Bakery, Deli, Cafe",20.0,Brampton
+Che Thuy Nga,QUICK BITES,,,"143 Clarence Street, Brampton","Vietnamese, Asian",40.0,Brampton
+King's Garden,CASUAL DINING,,,"Springdale Square, 5 Mountainash Road, Unit 19, Brampton","Chinese, Asian",20.0,Brampton
+Ichiban Sushi Express,Other,,,"Bramalea City Centre, Food Court, 25 Peel Centre Drive, Brampton","Sushi, Japanese, Asian",25.0,Brampton
+Nath Meat,QUICK BITES,,,"2945 Sandalwood Parkway East, Brampton",Indian,25.0,Brampton
+Desi Flavors,QUICK BITES,,,"180 Sandalwood Parkway, Brampton L6Z 1Y4",Indian,25.0,Brampton
+City North Pizza,QUICK BITES,,,"373 Steeles Avenue West, Unit 9, Brampton L6Y 0P8","Pizza, Fast Food",25.0,Brampton
+All Stars Bar & Grill,CASUAL DINING,,,"73 Lisa Street, Brampton","American, Grill",35.0,Brampton
+Abby's Grill & Cafe,QUICK BITES,,,"13 Hale Road, Brampton","Cafe, Fast Food",20.0,Brampton
+The Bakery Bar,BAKERY,,,"30 Intermodal Drive, Brampton",Bakery,25.0,Brampton
+Rasna,CASUAL DINING,,,"105 Kennedy Road South, Unit 2, Brampton",Indian,40.0,Brampton
+Pho 14 Kennedy,CASUAL DINING,,,"14 Kennedy Road South, Brampton L6W 3E1","Vietnamese, Asian",40.0,Brampton
+Queen's Cave,BAR,,,"1403 Queen Street West, Brampton",Bar Food,40.0,Brampton
+Euromax,QUICK BITES,,,"190 Bovaird Drive West, Brampton","European, Deli",,Brampton
+Yogurty's,DESSERT PARLOR,,,"William's Fresh Cafe, 2454 Queen Street East, Brampton L6S 5X9","Frozen Yogurt, Desserts",15.0,Brampton
+Tastiechicken Enterprise,QUICK BITES,,,"51 McMurchy Avenue South, Brampton L6Y 1Y5",BBQ,20.0,Brampton
+Golden Grains Bakery & Deli,BAKERY,,,"389 Main Street North, Brampton L6X 3P1","Bakery, Portuguese",20.0,Brampton
+Kung Pao Wok,Other,,,"Bramalea City Centre, Food Court, 25 Peel Centre Drive, Brampton","Chinese, Asian",,Brampton
+Wing Machine,QUICK BITES,,,"10671 Chinguacousy Drive, Brampton",Fast Food,30.0,Brampton
+Coffee Culture Cafe & Eatery,CAFÉ,,,Opening Soon,"Cafe, Coffee and Tea, European",10.0,Brampton
+King Paan,QUICK BITES,,,"40 Gillingham Drive, Brampton",Indian,25.0,Brampton
+Frankie's Hamburgers,QUICK BITES,,,"Centennial Mall, 227 Vodden Street East, Brampton",Fast Food,15.0,Brampton
+Exalta,CASUAL DINING,,,"238 Queen Street East, Brampton L6V 1B9","Canadian, Juices",25.0,Brampton
+Iggy's Grill Bar Patio,CASUAL DINING,,,"Lionhead Golf & Conference Centre, 8525 Mississauga Road, Brampton L6Y 0C1",Steak,35.0,Brampton
+Carve on Lot 5,FAST CASUAL,,,"15 Main St N, Brampton, ON L6X 1M8",Diner,30.0,Brampton
+Kennedy Court Bar & Grill,BAR,,,"3 Stafford Drive, Brampton L6W 1L3","Canadian, Bar Food",40.0,Brampton
+Ardglen Bakery,BAKERY,,,"85 Clarence Street, Brampton",Bakery,15.0,Brampton
+Shawarma Corner,CASUAL DINING,,,"239 Queen Street East, Brampton L6V 1C2",Middle Eastern,25.0,Brampton
+Pappu Sweets & Catering,CASUAL DINING,,,"Chrysler Drive Centre, 470 Chrysler Drive, Brampton",Indian,,Brampton
+"Gujarati Foods, Sweets, Snacks & Catering Services",QUICK BITES,,,"287 Glidden Road, Suite 14, Brampton, ON L6W 1H9",Indian,20.0,Brampton
+Pizza Mart,QUICK BITES,,,"2120 North Park Drive, Unit 25, Brampton L6S5M4","Pizza, Fast Food",25.0,Brampton
+Coffee Time,QUICK BITES,,,"176 Main Street South, Brampton",Cafe,25.0,Brampton
+Up Yer Kilt,BAR,,,"284 Orenda Road, Brampton",Bar Food,,Brampton
+Chester's Chicken,QUICK BITES,,,"8155 Torbram Road, Inside Petro, Brampton, Brampton, GTA",Fast Food,25.0,Brampton
+Indian Roots,QUICK BITES,,,"537 Van Kirk Drive, Brampton","Indian, Desserts",,Brampton
+Orange Julius,BEVERAGE SHOP,,,"Bramalea City Centre, Food Court, 25 Peel Centre Drive, Brampton",Beverages,25.0,Brampton
+Baker's House,BAKERY,,,"8550 Torbram Road, Brampton",Bakery,,Brampton
+Kelseys Original Roadhouse,FAST CASUAL,,,"2870 Queen Street East, Brampton, ON L6S 6E8",Canadian,20.0,Brampton
+La Pergola Ristorante - Monte Carlo Inn Brampton,CASUAL DINING,,,"45 Coventry Road, Brampton",Canadian,40.0,Brampton
+Copos Bar,BAR,,,"5 McMurchy Avenue North, Brampton L6X 2R6",Bar Food,35.0,Brampton
+Bong Manchurian Garden,CASUAL DINING,,,"550 Queen Street West, Brampton, ON L6Y 5T1",Indian,25.0,Brampton
+Cheers Lounge,CASUAL DINING,,,"18 Queen Street East, Brampton L6V 1A2",Caribbean,40.0,Brampton
+Sbarro,Other,,,"Bramalea City Centre, Food Court, 25 Peel Centre Drive, Brampton","Pizza, Fast Food",25.0,Brampton
+Burger King,QUICK BITES,,,2 Beaumaris Drive,Fast Food,15.0,Brampton
+Chilli Chicken House,QUICK BITES,,,"7700 Hurontario Street Unit 108-A, Brampton, ON L6Y 4M3",Hakka Chinese,20.0,Brampton
+Purdy's,DESSERT PARLOR,,,"Bramalea City Centre, 105 B, 25 Peel Centre Drive, Brampton","Desserts, Ice Cream",20.0,Brampton
+AG's Bakery,BAKERY,,,"8917 The Gore Road, Brampton","Indian, Bakery",,Brampton
+Big Thumb,CASUAL DINING,,,"284 Orenda Road , Brampton","Chinese, Asian",25.0,Brampton
+Bengla Sweets,DESSERT PARLOR,,,"80 Pertosa Drive, Brampton","Indian, Desserts",,Brampton
+Tim Hortons,CAFÉ,,,5 Great Lakes,"Cafe, Donuts",20.0,Brampton
+Spicy Cocina Family Restaurant and Cafe,CASUAL DINING,,,"5 McMurchy Avenue North, Brampton L6X 2R6","Caribbean, Canadian, West Indian",35.0,Brampton
+Platinum Tap & Grill,CASUAL DINING,,,"158 Kennedy Road S, Unit 14 L6W 3G7","Canadian, Caribbean",,Brampton
+Viva Cafe,CAFÉ,,,"Squires Plaza, 10069 Hurontario Street, Unit 1, Brampton",Cafe,20.0,Brampton
+Bramalea City Pizza,QUICK BITES,,,"Bramalea City Centre, 100 Peel Centre Drive, Brampton",Pizza,25.0,Brampton
+GTA Pizza & Wings,QUICK BITES,,,"168 Kennedy Road South, Brampton","Pizza, Fast Food",25.0,Brampton
+Flowertown Pub,BAR,,,"12 Flowertown Avenue, Brampton",Bar Food,35.0,Brampton
+Yum Shawarma,QUICK BITES,,,"80 Pertosa Drive, Brampton, ON L6X 5E9",Lebanese,15.0,Brampton
+Flower Garden,CASUAL DINING,,,"10 Flowertown Avenue, Brampton","Caribbean, Chinese, Asian",35.0,Brampton
+Big Slick Tap And Grill,BAR,,,"158 Kennedy Road South, Brampton","Jamaican, Canadian",35.0,Brampton
+Masta's Lounge,Other,,,"282 Orenda Plaza, Brampton","Caribbean, American",,Brampton
+JP's Cafe & Bar,QUICK BITES,,,"20 Red Maple Drive, Brampton",Bar Food,,Brampton
+The BBQ Village,CASUAL DINING,,,"10086 Hurontario St Unit3, Brampton L7A 1E5","BBQ, Pakistani",25.0,Brampton
+Swiss Chalet Rotisserie & Grill,CASUAL DINING,,,"10900 Hurontario Street, Unit B19, Brampton L7A 3R9",American,25.0,Brampton
+Nahla's Cuisine,CASUAL DINING,,,"20 Dewside Dr, Suite 8, Brampton L6R 3C2",Middle Eastern,40.0,Brampton
+La Marmite Mauricienne,CASUAL DINING,,,"22 Main Street S, Brampton L6W 2C3",Seafood,25.0,Brampton
+Quesada Burritos & Tacos,QUICK BITES,,,"10045 Hurontario Street, Brampton, ON L6Z 0E6",Tex-Mex,15.0,Brampton
+Fusion Halal Cuisine,CASUAL DINING,,,"8500 Torbram Road, Unit 49, Brampton, ON L6T 5C6",Pakistani,25.0,Brampton
+Portas Do Mar Bar and Grill,CASUAL DINING,,,"389 Main St N, Brampton, ON L6X 1N7",Portuguese,50.0,Brampton
+Tim Hortons,CAFÉ,,,10010 Mclaughlin Road North,"Cafe, Donuts",20.0,Brampton
+The Chocolatier,BAKERY,,,"22 Meadowcrest Ln, Brampton",Bakery,15.0,Brampton
+Cafe Grill,CAFÉ,,,"101 Heart Lake Road, Brampton",Cafe,20.0,Brampton
+Ivy Bridge,BAR,,,"160 Main Street South, Brampton L6Y 1N2",Bar Food,45.0,Brampton
+GT Restaurant & Bar,BAR,,,"2074 Steeles Avenue East, Brampton, Brampton, GTA","Bar Food, Chinese",,Brampton
+Mocha Cafe,BAR,,,"21 Nelson Street West, Brampton",Bar Food,30.0,Brampton
+Royal Pizza,QUICK BITES,,,"284 Orenda Road, Brampton",Pizza,15.0,Brampton
+Shahi Tandoor,CASUAL DINING,,,"60 Cottrelle Boulevard, Brampton, ON L6S 0E1",Pakistani,25.0,Brampton
+Uptown Cafe,CAFÉ,,,"Beech Valley Plaza, 320 Main Street West, Brampton L6V 4A3",Cafe,15.0,Brampton
+Brampton Italian Sports Cafe,BAR,,,"239 Queen Street East, Brampton L6V 1C2",Beverages,35.0,Brampton
+Mrs. Fields,DESSERT PARLOR,,,"Bramlea City Centre, Food Court, 25 Peel Centre Drive, Brampton",Desserts,15.0,Brampton
+Strokers Sports bar & Pool,BAR,,,"14 Nelson Street West, Brampton",Bar Food,,Brampton
+Bollywood,CASUAL DINING,,,"4525 Ebenezer Road, Brampton",Indian,40.0,Brampton
+Heavenly Pastries & Cuisine,QUICK BITES,,,"700 Balmoral Drive, Brampton",American,20.0,Brampton
+Island Grove,CASUAL DINING,,,"4525 Ebenezer Road, Brampton",Caribbean,,Brampton
+Hot Loaf Pizza,QUICK BITES,,,"373 Steeles Avenue West, Brampton",Pizza,30.0,Brampton
+Kennedy Cafe & Grill,QUICK BITES,,,"220 Wexford Drive, Brampton","Diner, American",,Brampton
+Starbucks,CAFÉ,,,"65 Dusk Drive, Unit 1 L6Y 0H7",Coffee and Tea,,Brampton
+Starbucks,CAFÉ,,,25 Gateway Blvd L6T 4X2,Coffee and Tea,,Brampton
+Rambos Bistro and Catering,CASUAL DINING,,,"263 Queen St E, Brampton L6W 4K6",Canadian,25.0,Brampton
+Hero Certified Burgers,FAST CASUAL,,,"25 Gateway Blvd d6, Brampton, ON L6T 4X2",Burger,15.0,Brampton
+Hero Certified Burgers,FAST CASUAL,,,"25 Gateway Blvd d6, Brampton, ON L6T 4X2",Burger,15.0,Brampton
+Tim Hortons,CAFÉ,,,8550 Goreway Drive,"Cafe, Donuts",20.0,Brampton
+Tim Hortons,CAFÉ,,,35 Cherrycrest Drive,"Cafe, Donuts",20.0,Brampton
+Dairy Queen Grill & Chill,QUICK BITES,,,11240 Creditview Road Unit A-2,Fast Food,15.0,Brampton
+Pane Fresco At Fortinos,BAKERY,,,"35 Worthington Ave, Brampton, Toronto","Bakery, Cafe",20.0,Brampton
+Satkar Sweets & Restaurant,QUICK BITES,,,"2120 North Park Road, Unit 23, Brampton L6S 0C9",Indian,30.0,Brampton
+Seen's Bar and Grilll,CASUAL DINING,,,"Shoppers World Plaza, 499 Main Street South, Brampton L6Y 1N7",Bar Food,30.0,Brampton
+San Pietro Foods & Desserts,DESSERT PARLOR,,,"85 Kennedy Road South, Brampton",Desserts,43.0,Brampton
+Tk Sub Subs & Deli,QUICK BITES,,,"12 Queen Street East, Brampton",Sandwich,15.0,Brampton

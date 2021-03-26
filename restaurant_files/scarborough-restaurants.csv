@@ -1,0 +1,1058 @@
+Name,EstablishmentType,Rating,NumReviews,Address,Cuisine,CostForTwo,City
+Johnny's Hamburgers,QUICK BITES,4.2,469.0,"2595 Victoria Park Avenue, Scarborough M1T 1A4",Burger,15.0,Scarborough
+Fishman Lobster Clubhouse,CASUAL DINING,4.0,175.0,"Silver Star, 680 Silver Star Boulevard, Scarborough M1V 4S5","Seafood, Cantonese, Chinese",140.0,Scarborough
+Le Cafe Michi,CASUAL DINING,4.2,209.0,"1802 Pharmacy Avenue, Scarborough M1T 1H6","Sushi, Japanese, Asian",55.0,Scarborough
+Lamanna's Bakery,BAKERY,4.7,169.0,"6758 Kingston Road, Scarborough M1B 1G8","Bakery, Italian",25.0,Scarborough
+Federick Restaurant,CASUAL DINING,4.2,228.0,"1920 Ellesmere Road, Scarborough M1H 2V6","Hakka Chinese, Chinese, Asian",30.0,Scarborough
+The Real McCoy,QUICK BITES,4.5,178.0,"1033 Markham Road, Scarborough M1H 2Y5","Pizza, Fast Food",25.0,Scarborough
+Terry's Bar & Grill,CASUAL DINING,4.3,227.0,"1920 Ellesmere Road, Scarborough M1H 3G1","Bar Food, Sandwich, Burger",40.0,Scarborough
+Diana's Oyster Bar And Grill,CASUAL DINING,4.1,119.0,"2105 Lawrence Avenue E, Scarborough M1R 2Z4",Seafood,60.0,Scarborough
+Perfect Chinese Restaurant,CASUAL DINING,4.0,148.0,"4386 Sheppard Avenue East, Scarborough M1S 1T8","Dim Sum, Cantonese",25.0,Scarborough
+Gourmet Malaysia,CASUAL DINING,3.8,86.0,"4466 Sheppard Avenue East, Scarborough M1S 4J9",Malaysian,30.0,Scarborough
+Panagio's,CASUAL DINING,4.6,121.0,"1928 McCowan Road, Scarborough M1S 4K1","American, Mexican",35.0,Scarborough
+Pho 88,CASUAL DINING,4.2,183.0,"Bamburgh Gardens Shopping Plaza, 325 Bamburgh Circle, Scarborough M1W 3Y1",Vietnamese,30.0,Scarborough
+Lin Garden Restaurant,CASUAL DINING,4.2,151.0,"1806 Pharmacy Avenue, Scarborough M1T 1H6","Hakka Chinese, Indian",25.0,Scarborough
+The Markham Station,CASUAL DINING,3.8,148.0,"5117 Sheppard Avenue East, Scarborough M1S 4N3","Diner, Breakfast",55.0,Scarborough
+Makkal Chon,CASUAL DINING,4.3,87.0,"1979 Lawrence Avenue E, Scraborough M1R 2Z2","Korean, Asian",,Scarborough
+One2Snacks,QUICK BITES,4.6,74.0,"8 Glen Watford Drive, Scarborough M1S 2C1",Malaysian,20.0,Scarborough
+Saravanaa Bhavan,CASUAL DINING,4.2,92.0,"Woodside Square, First Floor, 1571 Sandhurst Circle, Unit 153, Scarborough M1V 1V2","South Indian, Indian",40.0,Scarborough
+Matsuda,CASUAL DINING,4.3,116.0,"5651 Steeles Avenue E, Scarborough M1W 2B4","Sushi, Japanese, Asian",40.0,Scarborough
+Fratelli Village Pizzeria,CASUAL DINING,4.3,121.0,"384 Old Kingston Road, Scarborough M1C 1B6","Pizza, Italian",65.0,Scarborough
+Chako,CASUAL DINING,3.8,111.0,"2190 Mcnicoll Avenue, Scarborough M1V 5M2","Sushi, Korean, Japanese, Asian",60.0,Scarborough
+Maple Yip,CASUAL DINING,4.0,60.0,"Midtown Plaza, 4227 Sheppard Avenue East, Scarborough M1S 5H5",Cantonese,30.0,Scarborough
+Remezzo,CASUAL DINING,4.1,92.0,"3335 Sheppard Avenue East, Scarborough M1T 3K2",Italian,50.0,Scarborough
+Vi Pei Bistro,CASUAL DINING,4.2,94.0,"2258 Kingston Road, Scarborough",European,70.0,Scarborough
+Smith Bros. Steakhouse Tavern,CASUAL DINING,4.1,77.0,"880 Warden Avenue, Scarborough M1L 4W6","Steak, Grill",,Scarborough
+Magic Noodle,CASUAL DINING,3.4,61.0,"2190 Mcnicoll Avenue, Scarborough M1V 5M2",Northern Chinese,20.0,Scarborough
+Asian Legend,CASUAL DINING,4.2,83.0,"4452 Sheppard Avenue East, Scarborough M1S 3G9",Northern Chinese,40.0,Scarborough
+Pho Metro,CASUAL DINING,4.3,75.0,"2057 Lawrence Avenue E, Scarborough M1R 2Z4","Vietnamese, Asian",30.0,Scarborough
+Chris Jerk Caribbean Bistro,QUICK BITES,3.9,52.0,"Huntingwood Square, 2570 Birchmount Road, Scarborough M1T 2M5","Jamaican, Caribbean",35.0,Scarborough
+Shawarma Empire,QUICK BITES,4.2,72.0,1823 Lawrence Avenue E M1R 2Y3,Middle Eastern,15.0,Scarborough
+The Roti Hut,QUICK BITES,4.0,78.0,"351 Pitfield Road, Scarborough M1S 2V9",Caribbean,15.0,Scarborough
+Casa Imperial,CASUAL DINING,3.6,81.0,"4125 Steeles Avenue East, Scarborough M1W 3T4","Dim Sum, Cantonese, Chinese",60.0,Scarborough
+Babu Takeout and Catering,QUICK BITES,4.3,79.0,"4800 Sheppard Avenue East, Toronto","Fast Food, Indian",13.0,Scarborough
+0109 Dessert & Chocolate,DESSERT PARLOR,3.5,36.0,"2190 McNicoll Avenue, Unit 109, Scarborough M1V 0B3",Desserts,25.0,Scarborough
+Karaikudi Chettinad Restaurant,CASUAL DINING,3.9,76.0,"1225 Kennedy Road, Scarborough M1P 4Y1",South Indian,40.0,Scarborough
+Naan & Kabob,CASUAL DINING,4.3,71.0,"1801 Lawrence Avenue E, Scarborough M1R 2X9","Middle Eastern, Afghan",,Scarborough
+Hunter's,CASUAL DINING,4.0,62.0,"Huntingwood Square, 2574 Birchmount Road, Scarborough M1S 1K8","Diner, Mediterranean",35.0,Scarborough
+Moxie's Grill & Bar,CASUAL DINING,3.6,82.0,"300 Borough Dr, 215, Scarborough M1P 4P5","Grill, Steak, Canadian, Fusion",65.0,Scarborough
+Shamrock Burgers,QUICK BITES,4.2,63.0,"6109 Kingston Road, Scarborough M1C 1K5","Burger, Fast Food",25.0,Scarborough
+T Bones,CASUAL DINING,3.3,81.0,"2540 Eglinton Avenue E, Scarborough M1K 2R5","Burger, Grill, Steak",40.0,Scarborough
+Johnny's Shawarma,QUICK BITES,4.0,49.0,"1904 Kennedy Road, Scarborough M1P 2L8","Lebanese, Middle Eastern",25.0,Scarborough
+Dumpling King,CASUAL DINING,3.7,49.0,"Scarborough Village Mall, 3290 Midland Avenue, Scarborough M1V 3Z9","Northern Chinese, Chinese, Asian",30.0,Scarborough
+China Cottage,CASUAL DINING,3.6,71.0,"80 Ellesmere Road, Scarborough M1R 4C2",Hakka Chinese,30.0,Scarborough
+Canyon Creek,CASUAL DINING,4.2,74.0,"430 Progress Avenue, Scarborough M1P 5J1",Steak,90.0,Scarborough
+Korean Grill House,CASUAL DINING,3.7,64.0,"Scarborough Village Mall, 3280 Midland Avenue, Scarborough","BBQ, Korean",45.0,Scarborough
+Mexico Lindo,QUICK BITES,4.1,41.0,"Huntingwood Square, 2586 Birchmount Road, Scarborough M1T 2M5",Mexican,30.0,Scarborough
+Red Lobster,CASUAL DINING,3.8,66.0,"3252 Sheppard Avenue E, Scarborough M1T 3K3",Seafood,60.0,Scarborough
+Mona's Roti,QUICK BITES,4.3,49.0,"4810 Sheppard Avenue E, Scarborough M1S 4N6",Caribbean,20.0,Scarborough
+Congee Queen,CASUAL DINING,3.5,50.0,"Agincourt Mall, 3850 Sheppard Avenue E, Scarborough M1T 3L4","Cantonese, Chinese, Asian",40.0,Scarborough
+El Pulgarcito,CASUAL DINING,4.2,51.0,"20 Nugget Avenue, Suite 3, Toronto M1S 3A7",Latin American,45.0,Scarborough
+Ding Tai Fung,CASUAL DINING,3.8,36.0,"175 Commander Boulevard, Unit 1, Scarborough, GTA M1S 3M7","Shanghai, Dim Sum",30.0,Scarborough
+Ted's Restaurant,CASUAL DINING,3.7,64.0,"404 Old Kingston Road, Scarborough M1C 1B6",American,55.0,Scarborough
+Jatujak,CASUAL DINING,3.8,43.0,"1466 Kingston Road, Scarborough M1N 1R6",Thai,40.0,Scarborough
+Little Sheep Mongolian Hot Pot,CASUAL DINING,3.5,31.0,"2543 Warden Avenue, Scarborough M1W 2H7","Mongolian, Chinese",50.0,Scarborough
+Five Guys,QUICK BITES,3.6,80.0,800 Warden Avenue,"Fast Food, Burger",25.0,Scarborough
+Tatami Sushi,CASUAL DINING,3.7,51.0,"10 Lebovic Avenue, Scarborough M1L 4W1","Sushi, Japanese, Asian",35.0,Scarborough
+Anjappar Chettinad,CASUAL DINING,3.7,62.0,"3090 Eglinton Avenue E, Scarborough M1J 2H1",South Indian,40.0,Scarborough
+The Arkadia House,CASUAL DINING,4.0,75.0,"2007 Eglinton Avenue, Scarborough M1L 2M9",Greek,80.0,Scarborough
+Mama's Boys Burgers,QUICK BITES,4.0,47.0,"480 Danforth Road, Scarborough M1K 1C7","Burger, Canadian",25.0,Scarborough
+The West Hill Pizza & Wings,CASUAL DINING,4.1,73.0,"4637 Kingston Road, Unit 1, Scarborough","Italian, Tapas, Fusion",30.0,Scarborough
+Yamamoto Japanese Cuisine,CASUAL DINING,3.4,20.0,"Bridlewood Mall, First Floor, 2900 Warden Avenue, Scarborough M1W 2S8","Sushi, Japanese, Asian",50.0,Scarborough
+Kostas Bakery,BAKERY,3.5,15.0,"265 Ellesmere Road, Scarborough",Bakery,15.0,Scarborough
+Made In China,CASUAL DINING,3.4,40.0,3280 Midland Avenue,"Chinese, Asian",25.0,Scarborough
+Kairali,CASUAL DINING,3.8,49.0,"1210 Kennedy Road, Scarborough M1P 2L1","South Indian, Sri Lankan",35.0,Scarborough
+Agincourt Bakery,BAKERY,3.9,38.0,3059 Pharmacy Avenue M1W 2H1,"Bakery, Italian, Desserts",20.0,Scarborough
+Blue Water Curry & Roti,CASUAL DINING,3.9,53.0,"1646 Victoria Park Avenue, Near Victoria Park Subway Station, Scarborough M1R 1P7",West Indian,20.0,Scarborough
+Cafe Mirage Grill & Lounge,CASUAL DINING,3.6,57.0,"26 William Kitchen Road, Scarborough M1P 2Y4","Fusion, Desserts",45.0,Scarborough
+Black Dog Pub,BAR,3.9,55.0,"87 Island Road, Scarborough M1C 3P2",Bar Food,60.0,Scarborough
+Shanghai Dim Sum,CASUAL DINING,3.6,23.0,"4401 Sheppard Avenue East, Scarborough M1S 1T8",Shanghai,30.0,Scarborough
+D Spot,DESSERT PARLOR,3.4,29.0,"51 Lebovic Avenue, Unit 101, Scarboroughbe","Desserts, Beverages, Pizza",,Scarborough
+Sam Woo BBQ,CASUAL DINING,3.8,50.0,"Bamburgh Gardens Shopping Plaza, 375 Bamburgh Circle, Scarborough M1W 3Y1",Cantonese,35.0,Scarborough
+Duckworth's Fish & Chips,QUICK BITES,4.4,55.0,"2282 Kingston Road, Scarborough M1N 1T9","Fish and Chips, British",25.0,Scarborough
+Jack Astor's,CASUAL DINING,3.7,53.0,"Scarborough Town Centre, 580 Progress Avenue, Scarborough M1P 2K2",Bar Food,55.0,Scarborough
+Pizza La Rosa,QUICK BITES,3.6,27.0,"Victoria Commons, 2555 Victoria Park Avenue, Unit 19, Scarborough M1T 1A3","Pizza, Sandwich",30.0,Scarborough
+Golden House,CASUAL DINING,4.2,42.0,"257 Ellesmere Road, Scarborough M1R 4E4",Thai,30.0,Scarborough
+The Keg Steakhouse + Bar - Estate Drive,CASUAL DINING,4.0,51.0,"60 Estate Drive, Scarborough, Toronto M1H 2Z1",Steak,100.0,Scarborough
+La Sani Grill,CASUAL DINING,3.3,50.0,"2058 Ellesmere Road, Scarborough M1H 3B7","Indian, Grill",30.0,Scarborough
+Silver Spoon,QUICK BITES,3.0,40.0,"4800 Sheppard Avenue E, Scarborough M1S 4N5","Pakistani, Indian",20.0,Scarborough
+Chiu Chow Boy,CASUAL DINING,3.7,47.0,"3261 Kennedy Road, Scarborough M1V 4Y1","Cantonese, Chinese",40.0,Scarborough
+Spicy Dragon,CASUAL DINING,4.1,47.0,1060 Kennedy Road M1P,"Hakka Chinese, Cantonese",25.0,Scarborough
+The Nilgiris,CASUAL DINING,3.6,36.0,"3021 Markham Road, Unit 50, Scarborough",South Indian,25.0,Scarborough
+Bong Lua,CASUAL DINING,3.9,28.0,"Huntingwood Square, 2572 Birchmount Road, Scarborough M1T 2M5","Vietnamese, Asian",35.0,Scarborough
+Francesca Bakery,BAKERY,4.1,44.0,"2 Invergordon Avenue, Scarborough M1S 2Y8","Bakery, Deli, Cafe",20.0,Scarborough
+Very Fair Seafood Cuisine,CASUAL DINING,3.2,28.0,"17 Milliken Boulevard, Scarborough M1V 2R4","Dim Sum, Cantonese",35.0,Scarborough
+Green Bamboo Casserole Rice,CASUAL DINING,3.6,46.0,"Midtown Plaza, 4221 Sheppard Avenue East, Scarborough M1S 5H5",Chinese,40.0,Scarborough
+Milestones,CASUAL DINING,3.0,45.0,"300 Borough Dr, Unit 1001, Scarborough, Ontario M1P 4P5","Grill, Canadian",65.0,Scarborough
+Very Fair Chinese Restaurant,CASUAL DINING,3.6,29.0,"4002 Sheppard Avenue East, Scarborough M1S 4R5","Dim Sum, Cantonese, Chinese, Asian",40.0,Scarborough
+Mandarin Restaurant - Scarborough,CASUAL DINING,3.7,59.0,"2206 Eglinton Avenue East, Scarborough M1L 2N3","Chinese, Asian, Canadian",60.0,Scarborough
+Vietnam Noodle Star,CASUAL DINING,3.9,47.0,4188 Finch Avenue East M1S 4T6,Vietnamese,20.0,Scarborough
+India 360,CASUAL DINING,3.9,41.0,"2761 Markham Road, Scarborough M1X 0A4",Indian,45.0,Scarborough
+Go For Tea,CASUAL DINING,3.7,53.0,"3700 Midland Avenue, Scarborough M1V 0B3","Tea, Taiwanese, Chinese, Asian",40.0,Scarborough
+Pak Centre,CASUAL DINING,3.8,50.0,2683 Lawrence Avenue East,"Indian, Pakistani",30.0,Scarborough
+Esquire Restaurant,CASUAL DINING,4.1,61.0,2581 Victoria Park Avenue M1T 1A4,Mediterranean,,Scarborough
+Pho Saigon,CASUAL DINING,3.6,59.0,"1921 Eglinton Avenue East, Scarborough, GTA M1L2L6","Vietnamese, Asian",30.0,Scarborough
+The Boil Bar,CASUAL DINING,3.1,11.0,"110-633 Silver Star Boulevard,",Seafood,,Scarborough
+Pho Vietnam,CASUAL DINING,3.6,59.0,"1280 Kennedy Road, Scarborough M1P 2L1","Vietnamese, Asian",35.0,Scarborough
+Phoenix Pan Asian Cuisine,CASUAL DINING,3.9,36.0,"3730 Kingston Road, Unit 2, Scarborough M1J 3H3",Hakka Chinese,30.0,Scarborough
+Kub Khao,CASUAL DINING,3.4,19.0,3561 Sheppard Avenue M1T 3K7,Thai,,Scarborough
+Mr. Congee,CASUAL DINING,3.2,33.0,"Bridlewood Mall, First Floor, 2900 Warden Avenue, Scarborough M1W 2S8","Cantonese, Chinese, Asian",30.0,Scarborough
+Phoenix Restaurant,CASUAL DINING,3.0,17.0,"Bridewood Mall, 2900 Warden Avenue, Scarborough M1W 2S8","Hong Kong Style, Chinese, Asian",40.0,Scarborough
+The Buddhist Vegetarian Kitchen,CASUAL DINING,3.4,27.0,3290 Midland Avenue M1V 4W8,"Chinese, Asian",25.0,Scarborough
+Armenian Kitchen,CASUAL DINING,3.2,48.0,"1646 Victoria Park Avenue, Scarborough",Middle Eastern,30.0,Scarborough
+Scaddabush,CASUAL DINING,3.4,21.0,"Scarborough Town Centre, 572 Progress Avenue, Scarborough M1P 2K2",Italian,25.0,Scarborough
+Kenny's Noodles,CASUAL DINING,3.8,34.0,"4733 Steeles Avenue E, Scarborough M1V 4S5","Cantonese, Chinese",,Scarborough
+Wexford Restaurant,CASUAL DINING,3.7,53.0,"Wexford Heights Plaza, 2072 Lawrence Avenue E, Scarborough M1R 2Z5",American,30.0,Scarborough
+Lotus Garden,CASUAL DINING,3.9,35.0,"3460 Danforth Avenue, Scarborough M1L 1E3","Hakka Chinese, Indian",35.0,Scarborough
+St. Andrews Fish & Chips,CASUAL DINING,3.9,45.0,1589 Ellesmere Road M1P 2Y3,Fish and Chips,30.0,Scarborough
+Hakka Legend,CASUAL DINING,3.4,24.0,"Aldgate Centre, 2030 Ellesmere Road, Scarborough M1H 2V6","Indian, Hakka Chinese, Asian",35.0,Scarborough
+Kim Kim,CASUAL DINING,3.5,42.0,"1188 Kennedy Road, Scarborough M1P 2L1",Hakka Chinese,30.0,Scarborough
+Fahmee Bakery,QUICK BITES,3.9,30.0,"119 Montezuma Trail, Scarborough",Jamaican,15.0,Scarborough
+Little Bavaria,CASUAL DINING,3.5,43.0,3222 Eglinton Avenue East M1J 2H6,German,60.0,Scarborough
+Nova Ristorante,CASUAL DINING,3.7,19.0,"2272 Lawrence Avenue East, Scarborough M1P 2P9",Italian,50.0,Scarborough
+Canbe Foods,CASUAL DINING,3.9,30.0,"1760 Ellesmere Road, Scarborough M1H 2T9",Indian,30.0,Scarborough
+South Asia Malaysian Cuisine,CASUAL DINING,3.3,35.0,"3700 Midland Avenue, Scarborough","Malaysian, Asian",30.0,Scarborough
+China Cottage,CASUAL DINING,3.5,36.0,"5985 Steeles Avenue E, Scarborough M1V 5P7","Hakka Chinese, Thai",30.0,Scarborough
+Chung Moi,CASUAL DINING,3.9,30.0,"2412 Eglinton Avenue E, Scarborough, GTA M1K 2P3","Hakka Chinese, Asian",40.0,Scarborough
+East Side Mario's Scarborough,CASUAL DINING,2.9,36.0,"12 Lebovic Ave, Unit 9, Scarborough M1L 4V9","Italian, Canadian, Pizza",40.0,Scarborough
+Jeon Ju Hyang,CASUAL DINING,3.6,24.0,325 Bamburgh Circle M1W 3Y1,Korean,40.0,Scarborough
+3.4,Other,,,"Finch Avenue East, Scarborough","Sri Lankan, Indian",,Scarborough
+Gourmet Schnitzel House,CASUAL DINING,3.9,29.0,2256 Kingston Road,Russian,30.0,Scarborough
+Taste Of Greek Cuisine,CASUAL DINING,3.4,14.0,"3541 St. Clair Avenue East, Scarborough",Greek,50.0,Scarborough
+Yang's BBQ,CASUAL DINING,3.3,11.0,"4186 Finch Avenue East, Scarborough M1S 3V1",BBQ,30.0,Scarborough
+Vindaloo,CASUAL DINING,3.9,33.0,"2891 Kingston Road, Scarborough M1M",Indian,45.0,Scarborough
+Landmark Seafood Cuisine,CASUAL DINING,3.6,15.0,"3601 Victoria Park Avenue, Scarborough M1W 3Y3","Dim Sum, Cantonese, Chinese, Asian",60.0,Scarborough
+Nguyen Huong,QUICK BITES,3.9,33.0,"5661 Steeles Avenue East, Scarborough",Vietnamese,10.0,Scarborough
+Wonton Chai Noodle,QUICK BITES,3.9,31.0,"4400 Sheppard Avenue East, Scarborough M1S 1T8",Cantonese,30.0,Scarborough
+Patisserie Royale,DESSERT PARLOR,3.9,20.0,"1415 Kennedy Road, Scarborough M1P 2L6","Desserts, Middle Eastern",25.0,Scarborough
+Ibrahim BBQ,QUICK BITES,3.2,25.0,1967 Lawrence Avenue East,"Middle Eastern, Mediterranean",20.0,Scarborough
+Super Hakka,CASUAL DINING,3.6,26.0,"1801 Lawrence Avenue E, Scarborough M1R 2X9","Hakka Chinese, Caribbean",30.0,Scarborough
+Chef George Manileneos Cuisine,CASUAL DINING,3.2,11.0,"1519 Birchmount Road, Scarborough","Filipino, Breakfast",30.0,Scarborough
+Ga Bin Korean Restaurant,CASUAL DINING,3.5,28.0,"Silver Star, 633 Silver Star Boulevard, Scarborough M1V 5N1","Korean, Asian",35.0,Scarborough
+Lotus Pond Vegetarian Restaurant,CASUAL DINING,3.8,31.0,"3838 Midland Avenue, Unit 121, Scarborough M1V 5K5",Chinese,30.0,Scarborough
+Drupati's,QUICK BITES,3.6,35.0,"1085 Bellamy Road, Scarborough M1H 3C7",Caribbean,20.0,Scarborough
+A1 Sweets,CASUAL DINING,3.8,35.0,"3300 McNicoll Avenue,Unit-18A, Scarborough M1V5J6","Indian, Desserts",20.0,Scarborough
+Boston Pizza,CASUAL DINING,3.1,29.0,"400 Progress Avenue, Unit 127, Scarborough M1P 5J1","American, Pizza",40.0,Scarborough
+Ninja Sushi,QUICK BITES,3.9,33.0,"Bamburgh Gardens Shopping Plaza, 395 Bamburgh Circle, Scarborough M1W 3Y1","Sushi, Japanese",25.0,Scarborough
+Szechuan Legend,CASUAL DINING,3.6,26.0,3280 Midland Avenue M1V 0C7,"Dim Sum, Sichuan, Chinese",25.0,Scarborough
+Caribbean Jerk House,QUICK BITES,3.2,17.0,"Malvern Town Centre, Lower Plaza, 31 Tapscott Road, Scarborough M1B 4Y7",Caribbean,20.0,Scarborough
+Lucky Chinese,CASUAL DINING,3.2,36.0,"3774 Lawrence Avenue E, Scarborough M1G 1P9","Hakka Chinese, Asian",30.0,Scarborough
+Kandahar Kabab,QUICK BITES,3.2,22.0,"2307 Markham Road, Scarborough M1B 2W3",Afghan,45.0,Scarborough
+ACR Hot Roti & Doubles,QUICK BITES,3.9,29.0,"2680 Lawrence Avenue E, Scarborough M1P 2S2","Trinbagonian, West Indian",15.0,Scarborough
+Hopper Hut,CASUAL DINING,3.9,21.0,"880 Ellesmere Road, Scarborough M1P2L8",Sri Lankan,30.0,Scarborough
+Noodle Delight,QUICK BITES,3.4,38.0,"Victoria Commons, 2555 Victoria Park Avenue, Scarborough",Chinese,25.0,Scarborough
+New Northern Dumplings,CASUAL DINING,3.5,8.0,633 Silver Star Boulevard M1V 5N1,"Northern Chinese, Chinese, Asian",30.0,Scarborough
+Blackhorn Steakhouse,CASUAL DINING,3.9,26.0,"251 Ellesmere Road, Scarborough","Steak, Seafood, Greek",50.0,Scarborough
+Shirin Kebab House,CASUAL DINING,3.7,20.0,"1880 Eglinton Avenue E, Scarborough M1L 2L1","Turkish, Middle Eastern",35.0,Scarborough
+Incheon House,CASUAL DINING,3.7,29.0,"9 Glen Watford Drive, Scarborough M1S 2B9","Korean, Japanese",30.0,Scarborough
+Embassy Restaurant,QUICK BITES,3.8,28.0,"5210 Finch Avenue E, Scarborough M1S 4Z7","Sri Lankan, Indian",35.0,Scarborough
+Casa Deluz Banquet Hall,CASUAL DINING,3.4,10.0,"Woodside Square, First Floor, 1571 Sandhurst Circle, Scarborough M1V 1V2","Dim Sum, Cantonese",70.0,Scarborough
+Ding Ho,CASUAL DINING,3.9,25.0,"2873 Lawrence Ave E, Toronto M1P 2S8","Chinese, Asian",25.0,Scarborough
+St. Louis Bar And Grill,CASUAL DINING,3.6,32.0,"55 Town Centre Court Unit 101, Scarborough M1P 4X4","Bar Food, Grill",40.0,Scarborough
+Cora's Breakfast & Lunch,CASUAL DINING,3.7,27.0,"45 Milner Avenue, Scarborough M1S 3P6","Diner, Canadian",35.0,Scarborough
+Wings & Wings,QUICK BITES,3.8,23.0,"1185 Brimley Road, Scarborough M1P 3G4",Fast Food,20.0,Scarborough
+Working Dog Saloon,CASUAL DINING,3.8,38.0,"3676 St. Clair Avenue East, Scarborough","American, Bar Food",40.0,Scarborough
+Ni-Ji Sushi,CASUAL DINING,3.4,18.0,"1095 Ellesmere Road, Scarborough M1P 2X2","Sushi, Japanese",30.0,Scarborough
+Sushi Legend,CASUAL DINING,3.0,13.0,"175 Commander Boulevard, Unit 2, Scarborough M1S 3M7","Sushi, Japanese, Asian",55.0,Scarborough
+Mermaid Fish & Grill House,CASUAL DINING,3.5,12.0,"1748 Lawrence Avenue East, Scarborough M1R 2Y1","Fish and Chips, Mediterranean",30.0,Scarborough
+Royale Fine Dining,CASUAL DINING,3.4,11.0,"Silver Star, 648 Silver Star Boulevard, Scarborough","Dim Sum, Chinese",45.0,Scarborough
+Deer Garden Signatures,CASUAL DINING,3.5,13.0,"Silver Star, 633 Silver Street Boulevard, Scarborough M1V 5N1",Hong Kong Style,20.0,Scarborough
+Swiss Chalet,CASUAL DINING,3.2,13.0,"Victoria Commons, 2555 Victoria Park Avenue, Scarborough M1T1A3","Canadian, Grill, Beverages",40.0,Scarborough
+Prague Restaurant,CASUAL DINING,3.9,25.0,"450 Scarborough Golf Club Road, Scarborough M1G1H1",Eastern European,50.0,Scarborough
+Ikki Sushi,CASUAL DINING,3.9,36.0,2328 Kingston Road M1N 1V2,"Sushi, Japanese, Asian",40.0,Scarborough
+Aunty Mary's Fish and Chips,QUICK BITES,3.7,35.0,"3750 Lawrence Avenue E, Scarborough M1G 2B8","Fish and Chips, Fast Food",,Scarborough
+California Sandwiches,QUICK BITES,3.8,36.0,812 Warden Avenue M1L 4C2,Sandwich,20.0,Scarborough
+Destiny,CASUAL DINING,2.7,38.0,"Silver Star, 633 Silver Star Boulevard, Scarborough M1V 5N1","Asian Fusion, Bubble Tea",35.0,Scarborough
+Damas Grill House,CASUAL DINING,3.5,28.0,1795 Victoria Park Avenue M1R 1T2,Mediterranean,,Scarborough
+Full House Chinese Cuisine,CASUAL DINING,3.2,28.0,4188 Finch Avenue East M1S 4T6,Cantonese,25.0,Scarborough
+Olde Stone Cottage Pub,CASUAL DINING,3.8,32.0,"3750 Kingston Road, Scarborough M1J 3H5","Bar Food, Canadian",50.0,Scarborough
+Kim Po Vietnamese Cuisine,CASUAL DINING,3.8,32.0,"58 Redlea Avenue, Scarborough M1V 4S3",Vietnamese,20.0,Scarborough
+Fat Ninja Bite,CASUAL DINING,3.6,9.0,"3517 Kennedy Road, Unit 1, Scarborough M1V 4Y3","Korean, Japanese, Burger",25.0,Scarborough
+Bâton Rouge Steakhouse & Bar,CASUAL DINING,2.8,33.0,"520 Progress Avenue, Scarborough M1P 2K2","Steak, American",100.0,Scarborough
+Royal Chinese Seafood Restraurant,CASUAL DINING,3.9,23.0,"735 Middlefield Road, Unit 4-5, Scarborough M1V 2V4",Hakka Chinese,25.0,Scarborough
+House of Wong,CASUAL DINING,4.1,48.0,"4601 Kingston Road, Scarborough M1E 2P3",Chinese,40.0,Scarborough
+Pho Dau Bo,CASUAL DINING,3.4,29.0,"Cedar Heights Plaza, 665 Markham Road, Scarborough M1H 3G7",Vietnamese,30.0,Scarborough
+The Queen's Head Pub,BAR,3.5,31.0,"Victoria Commons, 2555 Victoria Park Avenue, Scarborough M1T 1A1",Bar Food,45.0,Scarborough
+Grandeur Palace,CASUAL DINING,3.3,9.0,"2301 Brimley Road, Unit 128, Scarborough M1S 3L6",Chinese,25.0,Scarborough
+Tropical Thai Cuisine,CASUAL DINING,3.9,33.0,"993 Kingston Road, Toronto M4E 1T3","Thai, Asian",25.0,Scarborough
+Thai One On,CASUAL DINING,3.4,31.0,"1911 Ellesmere Road, Scarborough M1H 2W5","Thai, Asian",45.0,Scarborough
+Caribbean Wave,CASUAL DINING,3.9,29.0,"875 Milner Avenue, Scarborough M1B 5N6","Caribbean, West Indian",35.0,Scarborough
+Nicey's Take Out,QUICK BITES,3.6,25.0,"54A Morecambe Gate, Scarborough M1W 2S6",Caribbean,15.0,Scarborough
+Da Fu Seafood Cuisine,CASUAL DINING,2.8,24.0,"5651 Steeles Avenue East, Scarborough M1V 5P6","Dim Sum, Cantonese, Chinese, Asian",35.0,Scarborough
+Big Boy's Burgers,QUICK BITES,3.9,32.0,2851 Kingston Road,Fast Food,25.0,Scarborough
+Charcoal Kebab House,CASUAL DINING,3.4,20.0,"3256 Lawrence Avenue E, Scarborough M1H 3C2","Xinjiang, Chinese",35.0,Scarborough
+Mamajoun,QUICK BITES,3.9,12.0,"209 Ellesmere Road, Scarborough M1R 4E2","Pizza, Italian",15.0,Scarborough
+Govardhan Thal,CASUAL DINING,3.3,25.0,840 Markham Road M1H 2Y2,Indian,25.0,Scarborough
+Amigos Restaurant,CASUAL DINING,3.5,28.0,"6091 Kingston Road, Scarborough M1C 1K5",Mexican,60.0,Scarborough
+The Fanzone Wings & Ribs,CASUAL DINING,3.7,18.0,"1168 Kennedy Road, Scarborough M1P2L1","Bar Food, Grill",40.0,Scarborough
+Double Ming,DESSERT PARLOR,3.8,22.0,"4186 Finch Avenue East, Scarborough","Desserts, Chinese",20.0,Scarborough
+Sammy's Restaurant,CASUAL DINING,3.5,17.0,"639 McCowan Road, Scarborough M1J 1K1","Canadian, Greek",45.0,Scarborough
+Marathon Donut & Coffee,QUICK BITES,3.7,20.0,"Scarborough Village Mall, 3300 Midland Avenue, Scarborough M1V 4W7","Chinese, Bakery",15.0,Scarborough
+Babu,QUICK BITES,3.3,15.0,"4810 Sheppard Avenue East, Scarborough M1S 4N6",Indian,20.0,Scarborough
+Hanabi Sushi,CASUAL DINING,3.4,22.0,"Finch Midland Centre, 4188 Finch Avenue E, Scarborough M1S 5C9",Japanese,25.0,Scarborough
+Simply Frosted Cupcakery,BAKERY,3.5,6.0,"5550 Lawrence Avenue, Scarborough M1C 3B2","Bakery, Desserts",15.0,Scarborough
+The Royal Chinese Restaurant,CASUAL DINING,3.2,8.0,"3587 Sheppard Avenue E, Scarborough M1T 3K8",Cantonese,25.0,Scarborough
+Shahi Karahi,CASUAL DINING,2.9,21.0,"Cedar Heights Plaza, 633 Markham Road, Scarborough M1H 2A4","Indian, Pakistani",30.0,Scarborough
+Fisherman Villa,CASUAL DINING,3.4,23.0,"25 Glen Watford Drive, Scarborough M1S 2B7",Chinese,35.0,Scarborough
+Queen Victoria's Pub,CASUAL DINING,3.8,23.0,"2240 Midland Avenue, Scarborough M1P 4R9",Bar Food,60.0,Scarborough
+Dumplings Garden,QUICK BITES,3.7,21.0,"4800 Sheppard Avenue East, Scarborough M1S 4N5",Chinese,25.0,Scarborough
+Wan Lee Chinese Restaurant,CASUAL DINING,3.6,24.0,"5651 Steeles Avenue E, Scarborough M1V 5P6","Hakka Chinese, Asian",25.0,Scarborough
+Osmow's,QUICK BITES,3.7,26.0,"790 Military Trail, Scarborough",Mediterranean,30.0,Scarborough
+PizzaLand,QUICK BITES,3.9,19.0,"1801 Lawrence Avenue E, Scarborough M1R 2X9","Pizza, Fast Food",25.0,Scarborough
+AllStar Wings & Ribs,BAR,3.2,22.0,"1215 McCowan Road, Scarborough M1H 3K3","Bar Food, American",50.0,Scarborough
+Great Fountain Fast Food,Other,3.7,5.0,"8 Glen Watford Drive, Scarborough M1S 2B7","Hong Kong Style, Cantonese",20.0,Scarborough
+Tapps,BAR,3.5,23.0,"5630 Finch Avenue East, Scarborough",Bar Food,40.0,Scarborough
+Wimpy's Diner,CASUAL DINING,3.4,26.0,"1496 Kingston Road, Scarborough",Diner,30.0,Scarborough
+What A Bakery,BAKERY,3.8,24.0,"875 Milner Avenue, Scarborough","Bakery, Desserts",15.0,Scarborough
+Qin Tang Taste,CASUAL DINING,3.6,5.0,1883 McNicoll Avenue M1V 5M3,Chinese,,Scarborough
+Hot Wok,CASUAL DINING,3.9,18.0,"7 Progerss Avenue, Scarborough M1P 2M1","Hakka Chinese, Asian",30.0,Scarborough
+Honey B Hives Restaurant,CASUAL DINING,3.2,17.0,"2816 Markham Road, Scarborough M1V 4C3",Diner,20.0,Scarborough
+Nakamori,CASUAL DINING,3.4,7.0,"2803 Eglinton Avenue East, Scarborough M1J2E1","Japanese, Sushi",25.0,Scarborough
+Chopstick Foods,QUICK BITES,3.9,21.0,"3300 Danforth Avenue, Scarborough",Chinese,30.0,Scarborough
+Bendale Restaurant,CASUAL DINING,3.7,22.0,"3264 Lawrence Avenue E, Scarborough M1H 3C2","American, Diner",30.0,Scarborough
+Patty King,QUICK BITES,3.6,18.0,"321 Progress Road, Toronto M1R 5L6",Caribbean,13.0,Scarborough
+LacVien,CASUAL DINING,3.2,19.0,"2270 Markham Road, Scarborough M1B 2W4",Vietnamese,35.0,Scarborough
+Vincent's Spot,CASUAL DINING,3.8,24.0,2496 Kingston Road,"European, French, Italian",,Scarborough
+Beef Noodle Restaurant,CASUAL DINING,3.3,15.0,"Cathay Plaza, 4271 Sheppard Avenue East, Scarborough M1S 1T6",Chinese,25.0,Scarborough
+Congee Town,CASUAL DINING,3.4,23.0,"Woodside Square, 1571 Sandhurst Circle, Unit 106A, Scarborough M1V 1V2",Cantonese,30.0,Scarborough
+Peking Garden,CASUAL DINING,2.8,21.0,"4532 Kingston Road, Scarborough M1E 2N8",Chinese,25.0,Scarborough
+Sushi Ichiban,CASUAL DINING,3.1,13.0,"80 Ellesmere Road, Scarborough M1R 4C2",Sushi,40.0,Scarborough
+Kelseys Original Roadhouse,CASUAL DINING,2.7,21.0,"1972 Eglinton Avenue East, Scarborough ON M1L 2M6",Canadian,65.0,Scarborough
+Highland Fish & Chips,CASUAL DINING,3.9,22.0,"3357 Ellesmere Road, Scarborough M1C 1H1",Fish and Chips,40.0,Scarborough
+Fishmen Wharf Seafood,CASUAL DINING,3.2,7.0,"4080 Steeles Avenue E, Scarborough L3R 4C3","Seafood, Cantonese, Chinese, Asian",85.0,Scarborough
+Milliken Bar & Restaurant,CASUAL DINING,3.4,14.0,"4016 Finch Avenue East, Scarborough M1S 4E7","Dim Sum, Cantonese",30.0,Scarborough
+Aioli Bistro,CASUAL DINING,3.3,23.0,2446 Kingston Road,French,60.0,Scarborough
+The Junction Kitchen & Bar,CASUAL DINING,3.1,15.0,"3820 Victoria Park Avenue, Scarborough M2H 3H7",Bar Food,60.0,Scarborough
+Zestee,CASUAL DINING,3.7,20.0,3007 Sheppard Avenue East,Pizza,25.0,Scarborough
+Crown Jewel Fine Dining,CASUAL DINING,3.2,9.0,"Bamburgh Gardens Shopping Plaza, 325 Bamburgh Circle, Scarborough M1W 3Y1","Dim Sum, Cantonese",40.0,Scarborough
+Remely's,QUICK BITES,3.8,25.0,"4830 Sheppard Avenue East, Scarborough M1S 5M9",Filipino,25.0,Scarborough
+Friendship Restaurant,CASUAL DINING,3.8,18.0,"2912 Sheppard Avenue East, Scarborough M1T 3J4",Chinese,25.0,Scarborough
+Super Choy,CASUAL DINING,3.7,29.0,"2825 Kingston Road, Scarborough M1M","Chinese, Asian",30.0,Scarborough
+Tara Inn,BAR,3.5,21.0,2365 Kingston Road,Bar Food,50.0,Scarborough
+Pariwar Restaurant,CASUAL DINING,3.1,20.0,1732 Lawrence Avenue E M1R 2Y1,"Asian, Indian, BBQ, Chinese, Fast Food",,Scarborough
+Snow Time,DESSERT PARLOR,3.2,8.0,"3290 Midland Avenue, Unit 110, Toronto M1V 4W8",Desserts,10.0,Scarborough
+Ichiban All You Can Eat,CASUAL DINING,,,"4675 Steeles Avenue E, Toronto M1V 4S5",Japanese,35.0,Scarborough
+Crown Pastries,BAKERY,3.9,6.0,"Wexford Heights Plaza, 2086 Lawrence Avenue East, Scarborough M1R 2Z5","Desserts, Bakery",10.0,Scarborough
+Dumpling Restaurant,CASUAL DINING,3.7,14.0,"4385 Sheppard Avenue East, Scarborough M1S 1T8",Northern Chinese,25.0,Scarborough
+Eggsmart,CASUAL DINING,3.1,20.0,"3268 Finch Avenue East, Scarborough M1W 3P7",Diner,30.0,Scarborough
+Lucky,CASUAL DINING,3.4,18.0,"2650 Lawrence Avenue E, Scarborough M1P 2S1","Hakka Chinese, Asian",30.0,Scarborough
+Pita Pit,QUICK BITES,3.5,18.0,"1975 Kennedy Road, Scarborough M1P 2M1",Healthy Food,25.0,Scarborough
+Nasib's Quality,QUICK BITES,3.5,21.0,1867 Lawrence Avenue East,"Lebanese, Middle Eastern",20.0,Scarborough
+The Moose and Barrel,CASUAL DINING,2.7,19.0,16 Lebovic Avenue,Bar Food,50.0,Scarborough
+Wei's Taiwanese Food,QUICK BITES,2.9,9.0,"Huntingwood Square, 2578 Birchmount Road, Scarborough M1T 2M5","Taiwanese, Asian",15.0,Scarborough
+Congee King,CASUAL DINING,3.7,18.0,"Cathay Plaza, 4271 Sheppard Avenue East, Scarborough",Chinese,20.0,Scarborough
+Green Grotto Tea Room,CAFÉ,3.1,7.0,"385 Silver Star Boulevard, Scarborough","Bubble Tea, Cafe, Desserts",30.0,Scarborough
+Super Taste Noodle House,CASUAL DINING,2.9,6.0,"Bridewood Mall, 2900 Warden Avenue, Scarborough M1W 2S8",Chinese,,Scarborough
+OMG Restaurant & Lounge,CASUAL DINING,2.7,13.0,"4033 Gordon Baker Road, Scarborough M1W 3E8",Hong Kong Style,25.0,Scarborough
+Fat Bastard Burrito,QUICK BITES,3.7,21.0,"1921 Eglinton Avenue East, Scarborough, GTA M1L2L6","Mexican, Fast Food",25.0,Scarborough
+Ace's Place Bar Grill Hub,CASUAL DINING,3.0,12.0,"115 Guildwood Parkway, Scarborough","Bar Food, Canadian",30.0,Scarborough
+Tropical Nights Restaurant & Lounge,CASUAL DINING,3.3,11.0,"Pleasant Corner, 1154 Morningside Avenue, Scarborough M1B 3A4","Caribbean, Chinese, Bar Food",45.0,Scarborough
+Taste Of Greek Cuisine,CASUAL DINING,3.7,19.0,3541 St. Claire Avenue E M1K 1L6,Greek,70.0,Scarborough
+Ghareeb Nawaz Resaurant,QUICK BITES,3.8,16.0,"1071 Danforth Road, Scarborough",Indian,25.0,Scarborough
+Nirala Sweets & Restaurant,CASUAL DINING,3.6,15.0,"2818 Markham Road, Scarborough M1X 1E6","Pakistani, Indian",35.0,Scarborough
+Japanese Ramen King,CASUAL DINING,2.9,9.0,"Sky City Shopping Mall, 3278 Midland Avenue, Scarborough","Japanese, Asian",25.0,Scarborough
+Mr. Jerk,QUICK BITES,3.6,14.0,"Pleasant Corner, 1160 Morningside Avenue, Scarborough M1B 3A4",Caribbean,30.0,Scarborough
+Mayette's,CASUAL DINING,3.8,10.0,"3331-A Danforth Avenue, Scarborough","Filipino, Spanish",35.0,Scarborough
+Family Shawarma & Falafel,QUICK BITES,3.8,21.0,"3121 Sheppard Avenue E, Scarborough M1T 3J7",Middle Eastern,20.0,Scarborough
+Arz Bakery,QUICK BITES,3.4,14.0,1909 Lawrence Avenue East,"Middle Eastern, Bakery",15.0,Scarborough
+Fortune Restaurant,CASUAL DINING,,,"3833 Midland Avenue, Scarborough, GTA M1V 5L6",Cantonese,40.0,Scarborough
+Yogi Noodle,CASUAL DINING,3.5,14.0,"Bamburgh Gardens Shopping Plaza, 325 Bamburgh Circle, Scarborough M1W 3Y1",Hong Kong Style,25.0,Scarborough
+Sunset Grill,CASUAL DINING,3.4,16.0,"4551 Kingston Road, Scarborough M1E 2P1","Diner, Breakfast",30.0,Scarborough
+Port Union Fish & Chips,CASUAL DINING,3.5,17.0,"65 Rylander Boulevard, Scarborough M1B 5M5",Fish and Chips,35.0,Scarborough
+Twice As Nice,QUICK BITES,3.4,18.0,"4180 Kingston Road, Scarborough M1E 2M4",Caribbean,25.0,Scarborough
+Harry's Drive-in,QUICK BITES,3.9,16.0,"2280 Lawrence Avenue East, Scarborough M1P 2P9","Fast Food, Fish and Chips",20.0,Scarborough
+Sugar Sweet Cafe,CASUAL DINING,3.6,12.0,"4911 Steeles Avenue East, Scarborough","Hong Kong Style, Chinese",25.0,Scarborough
+Jim Chai Kee Wonton Noodle,CASUAL DINING,3.2,10.0,3700 Midland Avenue M1V 0B4,"Chinese, Asian",20.0,Scarborough
+Shef Kebab,QUICK BITES,3.3,9.0,"3245 Finch Avenue East, Scarborough M1W","Kebab, Middle Eastern",25.0,Scarborough
+Nichiban Sushi,CASUAL DINING,3.0,5.0,"3517 Kennedy Road, Unit 3, Scarborough M1V 4S4","Sushi, Japanese",30.0,Scarborough
+Mr. Sub,QUICK BITES,3.9,14.0,"45 Milner Avenue, Scarborough M1S 3P6",Fast Food,25.0,Scarborough
+Tasty Shawarma And Falafel,QUICK BITES,3.5,20.0,"2993 Sheppard Avenue East, Scarborough M1T 3J5",Mediterranean,20.0,Scarborough
+Enrico's Pizza,QUICK BITES,3.8,17.0,"1736 Kingston Road, Scarborough","Pizza, Fast Food",25.0,Scarborough
+Health Gourmet,CASUAL DINING,3.0,15.0,"Sky City Shopping Mall, 3278 Midland Avenue, Scarborough M1V 4A1","Dim Sum, Healthy Food, Chinese, Asian",45.0,Scarborough
+Thai Square,CASUAL DINING,3.2,17.0,"277 Port Union Road, Scarborough M1C 2L3",Thai,35.0,Scarborough
+Pili Pili,QUICK BITES,3.7,7.0,"1960 Lawrence Avenue East, Scarborough M1R 2Z1",Tanzanian,30.0,Scarborough
+Tealicious Teahouse,BEVERAGE SHOP,3.0,14.0,"Sky City Shopping Mall, 3278 Midland Avenue, Scarborough M1V 4A1","Beverages, Chinese, Asian",15.0,Scarborough
+Ho Ho BBQ,CASUAL DINING,3.9,6.0,3833 Midland Avenue M1V 5L6,Cantonese,25.0,Scarborough
+Spring N Fresh Rolls,CASUAL DINING,3.3,16.0,"789 Warden Avenue, Scarborough M1L","Vietnamese, Thai",35.0,Scarborough
+Pho Hong Ha,CASUAL DINING,3.9,19.0,"Cathay Plaza, 4271 Sheppard Avenue East, Scarborough M1S 1T6",Vietnamese,20.0,Scarborough
+Pauline's Roti & Pelau Shop,QUICK BITES,3.5,13.0,"15 Lapsley Road, Scarborough M1B 1N1",Caribbean,20.0,Scarborough
+Naniwa Taro,QUICK BITES,3.7,13.0,7 Byng Avenue M2N 0E6,Japanese,20.0,Scarborough
+Burrito Boyz,QUICK BITES,3.8,14.0,"789 Warden Avenue, Scarborough, GTA M1L4C2","Mexican, Fast Food, New Mexican",25.0,Scarborough
+Patna Kabab House,QUICK BITES,2.8,13.0,1885 Lawrence Avenue East,Indian,,Scarborough
+Ming's Noodle Cafe,CASUAL DINING,3.5,13.0,"3447 Kennedy Road, Scarborough M1V 3S1","Hong Kong Style, Chinese, Asian",40.0,Scarborough
+Buon Appetite Fine Foods,BAKERY,3.8,7.0,"2764 Victoria Park Avenue, Scarborough M1W 1C2","Sandwich, Bakery",25.0,Scarborough
+Pakwanchi,QUICK BITES,3.8,13.0,"2245 Kennedy Road, Scarborough",Pakistani,15.0,Scarborough
+Chopsticks SzeChuan,CASUAL DINING,3.7,13.0,"1163 Ellesmere Road, Scarborough M1P 2X6","Chinese, Asian",25.0,Scarborough
+Coffee Culture,CAFÉ,3.1,7.0,"Aldgate Centre, 2060 Ellesmere Road, Scarborough",Cafe,20.0,Scarborough
+Southern Accent,QUICK BITES,3.5,13.0,3655 St. Clair Avenue East,"Cajun, Southern",30.0,Scarborough
+Dumplings & Szechuan cuisine,CASUAL DINING,3.0,4.0,"2549 Warden Avenue, Scarborough",Chinese,25.0,Scarborough
+Popeyes,QUICK BITES,3.4,8.0,"3740 Midland Avenue, Scarborough M1V 4V3",Fast Food,25.0,Scarborough
+Mini Moes Burgers Fries and Funnel Cakes,QUICK BITES,3.1,10.0,"1961 Lawrence Ave E #1, Scarborough, ON M1R 2Y8, Canada","Burger, Fast Food",15.0,Scarborough
+Zam Zam Tikka,QUICK BITES,3.5,7.0,"Birchmount Plaza, 462 Birchmount Road, Scarborough",Pakistani,35.0,Scarborough
+Ital Vital,QUICK BITES,3.6,8.0,"741 Pharmacy Avenue, Scarborough M1L 3J4","Healthy Food, Juices",20.0,Scarborough
+Mirchi Dhaba,QUICK BITES,3.0,9.0,"836 Markham Road, Scarborough M1H 2Y2",Indian,20.0,Scarborough
+Sika Deer Chinese Cuisine,CASUAL DINING,,,"Finch Midland Centre, 4186 Finch Avenue East, Scarborough M1S 3V1",Shanghai,35.0,Scarborough
+The Avenue Restaurant and Lounge,BAR,3.4,7.0,"1085 Bellamy Road, Scarborough M17 1C3","Caribbean, Chinese",50.0,Scarborough
+Pioneers Pizza,QUICK BITES,3.7,10.0,"355 Pitfield Road, Scarborough M1S 3E5","Pizza, Italian",30.0,Scarborough
+Hakka No. 1,CASUAL DINING,3.6,11.0,"4551 Kingston Road, Scarborough","Hakka Chinese, Asian, Bubble Tea",40.0,Scarborough
+Mr. Greek Express,QUICK BITES,3.9,13.0,"18 Lebovic Avenue, Scarborough",Greek,40.0,Scarborough
+M&J's Eastside Deli,QUICK BITES,3.4,10.0,"1433 Kingston Road, Toronto M1N 1R4",Canadian,10.0,Scarborough
+Dong Kee,CASUAL DINING,3.4,11.0,"3838 Midland Avenue, Unit 101, Scarborough M1V 5K5",Cantonese,35.0,Scarborough
+Coco Fresh Juice And Tea,BEVERAGE SHOP,3.8,6.0,"3300 Midland Avenue, Scarborough","Bubble Tea, Beverages",15.0,Scarborough
+Nantha Caters,QUICK BITES,3.5,5.0,"3268 Finch Avenue East, Scarborough M1W 3P7","Sri Lankan, South Indian",20.0,Scarborough
+Fabian's Cafe,CAFÉ,3.6,9.0,"876 Markham Road, Scarborough M1H 2Y2","Cafe, Desserts",15.0,Scarborough
+Pot Rice & Rolls House,QUICK BITES,2.9,4.0,"Silver Star, 633 Silver Star Boulevard, Unit F1, Scarborough","Chinese, Asian",15.0,Scarborough
+Bluffer's Park,FINE DINING,3.2,14.0,7 Brimley Road M1M 3W3,Seafood,70.0,Scarborough
+Lai Doh Restaurant,CASUAL DINING,2.8,8.0,"Splendid China Tower, 4625 Steeles Avenue East, Scarborough",Hong Kong Style,35.0,Scarborough
+Flipper's Fish House,CASUAL DINING,3.1,14.0,"2300 Lawrence Avenue East, Scarborough M1P 2K9",Seafood,55.0,Scarborough
+The 3 Monkeys Bar & Grill,CASUAL DINING,3.0,14.0,"1585 Warden Avenue, Scarborough","Bar Food, Grill",45.0,Scarborough
+Korean Restaurant O U R,CASUAL DINING,3.5,12.0,"4186 Finch Avenue East, Unit 8, Toronto M1S 4T5","Korean, Asian",35.0,Scarborough
+Kim Bo,CASUAL DINING,3.1,11.0,"5651 Steeles Avenue East, Scarborough","Vietnamese, Asian",25.0,Scarborough
+Mainsha Restaurant,CASUAL DINING,3.7,12.0,"2950 Birchmond Road, Scarborough M1W 3G5",Caribbean,15.0,Scarborough
+Bawarchi Biryanis,CASUAL DINING,2.9,12.0,"925 Warden Ave, Scarborough","Indian, Chinese",45.0,Scarborough
+McCowan Fish & Chips,CASUAL DINING,3.9,13.0,"623 McCowan Road, Scarborough",Fish and Chips,20.0,Scarborough
+Lick's,QUICK BITES,3.2,8.0,"900 Warden Avenue, Scarborough M1L",Fast Food,20.0,Scarborough
+Royal Paan,QUICK BITES,3.4,11.0,2623 Lawrence Avenue East M1P 2S2,Indian,15.0,Scarborough
+Global Imperial Cuisine,CASUAL DINING,,,"23 Glen Watford Drive, Scarborough M1S 2B7","Dim Sum, Cantonese",40.0,Scarborough
+Layal El Sharke Coffee Club,CAFÉ,3.4,13.0,1883 Lawrence Avenue East,"Cafe, Middle Eastern",,Scarborough
+Baskin Robbins,DESSERT PARLOR,3.2,8.0,"1001 Sandhurst Circle, Scarborough M1V 1Z6","Ice Cream, Desserts",15.0,Scarborough
+Chinese Halal Restaurant,CASUAL DINING,3.2,5.0,"Silver Star, 668 Silver Star Boulevard, Scarborough","Xinjiang, Chinese, Asian",30.0,Scarborough
+Calabria Bakery,BAKERY,3.5,11.0,"1772 Midland Avenue, Scarborough",Bakery,30.0,Scarborough
+Congee Me,CASUAL DINING,,,"4419 Sheppard Avenue East, Scarborough M1S 1V1",Chinese,25.0,Scarborough
+Chatime,BEVERAGE SHOP,3.4,6.0,"Sky City Shopping Centre, 3250 Midland Avenue, Scarborough M1V 3Z9","Bubble Tea, Beverages, Taiwanese",15.0,Scarborough
+100% Korean,QUICK BITES,3.5,5.0,"4779 Steeles Avenue East, Scarborough M1V 4S7",Korean,25.0,Scarborough
+Yunnan Cross Bridge Rice Noodle,CASUAL DINING,3.6,5.0,"19 Milliken Boulevard, Unit 3, Scarborough M1V 2R4",Yunnan,25.0,Scarborough
+Pho Nam Dinh,CASUAL DINING,3.1,9.0,"1885 Kennedy Road, Scarborough M1P 2L8","Vietnamese, Asian",25.0,Scarborough
+The Fossil & Haggis,Other,3.6,12.0,"790 Military Trail, Scarborough M1E 5K4",Bar Food,35.0,Scarborough
+Spicy Garden,CASUAL DINING,3.5,9.0,"4810 Sheppard Avenue East, Scarborough M1S 4N6",Hakka Chinese,25.0,Scarborough
+Shawarma Boss,QUICK BITES,3.2,6.0,"1921 Eglinton Avenue East, Scarborough M1L 2L6",Middle Eastern,20.0,Scarborough
+Diamond Pizza & Grill,QUICK BITES,3.4,10.0,"1349 Danforth Road, Scarborough","Greek, Grill, Italian",20.0,Scarborough
+Golden Chopstick,CASUAL DINING,3.7,13.0,"271 Old Kingston Road, Scarborough M1C 1B4",Chinese,25.0,Scarborough
+Tasty House,CASUAL DINING,,,"240 Alton Towers Circle, Unit 5, Scarborough M1V 5P5",Cantonese,30.0,Scarborough
+China Gourmet King,QUICK BITES,3.1,12.0,"4286 Kingston Road, Scarborough",Chinese,25.0,Scarborough
+A & W,QUICK BITES,3.5,9.0,"1585 Warden Road, Scarborough","Burger, Fast Food",25.0,Scarborough
+QQ Thai Ice Cream,DESSERT PARLOR,3.7,7.0,"3278 Midland Avenue, Unit D117, Toronto M1V 0C4","Ice Cream, Frozen Yogurt",10.0,Scarborough
+King George's Arms,CASUAL DINING,3.9,12.0,"Victoria Commons, 2501 Victoria Park Avenue, Scarborough M1T 1A1",Bar Food,50.0,Scarborough
+Tim Choi Chinese Food,QUICK BITES,3.9,13.0,"266 Markham Road, Scarborough",Chinese,,Scarborough
+Pho Nhi,CASUAL DINING,3.3,6.0,"4002 Sheppard Avenue East, Unit 101, Scarborough M1S 4R5",Vietnamese,25.0,Scarborough
+Jerry's Fish & Chips,CASUAL DINING,3.7,10.0,"1190 Kennedy Road, Scarborough M1P 2L1","Fish and Chips, British",40.0,Scarborough
+South China Noodles Delight,CASUAL DINING,3.3,5.0,"3380 Midland Avenue, Scarborough M1V 5B5","Cantonese, Chinese, Asian",25.0,Scarborough
+Mucho Burrito,QUICK BITES,3.0,14.0,"1780 Markham Road, Scarborough M1B 2W2",Tex-Mex,30.0,Scarborough
+Burger King,FAST FOOD,3.2,6.0,3850 Shepard Avenue East M1T 3L4,"Fast Food, Burger",20.0,Scarborough
+El-Sabil,QUICK BITES,3.8,10.0,"2680 Lawrence Avenue East, Scarborough",Middle Eastern,20.0,Scarborough
+Bihari Kabab,QUICK BITES,3.3,8.0,"1145 Morningside Avenue, Unit 39, Scarborough","Indian, Pakistani",35.0,Scarborough
+Curry + Roti,CASUAL DINING,3.8,11.0,"1732 Lawrence Avenue East, Scarborough M1R 2Y2",West Indian,20.0,Scarborough
+Keung Kee,CASUAL DINING,3.3,16.0,"Scarborough Village Mall, 3300 Midland Avenue, Scarborough M1V 4W9","Cantonese, Chinese, Asian",35.0,Scarborough
+Pita Land,QUICK BITES,2.9,8.0,"Victoria Commons, 2555 Victoria Park Avenue, Scarborough M1T 1A1",Middle Eastern,30.0,Scarborough
+Tamil Arasu,QUICK BITES,,,"3301 McNicoll Avenue, Scarborough M1V 3Z6","Indian, Sri Lankan",,Scarborough
+Harbin BBQ,CASUAL DINING,3.6,5.0,"Sky City Shopping Mall, 3278 Midland Avenue, Scarborough","Chinese, Asian",20.0,Scarborough
+Shoeless Joe's,CASUAL DINING,2.9,12.0,"245 Morningside Avenue, Scarborough M1E 3E6","American, Bar Food",60.0,Scarborough
+Lageez Authentic Indian Cusine,CASUAL DINING,3.5,8.0,"641 Pharmacy Avenue, Toronto M1L 1X1",Indian,20.0,Scarborough
+Good Luck,CASUAL DINING,3.3,9.0,"2432 Eglinton Avenue E, Scarborough M1K 2P8","Hakka Chinese, Asian",45.0,Scarborough
+Amazing Shawarma,QUICK BITES,3.6,6.0,"2928 Eglinton Avenue East, Scarborough",Middle Eastern,20.0,Scarborough
+Jesse Jr.,QUICK BITES,2.9,10.0,"4415 Sheppard Avenue East, Scarborough M1S 1V1",Filipino,25.0,Scarborough
+Dickens Restaurant,CASUAL DINING,3.2,6.0,"8 Glen Watford Drive, Scarborough, GTA M1S 2B7",Hong Kong Style,45.0,Scarborough
+Pho Xe Lua,CASUAL DINING,3.2,10.0,"Woodside Square, First Floor, 1571 Sandhurst Circle, Scarborough M1V 1V2",Vietnamese,30.0,Scarborough
+Steam House,CASUAL DINING,3.4,5.0,"4020 Finch Avenue E, Scarborough M1S 4E7","Cantonese, Chinese, Asian",30.0,Scarborough
+Fragrant Bakery,BAKERY,3.6,7.0,"3833 Midland Avenue, Scarborough","Bakery, Chinese",10.0,Scarborough
+Jumbo Hamburger,CASUAL DINING,3.6,10.0,"629 Pharmacy Avenue, Scarborough",Burger,30.0,Scarborough
+Golden Spoon,CASUAL DINING,2.8,6.0,"5650 Sheppard Avenue East, Scarborough","Pakistani, Indian",25.0,Scarborough
+Yogen Früz,DESSERT PARLOR,3.4,6.0,"Scarborough Town Centre, Food Court, 300 Borough Drive, Scarborough M1P 4P5","Frozen Yogurt, Desserts",15.0,Scarborough
+Popular Pizza,QUICK BITES,3.3,8.0,"5790 Sheppard Avenue East, Scarborough","Pizza, Fast Food",30.0,Scarborough
+Wild Wing,CASUAL DINING,3.7,11.0,"11 William Kitchen Road, Scarborough",Bar Food,50.0,Scarborough
+Wendy's,FAST FOOD,3.1,5.0,1460 Kennedy Road,"Fast Food, Burger",20.0,Scarborough
+Ceylon Flavor,QUICK BITES,2.7,8.0,"3341 Markham Road, Scarborough",Sri Lankan,25.0,Scarborough
+Halal Pizza Time & Restaurant,QUICK BITES,3.0,9.0,"561 Markham Road, Scarborough","Pizza, Middle Eastern",25.0,Scarborough
+Motimahal Restaurant,QUICK BITES,3.6,6.0,"50 Weybright Crescent, Unit 32, Scarborough M1S 5A8",Indian,15.0,Scarborough
+Al Tanoor,QUICK BITES,3.7,8.0,1993 Lawrence Avenue East,Middle Eastern,15.0,Scarborough
+LHL Seafood Restaurant,CASUAL DINING,3.1,4.0,"Oriental Centre, 4438 Sheppard Avenue East, Scarborough M1S 5J3","Dim Sum, Cantonese",60.0,Scarborough
+Sofi’s Mexican Bar & Grill,CASUAL DINING,2.8,6.0,"360 Old Kingston Road, Toronto M1C 1B6",Mexican,25.0,Scarborough
+Timehri,CASUAL DINING,3.2,13.0,"3300 McNicoll Avenue, Scarborough M1V 5J6","West Indian, Chinese",,Scarborough
+Island Spice Flava,QUICK BITES,3.5,13.0,"365 Pitfield Road, Scarborough M1S 3E5",Caribbean,20.0,Scarborough
+Danny's Family Restaurant & Bar,CASUAL DINING,3.5,7.0,"151 Morningside Avenue, Scarborough M1E2L3","American, Fast Food, Bar Food",35.0,Scarborough
+Wide Alley Kitchen,CASUAL DINING,,,"4400 Sheppard Avenue East, Scarborough M1S 1T8","Northern Chinese, Chinese",25.0,Scarborough
+Pizza Hut,QUICK BITES,3.1,7.0,"592 Ellesmere Road, Scarborough","Pizza, Fast Food",25.0,Scarborough
+Subiksha,QUICK BITES,3.6,7.0,"2633 Eglinton Ave E, Scarborough, ON M1K 2S2",Indian,25.0,Scarborough
+Hung Fook Tong,DESSERT PARLOR,3.3,6.0,"Silver Star, 633 Silver Star Boulevard, Scarborough M1V 4W2","Chinese, Desserts",20.0,Scarborough
+Wing Wing Restaurant,CASUAL DINING,3.5,10.0,"3032 Danforth Avenue, Toronto M4C 1N2","Chinese, Asian",20.0,Scarborough
+Xin Jiang BBQ,CASUAL DINING,3.4,7.0,"3330 Pharmacy Avenue East, Scarborough M1W 3V8","Xinjiang, Chinese, Asian",30.0,Scarborough
+New York Fries,QUICK BITES,3.1,5.0,"Scarborough Town Centre, Food Court, 300 Borough Drive, Unit 721K, Scarborough M1P 4P5",Fast Food,15.0,Scarborough
+Azumi Teppanyaki & Sushi,CASUAL DINING,,,"5516 Lawrence Avenue, Scarborough M1C 5K4","Sushi, Japanese",40.0,Scarborough
+Chick-N-Joy,CASUAL DINING,3.7,10.0,"4449 Kingston Road, Scarborough M1E2N7",Fast Food,25.0,Scarborough
+Chick-Felays,QUICK BITES,3.3,8.0,"Cedar Heights Plaza, 699 Markham Road E , Scarborough M1H 2A5",Portuguese,30.0,Scarborough
+Dairy Queen Grill & Chill,FAST FOOD,,,1910 Kennedy Road M1P 2L8,"Ice Cream, Desserts, Fast Food",20.0,Scarborough
+Silver Star BBQ,CASUAL DINING,,,"Silver Star, 668 Silver Star Boulevard, Scarborough M1V 5N1",Chinese,40.0,Scarborough
+Origination Noodle,CASUAL DINING,,,"633 Silver Star Boulevard, Scarborough, Toronto","Asian, Chinese",20.0,Scarborough
+Chongqing Lao Jiu Men Hotpot,CASUAL DINING,,,"4771 Steeles Avenue E, Toronto M1V 4S5","Chinese, Sichuan",25.0,Scarborough
+Gerhard's Cafe,BAKERY,3.6,6.0,"1085 Bellamy Road North, Scarborough M1H 3C7","Bakery, European",25.0,Scarborough
+Suvaiyakam Restaurant,QUICK BITES,3.8,5.0,"2950 Birchmount Road, Scarborough, GTA M1W 3G5","Sri Lankan, Indian",15.0,Scarborough
+Eight Noodles,CASUAL DINING,3.1,4.0,"3309 Sheppard Avenue East, Scarborough M1T 3K2",Chinese,25.0,Scarborough
+Max's Restaurant,QUICK BITES,,,"707 Markham Road, Scarborough M1H 2A8",Filipino,25.0,Scarborough
+Shawarma 360,QUICK BITES,2.8,5.0,"1 William Kitchen Road, Scarborough",Middle Eastern,,Scarborough
+Aromaz Cake & Pastry,BAKERY,,,"Chartwell Shopping Centre, 2301 Brimley Road, Scarborough M1S 3L6","Chinese, Bakery",10.0,Scarborough
+Canton Kitchen,CASUAL DINING,3.2,4.0,"3117 Sheppard Avenue East, Scarborough M1T 3J7","Cantonese, Chinese",,Scarborough
+Tsui Wah,CASUAL DINING,3.3,4.0,"3261 Kennedy Road, Unit 2, Scarborough M1V 2K1",Hong Kong Style,25.0,Scarborough
+Hero Certified Burgers,QUICK BITES,2.9,9.0,"6015 Steeles Avenue East, Scarborough M1V 5P7","Burger, Sandwich",25.0,Scarborough
+Crack Me Up,CASUAL DINING,,,"Malvern Town Centre, Ground Level, 31 Tapscott Road, Scarbrough M1B 4Y7",American,30.0,Scarborough
+New Sun BBQ,QUICK BITES,,,"3833 Midland Avenue, Scarborough, GTA",Chinese,20.0,Scarborough
+Allan's Pastry Shop,BAKERY,3.7,5.0,"3447 Kennedy Road, Unit 3, Scarborough M1V 3S1","Bakery, Sandwich",15.0,Scarborough
+Panda Wok,CASUAL DINING,3.0,6.0,"462 Birchmount Road, Unit 40, Scarborough M1K1N8",Hakka Chinese,35.0,Scarborough
+Mayur Fine Indian Cuisine,CASUAL DINING,2.8,7.0,"80 Ellesmere Road, Units 5 & 6, Toronto M1R 4C2",Indian,30.0,Scarborough
+Qing Feng Bun,QUICK BITES,,,"Sky City Shopping Mall, 3278 Midland Avenue, Scarborough","Northern Chinese, Chinese",20.0,Scarborough
+New Spiceland Restaurant,QUICK BITES,3.2,6.0,"6065 Steeles Avenue East, Scarborough",Indian,20.0,Scarborough
+The Birchmount,CASUAL DINING,3.0,9.0,"Birchmount Plaza, 462 Birchmount Road, Scarborough",Bar Food,45.0,Scarborough
+La Mere,CASUAL DINING,3.4,5.0,"3278 Midland Avenue, Scarborough","Chinese, Asian",30.0,Scarborough
+W.B Chinese Cooking,CASUAL DINING,3.4,6.0,"1883 McNicoll Avenue, Scarborough M1V 5M3","Chinese, Asian",35.0,Scarborough
+Jollibee,FAST CASUAL,3.1,5.0,"15 William Kitchen Rd, Scarborough, Toronto, Toronto",Filipino,15.0,Scarborough
+Muckish Irish Pub,CASUAL DINING,3.3,9.0,"74 Hymus Road, Scarborough M1L",Bar Food,40.0,Scarborough
+Patty Time,QUICK BITES,3.9,8.0,"2919 Lawrence Avenue East, Scarborough",Jamaican,10.0,Scarborough
+The Newfoundlander,BAR,2.9,8.0,"472 Danforth Road, Scarborough","Bar Food, Pizza",40.0,Scarborough
+Chou's Garden,CASUAL DINING,3.4,9.0,"30 Dean Park Road, Scarborough M1B 3H1",Chinese,25.0,Scarborough
+Kathy's Grill,CASUAL DINING,3.3,6.0,"1158 Kennedy Road, Toronto M1P 2L1","Grill, Fast Food",20.0,Scarborough
+Kimling,CASUAL DINING,3.8,6.0,2173 Lawrence Avenue East,"Hakka Chinese, Asian",35.0,Scarborough
+Church's Chicken,QUICK BITES,,,"2290 Lawrence Ave E, Scarborough, ON M1P 2P9",Fast Food,15.0,Scarborough
+Pizza Depot,CASUAL DINING,3.5,6.0,"Aldgate Centre, 2060 Ellesmere Road, Scarborough","Pizza, Fast Food",25.0,Scarborough
+Showtime Bistro,CASUAL DINING,3.5,6.0,2761 Markham Road M1X 0A4,American,,Scarborough
+Bourbon St. Grill,QUICK BITES,3.2,7.0,"Scarborough Town Centre, Food Court, 300 Borough Drive, Scarborough M1P 4P5","Cajun, Southern",20.0,Scarborough
+Barrio Fiesta,QUICK BITES,3.7,4.0,"19 Lapsley Road, Scarborough M1B 1N1",Filipino,25.0,Scarborough
+Pan Am's Joint,QUICK BITES,3.3,6.0,"790 Military Trail, Unit 1A, Scarborough","Diner, Desserts",20.0,Scarborough
+Banh Mi 24,QUICK BITES,3.3,5.0,"Sky City Shopping Centre, 3250 Midland Avenue, Scarborough M1V 0C7","Vietnamese, Asian",25.0,Scarborough
+Golden Jade Restaurant,CASUAL DINING,,,"633 Silver Star Boulevard, Scarborough","Chinese, Asian",25.0,Scarborough
+Hunan Style Restaurant,CASUAL DINING,3.4,6.0,"633 Silver Star Boulevard, Scarborough","Chinese, Asian",25.0,Scarborough
+Peking Duck Kitchen,CASUAL DINING,,,"1 Glen Watford Drive, Scarborough M1S 2B7",Chinese,40.0,Scarborough
+Biryani Hut,QUICK BITES,3.0,4.0,"6055 Steeles Avenue East, Scarborough",Indian,20.0,Scarborough
+Jody's Deli,QUICK BITES,3.0,7.0,"777 Warden Avenue, ScarborougH M1L","Deli, Fast Food",25.0,Scarborough
+Red Sail Boat Bakery,BAKERY,3.8,7.0,"2547 Warden Avenue, Scarborough M1W2L6","Bakery, Chinese",10.0,Scarborough
+Red Tea House,CASUAL DINING,3.3,5.0,"2903 Kennedy Road, Scarborough","Coffee and Tea, Chinese, Beverages",15.0,Scarborough
+Villa Madina,QUICK BITES,3.3,6.0,"Scarborough Town Centre, Second Floor, Food Court, 300 Borough Drive, Scarborough M1P 4P5",Mediterranean,25.0,Scarborough
+Painted Post Fish & Chips,QUICK BITES,3.0,5.0,"803 Markham Road, Scarborough M1H 2A8",Fish and Chips,25.0,Scarborough
+Sedaghat Restaurant,QUICK BITES,2.9,7.0,"3342 Danforth Avenue, Scarborough",Iranian,30.0,Scarborough
+Hong Food,QUICK BITES,,,"Malvern Town Centre, Food Court, 31 Tapscott Road, Scarborough M1B 4Y7",Hakka Chinese,20.0,Scarborough
+Fairview Seafood Chinese Cuisine,CASUAL DINING,3.1,4.0,"Markham Corners, 5103 Sheppard Avenue East, Unit 12, Scarborough",Chinese,25.0,Scarborough
+Pasta Tutti Giorni,CASUAL DINING,3.2,5.0,"98 Island Road, Unit C, Scarborough M1C 3P2",Italian,45.0,Scarborough
+Bengali Sweets,QUICK BITES,,,"3300 McNicoll Avenue, Scarborough","Desserts, Bangladeshi, Indian",15.0,Scarborough
+Watts,CASUAL DINING,2.8,9.0,"1 Eglinton Square, Unit 45, Scarborough M1L 2K1","American, Canadian",15.0,Scarborough
+Ten Ren's Tea,BEVERAGE SHOP,3.0,5.0,"Scarborough Town Centre, Second Floor, 300 Borough Drive, Scarborough M1P 4P5","Bubble Tea, Tea, Beverages",15.0,Scarborough
+Pho Vuon Lai Jasmine Garden,CASUAL DINING,,,"250 Alton Towers Circle, Unit C6, Scarborough M1V 3Z4",Vietnamese,25.0,Scarborough
+Tian Yuan Station,DESSERT PARLOR,,,"Sky City Shopping Centre, 3250 Midland Avenue, Scarborough","Chinese, Desserts",25.0,Scarborough
+Chef Legend,CASUAL DINING,,,"1348 Kennedy Road, Toronto M1P",Indian,25.0,Scarborough
+Wok & Fortune,CASUAL DINING,3.7,4.0,"2900 Eglinton Avenue East, Scarborough M1J 2E4","Chinese, Caribbean, West Indian",30.0,Scarborough
+Just Soups,QUICK BITES,3.5,5.0,"1143 Morningside Avenue, Scarborough",Healthy Food,20.0,Scarborough
+Sushi & Tea,QUICK BITES,3.4,6.0,"3027 Kingston Road, Scarborough","Sushi, Bubble Tea",30.0,Scarborough
+Victorian Monkey Kitchen and Social Club,CASUAL DINING,3.4,6.0,2386 KINGSTON RD M1N1V2 1V2,Canadian,25.0,Scarborough
+Pizza Nova,QUICK BITES,3.8,6.0,"3655 St. Clair Avenue East, Scarborough","Pizza, Fast Food",30.0,Scarborough
+Jimmy The Greek,QUICK BITES,3.5,7.0,"Scarborough Town Centre, Food Court, 300 Borough Drive, Scarborough M1P 4P5",Greek,25.0,Scarborough
+Seraphia Inspired Cuisine,CAFÉ,3.7,7.0,"2979 Kingston Road, Scarborough","Cafe, Mediterranean",20.0,Scarborough
+McDonald's,QUICK BITES,2.8,6.0,"Woodside Square, 1571 Sandhurst Circle, Scarborough M1V 1V2",Fast Food,25.0,Scarborough
+Tianjin Dumplings,CASUAL DINING,3.3,5.0,"4192 Sheppard Avenue East, Scarborough M1S 1T3",Northern Chinese,25.0,Scarborough
+Best Kabab & Karahi,QUICK BITES,,,"232 Markham Road, Scarborough",Pakistani,,Scarborough
+Original Congee,QUICK BITES,3.4,6.0,"5661 Steeles Avenue East, Inside T&T Supermarket, Scarborough","Fast Food, Chinese, Asian",15.0,Scarborough
+Tim Hortons,CAFÉ,,,2363 Warden Avenue,"American, Donuts, Desserts",20.0,Scarborough
+Harvey's,QUICK BITES,3.2,6.0,"2555 Victoria Park Avenue, Scarborough","Fast Food, Canadian, Burger",25.0,Scarborough
+Pizza Pizza,QUICK BITES,2.8,8.0,"Bridlewood Mall, First Floor, 2900 Warden Avenue, Scarborough M1W 2S8","Pizza, Fast Food",25.0,Scarborough
+Wok Stop,CASUAL DINING,3.4,6.0,"271 Morningside Avenue, Scarborough M1E 3G1","Chinese, Thai",25.0,Scarborough
+Co-China Manila,CASUAL DINING,3.4,6.0,"1840 Lawrence Avenue East, Scarborough M1R 2Y1",Filipino,25.0,Scarborough
+Reginos Pizza,QUICK BITES,3.0,10.0,"790 Military Trail, Scarborough M1E 5K4","Pizza, Fast Food",25.0,Scarborough
+Thai Express,QUICK BITES,3.3,7.0,"Scarborough Town Centre, 300 Borough Drive, Scarborough M1P 4P5",Thai,25.0,Scarborough
+JV's Taste Buds Caribbean Grill,QUICK BITES,3.5,6.0,"7 Progress Avenue, Scarborough M1P5A3","Caribbean, Fast Food",20.0,Scarborough
+Ajmir Pizza Wings & Kabab House,QUICK BITES,2.9,7.0,"3879 Lawrence Avenue E, Scarborough M1G 1R2","Middle Eastern, Indian, Fast Food",20.0,Scarborough
+Coffee In,CAFÉ,,,2181 Lawrence Avenue East,"Cafe, Filipino",25.0,Scarborough
+HK Garden,CASUAL DINING,,,"4236 Sheppard Avenue East, Scarborough M1S 1T5",Hong Kong Style,25.0,Scarborough
+East Gate,CASUAL DINING,3.2,9.0,2268 Kingston Road,"Chinese, Asian",30.0,Scarborough
+Vinchandra,CASUAL DINING,3.2,6.0,"795 Markham Road, Scarborough M1H 2Y1",Indian,35.0,Scarborough
+Alexandria Cafe,QUICK BITES,3.3,5.0,"1940 Lawrence Avenue East, Scarborough M1R 2Y7",Middle Eastern,30.0,Scarborough
+Premium Sweets,DESSERT PARLOR,3.4,9.0,"3212 Eglinton Avenue East, Scarborough","Desserts, Indian",15.0,Scarborough
+Sunny Up Family Restaurant,CASUAL DINING,3.8,4.0,"4630 Kingston Road, Scarborough",Canadian,35.0,Scarborough
+Rustico Italian Food,CAFÉ,,,"1458 Kingston Road, Toronto M1N 1R6","Cafe, Italian",10.0,Scarborough
+Real Fruit Bubble Tea,BEVERAGE SHOP,3.3,4.0,"Malvern Town Centre, Ground Level, 31 Tapscott Road, Scarborough M1B 4Y7",Bubble Tea,15.0,Scarborough
+Dear & Fro,DESSERT PARLOR,,,"3300 Midland Avenue, Suite 39, Scarborough, ON M1V 4A1",Korean,15.0,Scarborough
+Aunt Elsie's Caribbean Kitchen,QUICK BITES,,,"2689 Eglinton Avenue East, Scarborough",Caribbean,20.0,Scarborough
+Jamaican Tasty Food,QUICK BITES,3.8,4.0,"4268 Kingston Road, Scarborough",Jamaican,20.0,Scarborough
+Dindigul Thalappakattu Biriyani,CASUAL DINING,,,"3850 Finch Avenue E, Scarborough M1T 3T6",South Indian,30.0,Scarborough
+Da Hal Yee,QUICK BITES,,,"3833 Midland Avenue, Scarborough",Cantonese,25.0,Scarborough
+Gramps & Elaines,QUICK BITES,3.4,7.0,"3095 Eglinton Avenue, Scarborough",Caribbean,20.0,Scarborough
+Omi Sushi,CASUAL DINING,3.8,13.0,"4352 Kingston Road, Scarborough M1E 2M8","Sushi, Japanese, Chinese, Asian",30.0,Scarborough
+Jugo Juice,BEVERAGE SHOP,,,"Scarborough Town Centre, Food Court, 300 Borough Drive, Scarborough M1P 4P5","Juices, Beverages",20.0,Scarborough
+Nawzar Meat Market,QUICK BITES,3.6,4.0,7-80 Ellesmere Road,Iranian,20.0,Scarborough
+Koya Japan,QUICK BITES,3.6,7.0,"Scarborough Town Centre, Food Court, 300 Borough Drive, Scarborough M1P 4P5","Fast Food, Japanese, Asian",25.0,Scarborough
+Annapurna's Mithai Shoppe,DESSERT PARLOR,,,"1544 Warden Avenue, Scarborough","Desserts, Indian",15.0,Scarborough
+Shanghai 360,Other,,,"Scarborough Town Centre, Food Court, 300 Borough Drive, Scarborough M1P 4P5",Chinese,20.0,Scarborough
+Hong Kong Style Tea & Fast Food,QUICK BITES,3.4,4.0,"Chartwell Shopping Centre, 2301 Brimley Road, Scarborough M1S 5B8",Hong Kong Style,25.0,Scarborough
+"Kennedy Road, Scarborough",Other,,,CUISINES:,Indian,10.0,Scarborough
+Cultures,QUICK BITES,2.8,4.0,"Food Court, 300 Borough Drive M1P 4P5","Healthy Food, Sandwich",25.0,Scarborough
+Cho's Wok,CASUAL DINING,3.9,4.0,"2500 Eglinton Avenue, Scarborough M1K 2R5","Chinese, West Indian, Asian",30.0,Scarborough
+Joe & Lin Restaurant,CASUAL DINING,2.9,6.0,"2306 Eglinton Avenue East, Scarborough","Caribbean, Chinese",25.0,Scarborough
+The Owl Of Minerva,CASUAL DINING,3.1,4.0,"4733 Steeles Avenue E, Unit 2, Scarborough M1V 4S5",Korean,25.0,Scarborough
+D & R Wings,CASUAL DINING,,,"Bamburgh Gardens Shopping Plaza, 325 Bamburgh Circle, Scarborough M1W 3L6",Hong Kong Style,35.0,Scarborough
+Southern China Restaurant,CASUAL DINING,3.3,5.0,"448 Kennedy Road, Scarborough","Chinese, Asian",30.0,Scarborough
+Pumpernickel's,QUICK BITES,,,"Consilium Place, 200 Consilium Place, Scarborough M1H 3E4","Deli, Fast Food",25.0,Scarborough
+Bilal Halal Chicken & Pizza,QUICK BITES,3.7,6.0,3238 Eglinton Avenue East,"Pizza, Fast Food",30.0,Scarborough
+Double Double,QUICK BITES,3.5,5.0,"2950 Kennedy Road, Scarborough","Pizza, Fast Food",25.0,Scarborough
+La Prep,QUICK BITES,,,"2867 Ellesmere Road, Scarborough",Cafe,25.0,Scarborough
+Domino's,QUICK BITES,3.1,6.0,"4053 Sheppard Avenue East, Scarborough M1S 1S8","Fast Food, Pizza",25.0,Scarborough
+The Old House,CASUAL DINING,,,"3 Glen Watford Drive, Scarborough",Chinese,25.0,Scarborough
+Kapit Bahay,QUICK BITES,2.9,5.0,"4218 Lawrence Avenue East, Scarborough M1E4S6","Fast Food, Filipino",20.0,Scarborough
+Lin's Chinese Bun,QUICK BITES,3.4,4.0,"Finch Midland Centre, 4188 Finch Avenue East, Unit 18, Scarborough",Northern Chinese,20.0,Scarborough
+Lucky Lin's,CASUAL DINING,,,"5633 Finch Avenue E, Scarborough M1B 5K9","Chinese, West Indian, Asian",35.0,Scarborough
+Cafe D Taj,CASUAL DINING,,,"3342 Danforth Avenue, Unit 1B, Scarborough","Indian, Pakistani, Bangladeshi",30.0,Scarborough
+The Birchcliff Coffee Bar,CAFÉ,,,1666 Kingston Road M1N 1S5,Coffee and Tea,,Scarborough
+Paul's Breakfast & Burgers,QUICK BITES,3.2,4.0,"30 Dean Road, Scarborough M1B 3H1",Fast Food,25.0,Scarborough
+Jikoni Grill,QUICK BITES,,,"2535 Warden Avenue, Scarborough M1W 2L6","African, Indian",20.0,Scarborough
+Vintage Garden Dining Room,CASUAL DINING,,,"1038 McNicol Avenue, Scarborough M1W 0A4",Chinese,,Scarborough
+Tropical Joe's,QUICK BITES,3.2,4.0,"Woodside Square, Food Court, 1571 Sandhurst Circle, Scarborough, GTA M1V 1V2",Caribbean,35.0,Scarborough
+Konner Chinese Restaurant,CASUAL DINING,3.3,5.0,"Sky City Shopping Centre, 3250 Midland Avenue, Scarborough",Chinese,30.0,Scarborough
+Sahan Restaurant,CASUAL DINING,,,"2010 Lawrence Avenue East, Scarborough M1R 2Z1","Somali, African, Ethiopian",30.0,Scarborough
+Authentic Szechuan Cuisine,CASUAL DINING,3.1,4.0,"Silver Star, 668 Silver Star Boulevard, Scarborough","Sichuan, Chinese, Asian",40.0,Scarborough
+Caribbean Ocean,CASUAL DINING,3.8,5.0,"2480 Lawrence Avenue, Scarborough",Caribbean,30.0,Scarborough
+Adi Biriyani & Kabab House,QUICK BITES,3.1,4.0,"Birchmount Plaza, 462 Birchmount Road, Scarborough","Indian, Bangladeshi",35.0,Scarborough
+Starbucks,CAFÉ,,,"Kennedy Commons Shopping Center, 120 William Kitchen Road, Scarborough M1P 5B7",Cafe,20.0,Scarborough
+Han Shi Fang,CASUAL DINING,,,"Sky City Shopping Centre, 3250 Midland Avenue, Scarborough M1V 0C7","Chinese, Asian",40.0,Scarborough
+KFC,QUICK BITES,,,"3495 Sheppard Avenue East, Scarborough M1T 3K6",Fast Food,25.0,Scarborough
+The Corner Bank Sports Bar And Grill,BAR,,,"925 Warden Avenue, Scarborough M1L 4C5","Grill, Bar Food",60.0,Scarborough
+Burrito Boyz,CASUAL DINING,,,"1961 Kennedy Road, Scarborough M1P 5A2",Mexican,25.0,Scarborough
+Tasty Grill,QUICK BITES,3.7,4.0,"4352 Kingston Road, Scarborough M1E 2M8",Fast Food,25.0,Scarborough
+Delicious of Heynoodles,CASUAL DINING,,,"3700 Midland Ave, Unit 108, Scarborough M1V 0B3","Chinese, Sichuan",25.0,Scarborough
+Noodle Legend,CASUAL DINING,,,"Cathay Plaza, 4271 Sheppard Avenue East, Unit 11, Scarborough M1S 1T6",Northern Chinese,25.0,Scarborough
+Yunshang Rice Noodle,CASUAL DINING,,,"4186 Finch Ave E #32, Scarborough, Toronto",Chinese,40.0,Scarborough
+Restaurant Fifty Nine,CASUAL DINING,2.9,6.0,"4186 Finch Avenue East, Scarborough M1S 3V1","Fast Food, Chinese",30.0,Scarborough
+Alton Restaurant,CASUAL DINING,3.1,5.0,"250 Alton Towers Circle, Unit C06A, Scarborough M1V 5P5","Hong Kong Style, Chinese",,Scarborough
+Elite Bakery,BAKERY,3.3,4.0,"1961 Kennedy Road, Scarborough M1P 2M1","Bakery, Desserts, Greek",15.0,Scarborough
+Andrew's Place,CASUAL DINING,3.2,4.0,"1728 Kingston Road, Scarborough",Bar Food,45.0,Scarborough
+Chopstick House,CASUAL DINING,3.0,6.0,"1780 Markham Road, Scarborough M1B 2W2",Chinese,15.0,Scarborough
+Panzerotto Pizza,QUICK BITES,2.9,7.0,"1062 Kingston Road, Toronto M4E 1T5","Pizza, Fast Food",25.0,Scarborough
+Kin Kin Bubble Tea,BEVERAGE SHOP,3.2,4.0,"Woodside Square, 1571 Sandhurst Circle, Scarborough, GTA M1V 1V2","Bubble Tea, Beverages",15.0,Scarborough
+JC's Grill House,CASUAL DINING,2.9,6.0,"1686 Ellesmere Road, Scarborough M1H 2P6",German,35.0,Scarborough
+Black Forest Steak House,CASUAL DINING,,,"2624 Eglinton Avenue E, Scarborough M1K 2S3","Steak, Seafood, Grill",70.0,Scarborough
+Go Go China,Other,,,"Chartwell Shopping Centre, 2301 Brimley Road, Scarborough M1S 3L6","Chinese, Asian",25.0,Scarborough
+Taste of Beirut,QUICK BITES,,,"1960 Lawrence Avenue East, Scarborough","Lebanese, Middle Eastern",15.0,Scarborough
+T.W.'s Bar - Delta Toronto East,BAR,,,"Delta Toronto East, 2035 Kennedy Road, Scarborough M1T 3G2","Bar Food, American",50.0,Scarborough
+Mirage Noodle Restaurant,CASUAL DINING,,,"Finch Midland Centre, 4186 Finch Avenue East, Scarborough M1S 3V1",Northern Chinese,20.0,Scarborough
+Kung Fu Duck,QUICK BITES,3.6,5.0,"Sky City Shopping Centre, 3276 Midland Avenue, Scarborough",Northern Chinese,25.0,Scarborough
+"Sheppard Avenue East, Scarborough",Other,,,CUISINES:,"Indian, Pakistani",20.0,Scarborough
+Moo Beef Noodles,QUICK BITES,3.0,5.0,"633 Silver Star Boulevard, Scarborough","Chinese, Asian",15.0,Scarborough
+Karibu Restaurant,QUICK BITES,3.6,7.0,"80 Ellesmere Road, Scarborough M1R 4C2","Indian, African",20.0,Scarborough
+The Korner Pub,CASUAL DINING,2.8,5.0,"3045 Kingston Road, Scarborough","Bar Food, American",40.0,Scarborough
+Centro Pizza,BAR,,,"3408 Kingston Road, Scarborough","Pizza, Fast Food",45.0,Scarborough
+Pizza Village & Burgers,QUICK BITES,,,"2397 Eglinton Avenue East, Scarborough",Fast Food,20.0,Scarborough
+Energy Shack Juice Bar,Other,,,"2199 Midland Avenue, Unit 2, Toronto M1P 3E7","Healthy Food, Juices",15.0,Scarborough
+Manchu Wok,QUICK BITES,2.9,5.0,"Scarborough Town Centre, Food Court, 300 Borough Drive, Scarborough M1P 4P5","Fast Food, Chinese, Asian",25.0,Scarborough
+Lobster House,CASUAL DINING,3.3,4.0,"5005 Steeles Avenue East, Scarborough M1V 5K1",Cantonese,,Scarborough
+Naan and Kabob,QUICK BITES,,,"1780 Markham Road, Toronto M1B 2W2",Afghan,25.0,Scarborough
+Fish Joy,QUICK BITES,3.3,4.0,"1179 Brimley Road, Scarborough M1P 3G5","Fish and Chips, Seafood",25.0,Scarborough
+Cakeview Bakery & Cafe,BAKERY,,,4188 Finch Avenue East M1S 5C2,"Bakery, Chinese",10.0,Scarborough
+Enjoy Noodle King,CASUAL DINING,,,"Sky City Shopping Centre, 3250 Midland Avenue, Scarborough M1V 3Z9",Chinese,20.0,Scarborough
+Mary Brown's,QUICK BITES,,,"2261 Kingston Road, Scarborough",Fast Food,30.0,Scarborough
+Sinopino,CASUAL DINING,,,"4820 Sheppard Avenue East, Scarborough M1S 5M9",Chinese,25.0,Scarborough
+Rex's Den,CASUAL DINING,2.7,7.0,"UTSC, Student Centre, 1265 Military Trail, Scarborough M1C 1A5",Bar Food,50.0,Scarborough
+Coffee Dome,CAFÉ,3.0,5.0,2223 Kingston Road,Cafe,15.0,Scarborough
+Habibiz Cafe & Restaurant,CASUAL DINING,3.4,6.0,"1939 Kennedy Road, Scarborough",Cafe,40.0,Scarborough
+Iqbal Hakka Masala,CASUAL DINING,3.2,5.0,"2680 Lawrence Avenue East, Scarborough M1P 4Y4",Hakka Chinese,25.0,Scarborough
+The Loaded Dog,BAR,2.7,5.0,1921 Lawrence Avenue East M1R 2Y6,Bar Food,30.0,Scarborough
+Extreme Cream,DESSERT PARLOR,,,1961 Lawrence Avenue East,"Ice Cream, Desserts",15.0,Scarborough
+Famous Pizza Town,QUICK BITES,3.3,5.0,"1947 Victoria Park Avenue, Scarborough","Pizza, Fast Food",30.0,Scarborough
+Piazza Manna,CASUAL DINING,2.7,5.0,"100 Consilium Place, Scarborough M1H 3E3","Pizza, Fast Food, Italian",20.0,Scarborough
+Amato Pizza / Thai Two Grill,QUICK BITES,3.5,7.0,"1089 Victoria Park Avenue, Scarborough","Pizza, Fast Food, Thai, Malaysian",25.0,Scarborough
+Sure Win Cafe Inc,Other,,,"3833 Midland Avenue, Scarborough M1V 5L6",Cantonese,30.0,Scarborough
+Twilight Family Restaurant & Bar,BAR,,,"55 Nugget Avenue #12, Scarborough M1S 4A4","West Indian, Chinese, Guyanese",45.0,Scarborough
+Poorani Vilaas,QUICK BITES,,,"6065 Steeles Avenue East, Scarborough M1V 5P6",Indian,25.0,Scarborough
+Zam Zam,QUICK BITES,,,2655 Lawrence Avenue East,"Pizza, Middle Eastern",20.0,Scarborough
+Cliffside Hearth Bread Company,BAKERY,,,"3047 Kingston Road, Scarborough",Bakery,15.0,Scarborough
+Scarborough,Other,,,CUISINES:,"Fast Food, Indian, Vegetarian",15.0,Scarborough
+Big Bite Burrito,QUICK BITES,,,4383 Kingston Road M1E 2N2,Mexican,25.0,Scarborough
+New Quality Bakery,BAKERY,,,"1415 Kennedy Road , Scarborough","Indian, Bakery",15.0,Scarborough
+Flavours,QUICK BITES,,,"846 Markham Road, Scarborough M1H 2Y2",Indian,25.0,Scarborough
+Masala King,CASUAL DINING,,,"2286 Kingston Road, Scarborough, ON M1N 1T9",Indian,35.0,Scarborough
+Louis Souvlaki And Grill,QUICK BITES,3.2,4.0,"371 Old Kingston Road, Scarborough M1C 1B7","Greek, Mediterranean",25.0,Scarborough
+Aberdeen Delicatessen,CASUAL DINING,,,"Sky City Shopping Centre, 3276 Midland Avenue, Scarborough M1V 3Z9",Hong Kong Style,25.0,Scarborough
+Vienna Fine Foods,CASUAL DINING,3.6,5.0,"1050 Birchmount Road, Scarborough","German, European",40.0,Scarborough
+Spice Is Rite,QUICK BITES,3.6,4.0,2179 Lawrence Avenue East,"Jamaican, Caribbean",20.0,Scarborough
+VIP Pool & Bar,BAR,,,"271 Ellesmere Road, Scarborough M1R 4E4",Chinese,35.0,Scarborough
+Paul Kee Open Kitchen,QUICK BITES,,,"2950 Birchmount Road, Unit 11, Scarborough","Cantonese, Chinese, Asian",20.0,Scarborough
+De Fu Seafood Restaurant,CASUAL DINING,,,"633 Silver Star Boulevard, Unit 102, Scarborough","Dim Sum, Cantonese, Chinese, Asian",50.0,Scarborough
+Imagine Noodle,CASUAL DINING,,,"668 Silver Star Boulevard, Unit 203, Scarborough M1V 5N1",Northern Chinese,30.0,Scarborough
+Top One Pizza & Wings,QUICK BITES,3.0,4.0,"2856 Ellesmere Road, Scarborough M1E 4B8","Pizza, Fast Food",20.0,Scarborough
+The Rice Kitchen,CASUAL DINING,2.9,5.0,2131 Lawrence Avenue East,"Chinese, Thai",25.0,Scarborough
+Alabon Libon,QUICK BITES,,,"623 Kennedy Road, Scarborough M1K 2B4",Caribbean,30.0,Scarborough
+Nun Such Jerk,QUICK BITES,,,"1180 Kennedy Road, Scarborough M1P2L1","Caribbean, Fast Food",30.0,Scarborough
+Indran Sweets,QUICK BITES,,,"80 Nashdene Road, scarborough, Scarborough M1V 5E4","Desserts, Sri Lankan",,Scarborough
+Falling Brook Market & Cafe,CASUAL DINING,3.9,4.0,"158 Fallingbrook Road, Scarborough",Italian,35.0,Scarborough
+Tai Chi Restaurant,CASUAL DINING,3.5,4.0,"4190 Kingston Road, Unit 8, Scarborough M1E 4W1","Chinese, Asian",30.0,Scarborough
+Watan Bakery,BAKERY,3.4,6.0,2885 Lawrence Avenue East,"Bakery, Middle Eastern",10.0,Scarborough
+Sa-Fire Restaurant & Bar,CASUAL DINING,,,"318 Painted Post Drive, Scarborough",Canadian,,Scarborough
+Jacky's Seafood,CASUAL DINING,,,"3380 Midland Avenue, Suite17&18, Scarborough M1V 1R4","Seafood, Chinese",25.0,Scarborough
+Raani Fast Food,QUICK BITES,,,"3600 Ellesmere Road, Unit 10, Scarborough M1C 4Y8",Sri Lankan,15.0,Scarborough
+Quality Bread Bakery,QUICK BITES,,,"1221 Markham Road, Scarborough",Bakery,10.0,Scarborough
+Chef 88 Oriental Cuisine 百樂 海鮮小炒,CASUAL DINING,,,"3261 Kennedy Road Suite 3, Scarborough, ON M1V 2K1",Oriental,35.0,Scarborough
+The Real Jerk,CASUAL DINING,,,"1004 Kingston Road, Toronto M4E 1T2","Jamaican, Caribbean",50.0,Scarborough
+Barcode,CASUAL DINING,,,"433 Comstock Road, Scarborough M1L 2H4","Northern Chinese, Chinese, Asian",35.0,Scarborough
+Hamish's Kitchen,CASUAL DINING,,,"95 Lebovic Avenue E02, Scarborough, Canada M1L 4V9,",Fish and Chips,35.0,Scarborough
+Nugget Pizza and Wings,QUICK BITES,,,"4830 Sheppard Avenue East, Scarborough M1S 5M9","Burger, Pizza",13.0,Scarborough
+Pizzaville,QUICK BITES,3.3,4.0,"2228 Kingston Road, Scarborough M1N 1T9","Pizza, Fast Food",25.0,Scarborough
+Gourmet Satay,CASUAL DINING,,,"1348 Kennedy Road, Scarborough","Malaysian, Indonesian, Singaporean",40.0,Scarborough
+Sunrise,QUICK BITES,3.2,4.0,"5107 Sheppard Avenue East, Scarborough M1S 4N3",Caribbean,25.0,Scarborough
+Bakery 18,BAKERY,,,"Bamburgh Gardens Shopping Plaza, 395 Bamburgh Circle, Scarborough",Bakery,5.0,Scarborough
+Tokyo Bakery,BAKERY,,,"4385 Sheppard Avenue East, Scarborough M1S 1T8","Bakery, Chinese",,Scarborough
+241 Pizza,QUICK BITES,,,"2834 Victoria Park Avenue, Scarborough M2J 4A8","Pizza, Fast Food",30.0,Scarborough
+Chawk Bazar,CASUAL DINING,,,"1738 Lawrence Ave E, Scarborough","Asian, Pakistani, Indian, Bangladeshi",45.0,Scarborough
+Subway,QUICK BITES,2.8,4.0,"4545 Kingston Road, Scarborough M1E 2P1",Fast Food,20.0,Scarborough
+Manpasand,CASUAL DINING,,,"735 Middlefield Road, Unit 1-2, Scarborough",Indian,35.0,Scarborough
+Golden Bubbles,CAFÉ,,,"3276 Midland Ave. Unit C125, Scarborough, Toronto, Toronto","Cafe, Desserts",20.0,Scarborough
+Menchie's,DESSERT PARLOR,,,"Woodside Square, 1571 Sandhurst Circle, Scarborough",Frozen Yogurt,15.0,Scarborough
+L's Chinese Eatery,CASUAL DINING,,,"1734 Lawrence Avenue East, Scarborough M1R 2Y2",Hakka Chinese,25.0,Scarborough
+Red Sail Boat Bakery,BAKERY,3.5,4.0,"2838 Victoria Park Avenue, Scarborough","Bakery, Chinese",15.0,Scarborough
+Burrito Zone,QUICK BITES,,,"Unit 2, 2030 Ellesmere Road M1H 2V6",Tex-Mex,,Scarborough
+Alanoor Afghan Kabob,CASUAL DINING,,,"3595 Sheppard Avenue East, Scarborough M1T 3K7","Mediterranean, Middle Eastern, Afghan",25.0,Scarborough
+Rainbow Food,Other,3.6,4.0,"Midtown Plaza, 4227 Sheppard Avenue East, Scarborough M1S 5H5",Vietnamese,15.0,Scarborough
+Windies,CASUAL DINING,,,"3330 Lawrence Avenue E, Scarborough M1H 1A7","West Indian, Caribbean",30.0,Scarborough
+P Jay's Takeout,QUICK BITES,,,"2677 Kennedy Road, Scarborough M1T 3H8",Jamaican,15.0,Scarborough
+Chicken King,QUICK BITES,,,"Finch Midland Centre, 4188 Finch Avenue East, Scarborough","Chinese, Fast Food",20.0,Scarborough
+Kin Kin Bakery & Bubble Tea,BAKERY,,,"3850 Sheppard Avenue East, Scarborough M1T 3L4","Bakery, Bubble Tea, Beverages",15.0,Scarborough
+Uncle Harry's,CASUAL DINING,,,"Birchmount Plaza, 462 Birchmount Road, Scarborough",Fish and Chips,30.0,Scarborough
+Yogi's Noodle,Other,,,"Chartwell Shopping Centre, 2301 Brimley Road, Scarborough M1S 3L6",Cantonese,20.0,Scarborough
+Scarborough Pizza Kabob,QUICK BITES,,,"2157 Lawrence Avenue East,","Pizza, Fast Food",25.0,Scarborough
+Jerk King,QUICK BITES,,,"4457 Kingston Road, Scarborough M1E2N7","Caribbean, Fast Food",30.0,Scarborough
+Ruby's Mediterranean Cuisine,QUICK BITES,,,"Eglinton Square, Food Court, 1 Eglinton Square",Mediterranean,15.0,Scarborough
+Moms N Paps,CASUAL DINING,,,"1173 Victoria Park Avenue, Scarborough M1L","Caribbean, West Indian",40.0,Scarborough
+Karachi Kitchen,QUICK BITES,,,"2300 Lawrence Avenue East, Scarborough M1P 2K9","Pakistani, Indian",20.0,Scarborough
+Spicy Bite,QUICK BITES,,,"3001 Markham Road, Scarborough",Indian,30.0,Scarborough
+Supreme Restaurant & Bar,CASUAL DINING,,,"1249 Ellesmere Road, Scarborough M1P 2X4","Chinese, Caribbean",25.0,Scarborough
+Shawarma Al-Araby Mediterranean Grill,QUICK BITES,,,"2173 Victoria Park, Scarborough",Mediterranean,20.0,Scarborough
+Tikka Kabab & Biryani House,QUICK BITES,,,"1145 Morningside Avenue, Unit 39, Scarborough M1B 0A7","Pakistani, Indian",25.0,Scarborough
+Midland Court Restaurant,CASUAL DINING,,,"Scarborough Village Mall, 3380 Midland Avenue, Scarborough","Cantonese, Chinese, Asian",30.0,Scarborough
+Chat's Jerk Restaurant,CASUAL DINING,,,"3537 Street Clair Avenue E, Scarborough M1K 1L6",Caribbean,40.0,Scarborough
+Rajin's Roti,QUICK BITES,,,"5743 Finch Avenue East, Scarborough M1B 5J9",Caribbean,15.0,Scarborough
+Teriyaki Experience,QUICK BITES,,,"SmartCentres Scarborough West, 1900 Eglinton Avenue East, Scarborough, GTA M1L 2L9",Japanese,20.0,Scarborough
+Wynner Grill,CASUAL DINING,,,"3330 Pharmacy Avenue, Scarborough M1W 3V8",Northern Chinese,40.0,Scarborough
+Jeyam,QUICK BITES,,,"1545 Warden Avenue, Scarborough","Sri Lankan, Indian",25.0,Scarborough
+Country Style,CAFÉ,2.1,5.0,2387 Kingston Road,Cafe,20.0,Scarborough
+Spice and Aroma,CASUAL DINING,,,"3330 Pharmacy Avenue, Scarborough M1W 3V8",Chinese,35.0,Scarborough
+King Huang Restaurant,CASUAL DINING,,,"4227 Sheppard Avenue East, Unit B1, Scarborough, M1S 5H5",Cantonese,40.0,Scarborough
+Tak Fu Seafood Restaurant,CASUAL DINING,,,"Silver Star, 633 Silver Star Boulevard, Scarborough","Dim Sum, Cantonese, Chinese, Asian",30.0,Scarborough
+Al-Karam Sweets,DESSERT PARLOR,,,"3001 Markham Road, Scarborough","Desserts, Indian",20.0,Scarborough
+Cecilia Cafe,QUICK BITES,,,"Dragon Centre, 23 Glen Watford Drive, Scarborough M1S 2B7",Chinese,30.0,Scarborough
+Arsenio's Kitchen,CASUAL DINING,,,"640 Danforth Rd, Scarborough, ON M1K 1G2","Filipino, Jamaican",25.0,Scarborough
+Timmy's Bagel & Coffee,QUICK BITES,,,"2834 Markham Road, Scarborough",Fast Food,15.0,Scarborough
+Buster's Pub,BAR,3.5,5.0,"1539 Kingston Road, Scarborough",Bar Food,40.0,Scarborough
+Lebanese Bakery,BAKERY,,,"2094 Lawrence Avenue East, Scarborough","Lebanese, Bakery",15.0,Scarborough
+Yaarl Cake House,DESSERT PARLOR,,,"2761 Markham Road, Scarborough M1X 0A4",Desserts,30.0,Scarborough
+Smilin' Jacks Bar & Grill,BAR,,,"3482 Lawrence Avenue E, Scarborough M1H 1A9",Bar Food,60.0,Scarborough
+Big Bite Burrito,QUICK BITES,,,"4045 Sheppard Avenue East, Toronto",COST FOR TWO:,20.0,Scarborough
+Tong Ha Supreme BBQ,Other,,,"Silver Star, 633 Silver Star Boulevard, Unit 59, Scarborough","BBQ, Chinese",10.0,Scarborough
+James' Black Bear Pub,BAR,,,"3276 Danforth Avenue, Scarborough",Bar Food,35.0,Scarborough
+Italian Espresso Bar,CAFÉ,3.2,4.0,"Birchmount Plaza, 462 Birchmount Road, Scarborough","Beverages, Cafe",15.0,Scarborough
+Little Caesars,QUICK BITES,,,"3593 Sheppard Avenue East, Scarborough M1T 3K8","Pizza, Fast Food",25.0,Scarborough
+Happyland Pub & Grill,CASUAL DINING,,,2302 Eglinton Avenue East,"Bar Food, Grill",40.0,Scarborough
+Blue Sky Bakery,BAKERY,,,"801 Brimley Road, Scarborough","Bakery, Afghan",15.0,Scarborough
+Harden Fast Food Ltd,Other,,,"3833 Midland Avenue, Scarborough, GTA M1V 5L6","Cantonese, Hong Kong Style",25.0,Scarborough
+Sugar Marmalade,DESSERT PARLOR,,,Opening Soon,"Desserts, Taiwanese",25.0,Scarborough
+Sahebi Kabob,QUICK BITES,3.6,4.0,"3341 Markham Road, Scarborough","Kebab, Afghan",20.0,Scarborough
+#1 Jerk,QUICK BITES,,,"2859 Kingston Road, Scarborough M1M",Caribbean,20.0,Scarborough
+Sai-Lila Khaman Dhokla House,QUICK BITES,,,"864 Markham Road, Scarborough","Indian, Sri Lankan",,Scarborough
+Spicy Incense Pot,CASUAL DINING,,,"4188 Finch Avenue East, Scarborough","Sichuan, Chinese, Asian",30.0,Scarborough
+Ghadir Meat & Restaurant,FAST CASUAL,,,"Lawrence Ave E, Toronto, ON, Canada",Middle Eastern,15.0,Scarborough
+Kernels Popcorn,QUICK BITES,,,"Scarborough Town Centre, Food Court, 300 Borough Drive, Scarborough M1P 4P5",Fast Food,15.0,Scarborough
+Desi Taste,QUICK BITES,,,"204 Markham Road, Scarborough",Pakistani,,Scarborough
+Martin's Bakery,QUICK BITES,,,"2761 Markham Rorad, Scarborough M1X 0A4","Sri Lankan, Bakery",15.0,Scarborough
+Mcnicoll Joe's,BAR,,,"2826 Markham Road, Scarborough","American, Bar Food",40.0,Scarborough
+Second Cup,CAFÉ,,,"Scarborough Town Centre, Food Court, 300 Borough Drive, Scarborough M1P 4P5","Cafe, Coffee and Tea, Frozen Yogurt",10.0,Scarborough
+Gourmet Paradise,CASUAL DINING,,,"Silver Star, 633 Silver Star Boulevard, Unit 108, Scarborough","Sichuan, Chinese, Asian",30.0,Scarborough
+Papa Joe's Bakery,BAKERY,,,"283 Morningside Avenue, Scarborough M1E3G1","Bakery, Caribbean",15.0,Scarborough
+The Only Cuisine,CASUAL DINING,,,"4365 Sheppard Avenue East, Scarborough M1S 1T6",Xinjiang,25.0,Scarborough
+Peppercorn Steak and Seafood,CASUAL DINING,,,"2290 Markham Road, Scarborough M1B 2W4","Steak, Seafood",45.0,Scarborough
+Crown Pizza,QUICK BITES,,,"2901 Markham Road, Scarborough",Pizza,25.0,Scarborough
+Thai,CASUAL DINING,,,"2480 Eglinton Avenue, Scarborough",Sri Lankan,45.0,Scarborough
+Linghan Cream House,DESSERT PARLOR,,,"6055 Steeles Avenue East, Toronto M1X 0A7",Desserts,35.0,Scarborough
+Taj Mahal Sweets & Restaurant,QUICK BITES,,,"1221 Markham Road, Scarborough M1H 3B4","Indian, Desserts",30.0,Scarborough
+Grill It Up,Other,,,"Scarborough Town Centre, Food Court, 300 Borough Drive, Scarborough M1P 4P5",Grill,25.0,Scarborough
+Saleem Caravan Farm,QUICK BITES,,,"565 Markham Road, Scarborough M1H",Middle Eastern,20.0,Scarborough
+Wing Machine,QUICK BITES,,,"2739 Eglinton Avenue, Scarborough",Fast Food,30.0,Scarborough
+Little Greek,QUICK BITES,3.1,4.0,"Woodside Square, 1571 Sandhurst Avenue, Scarborough","Fast Food, Greek",20.0,Scarborough
+Queen's Kitchen,QUICK BITES,,,"Chartwell Shopping Centre, 2301 Brimley Road, Scarborough M1S 5B8",Cantonese,25.0,Scarborough
+StarLite,CASUAL DINING,,,"1157 Ellesmere Road, Scarborough M1P 2X6","Caribbean, Asian Fusion",35.0,Scarborough
+Bow Bulgogi House,CASUAL DINING,,,"4002 Sheppard Avenue East, Scarborough M1S 4R5","Korean, Asian",40.0,Scarborough
+Chinese Feast Restaurant,QUICK BITES,,,"4830 Sheppard Avenue East, Scarborough, GTA M1S 5M9","Hakka Chinese, Asian",20.0,Scarborough
+Yuan Yuan,CASUAL DINING,,,"25 Glen Watford Drive, Scarborough M1S 2B7",Northern Chinese,25.0,Scarborough
+Silver Fountain,QUICK BITES,,,"8 Glen Watford Drive, Scarborough, GTA M1S 2B7",Cantonese,15.0,Scarborough
+Chubby's Sub,QUICK BITES,,,"1265 Morningside Avenue, Scarborough M1B 3V9",Fast Food,20.0,Scarborough
+Taco Bell,QUICK BITES,,,"Malvern Town Centre, Ground Level, 31 Tapscott Road, Scarborough M1B 4Y7","Fast Food, Mexican",20.0,Scarborough
+Datta Food,QUICK BITES,,,"585 Middlefield Road, Scarborough",Indian,15.0,Scarborough
+Abubakr Halal Pizza & Chicken Wings,QUICK BITES,,,"2680 Lawrence Avenue East, Scarborough M1P 4Y4","Pizza, Fast Food",25.0,Scarborough
+East Court & Mike's BBQ,QUICK BITES,,,"4400 Sheppard Avenue East, Scarborough M1S 1T8",Cantonese,35.0,Scarborough
+China China,QUICK BITES,,,"2836 Victoria Park Avenue, Scarborough","Chinese, Asian",25.0,Scarborough
+New Kalyani,QUICK BITES,,,"723 Kennedy Road, Scarborough M1K 2C6",Sri Lankan,20.0,Scarborough
+Kornerstone's Bar & Grill,CASUAL DINING,,,"1601 Birchmount Road, Scarborough M1P2H6",Bar Food,55.0,Scarborough
+Taste Good BBQ,QUICK BITES,,,"7 Glen Watford Drive, Scarborough M1S 2B7","Chinese, BBQ",20.0,Scarborough
+SumiLicious Smoked Meat &; Deli,QUICK BITES,,,"5631 Steeles Avenue East Suite 5, Scarborough, Ontario, M1V 5P6",Sandwich,15.0,Scarborough
+Asian Food Speciality,Other,,,"Chartwell Shopping Centre, 2301 Brimley Road, Scarborough M1S 3L6",Chinese,20.0,Scarborough
+Shereen's Guyanese Bakery,BAKERY,,,"1053 Midland Avenue, Scarborough","Bakery, Guyanese, Caribbean, West Indian",10.0,Scarborough
+Galito's,CASUAL DINING,,,Opening Soon,"Portuguese, African",30.0,Scarborough
+Delicious Shawarma And Falafel,QUICK BITES,,,"2950 Birchmont Road, Scarborough M1W 3G5",Middle Eastern,,Scarborough
+Malt N Salt Fish & Chips,QUICK BITES,,,"285 Lawson Road, Scarborough M1C 2J6",Fish and Chips,25.0,Scarborough
+Kingston Road Pub & Grill,BAR,,,2761 Kingston Road,Bar Food,20.0,Scarborough
+Everest Pizza,QUICK BITES,,,"2310 Eglinton Avenue, Scarborough","Pizza, Fast Food",25.0,Scarborough
+Royal Congee Chinese Cuisine,CASUAL DINING,,,"4 Greystone Walk Drive, Scarborough M1K 5J2",Chinese,,Scarborough
+Coffee Time,QUICK BITES,,,"821 Brimley Road, Scarborough M1J","Sandwich, Cafe",15.0,Scarborough
+Piegus European Bakery,BAKERY,,,"3478 Lawrence Avenue East, Scarborough M1H 1A9","Bakery, European",15.0,Scarborough
+Halibut House,QUICK BITES,,,"3483 Kingston Rd, Scarborough, ON M1M 1R9",Fish and Chips,15.0,Scarborough
+Star,CASUAL DINING,,,3216 Eglinton Avenue E M1J 2H6,"Hakka Chinese, Indian",30.0,Scarborough
+Zena's Diner,CASUAL DINING,,,"2693 Eglinton Avenue East, Scarborough","Canadian, Middle Eastern",40.0,Scarborough
+Aroma Delight Palace,CASUAL DINING,,,"Sky City Shopping Centre, 3250 Midland Avenue, Scarborough M1V 3Z9",Northern Chinese,30.0,Scarborough
+Swetha,QUICK BITES,,,"2633 Eglinton Avenue East, Scarborough","Sri Lankan, South Indian",30.0,Scarborough
+4C Broast Chicken,QUICK BITES,,,"1758 Lawrence Avenue East, Scarborough M1R 2Y1",Fast Food,20.0,Scarborough
+Luxmy,QUICK BITES,,,1849 Lawrence Avenue East,Indian,,Scarborough
+Melt Grilled Cheese,QUICK BITES,,,"1515 Birchmount Road, Scarborough",Canadian,25.0,Scarborough
+Michel's Bakery Cafe,BAKERY,,,"Scarborough Town Centre, 300 Borough Drive, Scarborough M1P 4P5","Cafe, Bakery",20.0,Scarborough
+Feng Mao BBQ,CASUAL DINING,,,"4035 Gordon Baker Road, Scarborough M1W 3E8","Northern Chinese, Chinese, Asian",30.0,Scarborough
+The Hot Duck,QUICK BITES,,,"25 Glen Watford Drive, Scarborough M1S 2B7",Chinese,15.0,Scarborough
+Fruit Jungle,BEVERAGE SHOP,,,"8 Glen Watford Drive, Scarborough M1S 2B7","Bubble Tea, Beverages, Asian",15.0,Scarborough
+Pizza Boys,QUICK BITES,,,"6055 Steeles Avenue East, Scarborough M1V 5P6",Pizza,25.0,Scarborough
+The Quarry Cafe,CASUAL DINING,,,"2560 Gerrard St East, Toronto M1N 1W8",Canadian,35.0,Scarborough
+Zain's Bakery,QUICK BITES,,,2677 Kennedy Road M1T 3H8,"Indian, Desserts",20.0,Scarborough
+Angela's Caribbean Take-out,QUICK BITES,,,"3268 Finch Avenue East, Unit 1, Scarborough M1W3P7",Caribbean,20.0,Scarborough
+Taste N Flavour,CASUAL DINING,,,"4637 Kingston Road, Scarborough","Thai, Indian",30.0,Scarborough
+Fire Dutch Jamaican Takeout,FAST CASUAL,,,"4286 Kingston Rd, Scarborough, ON M1E 2M8",Jamaican,20.0,Scarborough
+Big Bite,QUICK BITES,,,"459 Pharmacy Avenue, Scarborough",Fast Food,25.0,Scarborough
+John Anderson Hamburger,QUICK BITES,,,"2832 Victoria Park Avenue, Scarborough",Fast Food,20.0,Scarborough
+Peppercorn Steak & Seafood,CASUAL DINING,,,"2290 Markham Road, Scarborough M1B 2W4","Steak, Seafood",65.0,Scarborough
+Mama May's Noodle Bar And Grill 美子米線,Other,,,"2347 Kennedy Road Suite 106 Scarborough, ON M1T 3T8","Vietnamese, Grill",30.0,Scarborough
+Nando's,CASUAL DINING,,,"Kennedy Commons, 1, 15 William Kitchen Road, Scarborough, Toronto M1P 5B7","Portuguese, African",25.0,Scarborough
+Shing Kee Kitchen,Other,,,"Midtown Plaza, 4227 Sheppard Avenue East, Scarborough",Cantonese,15.0,Scarborough
+Yummi's Burger,QUICK BITES,,,"2020 Lawrence Avenue East, Scarborough M1R 2Z1","Fast Food, Iranian",30.0,Scarborough
+Double Win Restaurant,CASUAL DINING,,,"Scarborough Village Mall, 3280 Midland Avenue, Scarborough M1V 0C7","Northern Chinese, Chinese, Asian",25.0,Scarborough
+Niwan Rolls King,CASUAL DINING,,,"3260 Midland Avenue, Scarborough","Chinese, Asian",25.0,Scarborough
+Shaanxi Legend,QUICK BITES,,,"Sky City Shopping Centre, D102, 3278 Midland Avenue, Scarborough","Chinese, Asian, Seafood",25.0,Scarborough
+Whitesides Terrace Grill - Delta Toronto East,CASUAL DINING,,,"Delta Toronto East, 2035 Kennedy Road, Scarborough M1T 3G2",Grill,80.0,Scarborough
+Tim Hortons,CAFÉ,,,2201 Eglinton Avenue East M1K5L1,Coffee and Tea,13.0,Scarborough
+Full Yuan Seafood Restaurant,CASUAL DINING,,,"3833 Midland Avenue, Scarborough, GTA M1V 5L6",Cantonese,35.0,Scarborough
+Eraa Catering & Bakery,BAKERY,,,"5930 Finch Avenue E, Scarborough M1B 6B2","Bakery, Indian",,Scarborough
+Al Mac's Bar & Grill,BAR,,,2459 Kingston Road,"Bar Food, Grill",25.0,Scarborough
+Mrs. Bridges British Bakery,BAKERY,,,"Eglinton Square, Ground Floor, 1 Eglinton Square","Bakery, British",10.0,Scarborough
+Licken Chicken,QUICK BITES,,,"1027 Markham Road, Scarborough M1H2Y5",Fast Food,20.0,Scarborough
+Chinese Bakery,BAKERY,,,"Silver Star, 633 Silver Star Boulevard, Scarborough","Bakery, Chinese",10.0,Scarborough
+Pizza Wings,QUICK BITES,,,"5633 Finch Avenue East, Scarborough M1B 5K9","Pizza, Fast Food",25.0,Scarborough
+Mami's Philippine Cuisine,Other,,,"Oriental Centre, 4438 Sheppard Avenue East, Scarborough M1S 1V2",Filipino,20.0,Scarborough
+Rain & Sunny Restaurant,CASUAL DINING,,,"Sky City Shopping Centre, 3250 Midland Avenue, Scarborough M1V 3Z9",Northern Chinese,,Scarborough
+Aroma Bakery,BAKERY,,,"19 Milliken Boulevard, Scarborough M1V 2R4",Bakery,,Scarborough
+Dhaka Biryani House,QUICK BITES,,,"3315 Danforth Avenue, Scarborough",Bangladeshi,20.0,Scarborough
+Yogi's Pizza & Wings,QUICK BITES,,,"400 Sewells Road, Scarborough M1B 5H3",Pizza,20.0,Scarborough
+Bliss Lebanese Cuisine,CASUAL DINING,,,"925 Warden Avenue, Scarborough M1L 4C5","Lebanese, Mediterranean, Middle Eastern",25.0,Scarborough
+Rouge Bakery,BAKERY,,,"1145 Morningside Avenue, Scarborough","Bakery, Sri Lankan",15.0,Scarborough
+Roti Lady,CASUAL DINING,,,3545 St Clair Avenue E M1K 1L6,"Caribbean, Jamaican",,Scarborough
+Floga By Mr. Greek,CASUAL DINING,,,"1957 Kennedy Road, Scarborough, ON M1P 2L9",Greek,25.0,Scarborough
+Buddy HK Cafe,CASUAL DINING,,,"2950 Birchmount Road, Scarborough M1W 3G5","Hong Kong Style, Chinese",25.0,Scarborough
+Asian Gourmet,QUICK BITES,,,"Cedarbrae Mall, Food Court, 3495 Lawrence Avenue East, Scarborough M1H 1B3",Chinese,20.0,Scarborough
+Bread King Bakeries,BAKERY,,,"Birchmount Plaza, 462 Birchmount Road, Scarborough",Bakery,10.0,Scarborough
+Dogfish Bar & Grill,CASUAL DINING,,,"7 Brimley Road South, Scarborough","Seafood, Bar Food",,Scarborough
+Yiden Garden,CASUAL DINING,,,1873 Lawrence Avenue East,"Chinese, Asian",15.0,Scarborough
+Juicy Tea House,BEVERAGE SHOP,,,"4002 Sheppard Avenue East, Scarborough","Bubble Tea, Beverages",15.0,Scarborough
+Red Fox Bar & Grill,CASUAL DINING,,,"9390 Sheppard Avenue East, Scarborough M1B 5R5",Bar Food,40.0,Scarborough
+Sheriff Broaster Chicken,QUICK BITES,,,"2761 Markham Road, Scarborough",Fast Food,20.0,Scarborough
+Sunset Caribbean,QUICK BITES,,,3745 Lawrence Avenue East,Caribbean,25.0,Scarborough
+Bread Master,BAKERY,,,"Malvern Town Centre, Lower Level, 31 Tapscott Road, Scarborough M1B 4Y7",Bakery,15.0,Scarborough
+Dem Boyz Caribbean Cookhouse,QUICK BITES,,,"773 Warden Avenue, Scarborough",Caribbean,25.0,Scarborough
+SS Kitchen,CASUAL DINING,,,"515 East Avenue, Scarborough M1C 2X1",Chinese,30.0,Scarborough
+Cafe La Roche,CASUAL DINING,,,2139 Lawrence Avenue East,Middle Eastern,,Scarborough
+Le Beirut Shisha Cafe,CAFÉ,,,"1585 Warden Avenue, Scarborough",Cafe,,Scarborough
+City fried Chicken and Pizza,QUICK BITES,,,"2231 Victoria Park Avenue, Scarborough M1R 1V8","Pizza, Fast Food",15.0,Scarborough
+Gusto Pizza,QUICK BITES,,,"1 Bonis Avenue, Scarborough M1T 2T9","Pizza, Fast Food",25.0,Scarborough
+Nando's,CASUAL DINING,,,"Kennedy Commons, 1, 15 William Kitchen Road",Portuguese,25.0,Scarborough
+HaveMore Indian Restaurant,CASUAL DINING,,,"571 Sandhurst Circle, Unit B6, Toronto ON M1V 1V2",Indian,30.0,Scarborough
+New Canton Kitchen,QUICK BITES,,,"Silver Star, 633 Silver Star Boulevard, Scarborough","Chinese, Asian",20.0,Scarborough
+Hung Food Cooking,Other,,,"Dragon Centre, 23 Geln Watford Drive, Scarborough M1S 2B7",Chinese,15.0,Scarborough
+Baker's Best Bakery,BAKERY,,,"4915 Steeles Avenue East, Unit 7, Scarborough M1V 4Z3",Bakery,15.0,Scarborough
+Kitchen King,CASUAL DINING,,,"885 Progress Ave, Unit 108, Scarborough, ON M1H 3G3 M1S 3A7",Jamaican,30.0,Scarborough
+Red House Bakery,BAKERY,,,"11 Glen Waterford Drive, Scarborough M1S 2B7","Chinese, Bakery",15.0,Scarborough
+Super Tikka House,QUICK BITES,,,"1515 Birchmount Road, Scarborough","Indian, Pakistani",25.0,Scarborough
+Jesse's Cafe,BAR,,,"1473 Kingston Road, Scarborough",Bar Food,45.0,Scarborough
+Dosa Rama,CASUAL DINING,,,2901 Markham Road 17 & 18 M1X 0B6,Indian,,Scarborough
+"Kennedy Road, Scarborough",Other,,,CUISINES:,Japanese,43.0,Scarborough
+Warraich Meats,QUICK BITES,,,Opening Soon,"Indian, Pakistani",35.0,Scarborough
+Aladdin Sweets & Grill,QUICK BITES,,,"Birchmount Plaza, 462 Birchmount Road, Scarborough","Bangladeshi, Indian, Desserts",35.0,Scarborough
+Jasmine Chinese Food,QUICK BITES,,,"Bridlewood Mall, Second Floor, 2900 Warden Avenue, Scarborough M1W 2S8","Chinese, Asian",15.0,Scarborough
+Chris Bread Bakery,BAKERY,,,"2617 Eglinton Avenue, Scarborough","Bakery, Sri Lankan",,Scarborough
+Aroma Bakery,QUICK BITES,,,"Splendid China Tower, 4675 Steeles Avenue East, Scarborough M1V 4S4","Chinese, Bakery",10.0,Scarborough
+"Lawrence Avenue East, Scarborough",Other,,,CUISINES:,Indian,30.0,Scarborough
+Maloney's Tavern,BAR,,,"117 Ellesmere Road, Scarborough M1R 4C3",Bar Food,25.0,Scarborough
+Ahmutha Surabi,QUICK BITES,,,2847 Lawrence Street East,Sri Lankan,15.0,Scarborough
+Ghandill Bakery,BAKERY,,,"1939 Victoria Park, Scarborough",Bakery,15.0,Scarborough
+Bistro Manila,BAR,,,"4455 Sheppard Avenue East, Unit 8-9, Scarborough M1S 3G9","Bar Food, Filipino",,Scarborough
+Fortune Bakery,BAKERY,,,"287 Port Union Road, Scarborough M1C 2L4",Bakery,15.0,Scarborough
+Meena's Fine Foods,BAKERY,,,"1295 Morningside Avenue, Toronto M1B",Indian,,Scarborough
+Meli Baklava & Chocolate Bar,DESSERT PARLOR,,,"21 Progress Avenue, Unit 9 , Scarborough","Desserts, Middle Eastern",15.0,Scarborough
+Mystic Restaurant,CASUAL DINING,,,"2570 Eglinton Avenue East, Scarborough","Caribbean, Chinese, Asian",40.0,Scarborough
+Ka Wor Yuen BBQ,QUICK BITES,,,"Scarborough Village Mall, 3290 Midland Avenue, Scarborough M1V 3Z9","Cantonese, Chinese, Asian",20.0,Scarborough
+My Father's Place,QUICK BITES,,,"1534 Warden Avenue East, Scarborough","Jamaican, Fast Food",20.0,Scarborough
+David's Tea,BEVERAGE SHOP,,,"Scarborough Town Centre, 300 Borough Drive, Scarborough M1P 4P5","Tea, Beverages",15.0,Scarborough
+6 Nites KTV,BAR,,,"3477 Kennnedy Road, Scarborough",Bar Food,50.0,Scarborough
+J & D Hamburgers,QUICK BITES,,,"3244 Danforth Avenue, Scarborough","Fast Food, Chinese",20.0,Scarborough
+Booster Juice,BEVERAGE SHOP,,,"4525 Kingston Road, Scarborough M1E2N7","Juices, Beverages, Healthy Food",20.0,Scarborough
+Spice and Aroma,QUICK BITES,,,"108 Corporate Drive, Unit 22, Scarborough M1H 3J1","Sichuan, Japanese",25.0,Scarborough
+M & F Caribbean Foods,QUICK BITES,,,"200 Bellamy Road, Scarborough",Caribbean,,Scarborough
+Godiva Chocolatier,DESSERT PARLOR,,,"Scarborough Town Centre, 300 Borough Drive, Scarborough M1P 4P5",Desserts,25.0,Scarborough
+85 C Sugar Time,DESSERT PARLOR,,,"Sky City Shopping Centre, 3250 Midland Avenue, Scarborough","Desserts, Cafe, Chinese, Asian",20.0,Scarborough
+Quiznos,QUICK BITES,,,"900 Warden Avenue, Scarborough M1L4W6",Fast Food,25.0,Scarborough
+Pacific Wok & Grill,Other,,,"Woodside Square, Food Court, First Floor, 1571 Sandhurst Circle, Scarborough M1V 1V2",Chinese,25.0,Scarborough
+Just Love Caribbean Restaurant & Bar,QUICK BITES,,,"1344 Kennedy Road, Scarborough","Caribbean, Fast Food",30.0,Scarborough
+HD Cake Pastry House,DESSERT PARLOR,,,"1415 Kennedy Road, Scarborough","Bakery, Desserts",15.0,Scarborough
+Freshly Squeezed,BEVERAGE SHOP,,,"Scarborough Town Centre, 300 Borough Drive, Scarborough M1P 4P5","Juices, Beverages",15.0,Scarborough
+Mac's Sushi,QUICK BITES,,,"Scarborough Town Centre, Second Floor, 300 Borough Drive, Scarborough M1P 4P5","Sushi, Japanese",25.0,Scarborough
+Vanellis,QUICK BITES,,,"Scarborough Town Centre, Food Court, 300 Borough Drive, Scarborough M1P 4P5","Pizza, Fast Food, Italian",25.0,Scarborough
+Bite Of China,CASUAL DINING,,,"1883 McNicoll Avenue, Unit 7-11, Scarborough M1V 5M3",Northern Chinese,30.0,Scarborough
+Hot Party Restaurant,CASUAL DINING,,,"Scarborough Village Mall, 3290 Midland Avenue, Scarborough M1V 3Z9","Chinese, Asian",30.0,Scarborough
+Gino's Pizza,QUICK BITES,,,"900 Progress Avenue, Scarborough","Pizza, Fast Food",30.0,Scarborough
+Merigold,CASUAL DINING,,,2845 Lawrence Avenue East,"West Indian, Caribbean",25.0,Scarborough
+Tropical Breeze,CASUAL DINING,,,"1215 Ellesmere Road, Scarborough M1P 2X4",Caribbean,50.0,Scarborough
+Mediterranean Munchies,QUICK BITES,,,2367 Kingston Road,"Mediterranean, Fast Food",25.0,Scarborough
+Dounia,QUICK BITES,,,"1331 Warden Avenue, Unit 1, Scarborough M1R5A8",Lebanese,25.0,Scarborough
+Jeon Ju Hyang Restaurant,CASUAL DINING,,,"325 Bamburgh Circle, Scarborough M1W 3Y1",Korean,25.0,Scarborough
+Sunset Grill,CASUAL DINING,,,"37 William Kitchen Rd, Scarborough, ON M1O 5B7","American, Bagels, Burger, Cafe, Coffee and Tea, Desserts, Grill, Vegetarian",25.0,Scarborough
+Tim Hortons,CAFÉ,,,941 Progress Road M1B5Z6,Coffee and Tea,13.0,Scarborough
+Classic Chinese Cuisine,QUICK BITES,,,"Silver Star, 633 Silver Star Boulevard, Scarborough","Northern Chinese, Chinese",15.0,Scarborough
+Asian Core,QUICK BITES,,,"80 Ellesmere Road, Scarborough M1R 4C2",Filipino,15.0,Scarborough
+Jolly's Grill In,QUICK BITES,,,"2300 Lawrence Avenue East, Scarborough M1P 2K9",Filipino,,Scarborough
+Sunny Sports Bar,BAR,,,"4190 Kingston Road, Scarborough",Drinks Only,40.0,Scarborough
+5 Star Pizza,QUICK BITES,,,2879 Lawrence Street East,Pizza,25.0,Scarborough
+Chill,CAFÉ,,,"26 Lee Center Drive,Scarborough M1H 3H8",Asian,10.0,Scarborough
+Wendy's Trinbago Flavours,QUICK BITES,,,"4190 Kingston Road, Unit 6, Scarborough","West Indian, Caribbean",,Scarborough
+Paameer Pizza & Wings,QUICK BITES,,,"3007 Sheppard Avenue East, Scarborough M1T 3J5",Pizza,10.0,Scarborough
+Food Garden Restaurant,CASUAL DINING,,,"2522 Eglinton Avenue East, Scarborough","Chinese, West Indian, Asian",30.0,Scarborough
+Spice It Up,CASUAL DINING,,,4352 Kingston Road M1E 2M8,"Fast Food, Jamaican",25.0,Scarborough
+Goodies Noodle House,Other,,,"Dragon Centre, 23 Glen Watford Drive, Scarborough M1S 2B7","Chinese, Asian",15.0,Scarborough
+Veerar,QUICK BITES,,,"5790 Sheppard Avenue East, Scarborough",Indian,35.0,Scarborough
+Tandori,QUICK BITES,,,"Scarborough Town Centre, Food Court, 300 Borough Drive, Scarborough M1P 4P5",Indian,35.0,Scarborough
+Treats,CAFÉ,,,"UTSC, Student Centre, 1265 Military Trail, Scarborough","Cafe, Bakery",15.0,Scarborough
+Kitty Campbellville Restaurant & Bar,BAR,,,"1055 Midland Avenue, Scarborough M1K4H2",Bar Food,,Scarborough
+M.R. Burger,QUICK BITES,,,"5745 Finch Avenue East, Scarborough","Burger, Chinese",15.0,Scarborough
+Caribbean Splash,QUICK BITES,,,"2414 Eglinton Avenue East, Scarborough M1K 2P3",Caribbean,30.0,Scarborough
+Super Taste,QUICK BITES,,,"4465 Sheppard Avenue East, Scarborough M1S 4J9",Cantonese,,Scarborough
+B & A Bakery,BAKERY,,,"1820 Ellesmere Road, Scarborough M1H 2V5",Bakery,10.0,Scarborough
+Zara's Gourmet Kitchen,QUICK BITES,,,"2721 Markham Road, Scarborough",Indian,20.0,Scarborough
+Lingan Cream House,QUICK BITES,,,"6055 Steeles Avenue, Scarborough M1V 5P6","Ice Cream, Sri Lankan, South Indian, Desserts",10.0,Scarborough
+Moon Light Chinese Food,QUICK BITES,,,"2871 Kingston Road, Scarborough",Chinese,30.0,Scarborough
+Times,QUICK BITES,,,"3230 Eglinton Avenue East, Scarborough","Caribbean, West Indian",25.0,Scarborough
+Manna,QUICK BITES,,,"1901 Ellesmere Road, Scarborough M1H 2W5",Sri Lankan,20.0,Scarborough
+Iyappaa Sweets & Snacks,DESSERT PARLOR,,,"2721 Markham Road, Scarborough","Desserts, Indian",20.0,Scarborough
+Mr Beans Coffee,CAFÉ,,,"5550 Lawrence Avenue, Scarborough M1C 3B2",Cafe,20.0,Scarborough
+Mendoza's Bakery,BAKERY,,,"1071 Danforth Road, Scarborough","Bakery, Filipino",10.0,Scarborough
+Shirin Mahal,BAKERY,,,"5651 Steeles Avenue East, Scarborough","Bakery, Pakistani",15.0,Scarborough
+Karl's Sports Bar & Grill,BAR,,,"4528 Kingston Road, Toronto M1E 2N8",American,55.0,Scarborough
+New Korea Restaurant,QUICK BITES,,,"5661 Steeles Avenue East, Inside T&T Supermarket, Scarborough","Fast Food, Korean, Asian",20.0,Scarborough
+New May Hong Yuen BBQ,QUICK BITES,,,"250 Alton Towers Circle, Unit B1, Scarborough M1V 5P5",Cantonese,20.0,Scarborough
+Jace Pinoy 2,Other,,,"Oriental Centre, 4438 Sheppard Avenue East, Scarborough M1S 1V2",Filipino,15.0,Scarborough
+Karla's Roadhouse,BAR,,,"4630 Kingston Road, Scarborough",Bar Food,,Scarborough
+Addis Cafe,CAFÉ,,,"3200 Danforth Avenue, Scarborough",Cafe,20.0,Scarborough
+Hell's Kitchen Bistro,CASUAL DINING,,,"516 Danforth Road, Scarborough",Canadian,,Scarborough
+G's Chill & Grill,BAR,,,"2528 Eglinton Avenue East, Scarborough","Caribbean, Grill",40.0,Scarborough
+Scarborough,Other,,,CUISINES:,Indian,15.0,Scarborough
+Cinnamon Garden,CASUAL DINING,,,"5633 Finch Avenue East, Scarborough","Sri Lankan, Indian",35.0,Scarborough
+Bombay Zone,QUICK BITES,,,"2030 Ellesmere Road Unit 3, Scarborough M1H 2V6",Indian,15.0,Scarborough
+Sports Cafe Champions,BAR,,,"2839 Eglinton Avenue, Scarborough",Bar Food,50.0,Scarborough
+Bismillah Pizza,QUICK BITES,,,3160 Eglinton Avenue East,"Pizza, Fast Food",25.0,Scarborough
+Basir Azizi Bakery,BAKERY,,,"553 Markham Road, Scarborough","Bakery, Middle Eastern",15.0,Scarborough
+Sun View Bakery,BAKERY,,,"Oriental Centre, 4438 Sheppard Avenue East, Scarborough M1S 5J3","Bakery, Chinese",,Scarborough
+5 Spice Dining,CASUAL DINING,,,"2826 Markham Road, Toronto, ON M1X 1E6",Asian,25.0,Scarborough
+Kilt Pub,BAR,,,"371 Old Kingston Road, Scarborough M1C 1B7",Bar Food,60.0,Scarborough
+But 'N' Ben Butchers,BAKERY,,,"1601 Ellesmere Road, Scarborough M1P 2Y3","Deli, Bakery",15.0,Scarborough
+Yum Yum,Other,,,"Oriental Centre, 4438 Sheppard Avenue East, Scarborough M1S 1V2",Cantonese,25.0,Scarborough
+Sea town Restaurant,CASUAL DINING,,,"2372 Eglinton Avenue East, Scarborough M1K 2P3","West Indian, Chinese",40.0,Scarborough
+Happy Time Barney's,BAR,,,"3855 Lawrence Avenue, Scarborough",Bar Food,35.0,Scarborough
+Tropical Breeze,QUICK BITES,,,"1375 Danforth Road, Scarborough","Caribbean, Fast Food",30.0,Scarborough
+Sooo Good,QUICK BITES,,,"3547 St. Clair Avenue East, Scarborough","Fast Food, Fish and Chips",20.0,Scarborough
+Wai Yu Lau,CASUAL DINING,,,"Scarborough Village Mall, Unit 7, 3290 Midland Avenue, Scarborough","Cantonese, Chinese, Asian",30.0,Scarborough
+Winnie's Filipino Fast Food,QUICK BITES,,,"Cedar Heights Plaza, 699 Markham Road, Scarborough M1H 2A4",Filipino,30.0,Scarborough
+Cece Sushi,QUICK BITES,,,"3307 Sheppard Avenue East, Scarborough M1T 3K2","Sushi, Japanese",15.0,Scarborough
+Jolly Tops Restaurant,QUICK BITES,,,"1071 Danforth Road, Scarborough","Filipino, Canadian",15.0,Scarborough
+Taste of Heaven,QUICK BITES,,,"2551 Pharmacy Avenue, Scarborough M1W 1H9",Chinese,,Scarborough
+Woburn Garden,CASUAL DINING,,,"1131 Markham Road, Scarborough M1H2Y5","Hakka Chinese, Asian",30.0,Scarborough
+McGradies Tap & Grill,BAR,,,"2173 Victoria Park, Scarborough",Bar Food,30.0,Scarborough
+Coco's Place,BAR,,,"2480 Eglinton Avenue, Scarborough",Bar Food,35.0,Scarborough
+West Bank,BAR,,,"3439 St. Clair Avenue, Scarborough",Canadian,40.0,Scarborough
+Roxy Lounge,CAFÉ,,,"1225 Kennedy Road, Scarborough",Cafe,,Scarborough
+Timothy's,CAFÉ,,,"Scarborough Town Centre, First Floor, 300 Borough Drive , Scarborough M1P 4P5",Cafe,25.0,Scarborough
+Qin's Place,CASUAL DINING,,,"Sky City Shopping Centre, 3250 Midland Avenue, Scarborough M1V 3Z9",Chinese,30.0,Scarborough
+Kung Fu Chop Chop,QUICK BITES,,,"4002 Sheppard Avenue East, Scarborough M1S 4R5","Chinese, Fast Food",25.0,Scarborough
+Gold Bowl Asian Noodle Soup,CASUAL DINING,,,"4002 Sheppard Avenue East , Scarborough","Vietnamese, Japanese, Asian",25.0,Scarborough
+Shalimar Sweets & Samosa,CASUAL DINING,,,"2231 Victoria Park, Scarborough",Pakistani,,Scarborough
+Papa John's Pizza,FAST CASUAL,,,4630 Kingston Road,"Fast Food, Italian",25.0,Scarborough
+Arafat Halal Pizza & Kabob House,QUICK BITES,,,"2655 Lawrence Avenue East, Scarborough","Pizza, Middle Eastern, Fast Food",25.0,Scarborough
+New Dynasty Bakery,BAKERY,,,"4002 Sheppard Avenue East, Scarborough M1S 4R5",Bakery,10.0,Scarborough
+Abbirami,QUICK BITES,,,"2619 Eglinton Avenue East, Scarborough",Sri Lankan,20.0,Scarborough
+Greco Xpress,QUICK BITES,,,"30 Dean Park Road, Scarborough","Pizza, Fast Food",30.0,Scarborough
+Honey Tea H.K.,QUICK BITES,,,"Silver Star, 633 Silver Star Boulevard, Scarborough","Hong Kong Style, Chinese, Asian",20.0,Scarborough
+Mughal Foods,CASUAL DINING,,,"3315 Broadview Avenue, Scarborough",Bangladeshi,30.0,Scarborough
+Cake House Bakery,BAKERY,,,"2300 Lawrence Avenue East, Scarborough M1P 2K9",Bakery,10.0,Scarborough
+Millennium Restaurant & Bar,CASUAL DINING,,,"1067 Midland Avenue, Scarborough","Caribbean, Bar Food",35.0,Scarborough
+Super Wok,QUICK BITES,,,"5661 Steeles Avenue East, Inside T&T Supermarket, Scarborough","Fast Food, Chinese, Asian",15.0,Scarborough
+Lotus,QUICK BITES,,,"1960 Lawrence Avenue East, Scarborough",Arabian,25.0,Scarborough
+Sooriyan,QUICK BITES,,,3863 Lawrence Avenue East,"Sri Lankan, South Indian",25.0,Scarborough
+Hot Kung Fu Soup,QUICK BITES,,,"Sky City Shopping Centre, 3250 Midland Avenue, Scarborough","Chinese, Asian",25.0,Scarborough
+Royal Crown Pizza & Chicken,QUICK BITES,,,"4915 Steeles Avenue East, Scarborough M1V 4Z3","Pizza, Fast Food",30.0,Scarborough
+Coffee Break,CAFÉ,,,"28 Lee Center Drive,Scarborough M1H 3H8",Cafe,15.0,Scarborough
+Rice Garden Restaurant,CASUAL DINING,,,"5532 Lawrence Avenue East, Scarborough M1C 5K4",Chinese,35.0,Scarborough
+Osmow's,FAST CASUAL,,,"1746 Victoria Park Avenue, Scarborough, ON M1R 1S1",Mediterranean,20.0,Scarborough
+Wok Wok Restaurant,CASUAL DINING,,,"2347 Kennedy Road, Unit 104/109, Scarborough M1T 3T8","Cantonese, Chinese, Asian",25.0,Scarborough
+Winners,BAR,,,2181 Lawrence Avenue East,"Bar Food, American",20.0,Scarborough
+Cafe Chez Helene,CAFÉ,,,"1437 Kingston Road, Scarborough","Cafe, French",15.0,Scarborough
+Jolly's Cafe,CASUAL DINING,,,"2549 Warden Avenue, Scarborough M1W 2H7","Hong Kong Style, Chinese, Asian",25.0,Scarborough
+Dbarkadz Filipino Cuisine,QUICK BITES,,,"1217 Ellesmere Road, Scarborough, ON M1P 2X8",Filipino,15.0,Scarborough
+YunShang Rice Noodle,CASUAL DINING,,,"4186 Finch Ave E #32, Scarborough, ON M1S 3V1",Chinese,25.0,Scarborough
+Nile Palace Cafe,QUICK BITES,,,"1950 Lawrence Avenue East, Scarborough M1R 2Y7",Middle Eastern,20.0,Scarborough
+Mina Bakery,BAKERY,,,"80 Ellesmere Road, Scarborough","Middle Eastern, Bakery",10.0,Scarborough
+DD Tea Shop,BEVERAGE SHOP,,,"5661 Steeles Avenue East, Inside T&T Supermarket, Scarborough","Beverages, Bubble Tea",10.0,Scarborough
+Choice Fish & Chips,QUICK BITES,,,"1053 Midland Avenue, Scarborough M1K 4G8","Fish and Chips, Burger",30.0,Scarborough
+Tang Home Style Lamb and Beef,CASUAL DINING,,,"3380 Midland Avenue, Scarborough","Northern Chinese, Chinese, Asian",40.0,Scarborough
+Marissa's Place,QUICK BITES,,,"4524 Kingston Road, Scarborough M1E 2N8","Filipino, Jamaican",25.0,Scarborough
+HJH Restaurant,CASUAL DINING,,,"3700 Midland Avenue, Unit 108, Scarborough","Northern Chinese, Chinese, Asian",25.0,Scarborough
+Spicy Route,CASUAL DINING,,,"4419 Sheppard Avenue East, Scarborough","Chinese, Asian",35.0,Scarborough
+Wuhan Heiya,QUICK BITES,,,"Sky City Shopping Mall, 3278 Midland Avenue, Scarborough",Chinese,15.0,Scarborough
+Tang Papa,QUICK BITES,,,"Sky City Shopping Centre, 3272 Midland Avenue, Scarborough",Chinese,25.0,Scarborough
+Pizza 4 Ever,QUICK BITES,,,"880 Ellesmere Road, Scarborough M1P2L8",Pizza,,Scarborough
+Cheesesteak Revolution,QUICK BITES,,,"2088 Lawrence Avenue E, Scarborough M1R 2Z5","Sandwich, Fast Food",15.0,Scarborough
+Tony & Claudia's,CAFÉ,,,"160 Fallingbrook Road, Scarborough","Cafe, Italian",30.0,Scarborough
+World Famous Pizza,QUICK BITES,,,"1145 Morningside Avenue, Unit 40, Scarborough M1B","Pizza, Fast Food",25.0,Scarborough
+Al-Mumtaz Super Market,QUICK BITES,,,"10 Tower Drive, Scarborough","Pizza, Middle Eastern",15.0,Scarborough
+Polka European Deli,QUICK BITES,,,"3482 Lawerence Avenue East, Unit 105, Scarborough M1H 3E5","Deli, Bakery",,Scarborough
+D'Pavilion,BAR,,,"3300 Lawrence Avenue East, Scarborough M1H 1A5","West Indian, Chinese",40.0,Scarborough
+Bun King Bakery,BAKERY,,,"31 Lapsley Road, Scarborough",Bakery,10.0,Scarborough
+Gibbos,QUICK BITES,,,"1872 Kennedy Road, Scarborough","West Indian, Fast Food",20.0,Scarborough
+FV Foods,QUICK BITES,,,2085 Lawrence Avenue East,"Filipino, Bakery",20.0,Scarborough
+Tiger BBQ,CASUAL DINING,,,"250 Alton Towers Circle, Scarborough, GTA M1V 5P5",Northern Chinese,20.0,Scarborough
+Sunrise Pastries,QUICK BITES,,,"357 Pitfield Road, Scarborough M1S 3E5","Caribbean, Fast Food",10.0,Scarborough
+Kanga Restaurant,QUICK BITES,,,"1179 Victoria Park Avenue, Scarborough M4B 2K5","Indian, Canadian",30.0,Scarborough
+Golden Cake House Bakery,BAKERY,,,"Birchmount Plaza, 462 Birchmount Road, Scarborough","Bakery, Bubble Tea",15.0,Scarborough
+Angie's Restaurant,BAR,,,"2647 Eglinton Avenue, Scarborough","Caribbean, Canadian",40.0,Scarborough
+Scarborough,Other,,,CUISINES:,Fast Food,15.0,Scarborough
+Ali Baba Cafe & Restaurant,CASUAL DINING,,,"880 Ellesmere Road, Scarborough M1P2L8",Middle Eastern,30.0,Scarborough
+Ladan Pastry & Bakery,BAKERY,,,"2016 Lawrence Avenue E, Scarborough M1R 2Z1","Bakery, Iranian",15.0,Scarborough
+Stonehouse,BAR,,,"1399 Kennedy Road, Scarborough",Grill,40.0,Scarborough
+Delimark Cafe,CAFÉ,,,"2202 Eglinton Avenue East, Scarborough",Cafe,25.0,Scarborough
+ShareTea,BEVERAGE SHOP,,,"3272 Midland Avenue, Unit B-117, Scarborough M1V 0C7","Bubble Tea, Beverages, Taiwanese",15.0,Scarborough
+Cheers Fish & Chips,BAR,,,"1553 Kingston Road, Scarborough","Fish and Chips, British",40.0,Scarborough
+Yah Man,QUICK BITES,,,"461 Pharmacy Avenue, Scarborough",Caribbean,30.0,Scarborough
+Mr. Patty,BAKERY,,,"4286 Kingston Road, Scarborough M1E 2M8","Bakery, Caribbean",15.0,Scarborough
+Chick n' Burger,QUICK BITES,,,2203 Kingston Road,"Burger, Fast Food",20.0,Scarborough
+Island Sunset,BAR,,,"1139 Morningside Avenue, Unit 7, Scarborough","Bar Food, Caribbean",55.0,Scarborough
+Greystone Bakery,DESSERT PARLOR,,,"6 Greystone Walk Drive, Scarborough","Bakery, Desserts, Chinese",15.0,Scarborough
+Bento Box,QUICK BITES,,,"Woodside Square, Food Court, 1571 Sandhurst Circle, Scarborough M1V 1V2","Sushi, Japanese, Fast Food",25.0,Scarborough
+Grilled Fish Chalet,CASUAL DINING,,,"4733 Steeles Avenue East, Scarborough M1V 4S5","Sichuan, Chinese",30.0,Scarborough
+Panda,QUICK BITES,,,"Malvern Town Centre, Food Court, 31 Tapscott Road, Scarborough M1B 4Y7","Fast Food, Chinese",25.0,Scarborough
+Nostos Bar & Grill,CASUAL DINING,,,"805 Brimley Road, Scarborough","Greek, Mediterranean",40.0,Scarborough
+Hairoun Bakery,BAKERY,,,"2256 Birchmount Avenue, Scarborough","Bakery, West Indian",15.0,Scarborough
+Poondy Bread Bakery,BAKERY,,,"723 Kennedy Road, Scarborough, GTA M1K2B7","Bakery, Indian",25.0,Scarborough
+TabaQ Restaurant,CASUAL DINING,,,"50 Danforth Road, Scarborough","Pakistani, Indian",35.0,Scarborough
+Max Bakery,BAKERY,,,"Scarborough Village Mall, 3300 Midland Avenue, Scarborough","Bakery, Chinese",20.0,Scarborough
+Island Bakery,BAKERY,,,"3260 Eglinton Avenue East, Scarborough","Bakery, Sri Lankan",20.0,Scarborough
+Friends Bar & Restaurant,BAR,,,"3095 Eglinton Avenue, Scarborough",Bar Food,50.0,Scarborough
+Top Bread Bakery,BAKERY,,,"3011 Markham Road, Scarborough","Bakery, Indian",20.0,Scarborough
+Anna Foods,QUICK BITES,,,"80 Nashdene Road, Scarborough","Sri Lankan, Indian",,Scarborough
+Guang Zhou Fine Cuisine,Other,,,"Midtown Plaza, 4227 Sheppard Avenue East, Scarborough",Chinese,15.0,Scarborough
+True Vibes Jerk,QUICK BITES,,,"2296 Eglinton Avenue East, Scarborough M1K 2M2",Caribbean,30.0,Scarborough
+Scarborough Junction Sports Lounge,BAR,,,"464 Danforth Road, Scarborough",Bar Food,40.0,Scarborough
+Shako's Grill & Kabab,QUICK BITES,,,1837 Lawrence Avenue East,Mediterranean,,Scarborough
+Benazir Restaurant & Grill,CASUAL DINING,,,"2328 Kingston Road, Scarborough, ON M1N 1V2","Indian, Grill",25.0,Scarborough
+Halal Pizza,QUICK BITES,,,"4830 Sheppard Avenue East, Scarborough","Pizza, Fast Food",25.0,Scarborough
+Max Cafe Bar & Grill,BAR,,,"1515 Birchmount Road, Scarborough",Bar Food,40.0,Scarborough
+Pretzel Maker,QUICK BITES,,,"Scarborough Town Centre, First Floor, 300 Borough Drive, Scarborough M1P 4P5",Fast Food,10.0,Scarborough
+OX Land Restaurant,CASUAL DINING,,,"4227 Sheppard Avenue East, Scarborough","Cantonese, Chinese, Asian",25.0,Scarborough
+Shorebazaar Pizza & Wings,QUICK BITES,,,"2978 Eglinton Avenue East, Scarborough","Pizza, Middle Eastern",25.0,Scarborough
+Ryderz,BAR,,,4286 Kingston Road,"Caribbean, West Indian",25.0,Scarborough
+Blue Lagoon,BAR,,,"2532 Eglinton Avenue, Scarborough",Bar Food,50.0,Scarborough
+Jackpot Pizza,Other,,,"Parkway Mall, Inside Mall, 85 Ellesmere Road, Scarborough M1R 4C1","Pizza, Fast Food",,Scarborough
+Ayam Bakery,BAKERY,,,"3095 Eglinton Avenue East, Scarborough M1J 2E9",Bakery,15.0,Scarborough
+Royal Bread Bakery,BAKERY,,,"3140 Eglinton Avenue, Scarborough",Bakery,15.0,Scarborough
+Muffins Coffee Caffe,CAFÉ,,,"2677 Eglinton Avenue East, Scarborough",Cafe,20.0,Scarborough
+Mr. Zee's,BAR,,,"1523 Birchmount Road, Scarborough",Drinks Only,40.0,Scarborough
+Grape Vine Bakery,BAKERY,,,"3601 Victoria Park Avenue, Scarborough","Bakery, Chinese",10.0,Scarborough
+Jiangnant,BEVERAGE SHOP,,,"Sky City Shopping Centre, 3262 Midland Avenue, Scarborough","Beverages, Chinese",25.0,Scarborough
+Noodle Station,CASUAL DINING,,,"2347 Kennedy Road, Scarborough M1T 3T8","Northern Chinese, Chinese, Asian",20.0,Scarborough
+Sam May BBQ,Other,,,"8 Glen Watford Drive, Scarborough M1S 2C1",Cantonese,,Scarborough
+Salon Du Cafe,CAFÉ,,,"136 Orton Park Road, Scarborough M1G 0A1","Cafe, Sandwich",20.0,Scarborough
+Kottu Kadai,CASUAL DINING,,,3351 Markham Road M1X 0A6,Sri Lankan,,Scarborough
+Fruit Jungle,Other,,,"Splendid China Tower, Food Court, 4275 Steeles Avenue East, Scarborough M1V 4S5","Asian, Bubble Tea",20.0,Scarborough
+Tim Hortons,CAFÉ,,,3101 Victoria Park Avenue,Cafe,20.0,Scarborough
+Mr Pizza,QUICK BITES,,,"2879 Lawrence Avenue East, Scarborough","Pizza, Fast Food",25.0,Scarborough
+Java Diner,QUICK BITES,,,"1570 Midland Avenue, Scarborough","Breakfast, Burger",20.0,Scarborough
+Arza Pizza & Wings,QUICK BITES,,,"707 Kennedy Road, Scarborough","Pizza, Fast Food",25.0,Scarborough
+Bai Yun Meishi,QUICK BITES,,,"3833 Midland Avenue, Scarborough","Cantonese, Chinese, Asian",20.0,Scarborough
+Oxford Pub & Restaurant,BAR,,,"2691 Eglinton Avenue East, Scarborough",Bar Food,50.0,Scarborough
+Lakeview Tavern,CASUAL DINING,,,"1402 Kingston Road, Scarborough",Bar Food,40.0,Scarborough
+Asian Fusion,QUICK BITES,,,"Agincourt Mall, 3850 Sheppard Avenue East, Scarborough M1T 3L4","Chinese, Asian",20.0,Scarborough
+Tea Stop,BEVERAGE SHOP,,,"Chartwell Shopping Centre, 2301 Brimley Road, Scarborough M1S 5B8","Bubble Tea, Beverages",15.0,Scarborough
+Lawrence Bar & Grill,BAR,,,"3420 Lawrence Avenue East, Scarborough M1H 1A9",Bar Food,,Scarborough
+Uptown Fine Caribbean,QUICK BITES,,,"900 Progress Avenue,Scarborough M1H 2Z9",Caribbean,20.0,Scarborough
+Eastern Bakery,QUICK BITES,,,"880 Ellesmere Road, Unit 3, Scarborough M1P 2W6",Bakery,,Scarborough
+Green N' Sprouts,QUICK BITES,,,"1371 Neilson Road, Scarborough M1B 4Z8",Canadian,15.0,Scarborough
+Mika Sushi,CASUAL DINING,,,"3307 Sheppard Avenue East, Scarborough, ON M1T 3K3",Sushi,45.0,Scarborough
+Jade B.B.Q. House,QUICK BITES,,,"2950 Birchmount Road, Scarborough M1W 3G5","BBQ, Chinese",,Scarborough
+Zoom,BAR,,,"2829 Eglinton Avenue East, Scarborough",Bar Food,50.0,Scarborough
+Asian Kitchen,QUICK BITES,,,"Silver Star, 633 Silver Star Boulevard, Scarborough M1V 5N1","Chinese, Asian",20.0,Scarborough
+Best Tasty BBQ,QUICK BITES,,,"8 Glen Watford Drive, Scarborough M1S 2C1",Cantonese,20.0,Scarborough
+All Star Bar and Eatery,BAR,,,"4170 Kingston Road, Scarborough",Drinks Only,40.0,Scarborough
+Paan Darbaar,QUICK BITES,,,"4810 Sheppard Avenue East, Scarborough, GTA M1S 4N6","Indian, Pakistani",15.0,Scarborough
+Jaklynne's,QUICK BITES,,,"3430 Sheppard Avenue East, Scarborough M1T 3P4",Filipino,15.0,Scarborough
+Toronto Shawarma,QUICK BITES,,,"292 Markham Road, Scarborough",Middle Eastern,,Scarborough
+Sanabel Halal Meat - Contractor Sandwiches,QUICK BITES,,,"1331 Warden Avenue, Scarborough","Deli, Sandwich",,Scarborough
+Drinkii,BEVERAGE SHOP,,,"5995 Steeles Avenue East, Inside Walmart, Scarborough M1V 5P6","Beverages, Bubble Tea",,Scarborough
+Heroes,QUICK BITES,,,"2535 Pharmacy Avenue, Scarborough M1W 1H9",Indian,,Scarborough
+Delicious Food,Other,,,"8 Glen Watford Drive, Scarborough M1S 2V1",Chinese,,Scarborough
+Fukuoka Sushi,QUICK BITES,,,"108 Corporate Drive, Unit 17,Scarborough M1H 3H9",Sushi,40.0,Scarborough
+Puff Samosa,QUICK BITES,,,"30 Bertrand Avenue, Unit A3, Scarborough M1L 2P5",Central Asian,25.0,Scarborough
+Kin-Kin,BAKERY,,,"Malvern Town Centre, Ground Level, 31 Tapscott Road, Scarborough M1B 4Y7","Bakery, Chinese",10.0,Scarborough
+The Mountain Grill & Juice Bar,CASUAL DINING,,,"2000 Lawrence Avenue East, Scarborough M1R 2Z1","Middle Eastern, Pizza",40.0,Scarborough
+Karl Sports Bar And Grill,BAR,,,4528 Kingston Road M1E 2N8,American,,Scarborough
+Old Neighbour Restaurant,CASUAL DINING,,,"25 Glen Watford Drive, Scarborough","Chinese, Asian",25.0,Scarborough
+Alan's Filipino Restaurant,CASUAL DINING,,,"2655 Lawrence Avenue East, Scarborough, ON M1P 2S3","Asian, Fast Food, Filipino, Grill",25.0,Scarborough
+Quesada Burritos & Tacos,CASUAL DINING,,,"900, Warden Avenue, Scarborough, ON M1L 4W6",Tex-Mex,15.0,Scarborough
+Chick N Delish,QUICK BITES,,,"1027 Markham Road, Scarborough, ON M1H 2Y5",Fast Food,20.0,Scarborough
+Fat Bastard Burrito,QUICK BITES,,,"095 Sheppard Avenue E Unit 15, Scarborough, ON M1S 4N8",Mexican,15.0,Scarborough
+KINTON RAMEN,CASUAL DINING,,,"1 William Kitchen Rd a4, Scarborough, ON M1P 5B7","Japanese, Ramen",35.0,Scarborough
+Tim Hortons,CAFÉ,,,2825 Markham Road,"Cafe, Donuts",20.0,Scarborough
+Dairy Queen (Treat),DESSERT PARLOR,,,361a Old Finch Avenue,Ice Cream,15.0,Scarborough
+Catering Club,QUICK BITES,,,"601 Milner Avenue, Scarborough M1B5X6",Cafe,20.0,Scarborough
+Golden Lucky,CASUAL DINING,,,"5532 Lawrence Avenue, Scarborough","Chinese, Asian",30.0,Scarborough
+Kera,QUICK BITES,,,"2038 Lawrence Avenue East, Scarborough M1R 2Z3","Sri Lankan, Indian",15.0,Scarborough
+Fusia Asian Kitchen,QUICK BITES,,,"Eglinton Square, Food Court, 1 Eglinton Square",Chinese,25.0,Scarborough
+Home Burger,CASUAL DINING,,,1 Centre Street,"Burger, American",20.0,Scarborough
+Dubai Loungue,QUICK BITES,,,"1967 Lawrence Avenue East, Scarborough",Middle Eastern,25.0,Scarborough
+Foodelicious,QUICK BITES,,,"5661 Steeles Avenue East, Scarborough","Fast Food, Chinese, Asian",15.0,Scarborough
+Four S's Bar & Grill,BAR,,,"685 Kennedy Road, Scarborough M1K 2B8",Bar Food,35.0,Scarborough
+Rincon Latino Restaurant,QUICK BITES,,,"1352 Kennedy Road, Scarborough",American,20.0,Scarborough
+Bai Long Food,QUICK BITES,,,"Sky City Shopping Centre, 3250 Midland Avenue, Scarborough","Chinese, Asian",25.0,Scarborough
+Mrs. Fields,DESSERT PARLOR,,,"Scarborough Town Centre, First Floor, 300 Borough Drive, Scarborough M1P 4P5",Desserts,15.0,Scarborough
+Flavor Cuisine,Other,,,"8 Glen Watford Drive, Scarborough, GTA M1S 2B7",Cantonese,15.0,Scarborough
+Better Kitchen,Other,,,"Oriental Centre, 4438 Sheppard Avenue East, Scarborough M1S 1V2","Chinese, Asian",25.0,Scarborough
+Marissa's Place,CAFÉ,,,"4915 Steeles Avenue East, Scarborough","Filipino, Cafe",15.0,Scarborough
+The Thirsty Penguin,CASUAL DINING,,,"159 Dynamic Drive, Inside Canlan Ice Sports, Scarborough M1V 5L8","Bar Food, American",50.0,Scarborough
+Fresh Juice,BEVERAGE SHOP,,,"4002 Sheppard Avenue East, Scarborough M1S 4R5",Bubble Tea,10.0,Scarborough
+Tasty Goods,BAKERY,,,"1105 Victoria Park Avenue, Scarborough","Bakery, Cafe",15.0,Scarborough
+Twice The Deal Pizza & Wings,QUICK BITES,,,"3959 Lawrence Avenue East, Scarborough","Pizza, Fast Food",25.0,Scarborough
+Coffee Coffee,QUICK BITES,,,"2677 Eglinton Avenue East, Scarborough",Cafe,20.0,Scarborough
+Java Stop,CAFÉ,,,"3110 Ellesmere Road, Scarborough",Cafe,20.0,Scarborough
+Chandra Mahal,QUICK BITES,,,1877 Lawrence Avenue East,Indian,20.0,Scarborough
+Challal Pastries,BAKERY,,,"1960 Lawrence Avenue East, Scarborough M1R 2Z1","Bakery, Middle Eastern",20.0,Scarborough
+Jacks Sportsbar,BAR,,,"1197 Birchmount Road, Scarborough",West Indian,40.0,Scarborough
+Midland Pizza & Wings,QUICK BITES,,,"1053 Midland Avenue, Scarborough M1K 4G8","Pizza, Fast Food",25.0,Scarborough
+Five Star Social Club,CAFÉ,,,"819 Brimley Road, Scarborough",Cafe,20.0,Scarborough
+Tung Tak BBQ,QUICK BITES,,,"3833 Midland Avenue, Scarborough, GTA",Chinese,25.0,Scarborough
+"Eglinton Avenue East, Scarborough",Other,,,CUISINES:,Asian,30.0,Scarborough
+Seafood Village,CASUAL DINING,,,"4188 Finch Ave E, Toronto M1S3V1","Chinese, Seafood",40.0,Scarborough
+Crystal Bamboo,Other,,,"8 Glen Watford Drive, Scarborough M1S 2C1",Bubble Tea,,Scarborough
+Kong Fu Spicy,QUICK BITES,,,"Sky City Shopping Centre, 3272 Midland Avenue, Scarborough",Chinese,15.0,Scarborough
+Mr. Chestnut,Other,,,"Splendid China Tower, Parking Lot, 4625 Steeles Avenue East, Scarborough",Asian,10.0,Scarborough
+Pooshana,QUICK BITES,,,"2258 Birchmount Road, Scarborough M1T2M2","Indian, Sri Lankan",,Scarborough
+Coffee Here,CAFÉ,,,"3430 Finch Avenue East, Scarborough M1W 2R5",Cafe,,Scarborough
+Kitchen 68,Other,,,"8 Glen Watford Drive, Scarborough M1S 2C1",Chinese,,Scarborough
+Fanny's,BAR,,,2277 Kingston Road,Bar Food,40.0,Scarborough
+Xingwang,CASUAL DINING,,,"201 Markham Road, Scarborough","Filipino, Indian, Chinese",,Scarborough
+Spring China House,CASUAL DINING,,,1873 Lawrence Avenue East M1R 2Y3,Chinese,,Scarborough
+Masha'Allah Sweets & Bakery,DESSERT PARLOR,,,"292 Markham Road , Toronto M1J3C5",Desserts,,Scarborough
+The Cliffside Bistro,QUICK BITES,,,"2277 Kingston Road, Scarborough M1N 1T8",American,20.0,Scarborough
+Topgunsteak & burgers,FAST CASUAL,,,"1960 Lawrence Avenue E Unit 3, Scarborough, ON M1R 2Z1","Burger, Steak",25.0,Scarborough
+Cheese Garden,DESSERT PARLOR,,,"3250 Midland Ave G120, Scarborough, ON M1V 4W9",Desserts,15.0,Scarborough
+Twilight Cafe,CAFÉ,,,"35-3300 Midland Ave, Scarborough, ON M1V 4W7","Chinese, Taiwanese",25.0,Scarborough
+Daango Pastry Lab,BAKERY,,,"202 Baldwin Street, Toronto, ON M1V 5B5","Desserts, Bakery",15.0,Scarborough
+Tim Hortons,CAFÉ,,,2867 Ellesmere Road,"Cafe, Donuts",20.0,Scarborough
+Tim Hortons,CAFÉ,,,4351 Kingston Road,"Cafe, Donuts",20.0,Scarborough
+Tim Hortons,CAFÉ,,,2301 Brimley Road,"Cafe, Donuts",20.0,Scarborough
+Tim Hortons,CAFÉ,,,91 Guildwood Pky,"Cafe, Donuts",20.0,Scarborough
+Cinnaholic,BAKERY,,,6015 Steeles Avenue East Unit G4 ON M1V 5P7,Bakery,15.0,Scarborough

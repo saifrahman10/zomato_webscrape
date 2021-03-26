@@ -1,0 +1,973 @@
+Name,EstablishmentType,Rating,NumReviews,Address,Cuisine,CostForTwo,City
+Auberge du Pommier,FINE DINING,4.5,644.0,"4150 Yonge St., Toronto, ON M2P 2C6",French,150.0,North York
+Han Ba Tang,CASUAL DINING,4.4,173.0,"4862 Yonge Street, North York M2N 5N2","Korean, Asian Fusion, Asian",30.0,North York
+Joey,CASUAL DINING,4.4,304.0,"75, O'Neill Road, North York, Toronto M3C 0H2","Steak, Grill, Fusion",70.0,North York
+Pastel,CAFÉ,4.6,156.0,"5417 Yonge Street, North York M2N 5R6","Cafe, Desserts",35.0,North York
+Aoyama Sushi,CASUAL DINING,4.4,156.0,"2766 Victoria Park Avenue, North York M1W 1C2","Sushi, Japanese, Asian",55.0,North York
+Dragon Pearl,CASUAL DINING,4.1,176.0,"865 York Mills Road Unit 2, North York M3B 1Y6","Chinese, Asian",30.0,North York
+Oliver & Bonacini Cafe Grill,CASUAL DINING,3.9,228.0,"Bayview Village Shopping Centre, 2901 Bayview Avenue, Toronto, ON M2K 1E6","Grill, Italian, Canadian, Fusion",,North York
+Buk Chang Dong Soon Tofu,CASUAL DINING,4.4,169.0,"5445 Yonge Street, North York M2N 6K7",Korean,30.0,North York
+Congee Queen,CASUAL DINING,4.2,198.0,"895 Lawrence avenue east, North York","Cantonese, Chinese, Asian",40.0,North York
+CASA manila Restaurant,CASUAL DINING,3.9,102.0,879 York Mills Road M3B 1Y5,"Filipino, Asian",40.0,North York
+Nomé Izakaya,BAR,3.8,101.0,"4848 Yonge Street, North York M2N 5N2","Japanese, Asian",70.0,North York
+Fabbrica,CASUAL DINING,4.0,167.0,"Shops at Don Mills, 49 Karl Fraser Road, North York M3C 0E5",Italian,90.0,North York
+Sushi Bong,CASUAL DINING,4.2,166.0,"5 Northtown Way, North York","Sushi, Japanese, Asian",40.0,North York
+Sushi Moto,CASUAL DINING,4.4,141.0,"4901 Yonge Street, North York M2N 5N6","Sushi, Japanese, Asian",80.0,North York
+Taro's Fish,QUICK BITES,4.4,84.0,"800 Sheppard Avenue E, North York M2K 1C3","Sushi, Japanese, Deli",25.0,North York
+KINKA IZAKAYA,CASUAL DINING,3.7,44.0,"Hullmark Centre, 4775 Yonge Street, Unit 114, North York M2N 5M5 5M5","Japanese, Asian",55.0,North York
+Oh Geul Boh Geul,CASUAL DINING,4.2,86.0,"5320 Yonge Street, North York M2N 5P9","BBQ, Korean, Asian",40.0,North York
+MeNami,BAR,3.5,41.0,"5469 Yonge Street, Toronto","Japanese, Bar Food",25.0,North York
+Bake Code,BAKERY,3.4,43.0,"4910 Yonge Street, North York M2N 5N5","Bakery, Cafe",20.0,North York
+Wakame Sushi,CASUAL DINING,4.1,118.0,"638 Sheppard Avenue W, North York M9H 2S1","Sushi, Japanese, Asian",50.0,North York
+Cafe Princess,DESSERT PARLOR,3.9,82.0,"5590 Yonge Street, Second Floor, North York M2N 7L3","Cafe, Desserts",20.0,North York
+The Owl Of Minerva,CASUAL DINING,4.0,122.0,"5324 Yonge Street , North York","Korean, Asian",35.0,North York
+The Copper Chimney,CASUAL DINING,4.3,82.0,"2050 Avenue Road, North York M5M 4A6",Indian,50.0,North York
+Mustafa Turkish Pizza,CASUAL DINING,4.3,72.0,"866 Wilson Avenue, North York","Pizza, Turkish, Middle Eastern",40.0,North York
+KINTON RAMEN,CASUAL DINING,3.6,67.0,"5165 Yonge Street, North York M2N 5P5","Ramen, Japanese",35.0,North York
+VIPS Sushi,CASUAL DINING,4.2,90.0,"9 Byng Avenue, North York M2N 0E6","Sushi, Japanese, Asian",25.0,North York
+Miller Tavern,CASUAL DINING,3.7,123.0,"3885 Yonge Street, North York M4N2P2 2P2","Seafood, Steak, American",80.0,North York
+Gonoe Sushi,CASUAL DINING,3.9,96.0,"1310 Don Mills Road, North York M3B 2W6","Sushi, Japanese, Asian",40.0,North York
+Crown Prince Fine Dining,CASUAL DINING,3.9,64.0,"3600 Victoria Park Avenue, Unit 1-7, North York M2H 3B2","Dim Sum, Cantonese, Chinese, Asian",50.0,North York
+Bier Markt,CASUAL DINING,3.9,91.0,"67 O'Neill Road, North York, ON M3C 0H2","Bar Food, Canadian",70.0,North York
+High Street Fish And Chips,CASUAL DINING,4.1,58.0,"55 Underhill Drive, North York M3A 2J8",Fish and Chips,25.0,North York
+Jerusalem Restaurant,CASUAL DINING,3.6,94.0,"4777 Leslie Street, North York M2J 2K8","Israeli, Middle Eastern",35.0,North York
+Hakata Ramen Sho Ryu Ken,CASUAL DINING,3.7,39.0,"5321 Yonge Street, North York M2N 5R4","Ramen, Japanese",30.0,North York
+Mezza Notte Trattoria,CASUAL DINING,4.1,112.0,"5304 Yonge Street, North York M2N 5R2",Italian,70.0,North York
+Jamies Italian Yorkdale,CASUAL DINING,3.0,48.0,"Yorkdall Mall, 3401 Dufferin Street, North York",Italian,55.0,North York
+The David Duncan House,FINE DINING,3.8,85.0,"125 Moatfield Drive, Toronto","American, Steak, Seafood",120.0,North York
+Ajisen Ramen,CASUAL DINING,4.0,105.0,"5229 Yonge Street, North York M2N 5P6","Ramen, Japanese",30.0,North York
+The Fry,CASUAL DINING,3.8,39.0,4864 Yonge Street M2N 5N2,"Korean, Asian, Soul Food",60.0,North York
+Sushi One,CASUAL DINING,4.0,81.0,"4924 Yonge Street, North York M2N 5N5","Sushi, Japanese, Asian",50.0,North York
+Kenzo Ramen,CASUAL DINING,3.9,103.0,"6180 Yonge Street, North York","Ramen, Japanese",30.0,North York
+Ice 'n Cake,DESSERT PARLOR,3.9,58.0,"Shops at Don Mills, 30 Clock Tower Road, North York M3C 0G2","Ice Cream, Desserts, European",25.0,North York
+Sushi Legend,CASUAL DINING,4.2,75.0,"Finch & Leslie Square, 10 Ravel Road, Unit 3, North York M2H 1S8","Sushi, Japanese, Asian",55.0,North York
+Pickle Barrel,CASUAL DINING,3.3,107.0,"1 Yorkdale Rd, North York, ON M6A 3A1","Grill, Canadian",60.0,North York
+Congee Wong,CASUAL DINING,4.5,89.0,"Finch & Leslie Square, 10 Ravel Road, North York M2H 1S8","Cantonese, Chinese, Asian",35.0,North York
+Paese Ristorante,CASUAL DINING,3.6,63.0,"3827 Bathurst Street, North York M3H 3N1",Italian,90.0,North York
+Asian Legend,CASUAL DINING,4.0,78.0,"Finch & Leslie Square, 125 Ravel Road, North York",Northern Chinese,40.0,North York
+Pancer's Original Deli,QUICK BITES,4.0,73.0,3856 Bathurst St. M3H 3N3 3N3,"Deli, Diner",25.0,North York
+Petit Potato,CAFÉ,3.1,20.0,"10 Ravel Road Unit 1-2, Toronto M2H 1S8","Taiwanese, Japanese",,North York
+Memories of Japan,CASUAL DINING,3.5,90.0,"900 Don Mills Road, North York M3C 1V6","Japanese, Sushi, Asian",40.0,North York
+Congee Star,CASUAL DINING,3.9,62.0,"900 Don Mills Road, North York M3C 1V6","Cantonese, Chinese, Asian",30.0,North York
+Kayagum,CASUAL DINING,3.4,57.0,"5460 Yonge Street, North York M2N 6K7","Korean, Japanese, Sushi, Asian",50.0,North York
+California Sandwiches,QUICK BITES,4.3,77.0,"3703 Chesswood Drive, North York",Sandwich,20.0,North York
+Union Social Eatery,CASUAL DINING,3.0,27.0,"4899 Yonge Street, Toronto M2N 5N4",Grill,50.0,North York
+Sugar Marmalade,QUICK BITES,3.6,37.0,"5322 Yonge Street, North York M2N 5P9","Desserts, Taiwanese",25.0,North York
+Sashimi House,CASUAL DINING,4.2,57.0,"2038 Sheppard Avenue E, North York M2J 4W6","Sushi, Japanese, Asian",40.0,North York
+Ichiban Sushi House,CASUAL DINING,3.8,78.0,"Empress Walk, Unit A9A, 5095 Yonge Street, North York","Sushi, Japanese, Korean, Asian",50.0,North York
+Hashi Izakaya,BAR,3.7,36.0,"5582 Yonge Street, North York M2N 5S2","Japanese, Asian",60.0,North York
+Genji Sushi,CASUAL DINING,4.3,50.0,"2899 Steeles Avenue West, North York M3J 3A1","Sushi, Japanese, Asian",55.0,North York
+Windfield's,CASUAL DINING,3.5,59.0,"801 York Mills Road, North York M3B 1X7",American,45.0,North York
+Moxie's Grill & Bar,CASUAL DINING,3.9,64.0,"1800 Sheppard Avenue E, 2044, North York M2J 5A7","Grill, Steak, Canadian, Fusion",65.0,North York
+Via Cibo,CASUAL DINING,3.9,47.0,"808 York Mills Road, North York M3B 1X8",Italian,40.0,North York
+Chinese Halal Restaurant,CASUAL DINING,3.8,39.0,"Finch & Leslie Square, 101 Ravel Road, North York M2H 1T1","Xinjiang, Chinese, Asian",30.0,North York
+Paramount Fine Foods,CASUAL DINING,3.4,41.0,"2450 Sheppard Avenue East, North York M2J 4W6","Lebanese, Middle Eastern",40.0,North York
+The Captain’s Boil,CASUAL DINING,3.6,30.0,"5315 Yonge Street, Toronto M2N 5R4","Cajun, Seafood",60.0,North York
+Congee Time,CASUAL DINING,3.6,59.0,"Newtonbrook Plaza, 5817 Yonge Street, North York M2M","Cantonese, Chinese, Asian",40.0,North York
+Diwan,CASUAL DINING,3.5,19.0,"77 Wynford Drive, North York","Middle Eastern, Turkish, Fusion",100.0,North York
+China Gourmet,CASUAL DINING,4.2,58.0,"877 York Mills Road, North York M3B 1Y5","Chinese, Asian",25.0,North York
+Spoon & Fork Plus,CASUAL DINING,3.2,38.0,"865 York Mills Road, North York M3B 1Y6","Sushi, Japanese, Thai, Asian",55.0,North York
+Symposium Cafe Restaurant & Lounge,CASUAL DINING,3.0,29.0,5221 Yonge Street M2N 5P8,"Diner, Burger, Desserts",65.0,North York
+Sampaguita Village,CASUAL DINING,3.9,40.0,"322 Wilson Avenue, North York M3H 1S8","Filipino, Chinese, Asian",35.0,North York
+Pho 88,CASUAL DINING,3.2,62.0,"5197 Yonge Street, North York M2N 5P7","Vietnamese, Thai",35.0,North York
+Agra,CASUAL DINING,3.4,52.0,"4850 Yonge Street, North York M2N 5N2",Indian,45.0,North York
+Szechuan Gourmet,CASUAL DINING,4.1,57.0,"1033 Steeles Avenue W, North York M2R 2S9","Chinese, Asian",35.0,North York
+Osaka Sushi,CASUAL DINING,3.5,41.0,"747 Don Mills Road, North York",Sushi,45.0,North York
+Matsuda,CASUAL DINING,3.2,37.0,"1300 Don Mills Road, North York M3B 2W6","Sushi, Japanese, Asian",65.0,North York
+Nak Won,CASUAL DINING,3.2,47.0,"5594 Yonge Street, North York","Korean, Asian",50.0,North York
+Lara's Restaurant,CASUAL DINING,3.9,29.0,"155 Consumers Road, North York M2J 0A8",Middle Eastern,30.0,North York
+The Frog,CASUAL DINING,4.1,49.0,"4854 Yonge Street, North York M2N 5N2",Bar Food,65.0,North York
+Mandarin Restaurant - North York,CASUAL DINING,3.9,67.0,"1027 Finch Avenue West, North York M3J 2C7","Chinese, Asian, Canadian",60.0,North York
+United Bakers,CASUAL DINING,4.2,54.0,"Lawrence Plaza, 506 Lawrence Avenue West, North York M6A 1A1","Soul Food, Bakery",25.0,North York
+Jack Astor's,CASUAL DINING,3.4,34.0,"5051 Yonge Street, North York",Bar Food,55.0,North York
+Angus Pho House,CASUAL DINING,3.3,25.0,"5443 Yonge Street, North York M2N 5S1","Vietnamese, Asian",30.0,North York
+Paradise Fine Chinese Dining,CASUAL DINING,3.8,44.0,"Finch & Leslie Square, 5505 Leslie Street, North York M2H 3N6","Dim Sum, Cantonese, Chinese, Asian",50.0,North York
+Jatujak,CASUAL DINING,3.6,27.0,"1744 Victoria Park Avenue, North York M1R 1R4",Thai,40.0,North York
+Seoul House,CASUAL DINING,3.7,51.0,"3220 Dufferin Street, North York M6A 2T2","Chinese, Japanese, Korean, Asian",30.0,North York
+Peking Man Restaurant,CASUAL DINING,3.4,41.0,"1108 Sheppard Avenue East, North York M2K 2V9","Chinese, Asian",30.0,North York
+Hakka No. 1,CASUAL DINING,3.8,48.0,"2440 Finch Avenue West, North York","Hakka Chinese, Asian, Bubble Tea",40.0,North York
+Kaga By Ginza,CASUAL DINING,3.7,37.0,"652 Finch Avenue East, North York M2K 2E6","Japanese, Asian",30.0,North York
+Drums N Flats,BAR,3.7,51.0,"1980 Avenue Road, North York M5M 4A4","Bar Food, American",60.0,North York
+Maxim's Cafe Patisserie,CAFÉ,3.3,52.0,"676 Finch Avenue East, North York M2K 2E6","Cafe, Desserts",35.0,North York
+Sorento,CASUAL DINING,4.1,51.0,"900 Don Mills Road, North York M3C 1V6","Mediterranean, Italian",55.0,North York
+Sweet O'clock,DESSERT PARLOR,3.2,19.0,"5461 Yonge Street, North York M2N 5S1","Taiwanese, Desserts, Bubble Tea, Asian",15.0,North York
+Yuki Japanese,CASUAL DINING,4.5,50.0,"3259 Dufferin Street, North York M6A 2T4","Japanese, Korean",50.0,North York
+Sunshine Spot,CASUAL DINING,3.6,42.0,"796 Sheppard Avenue E, North York M4T 1M9","Diner, Canadian",30.0,North York
+La Mexicana,CASUAL DINING,4.0,41.0,"3337 Bathurst Street, North York M6A 2B7","Mexican, Latin American",65.0,North York
+Boston Pizza,CASUAL DINING,2.9,48.0,"Sheppard Centre, Main Floor, 4841 Yonge Street, North York","American, Pizza",40.0,North York
+Gryfe's Bagel Bakery,BAKERY,3.9,40.0,"3421 Bathurst Street, North York M6A 2C1",Bakery,15.0,North York
+Bistro on Avenue,CASUAL DINING,3.8,51.0,"1988 Avenue Road, North York M5M 3Y4","Bar Food, American",30.0,North York
+Island Foods,QUICK BITES,3.9,57.0,"1310 Don Mills Road, North York M3B 2W6",West Indian,25.0,North York
+Rosemary & Thyme,CASUAL DINING,3.9,35.0,"2798 Victoria Park Avenue, North York M1W 1C2",American,30.0,North York
+Wimpy's Diner,CASUAL DINING,3.9,49.0,"590 Sheppard Avenue W, North York M3H 2S1",Diner,30.0,North York
+Beiruti Grand Cafe,CAFÉ,3.5,11.0,"155 Consumers Road, Unit 101, North York M2J 0A3","Cafe, Mediterranean",25.0,North York
+Lee Nam Jang,CASUAL DINING,3.4,34.0,"4846 Yonge Street, North York M2N 6B1","Korean, Asian",30.0,North York
+Dakgogi,BAR,3.5,20.0,"5310 Yonge Street, North York M2M 5P9","Bar Food, Korean, Asian",30.0,North York
+Kaiseki Yu-Zen Hashimoto,FINE DINING,3.7,13.0,"6 Garamond County, North York, ON M3C 1Z5","Sushi, Japanese, Asian",600.0,North York
+Satay On The Road,CASUAL DINING,4.0,42.0,"2003 Avenue Road, North York M5M 4A5","Thai, Malaysian, Asian",45.0,North York
+Congee Delight,CASUAL DINING,3.2,28.0,"Skymark Place Shopping Centre, 3555 Don Mills Road, North York M2H 3N3","Cantonese, Chinese, Asian",35.0,North York
+Tasty BBQ Seafood Restaurant,CASUAL DINING,3.4,35.0,"Skymark Place Shopping Centre, 3555 Don Mills Road, North York","Cantonese, Chinese, Asian",30.0,North York
+Kiku,CASUAL DINING,3.6,42.0,"808 York Mills Road, North York M3B 1X8","Sushi, Japanese, Asian",40.0,North York
+Pho Mi Asia,CASUAL DINING,3.7,53.0,"1008 Wilson Avenue, North York M3K 1G6","Vietnamese, Chinese, Thai, Asian",30.0,North York
+Mabu Station,QUICK BITES,2.8,22.0,"5457 Yonge Street, North York M2N 5S1","Taiwanese, Desserts, Ice Cream",30.0,North York
+The Keg Steakhouse + Bar – North York,BAR,3.4,6.0,"5015, Yonge Street, Toronto M2N 5P1","Steak, Bar Food",30.0,North York
+Times Square Diner,CASUAL DINING,3.6,41.0,"531 Wilson Heights Boulevard, North York M3H 2V7","Diner, Breakfast",30.0,North York
+Pho Dau Bo,CASUAL DINING,4.0,41.0,"Finch Main Plaza, 2437 Finch Avenue West, North York M9M 2E7",Vietnamese,30.0,North York
+Sea-Hi,CASUAL DINING,3.6,44.0,"3645 Bathurst Street, North York M6A 2E4","Chinese, Asian",65.0,North York
+Artisan Noodle,CASUAL DINING,3.3,19.0,"5421 Yonge Street, North York M2N 5R6","Northern Chinese, Chinese, Asian",30.0,North York
+Commisso Bakery,BAKERY,3.9,43.0,"8 Kincort Street, North York","Deli, Bakery, Italian",20.0,North York
+St. Louis Bar and Grill,BAR,3.9,50.0,"5307 Yonge Street, North York","Bar Food, Grill",40.0,North York
+Le Montmartre,CASUAL DINING,3.9,30.0,"911 Sheppard Avenue West, North York M3H 2T7",French,65.0,North York
+My Place Fish' N Chips,CASUAL DINING,3.9,30.0,2577 Victoria Park Avenue M1T 1A4,Fish and Chips,35.0,North York
+My Sushi Restaurant,CASUAL DINING,3.8,43.0,"5440 Yonge Street, North York","Sushi, Japanese, Asian",50.0,North York
+Nadège,DESSERT PARLOR,3.6,13.0,"Yorkdale Mall , 3401 Dufferin Street, North York","Desserts, Patisserie, Cafe",20.0,North York
+Bow Thai,CASUAL DINING,3.6,38.0,"4755 Leslie Street, North York M2J 2L3","Thai, Asian",35.0,North York
+The Cheesecake Factory at Yorkdale Shopping Centre,CASUAL DINING,3.6,32.0,3401 Dufferin Street CRU#02 M6A 2T9,American,30.0,North York
+Chatime,BEVERAGE SHOP,3.7,39.0,"5494 Yonge Street, North York","Bubble Tea, Beverages, Taiwanese",15.0,North York
+Lim Ga Ne,CASUAL DINING,3.6,24.0,"5529 Yonge Street, North York M2N 5S3","Korean, Asian",35.0,North York
+Allwyn's Bakery,QUICK BITES,3.7,24.0,"81 Underhill Drive, North York M3A 1K8","Bakery, Caribbean",15.0,North York
+Katsura - The Westin Prince Toronto,CASUAL DINING,3.7,30.0,"The Westin Prince Toronto, 900 York Mills Road, North York M3B 3H2","Japanese, Asian",100.0,North York
+Primo Veal,QUICK BITES,3.8,33.0,"151 York land Boulevard, North York, Toronto, ON M2J 0E9 M1T 3J7",Fast Food,20.0,North York
+Mot Na Son,CASUAL DINING,3.5,24.0,"5374 Yonge Street, North York","Korean, Asian",30.0,North York
+Rainbow Japanese Sushi,CASUAL DINING,3.7,30.0,"3450 Bathurst Street, North York M6A 2C4","Sushi, Japanese, Asian",35.0,North York
+Cora's Breakfast & Lunch,CASUAL DINING,3.6,46.0,"1881 Steeles Avenue West, North York","Diner, Canadian",35.0,North York
+Aroma Espresso Bar,CAFÉ,3.3,32.0,"Shops at Don Mills, Main Floor, 1090 Don Mills Road, North York",Cafe,25.0,North York
+Tutto Pronto Ristorante,CASUAL DINING,3.5,9.0,"1718 Avenue Road, North York M5M 3Y6",Italian,55.0,North York
+Laterna,CASUAL DINING,3.6,39.0,"6301 Yonge Street, North York M2M 3X7",Greek,60.0,North York
+Kiyomizu,CASUAL DINING,3.7,31.0,"41 Spring Garden Avenue, North York M2N 3G1","Sushi, Japanese, Asian",45.0,North York
+Doug's Public Kitchen,CASUAL DINING,3.7,9.0,"561 Marlee Avenue, North York M6B 3J6 3J6","Healthy Food, Diner",35.0,North York
+31 Kitchen,CASUAL DINING,3.0,21.0,"Finch & Leslie Square, 10 Ravel Road, North York M2H 1S8","Desserts, Chinese, Ice Cream",35.0,North York
+Bar Burrito,QUICK BITES,3.0,43.0,"4918 Yonge Street, North York",Tex-Mex,25.0,North York
+Il Fornello,CASUAL DINING,3.2,36.0,"Bayview Village Shopping Centre, Unit A21, 2901 Bayview Avenue, North York",Italian,65.0,North York
+La Bamboche,CAFÉ,3.5,29.0,"1712 Avenue Road, North York M5M 3Y6","Cafe, Desserts, Bakery",20.0,North York
+The Bagel House,CAFÉ,3.9,40.0,"1722 Avenue Road, North York M4T 1Y7",Cafe,20.0,North York
+Cho Won Family Restaurant,CASUAL DINING,3.8,26.0,"17 Drewry Avenue, Toronto M2M 1C9","Korean, Asian",30.0,North York
+Konjiki Ramen,FAST CASUAL,3.7,17.0,"5051 Yonge St, North York, ON M2N 5P2",Ramen,25.0,North York
+Il Fornaro,CASUAL DINING,3.5,40.0,"1954 Avenue Road, North York M5M 4A1",Italian,90.0,North York
+Georgy Porgy's,CASUAL DINING,3.5,40.0,"1448 Lawrence Avenue, North York M4A 2V6",Grill,65.0,North York
+Belle,CASUAL DINING,3.8,29.0,"4949 Bathurst Street, North York M2R 1Y1",Middle Eastern,40.0,North York
+Yoko Japanese,CASUAL DINING,3.9,31.0,"490 McNicoll Avenue, North York","Japanese, Sushi",50.0,North York
+Hot Pot On Yonge,CASUAL DINING,3.2,9.0,"5441 Yonge Street, North York","Chinese, Asian",30.0,North York
+Issmi,CASUAL DINING,3.9,27.0,"1984 Avenue Road, North York M5M 4A4","Sushi, Japanese, Asian",45.0,North York
+Ichiban Fish House,CASUAL DINING,3.2,44.0,"15 Spring Garden Avenue, North York M2N 3G1","Sushi, Japanese, Asian",30.0,North York
+Mistaan Sweets,QUICK BITES,3.9,23.0,"460 McNicoll Avenue, North York M2H 2E1",Indian,25.0,North York
+Short & Sweet Cupcakes,DESSERT PARLOR,3.8,23.0,"1945 Avenue Road, North York M5M 4A2","Desserts, Bakery",15.0,North York
+Great Eastern,CASUAL DINING,3.9,26.0,"2579 Victoria Park Avenue, North York M1T 1A4","Chinese, Hakka Chinese, Asian",30.0,North York
+Jung Soo Nae,CASUAL DINING,2.9,13.0,"5754 Yonge Street, North York M2M 3T6","Korean, Asian",25.0,North York
+Camarra,CASUAL DINING,3.9,31.0,"2899 Dufferin Street, North York M6B 3S7",Italian,50.0,North York
+Burrito Boyz,QUICK BITES,3.9,32.0,"5314 Yonge Street, North York","Mexican, Fast Food",25.0,North York
+Panino Cappuccino,CASUAL DINING,3.8,35.0,"3218 Weston Road, North York",Italian,,North York
+ABC Bakery & Coffee Shop,BAKERY,3.4,12.0,"3618 Victoria Park Avenue, North York M2H 3S2","Bakery, Chinese",25.0,North York
+Caribbean Heat,CASUAL DINING,3.8,28.0,"Finch and Keele Commercial Centre, 1300 Finch Avenue West, Unit 15, North York","Caribbean, Chinese, Asian",25.0,North York
+Roses New York,CASUAL DINING,3.9,31.0,"6313 Yonge Street, North York M2M 3X7","Sandwich, Pizza, Iranian",45.0,North York
+Nino D'Aversa Bakery,BAKERY,3.7,28.0,"1 Toro Road, North York M3J 2A4","Italian, Bakery",35.0,North York
+Thai One On,CASUAL DINING,3.6,35.0,"861 York Mills Road, North York","Thai, Asian",45.0,North York
+Taco Bell,QUICK BITES,3.5,27.0,"Fairview Mall, 1800 Sheppard Avenue East, North York","Fast Food, Mexican",20.0,North York
+Zaffron,CASUAL DINING,3.3,33.0,"6200 Yonge Street, North York M2M 3X1","Italian, Iranian",50.0,North York
+Five Guys,QUICK BITES,3.3,29.0,"865 York Mills Road, North York M3B 1Y6","Fast Food, Burger",25.0,North York
+East Side Mario's,CASUAL DINING,2.7,23.0,"RioCan Marketplace, 2171 Steeles Avenue West, North York M3J 3N2","Italian, Canadian, Pizza",40.0,North York
+Crazy Don,CASUAL DINING,2.9,15.0,5175 Yonge Street,"Japanese, Korean",,North York
+Europe Bar and Restaurant,CASUAL DINING,3.9,22.0,"3030 Bathurst Street, North York M6B 3B6","Hungarian, Eastern European",70.0,North York
+Katsuya,CASUAL DINING,3.7,11.0,"6048 Yonge Street, North York M2M 3W5","Japanese, Asian, Asian Fusion",30.0,North York
+Hot Spicy Spicy,CASUAL DINING,3.4,20.0,"Finch & Leslie Square, 173 Ravel Road, North York M2H 1T1","Sichuan, Chinese, Asian",40.0,North York
+Puck 'N Wings,CASUAL DINING,3.1,26.0,"5625 Yonge Street, North York M2M 3S9","American, Bar Food",65.0,North York
+Gilaneh - The Westin Prince Toronto,CASUAL DINING,3.6,24.0,"The Westin Prince Toronto, 900 York Mills Road, North York M3B 3H2","Middle Eastern, Iranian",75.0,North York
+Huh Ga Ne,CASUAL DINING,3.1,7.0,"19A Finch Avenue West, North York M2N","Korean, Asian",40.0,North York
+Aji Sushi,CASUAL DINING,3.1,32.0,"1325 Finch Avenue West, North York","Sushi, Japanese, Asian",30.0,North York
+Bagel World,QUICK BITES,3.9,32.0,"336 Wilson Avenue, North York M3H 1S9","Bakery, Cafe",20.0,North York
+Kwan,CASUAL DINING,3.3,6.0,"Unit 8, 808 York Mills Road","Dim Sum, Cantonese, Chinese, Asian",,North York
+Mi Pho Song Vu,CASUAL DINING,3.9,28.0,"2109 Jane Street, North York M3M 1A2","Vietnamese, Chinese, Thai, Asian",45.0,North York
+Tov Li,CASUAL DINING,3.9,25.0,"3519 Bathurst Street, North York M2R 1Z1","Mediterranean, Israeli",30.0,North York
+Willie Stouts,CASUAL DINING,3.1,17.0,"2175 Sheppard Avenue East, North York M2J 1W8",Bar Food,60.0,North York
+Shawarma Max,QUICK BITES,3.7,30.0,"4969 Yonge Street, North York M2N 5N6",Middle Eastern,20.0,North York
+ZenQ,QUICK BITES,3.3,14.0,"5437 Yonge Street, North York M2N 5S1","Bubble Tea, Taiwanese",25.0,North York
+Darband Restaurant,CASUAL DINING,3.7,21.0,"879 York Mills Road, North York M3B 1Y5","Middle Eastern, Iranian",30.0,North York
+Yogoberri,DESSERT PARLOR,3.8,19.0,"6070 Yonge Street, North York M2M 3W6","Desserts, Korean",25.0,North York
+Allan's Pastry Shop,BAKERY,3.8,18.0,"Peanut Plaza, 3064 Don Mills Road, North York M2J 3C1","Bakery, Sandwich",15.0,North York
+Nolbu,CASUAL DINING,3.5,13.0,"3 Elmhurst Avenue, North York M2N 1R3","Japanese, Korean, Chinese, Asian",40.0,North York
+Bagel Plus,BAKERY,3.5,22.0,"634 Sheppard Avenue W, North York M3H 2S1","Bagels, Sandwich",25.0,North York
+N9 Cafe,CAFÉ,3.3,7.0,"23 Spring Garden Avenue, North York M2N 3G2",Cafe,30.0,North York
+Boneyard Grill,CASUAL DINING,3.3,23.0,"1554 Avenue Road, North York M5M 3X5","Grill, American",50.0,North York
+Red Lobster,CASUAL DINING,3.0,31.0,"3200 Dufferin Street, North York, Toronto, ON M6A 2T3",Seafood,60.0,North York
+Columbus,BAKERY,3.9,17.0,"2931 Dufferin Street, North York M6B 3S9","Bakery, Cafe",10.0,North York
+Giorgio D,CASUAL DINING,3.6,26.0,"4377 Steeles Avenue West, North York M3N 1V7",Italian,70.0,North York
+Chipotle,FAST CASUAL,3.6,20.0,"Shops at Don Mills, 1072 Don Mills Road, North York",Tex-Mex,30.0,North York
+Karbouzi,CASUAL DINING,3.9,22.0,"2048 Avenue Road, North York M5M 4A6","Greek, Mediterranean",70.0,North York
+Espressamente Illy,CAFÉ,3.7,20.0,"Yorkdale Mall, 3401 Dufferin Street, North York",Cafe,25.0,North York
+Taftan Kebab,QUICK BITES,3.4,26.0,"5372 Yonge Street, North York M2N 5R5",Middle Eastern,20.0,North York
+Kebab Time,CASUAL DINING,3.5,8.0,"6255 Bathurst Street, North York M2R 3W9","Mediterranean, Middle Eastern, Turkish",25.0,North York
+Fox & Fiddle,CASUAL DINING,3.5,21.0,"1285 Finch Avenue West, North York M3J 2G5","Bar Food, British",55.0,North York
+Pyung Won House,CASUAL DINING,3.3,10.0,"5588 Yonge Street, North York M2N 5S2","BBQ, Korean, Asian",55.0,North York
+Mr. Jerk,QUICK BITES,3.5,22.0,"Peanut Plaza, 3050 Don Mills Road, North York",Caribbean,30.0,North York
+Kitchen,CASUAL DINING,3.5,20.0,"1967 Avenue Road, Toronto",Canadian,80.0,North York
+Orly Grill,QUICK BITES,3.7,18.0,"660 Sheppard Avenue West, North York M3H 2S5","Fast Food, Middle Eastern",20.0,North York
+Friendly House,QUICK BITES,3.5,23.0,"5908 Yonge Street, North York M2M 3T3",Greek,25.0,North York
+Athens Pastries,CAFÉ,3.9,14.0,"2567 Victoria Park Avenue, North York M1T 1A4",Cafe,,North York
+Caribbean Palms,CASUAL DINING,3.8,20.0,"747 Don Mills Road, North York M3C 1T2","Caribbean, Chinese, West Indian",25.0,North York
+Pho Con Bò,CASUAL DINING,3.8,21.0,"1625 Wilson Avenue, Unit 56B, North York M3L 1A5","Vietnamese, Asian",30.0,North York
+Ume Sushi,CASUAL DINING,3.4,17.0,"19 Finch Avenue West, North York M2N 7K4","Sushi, Japanese",,North York
+Caffe Demetre,DESSERT PARLOR,3.4,10.0,"3250 Dufferin Street, North York M6A 2T3","Desserts, Ice Cream, Cafe",35.0,North York
+Haida Sandwich,QUICK BITES,3.6,17.0,"15 Northtown Way, North York M2N 7A2","Pizza, Fast Food",30.0,North York
+Panera Bread,FAST CASUAL,3.3,21.0,1066 Don Mills Road,"Cafe, Sandwich",30.0,North York
+Mizuki Sushi,CASUAL DINING,3.3,5.0,"Skymark Place Shopping Centre, 3555 Don Mills Road, North York M2H 3N3","Sushi, Japanese, Asian",35.0,North York
+Koryo Samgyetang,CASUAL DINING,3.6,8.0,"Pickle Barrel Plaza, 5818 Leslie Street, North York M2H 1J8","Korean, Asian",35.0,North York
+Hi Tea,BEVERAGE SHOP,3.6,18.0,"5509 Yonge Street, North York","Tea, Desserts, Taiwanese",30.0,North York
+Kookminhakgyo,CASUAL DINING,3.3,5.0,"6016 Yonge Street, North York M2M 3V9","Korean, Asian",25.0,North York
+The Suya Spot,CASUAL DINING,3.7,17.0,"10-12 Bradstock Road, North York M9M 1M8","African, BBQ",45.0,North York
+Bamiyan Kabob,QUICK BITES,3.5,17.0,"Unit 9-10, 4205 Keele Street, North York",Middle Eastern,35.0,North York
+Krystos Modern Greek Cuisine,CASUAL DINING,2.8,15.0,3200 Dufferin Street M6A 3B2,Greek,40.0,North York
+Sharon Garden BBQ & Grill,CASUAL DINING,3.3,13.0,"3601 Victoria Park Avenue, North York","BBQ, Korean, Asian",35.0,North York
+Swiss Chalet,CASUAL DINING,3.5,15.0,"The Bayview Mall, 3253 Bayview Avenue, North York","Canadian, Grill, Beverages",40.0,North York
+Rossini Restaurant,CASUAL DINING,3.3,20.0,"1988 Avenue Road, North York M5M 4A4",Italian,70.0,North York
+Altona Kabob,QUICK BITES,3.7,12.0,"6099 Yonge Street, North York M2M 3W5",Iranian,25.0,North York
+Tutto Pronto Fine Food To Go,QUICK BITES,3.7,25.0,"1718 Avenue Road, North York M5M 3Y6","Italian, French",45.0,North York
+Eat BKK Thai Kitchen,CASUAL DINING,3.6,9.0,"4704 Yonge Street, Toronto M2N 5M4",Thai,,North York
+Gong Cha,BEVERAGE SHOP,3.4,14.0,"5449 Yonge Street, North York M2N 5S1","Bubble Tea, Beverages",15.0,North York
+South St. Burger,QUICK BITES,3.1,17.0,"2901 Bayview Ave, North York, ON M2K 1E6","Fast Food, Burger",25.0,North York
+Shaheen Tikka & Kabab,QUICK BITES,3.8,19.0,"747 Don Mills Road, North York M3C 1T2",Indian,25.0,North York
+Pizza Shab,QUICK BITES,3.4,12.0,"3 Byng Avenue, North York",Pizza,15.0,North York
+Francobollo Posto Italino,CASUAL DINING,3.4,13.0,1959 Avenue Road M5M 2M5,Italian,55.0,North York
+Montana's,CASUAL DINING,3.4,21.0,"2011 Steeles Avenue West, North York, Toronto M3J 3N3","Canadian, Grill, BBQ, Steak",50.0,North York
+Crave Restaurant and Bar,CASUAL DINING,3.3,13.0,"816 Sheppard Avenue West, North York M3H 2T3",Bar Food,50.0,North York
+Vatica,QUICK BITES,3.6,12.0,"2018 Sheppard Avenue East, Unit 4, Toronto M2J 5B3",Indian,20.0,North York
+Valley Fields Restaurant,CASUAL DINING,3.7,22.0,"1222 Lawrence Avenue East, North York M3A 1C3","Mediterranean, Greek, Breakfast",30.0,North York
+Small Rooms,CASUAL DINING,3.4,20.0,"1181 Finch Avenue West, North York M3J 2V8","Steak, Seafood",55.0,North York
+Tasty Delight Fusion Cuisine,CASUAL DINING,3.0,11.0,"Finch & Leslie Square, 149B Ravel Road, North York M2H 1T1","Hong Kong Style, Chinese, Asian",25.0,North York
+Tea Shop 168,BEVERAGE SHOP,3.3,16.0,"5193 Yonge Street, North York","Bubble Tea, Taiwanese, Beverages",25.0,North York
+Soban Cafe,DESSERT PARLOR,3.5,8.0,"5600 Yonge Street, Second Floor, North York M2N 5S2","Cafe, Desserts",25.0,North York
+Kori Sushi,CASUAL DINING,3.2,7.0,"The Bayview Mall, 3307 Bayview Avenue, North York M2K 1G4","Sushi, Japanese, Korean, Asian",30.0,North York
+Pupuseria Salvadoreña,CASUAL DINING,3.2,10.0,"2459 Finch Avenue West, North York",Latin American,30.0,North York
+Apkujung,CASUAL DINING,3.6,8.0,"6309 Yonge Street, North York","Korean, Asian",40.0,North York
+Menchie's,DESSERT PARLOR,3.9,24.0,"865 York Mills Road, North York",Frozen Yogurt,15.0,North York
+Coco Fresh Juice and Tea,BEVERAGE SHOP,3.1,6.0,"17B Finch Avenue West, North York M2N 7K4","Bubble Tea, Beverages",15.0,North York
+Mi Pueblo,CASUAL DINING,3.3,21.0,"20 Bradstock Road, North York","Latin American, Salvadorean",30.0,North York
+Kiva's Restaurant & Bakery,CASUAL DINING,3.6,26.0,"1027 Steeles Avenue West, North York M2R 2S9","Sandwich, Bakery",30.0,North York
+Dazzling Cafe,CAFÉ,,,"37 Sheppard Avenue E, North York M2N 7K1","Cafe, Asian Fusion",,North York
+Thai Everest,CASUAL DINING,3.3,18.0,"1656 Victoria Park Avenue, North York","Thai, Asian",50.0,North York
+Mymy Chicken,FAST CASUAL,3.4,6.0,"9 Spring Garden Avenue, Toronto M2N",Korean,25.0,North York
+Pho Com Vietnam,CASUAL DINING,3.6,14.0,"1991 Finch Avenue West, North York M9M 2C2","Vietnamese, Asian",30.0,North York
+Hung Long,CASUAL DINING,3.7,15.0,"1122 Wilson Avenue, North York M3M","Vietnamese, Malaysian, Thai, Asian",35.0,North York
+ShareTea,BEVERAGE SHOP,3.4,14.0,"15 Northtown Way, North York M2N 7L4","Bubble Tea, Beverages, Taiwanese",15.0,North York
+Red Rose Patisserie,BAKERY,3.8,13.0,"6184 Yonge Street, North York M2M 2M6","Bakery, Iranian",15.0,North York
+Me Va Me Express,QUICK BITES,3.2,12.0,"860 York Mills Road, North York M3B 1YB",Mediterranean,35.0,North York
+Villa Madina,QUICK BITES,3.1,20.0,"Yorkdale Mall, Food Court, 3401 Dufferin Street, North York",Mediterranean,25.0,North York
+3.6,Other,,,"Transwell Avenue, North York",Pizza,25.0,North York
+Bagel Nash,CASUAL DINING,,,81 Gerry Fitzgerald Drive M3J 3N4,"Bakery, Fast Food",,North York
+Jade East,QUICK BITES,3.9,12.0,"Yorkwoods Village Centre, 2883 Jane Street, North York M3N 2J5","Chinese, Asian",35.0,North York
+Michel's Bakery Cafe,CAFÉ,2.8,9.0,"Fairview Mall, 1800 Sheppard Avenue East, North York","Cafe, Bakery",20.0,North York
+Eggsmart,CASUAL DINING,3.6,14.0,"4695 Yonge St, North York M2N 5M3",Diner,30.0,North York
+Dynasty House,CASUAL DINING,2.7,18.0,"1635 Lawrence Avenue W, North York M6L 3C9","Chinese, Asian",45.0,North York
+Aladdin's Palace,CASUAL DINING,3.6,15.0,"3560 Victoria Park Avenue, North York",Middle Eastern,40.0,North York
+Ristorante Boccaccio,CASUAL DINING,3.8,14.0,"901 Lawrence Avenue West, Inside Colombus Center, North York M6A 1C3","Italian, Mediterranean",60.0,North York
+Peter Chang's Reggae Kitchen,QUICK BITES,3.2,15.0,"2806 Victoria Park Avenue, North York",Caribbean,25.0,North York
+Forget Me Not Café,QUICK BITES,3.3,12.0,"883 Wilson Avenue, Toronto M3K 1E6",Vietnamese,20.0,North York
+Z-Teca,QUICK BITES,2.9,21.0,"Fairview Mall, 1800 Sheppard Avenue East, North York",Tex-Mex,25.0,North York
+Wako,CASUAL DINING,3.1,15.0,"5213 Yonge Street, North York M2N 5P8","Sushi, Japanese, Korean, Asian",40.0,North York
+Pho Vietnamese Delight,CASUAL DINING,3.0,13.0,"3555 Don Mills Road, Unit 9, North York M2N 5S1","Vietnamese, Asian",25.0,North York
+Cusina,CASUAL DINING,3.1,18.0,"288 A Wilson Avenue, North York M3H 1S8","Filipino, Asian Fusion, Asian",35.0,North York
+Wild Wing,CASUAL DINING,3.2,15.0,"5505 Yonge Street, North York",Bar Food,50.0,North York
+Takara Bune,CASUAL DINING,2.6,16.0,2450 Sheppard Avenue East M2J 4W6,"Sushi, Japanese, Asian",35.0,North York
+Mr. Greek Express,QUICK BITES,3.7,10.0,"4914 Yonge Street, North York",Greek,40.0,North York
+McEwan,QUICK BITES,3.2,5.0,"Shops at Don Mills, 38 Karl Fraser Road, North York M3C 0H7","Deli, Desserts",15.0,North York
+Gol,QUICK BITES,2.4,9.0,"5 Spring Garden Avenue, North York M2N 3G1",Iranian,35.0,North York
+Mom's Chicken,QUICK BITES,3.2,4.0,"865 York Mills Road, Inside Galleria Supermarket, North York M3B 1Y6","Fast Food, Korean, Asian",25.0,North York
+Pantry Foods,CAFÉ,3.4,11.0,"3456 Bathurst Street, North York M6A 2C4",Cafe,35.0,North York
+Tostadas Grill,QUICK BITES,3.7,10.0,"2892 Dufferin Street, North York M6B 3S6","Venezuelan, Latin American",40.0,North York
+Nanashake,DESSERT PARLOR,3.5,6.0,"4750 Yonge St Unit 134, Toronto M2N 0J6","Ice Cream, Frozen Yogurt",10.0,North York
+Yogurty's,DESSERT PARLOR,3.2,17.0,"4922 Yonge Street, North York","Frozen Yogurt, Desserts",15.0,North York
+Wolfie's Delicatessen Specialties,QUICK BITES,3.5,10.0,"670 Sheppard Avenue West, North York M3H 2S4",Deli,25.0,North York
+Whole Foods Market,CAFÉ,3.2,7.0,"4771 Yonge Street, North York M2N 5M5",Healthy Food,20.0,North York
+Dr. Laffa Restaurant,CASUAL DINING,3.0,7.0,"3027 Bathurst Street, North York M6B 3B5","Middle Eastern, Mediterranean",25.0,North York
+Guacamole Mexican Grill,CASUAL DINING,3.7,9.0,"8 Westmore Drive, Toronto, Ontario M9V 1C3 M9V 1C3",Mexican,30.0,North York
+Chalkers Pub Billiards & Bistro,BAR,3.3,14.0,"247 Marlee Avenue, Toronto M6B 1N3",Bar Food,45.0,North York
+Hero Certified Burgers,QUICK BITES,3.2,18.0,"2540 Bayview Avenue, North York","Burger, Sandwich",25.0,North York
+Express Pizza & Grill,QUICK BITES,3.6,16.0,"Finchurst Plaza, 4917 Bathurst Street, North York M2R 1X8","Pizza, Middle Eastern",20.0,North York
+Ten Ren's Tea,BEVERAGE SHOP,2.8,14.0,"5095 Yonge Street, Toronto M2N 6Z6","Bubble Tea, Tea, Beverages",15.0,North York
+The Spicy & Delicious,CASUAL DINING,2.8,10.0,"4664 Yonge Street, North York M2N 5M1","Sichuan, Chinese, Asian",30.0,North York
+La Rosa Chilena,CASUAL DINING,3.5,10.0,"760 Wilson Avenue, North York M3K 1E2",Latin American,25.0,North York
+Koyoi,BAR,3.6,12.0,"5347 Yonge Street, North York M2N 5R5","Japanese, Asian",60.0,North York
+Malado Sushi,CASUAL DINING,3.6,11.0,"Finch Main Plaza, 2437 Finch Avenue W, Unit 2, North York M9M 2E7","Sushi, Japanese, Korean, Asian",35.0,North York
+Mr. Greek,CASUAL DINING,3.2,18.0,"1000 Finch Avenue West, North York","Greek, Mediterranean",45.0,North York
+Lindt,DESSERT PARLOR,3.4,5.0,"Shops at Don Mills, 1090 Don Mills Road, North York M3C 3R6",Desserts,25.0,North York
+3.4,Other,,,North York,Swedish,,North York
+Soul Cafe,CAFÉ,3.2,5.0,"23 Drewry Avenue, North York M2M 2E4","Cafe, Korean, Asian",25.0,North York
+Harvey's,QUICK BITES,3.8,17.0,1791 Avenue Rd North York Ontario M5M 3Z3 M5M 3Z3,"Fast Food, Canadian, Burger",25.0,North York
+Happy Bagel,BAKERY,3.8,10.0,"4949 Bathurst Street, North York","Bakery, Breakfast",15.0,North York
+Pita Lite,QUICK BITES,3.4,12.0,"4910 Yonge Street, North York",Mediterranean,25.0,North York
+Su & Shi,QUICK BITES,3.0,10.0,"Yorkdale Mall, 3401 Dufferin Street, North York M6A 2T9","Sushi, Japanese, Asian, Fast Food",25.0,North York
+Starbucks,CAFÉ,3.7,5.0,"5650 Yonge Street, Unit 101",Cafe,20.0,North York
+CASUAL DINING,Other,,,2.8,"Dim Sum, Cantonese, Chinese, Asian",60.0,North York
+Cheers Chicken & Beers,CASUAL DINING,3.3,7.0,"19 Finch Avenue West, North York M2N",Korean,40.0,North York
+Amaya Express,QUICK BITES,2.8,16.0,"Yorkdale Mall, Food Court, 3401 Dufferin Street, North York",Indian,40.0,North York
+Nara Sushi,CASUAL DINING,3.8,20.0,"1931 Avenue Road, North York M5M 4A1","Sushi, Japanese, Asian",30.0,North York
+Pho Xe Lua,CASUAL DINING,2.9,10.0,"Finch & Leslie Square, 157 Ravel Road, North York",Vietnamese,30.0,North York
+Burger Hut,QUICK BITES,3.2,20.0,"804 Sheppard Avenue East, North York M2K 1C2",Fast Food,25.0,North York
+Mac's Sushi,QUICK BITES,3.1,9.0,"Yorkdale Mall, 3401 Dufferin Street, North York","Sushi, Japanese",25.0,North York
+BB Cafe,CAFÉ,3.2,13.0,"6095 Yonge Street, North York M2M 3W6","Cafe, Iranian",20.0,North York
+La Traviata,CASUAL DINING,3.7,12.0,"852 Wilson Avenue, North York",Italian,50.0,North York
+Pizza By The Slice,QUICK BITES,3.7,14.0,"861 York Mills Road, North York M3B 1Y2","Pizza, Fast Food",25.0,North York
+Georgia Restaurant,CASUAL DINING,3.3,14.0,"1118 Finch Avenue West, Unit 2, North York","Georgian, Eastern European",60.0,North York
+The 5TH Taste Sushi Restaurant,CASUAL DINING,,,"362 Wilson Avenue , North York M3H 1S9",Japanese,30.0,North York
+Satay Sate,QUICK BITES,3.5,7.0,"5025 Yonge Street, North York M2N 5P2",Indonesian,20.0,North York
+Buzz Buzz Pizza & Restaurant,CASUAL DINING,3.6,15.0,"822 Wilson Avenue, North York M3K 1E6","Pizza, Italian",30.0,North York
+Harbour Fish & Chips,QUICK BITES,3.7,7.0,"Peanut Plaza, 3034 Don Mills Road, North York",Fish and Chips,20.0,North York
+Taste of Shawarma,QUICK BITES,2.8,12.0,"2488 Dufferin Street, North York",Middle Eastern,20.0,North York
+Speducci Mercatto,QUICK BITES,3.7,6.0,"46 Milford Avenue, North York M6M 2V8","Italian, Sandwich",25.0,North York
+La Risata,CASUAL DINING,3.6,10.0,"2777 Steeles Avenue West, North York M3J 3K5",Italian,60.0,North York
+Tabule,CASUAL DINING,3.1,8.0,"2901, Bayview Mews Lane, Unit 27, North York, ON M2K 2S3",Middle Eastern,55.0,North York
+Tea Monkey Cafe,CAFÉ,3.4,4.0,"1800 Sheppard Ave East, Toronto","Tea, Sandwich",10.0,North York
+Red Square Restaurant,CASUAL DINING,3.5,14.0,"1027 Finch Avenue West, Unit 7, North York M3J 2C7","Eastern European, Russian",125.0,North York
+Umami Sushi,CASUAL DINING,3.6,14.0,"3459 Bathurst Street, North York M6A 2C5","Sushi, Japanese, Asian",30.0,North York
+Downsview Restaurant,CASUAL DINING,3.4,7.0,"2865 Keele Street, North York","Breakfast, Diner, American",30.0,North York
+Pizza Cafe,QUICK BITES,3.6,12.0,"3774 Bathurst Street, North York M3H 3M6","Pizza, Italian",25.0,North York
+Hot Star Large Fried Chicken,QUICK BITES,,,"5525 Yonge St, North York M2N 7L3",Taiwanese,25.0,North York
+Pizzaiolo,QUICK BITES,3.1,12.0,"Liberty Plaza, 865 York Mills Road, North York","Pizza, Fast Food",30.0,North York
+Pusateri's,QUICK BITES,2.9,7.0,"Bayview Village Shopping Centre, Unit E8, 2901 Bayview Avenue, North York M2N 5Z7",Deli,25.0,North York
+Naniwa-Taro,QUICK BITES,3.7,4.0,"7 Byng Avenue, North York M2N 0E6",Japanese,15.0,North York
+Chopstixpress,CASUAL DINING,3.9,14.0,"2270 Keele Street, North York M6M 3Y9","Chinese, Asian",35.0,North York
+Noor Fine Food,QUICK BITES,3.3,5.0,"1 High Meadow Place, Unit 9, North York","Mediterranean, Middle Eastern",25.0,North York
+Ruelo Patisserie,DESSERT PARLOR,2.9,7.0,"463 McNicoll Avenue, Toronto M2H 2C9","Desserts, Cafe",25.0,North York
+Cafe Bene,CAFÉ,2.8,4.0,"5519 Yonge Street, Second Floor, North York","Cafe, Desserts",25.0,North York
+Thai Express Elite,QUICK BITES,3.4,13.0,"Bayview Village Shopping Centre, Unit A15, 2901 Bayview Avenue, North York M2K 1E6",Thai,25.0,North York
+Burrito Place,QUICK BITES,3.1,11.0,"5653 Yonge Street, North York M2M 3T2",Mexican,30.0,North York
+Elias Restaurant,CASUAL DINING,3.4,12.0,"3310 Keele Street, North York","Caribbean, Breakfast",25.0,North York
+Mirra's Place,CASUAL DINING,3.6,9.0,"3157 Dufferin Street, North York M6A 2S9",Italian,45.0,North York
+Moldova,CASUAL DINING,3.3,10.0,"5000 Dufferin Street, North York M3H 5T5",Moldovan,50.0,North York
+L'arte Del Caffe,CAFÉ,,,"1262 Don Mills Road, North York M3B 2W6","Cafe, Italian",25.0,North York
+Lacvien,CASUAL DINING,3.3,10.0,"141 CartWright Avenue, North York M6A 1V4",Vietnamese,35.0,North York
+Elite Grande,CASUAL DINING,3.7,5.0,"Units 7-10, 1126 Finch Avenue West, North York M3J 3J6","Russian, European",45.0,North York
+The Underground,CASUAL DINING,3.1,10.0,"York University, Student Centre, 4700 Keele Street, North York M3K 1P3","Bar Food, American",40.0,North York
+Sweets From The Earth,BAKERY,,,218 Canarctic Drive M3J 2P4,"Bakery, Desserts",,North York
+Bread & Roses,CAFÉ,3.5,5.0,"Bayview Village Shopping Centre, Unit D11, 2901 Bayview Avenue, North York","Bakery, Cafe",20.0,North York
+The Captain's Boil,CASUAL DINING,3.0,5.0,"865 York Mills Road, Unit 10A, Toronto M3B 1Y6",Seafood,25.0,North York
+Bulgogee House,CASUAL DINING,,,"39 Spring Garden Avenue, North York M2N 3G1","Korean, Asian",30.0,North York
+The Burger's Priest,CASUAL DINING,3.4,8.0,"3280 Dufferin Street, Toronto, North York",Burger,30.0,North York
+Pasta Co.,QUICK BITES,3.0,7.0,"1140 Sheppard Avenue West, North York M3K 2A2","Italian, Sandwich",35.0,North York
+Pupusa Loka,CASUAL DINING,3.2,11.0,"887 Wilson Avenue, North York M3K 1E6",Latin American,35.0,North York
+Urban Smoke Fusion BBQ,Other,3.4,7.0,Location Varies,BBQ,25.0,North York
+Living Well,QUICK BITES,3.5,10.0,"Jane Finch Mall, Unit C19, 1911 Finch Avenue West, North York M3N 2V2","Caribbean, Fast Food",25.0,North York
+Viet House,CASUAL DINING,3.1,6.0,"3200 Dufferin Street, North York","Vietnamese, Asian",25.0,North York
+McDonald's,QUICK BITES,3.0,9.0,"747 Don Mills Road, North York",Fast Food,25.0,North York
+The Currach,BAR,3.4,9.0,"4916 Yonge Street, North York M2N 5N5","Bar Food, Irish",80.0,North York
+CJ Burgers & Pizza,QUICK BITES,3.8,7.0,"1291A Wilson Avenue, North York M3M 3C6","Burger, Pizza, Fast Food",30.0,North York
+Mary Brown's,QUICK BITES,3.5,7.0,"3199 Dufferin Street, North York",Fast Food,30.0,North York
+Mulan,CASUAL DINING,3.8,10.0,"747 Don Mills Road, North York M3C 1T2","Chinese, Asian",25.0,North York
+Cafe Saggio,QUICK BITES,3.2,7.0,"4069 Chesswood Drive, North York","Deli, Cafe",15.0,North York
+Cinnabon,DESSERT PARLOR,3.6,6.0,"Fairview Mall, 1800 Sheppard Avenue East, North York",Desserts,15.0,North York
+Pizza Hut,QUICK BITES,2.7,15.0,"4936 Yonge Street, North York","Pizza, Fast Food",25.0,North York
+Sakura,QUICK BITES,3.6,11.0,"York University, York Lanes, 4700 Keele Street, North York M3J 1P3","Fast Food, Japanese, Korean, Asian",25.0,North York
+La Prep,CAFÉ,3.5,10.0,"York University, York Lanes, 4700 Keele Street, North York",Cafe,25.0,North York
+Venarello's Pasticceria & Cafe,CAFÉ,,,"2896 Dufferin Street, North York",Cafe,15.0,North York
+Iqbal Kebab & Sweet Centre,CASUAL DINING,2.9,6.0,105 Parkway Forest Drive Unit 5 M4K 1V5,"Indian, Pakistani",30.0,North York
+Mastro's Ristorante,CASUAL DINING,3.4,9.0,"890 Wilson Avenue, North York M3K 1E7",Italian,75.0,North York
+Grodzinski Bakery,BAKERY,3.5,9.0,"3437 Bathurst Street, Toronto M6A 2C3",Bakery,25.0,North York
+Sansotei Ramen,CASUAL DINING,3.4,7.0,"13 Byng Avenue, North York M2N 5R7","Ramen, Japanese",30.0,North York
+Masala Cafe,QUICK BITES,2.9,7.0,"59 Four Winds Drive, North York M3J 1K7","Sri Lankan, South Indian",20.0,North York
+TSUJIRI,DESSERT PARLOR,3.2,5.0,"4909 Yonge St, North York, ON M2N 5N4",Ice Cream,15.0,North York
+Kabalen,QUICK BITES,3.2,9.0,"3778 Bathurst Street, North York M3H 3M6",Filipino,30.0,North York
+Alberto's Trattoria & Sports Bar,CASUAL DINING,3.6,10.0,"Finchdale Plaza, 2560 Finch Avenue West, North York M9M 2G3",Italian,70.0,North York
+Hoops Sports Bar & Grill,BAR,3.1,9.0,"4207 Keele Street, North York M3J 3T8","Bar Food, Burger",65.0,North York
+Modo Mio,CASUAL DINING,,,"1923 Avenue Road, North York M5M 4A2",Italian,40.0,North York
+Crack Me Up,CASUAL DINING,3.0,10.0,"Parkway Mall, Inside Mall, 85 Ellesmere Road, North York M1R 4C1",American,30.0,North York
+O Patio Cherrasqueira,CASUAL DINING,,,"2255 Keele Street, Toronto",Portuguese,50.0,North York
+Roll.com,QUICK BITES,3.2,6.0,"5 Northtown Way, Unit 10, North York M2N 7A1",Korean,15.0,North York
+In & Out Burrito,QUICK BITES,3.2,10.0,"1077 Wilson Avenue, Unit 8, North York M3K 1G7",Mexican,25.0,North York
+Freshii,QUICK BITES,3.3,9.0,"861 York Mills Road, North York",Healthy Food,30.0,North York
+La Pasiva,CASUAL DINING,3.9,8.0,"896 Wilson Ave, North York",Latin American,13.0,North York
+The Flame Restaurant & Tavern,QUICK BITES,3.7,7.0,"1387 Lawrence Ave W, Toronto M6L 1A4","Canadian, Fast Food",25.0,North York
+Second Cup Coffee Co.,CAFÉ,2.9,9.0,5095 Yonge Street,"Cafe, Coffee and Tea, Frozen Yogurt",10.0,North York
+Shoeless Joe's,BAR,3.0,10.0,"3200 Dufferin Street, North York","American, Bar Food",60.0,North York
+Trio - Novotel North York Hotel,CASUAL DINING,2.7,8.0,"3 Park Home Ave, Toronto M2N6L3","Grill, Bar Food",60.0,North York
+Sik Korea,CASUAL DINING,2.9,5.0,"7 Spring Garden Avenue, North York M2N 3G1",Korean,40.0,North York
+Orange Snail,CASUAL DINING,3.3,7.0,"York University, Stong College, 4700 Keele Street, North York","Caribbean, Sandwich",35.0,North York
+China China Express,QUICK BITES,3.0,11.0,"2836 Victoria Park Avenue, North York M2J 4A8","Chinese, Asian",30.0,North York
+Mamma's Pizza,QUICK BITES,3.0,10.0,"808 York Mills Road, North York","Pizza, Fast Food",25.0,North York
+Dolce Camerata,CAFÉ,3.4,8.0,"Centerpoint Mall, Ground Floor, 6464 Yonge Street, North York M2M 3X4","Cafe, Desserts",35.0,North York
+Isaac's Bakery,BAKERY,3.6,5.0,"3390 Bathurst Street, North York M6A 2B9",Bakery,10.0,North York
+Dairy Queen (Treat),DESSERT PARLOR,3.5,8.0,5051-5061 Yonge Street Unit A01003a,"Ice Cream, Desserts, Fast Food",20.0,North York
+HCafe Japanese Cafe,CASUAL DINING,,,4750 Yonge Street M2N 5M6,Japanese,25.0,North York
+Golden Light Buffet,CASUAL DINING,2.7,5.0,"3560 Victoria Park Avenue, North York M2H 3S3","Chinese, Asian",50.0,North York
+Fit For Life,Other,2.6,6.0,"Fairview Mall, 1800 Sheppard Avenue East, North York M2J 5A7","Healthy Food, Fast Food",25.0,North York
+China Court,CASUAL DINING,3.6,6.0,"554 Sheppard Avenue West, North York M3H 2R9","Chinese, Asian",30.0,North York
+Falafel Hut,QUICK BITES,2.7,7.0,"York University, York Lanes, 4700 Keele Street, North York M3K 1P3",Middle Eastern,15.0,North York
+The New Caribbean Queen,QUICK BITES,3.3,6.0,"3408 Weston Road, North York M9M 2W1",Jamaican,25.0,North York
+Nanalyn Jerk,CASUAL DINING,2.8,6.0,"564 Wilson Heights Boulevard, North York M3H 2T5",Caribbean,40.0,North York
+Pho Bo To,CASUAL DINING,3.5,8.0,"1635 Lawrence Avenue West, North York M6L 3C9","Vietnamese, Asian",25.0,North York
+"Bathurst Street, North York",Other,,,CUISINES:,American,13.0,North York
+A & W,QUICK BITES,3.0,4.0,"Yorkdale Mall, Food Court, 3401 Dufferin Street, North York","Burger, Fast Food",25.0,North York
+Poke Eats,QUICK BITES,,,"4750 Yonge Street, Unit 118, Toronto M2N 5M6","Hawaiian, Seafood",20.0,North York
+Teta’s Mediterranean Kitchen & Bakery,CASUAL DINING,,,"4610 Dufferin Street, Suite 19B, Toronto M3H 5S4","Lebanese, Bakery, Sandwich",25.0,North York
+Pumpernickel's,QUICK BITES,2.7,5.0,"North American Centre, Food Court, 5700 Yonge Street , North York","Deli, Fast Food",25.0,North York
+Tim Hortons,CAFÉ,,,"4986 Yonge Street, North York","American, Donuts, Desserts",20.0,North York
+California Thai,QUICK BITES,3.1,4.0,"North York City Centre, 5150 Yonge Street, North York","Fast Food, Thai, Asian",25.0,North York
+Vivo Pizza + Pasta,CASUAL DINING,3.4,4.0,"75 Billy Bishop Way, North York, ON M3K 0C2",Italian,40.0,North York
+Mak European Delicatessens,QUICK BITES,3.4,5.0,"1335 Lawrence Avenue, North York M3A 1C6","Deli, European",25.0,North York
+Pagoda,QUICK BITES,3.3,5.0,"York University, Student Centre, 4700 Keele Street, North York M6M 4A5","Chinese, Asian, Fast Food",20.0,North York
+Primary Taste Yunan Noodle,CASUAL DINING,,,"Finch & Leslie Square, 109A Ravel Road, North York M2H 1T2","Yunnan, Chinese, Asian",25.0,North York
+Shanghai Korean Chinese Restaurant,CASUAL DINING,3.3,5.0,"5471 Yonge Street, North York M2N 5S1","Chinese, Korean, Asian",35.0,North York
+Baretto Caffe,CAFÉ,,,"1262 Don Mills Road, Unit 106, Toronto M3B 2W7","Cafe, Italian, Coffee and Tea",15.0,North York
+Laura Secord,DESSERT PARLOR,,,"Fairview Mall, 1800 Sheppard Avenue East, North York",Desserts,15.0,North York
+Road Grill,Other,3.4,7.0,Location Varies,"Grill, Burger",25.0,North York
+Saryo Cafe,CAFÉ,3.2,5.0,"5051 Yonge St, North York, ON M2N 5P2",Cafe,20.0,North York
+Panago,QUICK BITES,3.3,9.0,"1852 Avenue Road, North York","Pizza, Fast Food",30.0,North York
+Beiruti Restaurant,CASUAL DINING,,,"155 Consumers Road, North York, Toronto, Toronto",Lebanese,,North York
+Delimark Cafe's,CAFÉ,3.1,8.0,"895 Don Mills Road, Toronto",Cafe,15.0,North York
+Pearl Lounge Bar & Grill,CASUAL DINING,3.8,8.0,"4664 Yonge Street, North York M2N 5M1",Chinese,15.0,North York
+Berries and Blooms,QUICK BITES,3.5,9.0,"York University, York Lanes 4700 Keele Street, North York M3J 1P3",Deli,20.0,North York
+Golden Star Restaurant,CASUAL DINING,,,"3434 Weston Road, North York M9M 2W1","Chinese, Guyanese, Caribbean",30.0,North York
+Dragon House,CASUAL DINING,2.9,7.0,"243 Sheppard Avenue East, North York M2N 3A8","Chinese, Asian",35.0,North York
+Mama's Tofu,CASUAL DINING,,,"1635 Lawrence Avenue West, North York","Vietnamese, Asian",25.0,North York
+Lee Town,CASUAL DINING,2.6,6.0,"4907 Yonge Street, North York M2N 5N4","Dim Sum, Cantonese, Chinese, Asian",35.0,North York
+Cucina di Paisano,CASUAL DINING,,,"865 York Mills Road, North York M3B 1Y6","Italian, Mediterranean",50.0,North York
+Saigon Express,CASUAL DINING,3.2,8.0,"Peanut Plaza, 3070 Don Mills Road, North York","Vietnamese, Thai, Asian",20.0,North York
+Big Smoke Burger,QUICK BITES,2.8,8.0,"Yorkdale Mall, Food Court, 3401 Dufferin Street, North York","Burger, Fast Food",25.0,North York
+Popeyes,QUICK BITES,,,"865 York Mills Road, North York, GTA",Fast Food,25.0,North York
+"BAKERY,CAFÉ",Other,,,"Bathurst Street, North York","Bakery, Cafe, Desserts",10.0,North York
+Kum Kang San,CASUAL DINING,3.2,8.0,"Unit 124-126, 5050 Dufferin Street, North York M3H 5T5","Japanese, Korean, Asian",60.0,North York
+Charcoal and Salt,CASUAL DINING,2.7,5.0,"5523 Yonge Street, North York","BBQ, Korean, Asian",40.0,North York
+Hell's Chicken,CASUAL DINING,3.1,6.0,"6080 Yonge Street, North York M2M 3W5","Korean, Asian",40.0,North York
+Lily Garden,CASUAL DINING,2.9,7.0,"361 Wilson Avenue, Toronto","Chinese, Asian",25.0,North York
+Sandra's,CASUAL DINING,3.7,7.0,"2899 Steeles Avenue West, Unit 12, North York M3J 3A1",Italian,40.0,North York
+New York Fries,QUICK BITES,,,"1800 Sheppard Ave E, Unit F003, North York M2H 4P8",Fast Food,15.0,North York
+Pizza Pizza,QUICK BITES,2.7,4.0,"624 Sheppard Avenue West, North York","Pizza, Fast Food",25.0,North York
+Goa Indian Farm Kitchen,CASUAL DINING,2.8,5.0,"2901 Bayview Avenue, North York, ON M2K 1E6",Indian,25.0,North York
+Maiz Latin Food,CASUAL DINING,3.1,4.0,"3220 Yonge St, North York, Toronto M4N 2L2",Latin American,40.0,North York
+Shopsy's,CASUAL DINING,2.7,6.0,"York University, York Lanes, 4700 Keele Street, North York M3J 1P3",Bar Food,65.0,North York
+Caribbean Queen,QUICK BITES,3.2,6.0,"Fairview Mall, 1800 Sheppard Avenue East, North York",Caribbean,20.0,North York
+El Greeko,QUICK BITES,3.4,7.0,"Sheridan Mall, Food Court, 1700 Wilson Avenue, North York M3L 1A6","Fast Food, Greek",20.0,North York
+Three Guy's BBQ,CASUAL DINING,,,"5649 Yonge Street, North York","BBQ, Northern Chinese, Chinese, Asian",40.0,North York
+Nguyen Huong,QUICK BITES,3.8,4.0,"1625 Wilson Avenue, North York M3L 1A5",Vietnamese,10.0,North York
+I-Migoo,DESSERT PARLOR,,,"5418 Yonge street, Unit 5, North York M2N","Bubble Tea, Japanese",20.0,North York
+Tasty Pizza & More,QUICK BITES,3.7,6.0,"360 Hullmar Drive, North York","Pizza, Fast Food",15.0,North York
+George's Tastee Bread & Patties,QUICK BITES,3.3,4.0,"3913 Don Mills Road, North York","Bakery, Caribbean",20.0,North York
+Domino's,QUICK BITES,3.7,7.0,"820 Sheppard Avenue West, North York","Fast Food, Pizza",25.0,North York
+Red Mango,CASUAL DINING,,,"5 Lesmill Road, North York M3B 2T3","Thai, Chinese, Asian",30.0,North York
+Happy Lemon,CAFÉ,,,"5425 Yonge Street, North York M2N 5R6","Cafe, Bubble Tea",15.0,North York
+Baba Ganoush,CASUAL DINING,,,"1150 Sheppard Avenue West, North York M3K 2B5","Middle Eastern, Mediterranean",35.0,North York
+What A Bagel,CAFÉ,3.3,4.0,"808 York Mills Road, North York","Cafe, Bakery",20.0,North York
+Euro Shawarma,QUICK BITES,3.5,6.0,"2706 Keele Street, North York M3M 3G5","Mediterranean, Middle Eastern, Fast Food",35.0,North York
+Maker Pizza,QUICK BITES,,,"1537 Avenue Rd, North York, ON M5M 3X3, Toronto",Pizza,20.0,North York
+Pizza Nova,QUICK BITES,3.5,5.0,"5585 Yonge Street, North York","Pizza, Fast Food",30.0,North York
+Chic Xi,CASUAL DINING,,,"3471 Yonge St, North York, ON M4N 2N3, Canada",Chinese,30.0,North York
+Booster Juice,BEVERAGE SHOP,3.7,7.0,"808 York Mills Road, North York","Juices, Beverages, Healthy Food",20.0,North York
+Liu Yang Steamed Dishes,CASUAL DINING,,,"25 Spring Garden, North York",Chinese,35.0,North York
+De Karibbean King's Eatery,QUICK BITES,3.4,5.0,"2300 Finch Avenue West, North York","Guyanese, Caribbean, West Indian",25.0,North York
+Lucky Wok Restaurant,CASUAL DINING,3.3,4.0,"728 Wilson Avenue, North York M3K 1E2","Chinese, Asian",30.0,North York
+Kokoya,BAR,,,"5515 Yonge Street, North York M2N 5S3","Bar Food, Korean, Asian",60.0,North York
+The Bean Sprout,QUICK BITES,3.3,6.0,"1448 Lawrence Avenue, North York M4A 2S8","Chinese, Asian",45.0,North York
+Big Smoke Burger,CASUAL DINING,,,"799 York Mills Road, Toronto M3B 1X6",Burger,25.0,North York
+Takimi,CASUAL DINING,3.1,8.0,"6233 Bathurst Street, North York M2R 2A5","Sushi, Japanese, Asian",40.0,North York
+Magic Noodle,CASUAL DINING,,,"5453 Yonge Street, Toronto M2N 5S1",Chinese,25.0,North York
+Chaihana,CASUAL DINING,3.2,4.0,"1000 Finch Avenue West, North York",Central Asian,30.0,North York
+Jimmy The Greek,QUICK BITES,,,"Fairview Mall, 1800 Sheppard Avenue East, North York",Greek,25.0,North York
+Tin Tin Congee,CASUAL DINING,3.2,4.0,"4205 Keele Street, Unit 7, North York M3J 3T8","Chinese, Asian",25.0,North York
+Wendy's,FAST FOOD,,,5095 Yonge Street,"Fast Food, Burger",20.0,North York
+Beaver Tails,DESSERT PARLOR,,,"1101 Horseshoe Valley Road, Barrie L4M 4Y8",Desserts,15.0,North York
+Pita Land,QUICK BITES,3.4,5.0,"4901 Steeles Avenue West, North York",Middle Eastern,30.0,North York
+Meet Fresh Toronto,CASUAL DINING,,,"5315 Yonge Street, North York M2N 5R4",Taiwanese,25.0,North York
+Koza Kebab & Grill House,QUICK BITES,,,"Centerpoint Mall, Ground Floor, 6464 Yonge Street, Unit 164A, North York M2M 3X4","Kebab, Turkish",35.0,North York
+Starbucks,CAFÉ,,,6355 Yonge Street M2M 3X8,Cafe,,North York
+Canephora,CAFÉ,2.9,4.0,"222 Finch Avenue West, Unit 101, North York M2R 1M6","Cafe, Bakery",25.0,North York
+Treats,CAFÉ,,,"York University, Student Centre, 4700 Keele Street, North York M3J 1P3","Cafe, Bakery",15.0,North York
+"Honey Bear, Hungarian Delicatessen",QUICK BITES,3.4,6.0,"249 Sheppard Avenue East, North York",Hungarian,,North York
+Godiva Chocolatier,DESSERT PARLOR,,,"Fairview Mall, 1800 Sheppard Avenue East, North York",Desserts,25.0,North York
+Yogen Früz,DESSERT PARLOR,,,"Fairview Mall, 1800 Sheppard Avenue East, North York","Frozen Yogurt, Desserts",15.0,North York
+Rustic Bakery,CAFÉ,3.8,4.0,"318 Rustic Road, North York M6L 1W6","Cafe, Bakery",25.0,North York
+Tasty Hut,CASUAL DINING,,,"5463 Yonge Street, North York M2N 5S1","Sichuan, Chinese, Asian",30.0,North York
+Parrot Nest,CASUAL DINING,3.1,5.0,"1931 Sheppard Avenue West, North York M3L 1Y8",Caribbean,30.0,North York
+Bazille,CASUAL DINING,,,3401 Dufferin Street Unit 500 M6A 2T9,"French, Canadian",25.0,North York
+Canaan Cake Centre,BAKERY,,,"11 Spring Garden Avenue, North York","Bakery, Korean",15.0,North York
+Tunup Islands,QUICK BITES,,,"1542 Jane Street, Toronto","Caribbean, West Indian, Jamaican",30.0,North York
+Panciteria,CASUAL DINING,,,"3022 Bathurst Street, North York M6B 3B6",Filipino,30.0,North York
+Hansik Korea,CASUAL DINING,,,"1101 Finch Avenue West, Unit 4-5, North York M3J 2C9","Korean, Asian",40.0,North York
+Pita Pavillion,QUICK BITES,3.7,6.0,"Lawrence Square, 700 Lawrence Avenue, North York M6A 3B4","Mediterranean, Fast Food",25.0,North York
+Sun Star Chinese Cuisine,CASUAL DINING,,,"636 Finch Avenue East, North York M2K 2E6","Chinese, Asian",40.0,North York
+KFC,QUICK BITES,,,"2774 Victoria Park Avenue, North York",Fast Food,25.0,North York
+La Paloma,DESSERT PARLOR,3.1,5.0,"Yorkdale Mall, Food Court, 3401 Dufferin Street, North York M6A 2T9","Desserts, Ice Cream",25.0,North York
+Yunshang Rice Noodles,FAST CASUAL,,,"5285 Yonge Street, North York, ON M2N 5R3",Chinese,20.0,North York
+Mr. Gao's Garden,QUICK BITES,,,"Peanut Plaza, 3040 Don Mills Road, North York","Chinese, Asian",25.0,North York
+Marcello's,QUICK BITES,,,"Yonge Corporate Centre, 4100 Yonge Street, Unit ACY02, North York M2P 2B5",Deli,20.0,North York
+Manchu Wok,QUICK BITES,,,"Fairview Mall, Food Court, 1800 Sheppard Avenue East, North York","Fast Food, Chinese, Asian",25.0,North York
+Seasons At The Prince - The Westin Prince Toronto,CASUAL DINING,2.8,5.0,"The Westin Prince Toronto, 900 York Mills Road, North York M3B 3H2","American, Breakfast",100.0,North York
+Taylor's Landing,CASUAL DINING,3.2,6.0,"10 O'Neill Road, Don Mills M3C 0H1","Grill, Canadian",30.0,North York
+La Cubanita,Other,,,"Milvan Shopping Centre, Food Court, 9 Milvan Drive, North York M9L 1Y9","Cuban, Latin American",20.0,North York
+Pho Huong Trang,QUICK BITES,3.4,4.0,"3370 Keele Street, North York M3M 2Y9",Vietnamese,25.0,North York
+Yorkland Café,CAFÉ,3.4,4.0,"200 Yorkland Blvd, North York","Cafe, Sandwich",13.0,North York
+Meat Point,CASUAL DINING,,,"1021 Wilson Avenue, North York, ON M3K 1G6",Turkish,25.0,North York
+Mainsha Restaurant,QUICK BITES,3.1,4.0,"Lawrence Square, 700 Lawrence Avenue West, North York",Caribbean,15.0,North York
+Don Franchesko,QUICK BITES,3.3,7.0,"1048 Finch Avenue West, North York M3J 2P7",Italian,20.0,North York
+Fisherman's Corner,QUICK BITES,,,"3277 Dufferin Street, North York M6A 2T4","Fish and Chips, Fast Food",25.0,North York
+Seara,BAKERY,,,"2277 Keele Street, North York M6M","Bakery, Cafe",20.0,North York
+Amazing Donuts,DESSERT PARLOR,2.8,6.0,"3772 Bathurst Street, North York M3H 3M6",Desserts,10.0,North York
+Sinners Burger,QUICK BITES,,,"2777 Steeles Avenue West, North York M3J 3K5",Burger,,North York
+Bourbon St. Grill,QUICK BITES,2.9,5.0,"Fairview Mall, 1800 Sheppard Avenue East, North York","Cajun, Southern",20.0,North York
+Slam Grill Restaurant & Bar,CASUAL DINING,3.2,5.0,"3685 Keele Street, North York M3J 3H6","American, Breakfast",35.0,North York
+Kavkaz,CASUAL DINING,,,"1881 Steeles Avenue West, North York M3H 5Y4",Middle Eastern,55.0,North York
+Timothy's,CAFÉ,3.5,4.0,"North American Centre, 5650 Yonge Street, North York",Cafe,25.0,North York
+Piazza Manna,QUICK BITES,,,"5650 Yonge St., North York, Ontario","Pizza, Fast Food, Italian",20.0,North York
+Baskin Robbins,DESSERT PARLOR,3.2,6.0,"5925 Leslie Street, North York","Ice Cream, Desserts",15.0,North York
+Pinoy Hub,QUICK BITES,,,"Centerpoint Mall, 6464 Yonge Street, North York",Filipino,25.0,North York
+Banh Mi Nhu Lan,QUICK BITES,,,"Norfinch Shopping Centre, 1949 Finch Avenue West, North York M3N 2V3","Fast Food, Vietnamese",15.0,North York
+New Greatime Corp,CASUAL DINING,,,"3875 Don Mills Road, North York","Northern Chinese, Chinese, Sichuan, Asian",35.0,North York
+Parcheggio,CASUAL DINING,,,"South Parking Lot, 2901 Bayview Ave #300, North York, ON M2K 2S3",Italian,35.0,North York
+Teriyaki Experience,QUICK BITES,3.3,5.0,861 York Mills Road,Japanese,20.0,North York
+Wilson's Haus of Lechon,CASUAL DINING,,,"365 Wilson Avenue, Toronto",Filipino,30.0,North York
+Miyako Sushi,CASUAL DINING,3.2,5.0,"572 Marlee Ave, Toronto M6B 3J3","Sushi, Japanese, Asian",40.0,North York
+Bio Cafe,CASUAL DINING,,,"3310 Yonge Street, North York M4N 2M4","Korean, Healthy Food, Asian",30.0,North York
+Mountain View Coffee,CAFÉ,3.7,4.0,"400 Steeprock Drive, North York M3J 2X1",Coffee and Tea,13.0,North York
+The Pit Stop,CASUAL DINING,3.4,4.0,"2300 Keele Street, North York M6M 3Z8","American, Breakfast",35.0,North York
+Cucinetta,QUICK BITES,,,"York University, York Lanes, 4700 Keele Street, North York M3K 1P3",Italian,30.0,North York
+Thairoomgrand,CASUAL DINING,,,"Unit 9, 861, Yorkmills Road, ON, M3B 1Y2, North York, Toronto","Thai, Beverages",,North York
+FV Foods,QUICK BITES,2.8,4.0,"280 Wilson Avenue, North York M3H 1S8","Filipino, Bakery",15.0,North York
+Caribbean Cuisine Delights,QUICK BITES,3.6,4.0,"Yorkgate Mall, Food Court, Unit F1, 1 Yorkgate Boulevard, North York M3N 2K2",Caribbean,25.0,North York
+Plaza Latina Food Court,Other,3.5,4.0,"9, Milvan Dr, Toronto M9L1Y9","Cuban, Latin American",13.0,North York
+Vietnoms,CASUAL DINING,,,"243 Sheppard Avenue East, Toronto",Vietnamese,40.0,North York
+A La Turk,CASUAL DINING,,,"3443 Yonge St, North York, Toronto",Turkish,55.0,North York
+Shahi The Royal Roti,CASUAL DINING,,,349 Marlee Avenue M6B 3H9,Indian,,North York
+The Great Canadian Bagel,QUICK BITES,3.0,4.0,"4700 Keele St, North York",Cafe,15.0,North York
+Toppoki,CASUAL DINING,,,"5 Northtown Way, Unit 16-17, North York M2N 7B1","Korean, Asian",25.0,North York
+Uptown Churrasqueira,QUICK BITES,,,"2300 Finch Avenue West, Unit 67, Humber Summit, North York M9M 2Y3","Portuguese, BBQ",30.0,North York
+Uptown Cafe & Eatery,CAFÉ,3.6,5.0,"Yonge-Norton Centre, 5255 Yonge Street, North York M2N 5P8",Cafe,40.0,North York
+Koryo Korean Restaurant,CASUAL DINING,,,"4922 Yonge St, North York",Korean,40.0,North York
+Seven Yummy Garden,CASUAL DINING,,,"3875 Don Mills Rd, North York, ON M2H 2S7",Chinese,30.0,North York
+Formocha,BEVERAGE SHOP,,,"5377 Yonge Street, North York M2N 5R6",Bubble Tea,15.0,North York
+Extreme Pita,QUICK BITES,2.7,4.0,"Sheppard Centre, Main Floor, 4841 Yonge Street, North York","Fast Food, Mediterranean",25.0,North York
+Ba Li Laffa,CASUAL DINING,,,"3522 Bathurst Street, North York",Mediterranean,55.0,North York
+The Cake Boutique,DESSERT PARLOR,,,"358 Wilson Avenue, North York",Desserts,20.0,North York
+Pizzaville,QUICK BITES,3.9,4.0,"3288 Keele Street, North York","Pizza, Fast Food",25.0,North York
+Caribu,QUICK BITES,,,"3412 Weston Road, North York","Guyanese, Caribbean",25.0,North York
+Pho Plus,FAST CASUAL,,,"1881 Steeles Ave W Unit 5, Toronto M3H 5Y4","Chinese, Vietnamese",,North York
+Haroo,CASUAL DINING,3.3,4.0,"5935 Yonge Street, North York M2M 3V7","Korean, Asian",45.0,North York
+Anthony's Cafe,CAFÉ,,,"18 Wynford Drive, North York M3C 1W1",Cafe,20.0,North York
+Purdy's,DESSERT PARLOR,,,"Fairview Mall, 1800 Sheppard Avenue East, North York","Desserts, Ice Cream",20.0,North York
+Hakka Bro’s,CASUAL DINING,2.8,4.0,"3685 Keele Street, Unit 6, North York M3J 3H6","Caribbean, Hakka Chinese",10.0,North York
+The West Wing,CASUAL DINING,2.8,4.0,"699 Lawrence Avenue West, North York M6A 1B4","Bar Food, American",40.0,North York
+Daldongnae,CASUAL DINING,,,"6034 Yonge Street, North York, ON M2M 3W5","Korean, BBQ",35.0,North York
+AfroSpice,QUICK BITES,,,"45 Four Winds Drive, North York",Nigerian,20.0,North York
+Autentica Spanish Food & Empanadas,QUICK BITES,,,"Milvan Shopping Centre, 9 Milvan Drive, North York M9L 1Y9","Spanish, Cuban, Latin American",15.0,North York
+Galito's Flame Grilled Chicken,CASUAL DINING,,,"6464 Yonge St Unit 164A, North York, ON M2M 3X4",African,25.0,North York
+Peter G's,CASUAL DINING,,,"1060A Wilson Avenue, North York M3K 1G6","American, Grill, Breakfast",40.0,North York
+Noodle King,QUICK BITES,,,"3240 Dufferin Street, North York M6A 2T2",Chinese,25.0,North York
+The Soup Kettle,QUICK BITES,,,"40 Kodiak Crescent, North York",Cafe,15.0,North York
+Burger King,FAST FOOD,,,1077 Wilson Avenue,"Fast Food, Burger",20.0,North York
+Cake House Bakery,BAKERY,,,"1969 Finch Avenue West, North York M3N 2V3",Bakery,25.0,North York
+Silly Goose,BAR,,,"1703 Victoria Park Avenue, North York",Bar Food,15.0,North York
+Wingburger,QUICK BITES,,,"1173 Eglinton Avenue East, Toronto M4A 1J8",Burger,15.0,North York
+Sandy's Diner,QUICK BITES,3.2,4.0,"59 Alness Street, North York",American,30.0,North York
+Sunset Grill,CASUAL DINING,,,1123 Lodestar Road M3J 0G9,Diner,30.0,North York
+Debe's Roti & Doubles,CASUAL DINING,,,"2881 Jane Street, Toronto M3N 2J5",Caribbean,25.0,North York
+Spring China House,CASUAL DINING,,,"189 Sheppard Avenue East, North York M2N 3A8","Chinese, Asian",35.0,North York
+El-Tipico Ecuatoriano,CASUAL DINING,,,"2312 Keele Street, North York M6M 3Z9",Latin American,30.0,North York
+New York Fried Chicken,QUICK BITES,2.8,5.0,"Yorkgate Mall, 1 York Gate Boulevard, North York M3N 2K2","American, Fast Food",20.0,North York
+Pho Lien Hung,QUICK BITES,,,"Finch and Keele Commercial Centre, Unit 7, 1300 Finch Avenue West, North York M3J 3K2",Vietnamese,30.0,North York
+Boston Pizza,QUICK BITES,,,"100 - 5170 Yonge Street, North York, ON, M2N 0G1, Toronto",Pizza,20.0,North York
+David's Tea,BEVERAGE SHOP,,,"Bayview Village Shopping Centre, Unit A22, 2901 Bayview Avenue, North York","Tea, Beverages",15.0,North York
+Rock’n Deli,QUICK BITES,,,"Cf shops Don Mills, 32 Clock Tower Rd, Toronto",Fast Food,20.0,North York
+Daldongnae Korean BBQ,CASUAL DINING,,,"6034 Yonge Street, Toronto, ON M2M 3W5","Korean, BBQ",25.0,North York
+Atrium Cafe,CAFÉ,3.2,4.0,"255 Consumers Road, North York M2J 1R3",Cafe,20.0,North York
+Chocol'Art,BAKERY,,,"2042 Sheppard Avenue East, Toronto M2J 5B3",Desserts,20.0,North York
+Brioche Dorée,BAKERY,,,"5650 Yonge Street, Unit #2 Willowdale, North York, Toronto","Bakery, Cafe",30.0,North York
+Mr. Sub,QUICK BITES,,,"Fairview Mall, 1800 Sheppard Avenue East, North York",Fast Food,25.0,North York
+12 Tables,CASUAL DINING,3.1,4.0,"1552 Avenue Road, Toronto M5M 3X5","European, Italian",80.0,North York
+Oh! Bar,BAR,,,"5467 Yonge Street, North York M2N 5S1","Bar Food, Korean, Asian",55.0,North York
+Bun Bo Hue Pho,CASUAL DINING,3.8,4.0,"2385 Finch Avenue West, North York M9M","Vietnamese, Asian",35.0,North York
+Hoo Hoo Large Fried Chicken,Other,,,"5629, Yonge Street, North York ON, M2M 3S9",Asian,15.0,North York
+Wing Machine,QUICK BITES,3.1,4.0,"5439 Yonge Street, North York",Fast Food,30.0,North York
+Donut Counter,CAFÉ,,,"The Bayview Mall, 3337 Bayview Street, North York M2K 1G4",Cafe,15.0,North York
+Flaming Star,QUICK BITES,,,"4801 Steeles Avenue West, Unit 6, North York M9L 2W1","Fast Food, Greek, Grill",30.0,North York
+Shanghai 360,QUICK BITES,,,"Yorkdale Mall, Food Court, 3401 Dufferin Street, North York",Chinese,20.0,North York
+The Campus Bubble Tea,BEVERAGE SHOP,,,"York University, York Lanes, 4700 Keele Street, North York M3J 1P3","Bubble Tea, Beverages",15.0,North York
+Pupuseria El Buen Sabor,Other,,,"9 Milvan Dr, Toronto",Latin American,30.0,North York
+Lucky Dragon,QUICK BITES,,,"3203 Dufferin Street , North York M6A 2T2","Chinese, Asian",30.0,North York
+NEWLY OPENED,Other,,,"85 Ellesmere Road, North York, Toronto","Indian, Pakistani",20.0,North York
+Columbus Bakery,BAKERY,,,"2111 Jane Street, Unit 9, North York M3M 1A2",Bakery,15.0,North York
+Richmond Kosher Bakery,BAKERY,2.7,4.0,"4119 Bathurst Street, North York M3H 3P4",Bakery,,North York
+Alminz Kakanin,BAKERY,,,"369 Wilson Avenue, North York M3H 1S9","Bakery, Filipino, Desserts",15.0,North York
+Las Fronteras,CASUAL DINING,,,"2300 Finch Avenue W, Unit 63, North York M9M 2C6",Latin American,45.0,North York
+OPA! of Greece,QUICK BITES,,,"North York City Centre, 5150 Yonge Street, North York",Greek,25.0,North York
+Pasta Goodness,QUICK BITES,3.5,4.0,"602 Marlee Avenue, Toronto","Italian, Bakery",80.0,North York
+Chicken in the Kitchen,CASUAL DINING,,,"5600 Yonge St, North York, Toronto, ON M2N 5S2",Korean,35.0,North York
+Koshi,Other,,,"Sheridan Mall, Food Court, Unit 1, 1700 Wilson Avenue, North York","Fast Food, Japanese, Asian",25.0,North York
+Paramount Fine Foods,CASUAL DINING,,,"3401 Dufferin St, North York","Lebanese, Middle Eastern",50.0,North York
+Pita Paradise Restaurant,CASUAL DINING,,,"1027 Finch Avenue West, Unit 3, North York M3J 2C7",Middle Eastern,30.0,North York
+Pita Pit,QUICK BITES,,,"4205 Keele Street, Unit 8, North York",Healthy Food,25.0,North York
+Kouzies,QUICK BITES,,,425 Eddystone Avenue Toronto,"Greek, Italian",35.0,North York
+241 Pizza,QUICK BITES,,,"Yorkgate Mall, 1 York Gate Boulevard, North York","Pizza, Fast Food",30.0,North York
+ScottHill Carribean Cuisine,CASUAL DINING,,,"1943 Avenue Road, Toronto M5M 4A2",Caribbean,25.0,North York
+Dalisay Filipino Food,QUICK BITES,,,"800 Steeles Avenue West, North York","Filipino, Asian",25.0,North York
+Kernels Popcorn,QUICK BITES,,,"Fairview Mall, 1800 Sheppard Avenue East, North York",Fast Food,15.0,North York
+Olio e Braci,CASUAL DINING,,,1 Whitehorse Road M3J 3A7,Canadian,,North York
+Buda Cafe,BAR,,,"5418 Yonge Street, North York M2N 5R8",Middle Eastern,50.0,North York
+Yummy Dumpling House,QUICK BITES,,,"5 Northtown Way, Unit 16, North York M2N 7A1",Chinese,20.0,North York
+Dormet Grill Kabob And Shawarma,CASUAL DINING,,,"2777 Steeles Ave W, Toronto M3J 3K5","Mediterranean, Middle Eastern",25.0,North York
+Sang-Ji Fried Bao,CASUAL DINING,,,"1 Byng Avenue, North York, ON M2N 0E6",Chinese,25.0,North York
+The Bagel Stop,Other,,,"Madison Centre, 4950 Yonge Street, Toronto",Cafe,15.0,North York
+Chop Chop Wok,QUICK BITES,,,"1077 Wilson Avenue, Unit 7, North York M3K 1G7","Chinese, Asian",30.0,North York
+Miso,QUICK BITES,,,"York University, Central Square, 4700 Keele Street, North York","Japanese, Asian",25.0,North York
+Fat Bastard Burrito,QUICK BITES,,,"808 York Mills Road, North York","Mexican, Fast Food",25.0,North York
+Pi Co.,QUICK BITES,,,"1070 Don Mills Road, North York, ON M3C 0H8",Pizza,20.0,North York
+P & G Fish & Chips,QUICK BITES,,,"14 Bradstock Road, North York",Fish and Chips,25.0,North York
+Bakery Gateau,BAKERY,,,"Liberty Plaza, Food Court, 865 York Mills Road, North York M3B 1Y6",Bakery,20.0,North York
+Pho Mi Viet Hoa,CASUAL DINING,,,"2887 Jane Street, North York","Vietnamese, Asian",30.0,North York
+Banh Mi Que Huong,QUICK BITES,,,"Finch Main Plaza, 2437 Finch Avenue West, North York M9M 2E7","Vietnamese, Sandwich, Fast Food",15.0,North York
+New York Fried Chicken,QUICK BITES,,,"3314 Keele Street, North York M3K 2C5",Fast Food,20.0,North York
+Baro Gun Pang Bakery,BAKERY,,,"6118 Yonge Street, North York M2M 3W7","Bakery, Korean",20.0,North York
+Jamaica House,QUICK BITES,,,"2531 Finch Avenue West, North York","Jamaican, Caribbean, West Indian",30.0,North York
+Basil Box,CASUAL DINING,,,"5607 Yonge Street, North York, ON M2M 3S9, Toronto, Toronto","Thai, Vietnamese",20.0,North York
+Montego Jerk,QUICK BITES,,,"Yorkgate Mall, 1 York Gate Boulevard, North York M3N 2K2",Caribbean,,North York
+Red and White,QUICK BITES,,,"1635 Lawrence Avenue Road, North York","Mediterranean, Grill",15.0,North York
+Student Pizza and Curry,QUICK BITES,,,"45 Four Winds Drive, North York M3J 1K7","Pizza, Indian, Pakistani",20.0,North York
+Falafel & Grill,QUICK BITES,,,"Finch and Keele Commercial Centre, 1300 Finch Avenue West, North York M3J 3K2","Middle Eastern, Mediterranean, Fast Food",25.0,North York
+Cottage Restaurant,CAFÉ,,,"24/25, 15 Northtown Way, North York M2N 7A2","Burger, Pizza, Cafe",25.0,North York
+Kabul Tehran Restaurant,BAKERY,,,"747 Don Mills Road, North York M3C 1T2",Bakery,25.0,North York
+Subway,QUICK BITES,3.8,4.0,"Finchurst Plaza, 4907 Bathurst Street, North York",Fast Food,20.0,North York
+Gangnam Sushi,CASUAL DINING,,,"191 Sheppard Avenue E, Toronto M2N 3A8","Sushi, Japanese, Korean",25.0,North York
+Darosa,CASUAL DINING,,,"2853 Dufferin, North York M6B 3S4",Portuguese,55.0,North York
+Delight Food,QUICK BITES,,,"Shoreham Shopping Centre, 4712 Jane Street, North York M3N 2L2",Caribbean,15.0,North York
+Street Feast Grill,QUICK BITES,,,"586 Champagne Drive, North York",Fast Food,20.0,North York
+Select Sandwich,QUICK BITES,,,"5775 Yonge Street, Lower Level, North York","Deli, Sandwich",25.0,North York
+Deli Break,QUICK BITES,,,"37 Kodiak Crescent, North York M3J 3E5",Asian,15.0,North York
+Pizza Hub,QUICK BITES,,,"2965 Islington Avenue, Unit 1, North York","Pizza, Fast Food",30.0,North York
+Reginos Pizza,QUICK BITES,,,"Finch and Keele Commercial Centre, Unit 13, 1300 Finch Avenue West, North York M3J 2B1","Pizza, Fast Food",25.0,North York
+Wing Burger,QUICK BITES,,,"1733 Eglinton Avenue, North York M4A 1J8","Fast Food, American",25.0,North York
+Soul Jerk,QUICK BITES,,,"3125 Dufferin Street, North York M6A 2S7","Jamaican, Caribbean",20.0,North York
+Wiki Star,QUICK BITES,,,"15 Northtown Way, Unit 20, North York M2N 7A2","Bubble Tea, Taiwanese, Asian",20.0,North York
+Teavana,BEVERAGE SHOP,,,"Fairview Mall, 1800 Sheppard Avenue East, North York","Tea, Beverages",20.0,North York
+Pho Saigon,CASUAL DINING,3.2,4.0,"1448 Lawrence Avenue, North York M4A 2S8","Vietnamese, Asian",30.0,North York
+Bagnet Bros,CASUAL DINING,,,"3522 Bathurst St, North York, ON M6A 2C7",Filipino,,North York
+Grill It Up,QUICK BITES,,,"Fairview Mall, 1800 Sheppard Avenue East, North York",Grill,25.0,North York
+Big Al's Delish,QUICK BITES,,,"3325 Bathurst Street, North York M6A 2B7",Deli,25.0,North York
+Licheng,CASUAL DINING,3.1,6.0,"529 Marlee Avenue, Toronto","Chinese, Sichuan",40.0,North York
+Orfus Wrap And Grill,QUICK BITES,2.9,4.0,"3240 Dufferin Street, Unit 3, North York M6A 2T3",Middle Eastern,25.0,North York
+Kosher Country Style,CAFÉ,,,"York University, Winters College, 4700 Keele Street, North York",Cafe,15.0,North York
+Jack's Wonton Noodle Soup,Other,,,"5629, Yonge Street, North York ON, M2M 3S9",Asian,15.0,North York
+Zorba The Greek,Other,3.0,4.0,"Parkway Mall, Inside Mall, 85 Ellesmere Road, North York M1R 4C1","Greek, Fast Food",20.0,North York
+Asian Gourmet,QUICK BITES,,,"Centerpoint Mall, Food Court, 6464 Yonge Street, North York",Chinese,20.0,North York
+Sushi House,CASUAL DINING,,,"191 Sheppard Avenue East, North York M2N","Sushi, Japanese, Korean, Asian",50.0,North York
+Sichuan Ren,CASUAL DINING,,,"5195 Yonge Street, North York M2N 5P7",Sichuan,35.0,North York
+Capri Bagels & Buns Inc,QUICK BITES,,,"84 Oakdale Road, North York M3N 1V9","Bakery, Cafe, Eastern European",20.0,North York
+Panafest,BAR,,,"2708 Jane Street, North York",African,50.0,North York
+Gino's Pizza,QUICK BITES,,,"York University, Student Centre, 4700 Keele Street, North York","Pizza, Fast Food",30.0,North York
+Heaven's Grill,QUICK BITES,,,"424 Wilson Avenue, North York M3H 1T9","Grill, Fast Food",25.0,North York
+Cold Stone Creamery,DESSERT PARLOR,,,"680 Sheppard Avenue West, North York M3H 2S5","Ice Cream, Desserts",15.0,North York
+Dragon Wok,QUICK BITES,,,"Jane Finch Mall, Unit C2, 1911 Finch Avenue West, North York M2N 2V2","Chinese, Fast Food, Asian",25.0,North York
+Costa Verde BBQ Chicken Inc,CASUAL DINING,,,"2762 Keele Street, North York M3M 2G2","Grill, Portuguese",35.0,North York
+Saggio Italian Eatery & Espresso Bar,CASUAL DINING,,,"90 Signet Drive, North York","Pizza, Italian",25.0,North York
+Republika RestoBar and Grill,BAR,,,"288-A Wilson Avenue, North York, Toronto",Grill,25.0,North York
+Qoola,DESSERT PARLOR,,,"York University, York Lanes, 4700 Keele Street, North York M3J 1P3","Frozen Yogurt, Desserts",15.0,North York
+A&W,CASUAL DINING,,,"75 Billy Bishop Way, North York, M3K 0C2, ON, Toronto","Burger, Fast Food",25.0,North York
+Sunrise,QUICK BITES,,,"Sheridan Mall, 1700 Wilson Avenue, North York",Caribbean,25.0,North York
+Tender Shawarma & Grill,QUICK BITES,3.5,5.0,"3893 Keele Street, North York M3J 1N6","Middle Eastern, Fast Food",15.0,North York
+Sazon del Pacifico,QUICK BITES,,,"2848 Dufferin Street, North York M6B 3S3","Colombian, Latin American",25.0,North York
+Aldo's Restaurant,CASUAL DINING,,,"750 Oakdale Road, Unit 35, North York M3N 2Z4","Peruvian, Latin American",35.0,North York
+Hong Fok BBQ Gourmet,QUICK BITES,,,"Peanut Plaza, 3030 Don Mills Road, North York M2J","Cantonese, Chinese, Asian",15.0,North York
+Jamba Juice,BEVERAGE SHOP,,,"Yorkdale Mall, 3401 Dufferin Street, North York","Juices, Beverages",25.0,North York
+Papa Pastry & Café,BAKERY,,,"6111 Yonge Street, North York M2M 3WM","Bakery, Middle Eastern, Cafe",30.0,North York
+China Wok,Other,,,"Yorkgate Mall, Food Court, Unit F2, 1 Yorkgate Boulevard, North York M3N","Fast Food, Chinese, Asian",25.0,North York
+Fresh Slice,QUICK BITES,,,"6464 Yonge Street, North York M2M 3X4","Pizza, Fast Food",25.0,North York
+Ava Esfehan,QUICK BITES,,,"193 Sheppard Avenue East, North York M2N",Middle Eastern,20.0,North York
+Pizza Bella,QUICK BITES,,,"2885 Keele Street, North York M3M 2G9","Pizza, Fast Food",25.0,North York
+Le Cafe - Radisson Toronto East,CASUAL DINING,2.6,4.0,"Radisson Toronto East, 55 Hallcrown Place, North York M2J","Cafe, Breakfast",50.0,North York
+Tacorrito,FAST CASUAL,,,"170 Rimrock Rd, North York, ON M3J 3A6",Mexican,15.0,North York
+Druxy's Famous Deli,QUICK BITES,,,"1210 Sheppard Avenue East, Toronto M2K 1E3","Fast Food, Sandwich",25.0,North York
+R Bakery,BAKERY,,,"2588 Finch Avenue West, Toronto M9M 2G3","Bakery, Desserts, Portuguese",,North York
+Kisho,CASUAL DINING,,,"Yorkgate Mall, 1 York Gate Boulevard, North York","South Indian, Sri Lankan",25.0,North York
+Ferg's Bar & Grill,BAR,,,"5519 Yonge Street, North York","Bar Food, Korean",50.0,North York
+Blumont,QUICK BITES,,,"York University, Student Centre, 4700 Keele Street, North York M3J 1P3",Fast Food,20.0,North York
+Osmow's,QUICK BITES,,,"2215 Steeles Ave W, North York, ON M3J 3N2",Mediterranean,30.0,North York
+Pho Tien Phat,CASUAL DINING,,,"2133 Jane Street, Unit 1, North York M3M 1A2","Vietnamese, Asian",30.0,North York
+Free Topping Pizza,QUICK BITES,,,"3883 Don Mills Road, North York","Pizza, Fast Food",25.0,North York
+Sprout Hainan Noodle,QUICK BITES,,,"5 Northtown Way, North York M2N 7A1","Chinese, Asian",20.0,North York
+The Hot Duck,QUICK BITES,,,"5 Northtown Way, North York",Chinese,15.0,North York
+Friends,CASUAL DINING,,,"5050 Dufferin Street UNIT 124, North York, ON M3H 5T5",Diner,25.0,North York
+Green Umbrella,QUICK BITES,,,"970 Lawrence Avenue West, Toronto",Fast Food,15.0,North York
+Tagpuan,QUICK BITES,,,"1740 Victoria Park Avenue, North York M1R 1R7","Filipino, Asian",25.0,North York
+Sun-Up Barbeque,QUICK BITES,,,"3411 Bathurst Street, North York M6A 2C1","Chinese, BBQ",20.0,North York
+LaPaz Batchoy Toronto,QUICK BITES,,,"360 Wilson Avenue, North York M3H 1S9","Filipino, Fast Food",10.0,North York
+Nohadra Bakery,BAKERY,,,"3200 Steeles Avenue West, North York",Bakery,20.0,North York
+Mr. Souvlaki,QUICK BITES,,,"York Mills Centre, Food Court, 16 York Mills Road, North York","Greek, Fast Food",20.0,North York
+Rain Izakaya Pub,CASUAL DINING,,,"35 Sheppard Avenue East, North York, ON M2N 2Z8","Sushi, Japanese",50.0,North York
+Wild Wings,CASUAL DINING,,,"1617 Wilson Avenue, North York M3L 1A5","Chinese, Asian",20.0,North York
+Fresh Cup Bubble Tea,BEVERAGE SHOP,,,"Peanut Plaza, 3046 Don Mills Road, North York M2J","Bubble Tea, Beverages",10.0,North York
+Real Fruit Bubble Tea,BEVERAGE SHOP,,,"1448 Lawrence Avenue, North York",Bubble Tea,15.0,North York
+Pizza Pros,QUICK BITES,,,"3430 Weston Road, North York","Pizza, Fast Food",25.0,North York
+Lettieri,CAFÉ,,,"Bayview Village Shopping Centre, Unit E4, 2901 Bayview Avenue, North York",Cafe,25.0,North York
+Sardab Restaurant,QUICK BITES,,,"6080 Yonge Street, North York",Middle Eastern,20.0,North York
+Jollytops,QUICK BITES,,,"288 Wilson Avenue, North York M3H 1S8",Filipino,25.0,North York
+Quiznos,QUICK BITES,,,"808 York Mills Road, North York",Fast Food,25.0,North York
+Wrap Express,QUICK BITES,,,"Jane Finch Mall, 1911 Finch Avenue West, North York, North York",Fast Food,15.0,North York
+Cali Mexican Grill,QUICK BITES,,,"3250 Dufferin Street, North York, ON M6A 2T3",Mexican,15.0,North York
+Country Style,CAFÉ,,,"Centerpoint Mall, Ground Floor, 6464 Yonge Street, North York",Cafe,20.0,North York
+AATO Fried Chicken,CASUAL DINING,,,"6028 Yonge Street, North York","Korean, Asian",30.0,North York
+Northwestern Chinese Cuisine,CASUAL DINING,,,"5 Finch Ave E, North York, ON M2N 4P9",Chinese,25.0,North York
+Chris Coffee Shop,CAFÉ,,,"1 Valleybrook Drive, Toronto M3B 2S9","Coffee and Tea, Sandwich, Cafe",15.0,North York
+Fresh 2 Serve,QUICK BITES,,,"Centerpoint Mall, Food Court, 6464 Yonge Street, North York","Fast Food, Iranian",30.0,North York
+The Chicken Place,QUICK BITES,,,"142 Willowdale Avenue, North York M2N 4Y4",Fast Food,25.0,North York
+Cafelicious,QUICK BITES,,,"15 Gervais Drive, North York M3C 1Y8","Cafe, Indian, Diner",20.0,North York
+Healthy Kitchen,QUICK BITES,,,"York University, Stong College, 4700 Keele Street, North York",Healthy Food,15.0,North York
+"Yonge Street, North York",Other,,,CUISINES:,"Chinese, Northern Chinese",,North York
+Twister Karaoke,BAR,,,"5586 Yonge Street, North York M2N 5S2","Bar Food, Korean, Asian",60.0,North York
+Willy's Jerk,QUICK BITES,,,"2349 Weston Road, North York",Caribbean,35.0,North York
+YOi Japenese Eatery,QUICK BITES,,,"1800 Sheppard Ave E, North York, ON M2J 5A7 (Fairview Mall food court), North York, Toronto, Toronto","Japanese, Ramen",,North York
+Java Joe's,CAFÉ,,,"25 Sheppard Avenue West, North York",Cafe,15.0,North York
+Chocolate Charm,DESSERT PARLOR,,,"3541 Bathurst Street, North York M6A 2C7",Desserts,30.0,North York
+Milk and Honey,CASUAL DINING,,,"3457 Bathurst Street, North York M6A 2C5",Canadian,55.0,North York
+Pino Bakery,BAKERY,,,"2068 Avenue Road, North York","Bakery, Desserts",20.0,North York
+Narin Pastry,BAKERY,,,"881 Wilson Avenue, North York",Bakery,,North York
+Gloucester Bakery,BAKERY,,,"Finch & Leslie Square, 131 Ravel Road, North York M2H 1T1","Bakery, Chinese",15.0,North York
+La Rosa Chilena Bakery,BAKERY,,,"788 Wilson Avenue, North York M3K 1E2",Bakery,15.0,North York
+International Bakery,BAKERY,,,"Finchdale Plaza, 2588 Finch Avenue West, North York M9M","Cafe, Bakery",20.0,North York
+Bangali Sweet House,QUICK BITES,,,"2501 Finch Avenue West, North York","Desserts, Indian, Bangladeshi",10.0,North York
+George's Tastee Patties & Take Out,QUICK BITES,,,"20 Norfinch Drive, North York M3N 1X1","Fast Food, Caribbean",25.0,North York
+Daily Bread Bakery,BAKERY,,,"332 Wilson Avenue, North York",Bakery,15.0,North York
+Churrasqueira Estrela,CASUAL DINING,,,"2275 Keele Street, North York M6M 3Z6","Portuguese, Grill",35.0,North York
+St. Pio Bakery,BAKERY,,,"2133 Jane Street, North York","Bakery, Cafe",15.0,North York
+Tri Star Restaurant,CASUAL DINING,,,"Shoreham Shopping Centre, 4724 Jane Street, North York","Chinese, Asian, Caribbean",25.0,North York
+Steeles Bakery,BAKERY,,,"6235 Bathurst Street, North York M2R 2A5",Bakery,15.0,North York
+Bento Box,QUICK BITES,,,"York Mills Centre, Food Court. 16 York Mills Road, North York","Sushi, Japanese, Fast Food",25.0,North York
+Tinnel's Patties,QUICK BITES,,,"364 Signet Drive, North York M9L 1V2",Jamaican,15.0,North York
+Gourmet Buffet,QUICK BITES,,,"6013-6017 Yonge Street, North York",Iranian,25.0,North York
+York Burgers,QUICK BITES,,,"76 Densley Avenue, North York","Burger, Fast Food, Asian",25.0,North York
+Amico Chef,DESSERT PARLOR,,,"2889 Dufferin Street, North York M6B 3S7","Desserts, Italian",40.0,North York
+Kung Fu Duck,QUICK BITES,,,"10 Northtown Way, Unit 106, North York",Northern Chinese,25.0,North York
+SBarro,QUICK BITES,,,"North York City Centre, 5150 Yonge Street, North York","Pizza, Fast Food",25.0,North York
+Roti Palace,QUICK BITES,,,"Jane Finch Mall, 1911 Finch Avenue West, North York M3N 2V2",Caribbean,25.0,North York
+Charlie's Lunch Break,QUICK BITES,,,"250 Consumers Road, Unit 10, North York",Asian,20.0,North York
+Vita Di Pasta,QUICK BITES,,,"1390 Don Mills Road, North York",Italian,30.0,North York
+Shooters Snooker Club,CASUAL DINING,,,"1448 Lawrence Avenue, North York M4A 2S8",Bar Food,40.0,North York
+Javan Kebob,QUICK BITES,,,"6009 Yonge Street, North York M2M 3W2",Middle Eastern,25.0,North York
+Cantagallo,CASUAL DINING,,,"2708 Jane Street, North York","Peruvian, Latin American",40.0,North York
+Lucky's Corner,CASUAL DINING,,,"2111 Jane Street, Unit 4, North York M3M 1A2",Caribbean,35.0,North York
+Padella Italian Eatery,CASUAL DINING,,,"1967 Avenue Road, North York",Italian,30.0,North York
+Coco Lounge,Other,,,"6307 Yonge Street, North York",Drinks Only,50.0,North York
+Jamaica Way,BAR,,,"614 Trethewey Drive, North York M6M 4C3","Bar Food, Jamaican, Caribbean",25.0,North York
+Bella Sabatina,BEVERAGE SHOP,,,"1702 Avenue Road, North York M5M 3Y4","Tea, Beverages",20.0,North York
+Welcome,CASUAL DINING,,,"2849 Jane Street, North York M3N 2J5","West Indian, Caribbean",25.0,North York
+Tiko Chicken Barbecue,QUICK BITES,,,"2849 Weston Road, North York",Grill,25.0,North York
+Studio Lounge Karaoke,BAR,,,"4901 Yonge Street, 2nd Floor, North York M2N 5N4",Bar Food,70.0,North York
+Quesada,QUICK BITES,,,"2377 Finch Avenue West, North York",Tex-Mex,25.0,North York
+Freshly Squeezed,BEVERAGE SHOP,,,"Fairview Mall, 1800 Sheppard Avenue East, North York","Juices, Beverages",15.0,North York
+Bone Soup Malatang,FAST CASUAL,,,"5320 Yonge Street, North York, ON M2N 5P9",Chinese,20.0,North York
+341 Pizza & Wings,QUICK BITES,,,"59 Four Winds Drive, North York","Pizza, Fast Food",25.0,North York
+Best Istanbul Restaurant,CASUAL DINING,,,"2762 Keele St, North York, ON M3M 0A3",Turkish,25.0,North York
+Peppers,QUICK BITES,,,"3027 Islington Avenue, North York M9L 2K9","Jamaican, Caribbean",30.0,North York
+Don Valley Bistro,CASUAL DINING,,,"Toronto Don Valley Hotel & Suites, 175 Wynford Drive, Toronto M3C 1J3",Bar Food,40.0,North York
+North Express,QUICK BITES,,,"100 Steeles Ave West, North York",Iranian,20.0,North York
+Hayat,CASUAL DINING,,,"6034 Yonge Street, North York M2M 3W5",Middle Eastern,30.0,North York
+Royal Dumpling,QUICK BITES,,,"15 Northtown Way, Unit 7, North York","Northern Chinese, Chinese, Asian",25.0,North York
+Caribbean Nights Restaurant & Bar,CASUAL DINING,,,"3585 Keele Street , Toronto","Caribbean, Chinese",,North York
+Michi Sushi,CASUAL DINING,,,"126 Willowdale Avenue, North York, ON M2N 4Y2","Japanese, Sushi",40.0,North York
+Yupdduk,QUICK BITES,,,"116-28 Finch Avenue West, North York, ON M2N 2G7",Korean,15.0,North York
+Akita Sushi Burrito,Other,,,"5629, Yonge Street, North York ON, M2M 3S9","Sushi, Japanese",15.0,North York
+Eat BKK Thai Kitchen,CASUAL DINING,,,"6307 Yonge St, North York, ON M2M 3X7, North York, Toronto, Toronto",Thai,30.0,North York
+Yummy Wok,QUICK BITES,,,"Norfinch Shopping Centre, 1959 Finch Avenue West, North York","Chinese, Asian",25.0,North York
+Tung Hing Bakery,BAKERY,,,"Sheridan Mall, 1700 Wilson Avenue, North York M3L 1B2","Bakery, Asian, Bubble Tea",10.0,North York
+Yonge Norebang,BAR,,,"5582 Yonge Street, North York","Bar Food, Korean, Asian",60.0,North York
+T. Mac Grill,QUICK BITES,,,"744 Wilson Avenue, North York","Deli, Fast Food",25.0,North York
+Club 96 D's,Other,,,"2875 Keele Street, North York M3M 2G7",Bar Food,30.0,North York
+In Bar & Restaurant,BAR,,,"5460 Yonge Street, North York",Bar Food,60.0,North York
+Whale Juice & Blends,Other,,,"4750 Yonge Street, Toronto M2N 5M5",Juices,25.0,North York
+North York,Other,,,CUISINES:,HOURS:,15.0,North York
+Full House Desserts,DESSERT PARLOR,,,"4750 Yonge St SUITE #121, Toronto, ON M2N 0J6","Desserts, Hong Kong Style",15.0,North York
+Raminos Sports Cafe,BAR,,,"1230 Sheppard Avenue West, North York",Bar Food,45.0,North York
+Nice 'N' Easy Restaurant & Bar,BAR,,,"415 Oakdale Road, North York",Bar Food,35.0,North York
+Wraps & Jerk,QUICK BITES,,,"1046 Finch Avenue West, North York M3J 2E2","Fast Food, Caribbean",25.0,North York
+Randy's,CASUAL DINING,,,"4801 Keele Street, North York","West Indian, Guyanese, Chinese, Asian",35.0,North York
+Chilango Taco,Other,,,"Milvan Shopping Centre, Food Court, 9 Milvan Drive, North York","Mexican, Latin American",20.0,North York
+Caribbean Cuisine Delights,QUICK BITES,,,"Sheridan Mall, Food Court, 1700 Wilson Avenue, North York M3L 1B2","Caribbean, Fast Food",25.0,North York
+Cafe Las Americas,CASUAL DINING,,,"2260 Keele Street, North York M6M 3Y9","Colombian, Latin American",45.0,North York
+Pacino Panino,QUICK BITES,,,"4801 Steeles Avenue West, Unit 1, North York M9L 2W1","Cafe, Italian",25.0,North York
+Asia Delight,Other,,,"Parkway Mall, Inside Mall, 85 Ellesmere Road, North York M1R 4C1",Chinese,20.0,North York
+La Isla,QUICK BITES,,,"3525 Bathurst Street, North York M6A 2C7",Filipino,15.0,North York
+Thuy Restaurant,QUICK BITES,,,"Finch Main Plaza, 2437 Finch Avenue West, North York M9M 2E7","Vietnamese, Asian",20.0,North York
+Best Kebab & Doner,QUICK BITES,,,"2762 Keele Street, North York M3M 0A3",Middle Eastern,30.0,North York
+Napoleon Bakery,BAKERY,,,"Unit 4, 1126 Finch Avenue West M3J 3J6",Bakery,20.0,North York
+Com Tam Thoi Dai - Pho time,CASUAL DINING,,,"Jane Sheppard Mall, 2721 Jane Street, North York M3L 1S3","Vietnamese, Asian",30.0,North York
+El Tenampa,CASUAL DINING,,,"4000 Steeles Avenue West, Unit 11, Vaughan",Spanish,50.0,North York
+Chuck E. Cheese's,QUICK BITES,,,"2450 Sheppard Avenue East, North York M2J 1X1","Pizza, Fast Food",25.0,North York
+Seowon Sundae Myungga,QUICK BITES,,,"4 Northtown Way, Unit 4, North York","Korean, Asian",25.0,North York
+Swiss-Master Chocolatier,DESSERT PARLOR,,,"2538 Bayview Avenue, North York M2L 1A9","Desserts, Swiss",25.0,North York
+Via Kitchenette,CASUAL DINING,,,"363 Wilson Avenue, North York M3H 1T3","Filipino, Asian",20.0,North York
+Jorgy's Cafe,CAFÉ,,,"4800 Dufferin Street, North York M3H 2W1","Cafe, Breakfast",25.0,North York
+Nespresso Cafe,QUICK BITES,,,"Yorkdale Mall, 3401 Dufferin Street, Inside The Bay, North York M6A 2T9",Cafe,25.0,North York
+Grabb-A-Pizza - Toronto Plaza Hotel,CASUAL DINING,,,"Toronto Plaza Hotel, 1677 Wilson Avenue, North York M3L 1A5","Pizza, Bar Food",25.0,North York
+HG Bar & Restaurant,CASUAL DINING,,,"3585 Keele Street, Unit 5, North York M3J 3H5","Chinese, German",40.0,North York
+Coffee Time,CAFÉ,,,"Downsview Plaza, 1008 Wilson Avenue, North York",Cafe,25.0,North York
+Pho Hoang Gia,CASUAL DINING,,,"Finch Main Plaza, 2437 Finch Avenue West, North York M9M 2E7","Vietnamese, Asian",30.0,North York
+Nordstrom Ebar Artisan Coffee,CAFÉ,,,3401 Dufferin Street Unit 500 M6A 2T9,Coffee and Tea,10.0,North York
+Starhaze Bar,CASUAL DINING,,,"3430 Bathurst Street, North York M6A 2C2",Filipino,40.0,North York
+Friendly,CASUAL DINING,,,"913 Alness Street, North York","Chinese, Asian",25.0,North York
+Caffé E Latte,CAFÉ,,,"912 Wilson Avenue, North York",Cafe,10.0,North York
+Double Double,QUICK BITES,,,"5493 Yonge Street, North York","Pizza, Fast Food",25.0,North York
+Maya,CASUAL DINING,,,"918 Wilson Avenue, North York M3K 1E7",Mexican,35.0,North York
+Yvonne Bakery,BAKERY,,,"747 Don Mills Road, North York M3C 1T2","Bakery, Chinese, Asian",15.0,North York
+Wasabi,CASUAL DINING,,,"North York City Centre, 5150 Yonge Street, North York","Japanese, Asian",30.0,North York
+Darbar Persian Grill,CASUAL DINING,,,"2015 Avenue Road, North York, ON M5M 4A5",Persian,25.0,North York
+Lucas Coffee Shop,CAFÉ,,,"101 Duncan Mill Road, Toronto",Cafe,15.0,North York
+Winters Cafe,QUICK BITES,,,"York University, Winters College, 4700 Keele Street, North York","Cafe, Fast Food",15.0,North York
+Pan Fusion,QUICK BITES,,,"York University, Stong College, 4700 Keele Street, North York",Asian Fusion,25.0,North York
+Cafecino Bar & Grill,CASUAL DINING,,,"628 Wilson Avenue, North York",Bar Food,40.0,North York
+Donut Delight,CAFÉ,,,"1805 Wilson Avenue, North York M9M 1A2",Cafe,20.0,North York
+Chicken Tender,QUICK BITES,,,"1546 Jane Street, Toronto","Japanese, Fast Food",25.0,North York
+Tehran Kebab Restaurant,CASUAL DINING,,,"6119 Yonge Street, North York M2M 3W2",Iranian,25.0,North York
+Kin-Kin,BEVERAGE SHOP,,,"Sheridan Mall, Food Court, 1700 Wilson Avenue, North York M3L 1A3","Bubble Tea, Beverages, Asian, Ice Cream",10.0,North York
+Red Nile Cafe & Hookah Lounge,CAFÉ,,,"Finch and Keele Commercial Centre, Unit 1D, 1290 Finch Avenue West, North York",Cafe,40.0,North York
+Aaliyah's Bake Shop,BAKERY,,,"3296 Keele Street, North York","Bakery, Fast Food",20.0,North York
+New Pak Tandoori Restaurant,QUICK BITES,,,"2503 Finch Avenue West, North York M9M 2G1","Pakistani, Indian, Pizza, Grill",25.0,North York
+Caffe Baci,CAFÉ,,,"638 Wilson Avenue, North York",Cafe,15.0,North York
+900 Lounge - The Westin Prince Toronto,Other,,,"The Westin Prince Toronto, 900 York Mills Road, North York M3B 3H2",Bar Food,110.0,North York
+Pho Eighty,CASUAL DINING,,,"187 Millwick Drive, North York","Vietnamese, Asian",25.0,North York
+Mr. Chu,DESSERT PARLOR,,,"15B Finch Avenue W, North York, ON M2N 7K4",Desserts,15.0,North York
+Hero Certified Burgers,FAST CASUAL,,,"4698 Yonge St, Toronto, ON M3N 5M4",Burger,15.0,North York
+A&W,FAST CASUAL,,,"75 Billy Bishop Way, North York, ON M3K 0C2",Fast Food,15.0,North York
+Panzerotto Pizza,QUICK BITES,,,"2425 Finch Avenue West, North York","Pizza, Fast Food",25.0,North York
+Shah Dining Lounge,CASUAL DINING,,,"6313 Yonge St, Toronto",Iranian,13.0,North York
+Sandella's,CAFÉ,,,"45 Sheppard Avenue East, North York",Cafe,25.0,North York
+Stong Grill,QUICK BITES,,,"York University, Stong College, 4700 Keele Street, North York",Middle Eastern,25.0,North York
+Comedor Popular Ecuatoriano,Other,,,"Milvan Shopping Centre, Food Court, 9 Milvan Drive, North York M9L 1Y9",Latin American,30.0,North York
+Regina's Kitchen,QUICK BITES,,,"844 Sheppard Avenue West, North York M3H 2T5",Deli,40.0,North York
+Emporio De Los Sandwiches,QUICK BITES,,,"894 Wilson Avenue, North York","Deli, Sandwich",15.0,North York
+Atin Ito,QUICK BITES,,,"3770 Bathurst Street, North York",Filipino,30.0,North York
+Denicks Roti Factory & Restaurant,QUICK BITES,,,"750 Oakdale Road, North York","West Indian, Caribbean, Jamaican",30.0,North York
+Open Window Bakery,BAKERY,,,"Parkway Mall, Inside Mall, 85 Ellesmere Road, Unit 66, North York M1R 4C1",Bakery,10.0,North York
+Calypso Palace,CASUAL DINING,,,"750 Oakdale Road, North York","West Indian, Caribbean, Chinese",25.0,North York
+Barmakey,BAR,,,"90 Turbine Drive, North York",Bar Food,35.0,North York
+Hoang Viet,CASUAL DINING,,,"Shoreham Shopping Centre, 4730 Jane Street, North York M3N 2L3","Vietnamese, Asian",15.0,North York
+Patisserie Gateau,BAKERY,,,"Centrepoint Mall, 6464 Yonge Street, Unit 122, North York M2M 3X4","Bakery, Chinese",10.0,North York
+La Stella Churrasqueira,BAKERY,,,"Jane Sheppard Mall, 2725 Jane Street, North York","Portuguese, Deli, Bakery",40.0,North York
+Slice N Bites,QUICK BITES,,,3020 Bathurst Street M6B 3B6,"Pizza, Sushi",25.0,North York
+H & H Groceries Store,QUICK BITES,,,"304 Wilson Avenue, North York",Filipino,25.0,North York
+MJ'S BBQ & Suya,BAR,,,"618 Trethway Drive, North York M6M 4C3","BBQ, Grill",40.0,North York
+Mega Wraps,QUICK BITES,,,"515 Consumers Road, North York",Fast Food,15.0,North York
+Triple Crown Bar & Grill,CASUAL DINING,,,"1252 Lawrence Avenue, North York M3A 1C3","Bar Food, American",50.0,North York
+Shawarma & Falafel Express,QUICK BITES,,,"2389 Finch Avenue West, Humbermede & Emery, North York","Middle Eastern, Fast Food",25.0,North York
+Sit N Eat,BAR,,,"2875 Keele Street, North York",Bar Food,30.0,North York
+Dunia Restaurant,CASUAL DINING,,,"Milvan Shopping Centre, 9 Milvan Drive, North York",Middle Eastern,40.0,North York
+Top Food Asian Cusine,QUICK BITES,,,"Yorkgate Mall, Food Court, Unit F4-2A, 1 Yorkgate Boulevard, North York","Chinese, Japanese, Asian",35.0,North York
+Huong Phu Banh Mi,QUICK BITES,,,"750 Oakdale Road, Toronto","Sandwich, Vietnamese",15.0,North York
+Courtyard Cafe,CAFÉ,,,"77 Wynford Drive, North York",Cafe,20.0,North York
+Beverly Hills Fine Foods,CASUAL DINING,,,"55 Beverly Hills Drive, North York M3L 1A2","Italian, Sandwich, Bakery",45.0,North York
+Paul's Coffee Shop,QUICK BITES,,,"40 Wynford Drive, Toronto, North York, GTA",Cafe,,North York
+Sultan's,QUICK BITES,,,"York University, Central Square, 4700 Keele Street, North York",Lebanese,25.0,North York
+Josie's Sports Bar & Cafe,CASUAL DINING,,,"881 Sheppard Avenue West, North York",American,40.0,North York
+Alan Shish Kabob House,CASUAL DINING,,,"856 Sheppard Avenue West, North York",Russian,45.0,North York
+Epic Burger,QUICK BITES,,,"York University, Central Square, 4700 Keele Street, North York","Burger, Fast Food",25.0,North York
+G Bar & Grill,BAR,,,"Jane Sheppard Mall, 2725 Jane Street, North York",Bar Food,35.0,North York
+Rosy's Corner Cafe,QUICK BITES,,,"150 Ferrand Drive, North York, GTA M3C 3E5",Cafe,15.0,North York
+Las Brisas Del Mar,Other,,,"24 Rivalda Road, North York",Drinks Only,50.0,North York
+Incontro Cafe,CAFÉ,,,"2917 Dufferin Street, North York M6B 3S7",Cafe,25.0,North York
+The Beautiful City Restaurant,CASUAL DINING,,,"2846 Dufferin Street, North York","Cafe, Chinese",25.0,North York
+Castro's Fiestahan,QUICK BITES,,,"4130 Bathurst Street, North York","Fast Food, Filipino",15.0,North York
+Bahay Bahayan,QUICK BITES,,,"664 Sheppard Avenue West, North York M3H 2S4","Fast Food, Filipino",15.0,North York
+Yunan Kitchen Delights,CASUAL DINING,,,"Finch and Keele Commercial Centre, 1300 Finch Avenue West, Unit 23, North York","Chinese, Asian",35.0,North York
+Il Panino,CASUAL DINING,,,"70 Plunkett Road, North York","Cafe, Italian",35.0,North York
+Cafe 513,CAFÉ,,,"513 Marlee Avenue, North York",Cafe,10.0,North York
+Habitant,CASUAL DINING,,,3401 Dufferin Street M6A 2T9,Tapas,25.0,North York
+Weston Sports Bar & Cafe,BAR,,,"2833 Weston Road, North York M9M 2S1",Drinks Only,30.0,North York
+Oliva,CAFÉ,,,"4679 Yonge St, North York, Toronto",Cafe,25.0,North York
+House Of Te,CASUAL DINING,,,"3224 Weston Road, North York","Chinese, Asian",30.0,North York
+Prince Edward Bakery,BAKERY,,,"Peanut Plaza, 3030 Don Mills Road, North York M2J 3C1","Bakery, Chinese",10.0,North York
+Moda,Other,,,"4749 Keele Street, North York M3J 2N9",Drinks Only,50.0,North York
+Izik's Place,BAR,,,"529 Wilson Heights Boulevard, North York",Bar Food,25.0,North York
+Oriental Express,QUICK BITES,,,"Sheppard Centre, Main Floor, 4841 Yonge Street, North York M2N 5X2","Asian, Fast Food",15.0,North York
+Caffeine Toronto's Cafe,CAFÉ,,,"1448 Lawrence Avenue East, North York, ON M4A 2S8","Cafe, Coffee and Tea",15.0,North York
+RH Toronto Courtyard Café,CASUAL DINING,,,3401 Dufferin Street,Canadian,35.0,North York
+Yummy Lunch Cafe,CAFÉ,,,"185 Bridgeland Avenue, North York","Cafe, American",20.0,North York
+Foodwares Cafe,QUICK BITES,,,"Yorkdale Mall, 3401 Dufferin Street, Inside the Bay, North York",Cafe,30.0,North York
+Royal Korean Cuisine,QUICK BITES,,,"3220 Dufferin street, North York","Korean, Asian",15.0,North York
+Columbia Snack Bar,QUICK BITES,,,"2925 Dufferin Street, North York",Latin American,30.0,North York
+Lucky Garden,CASUAL DINING,,,"2483 Finch Avenue West, North York","Chinese, Guyanese, Asian, Caribbean",30.0,North York
+Dat Tuong,BAR,,,"2137 Jane Street, North York",Bar Food,50.0,North York
+Curva Nord Bar,CAFÉ,,,"772 Wilson Avenue, North York",Cafe,15.0,North York
+Dilly Sports Bar,BAR,,,"748 Wilson Avenue, North York M3K 1E2",Bar Food,30.0,North York
+Cafe Monterey - Holiday Inn Toronto-Yorkdale,CASUAL DINING,,,"3450 Dufferin Street, North York",Canadian,50.0,North York
+Kawilihan Sound Bar & Grill,CASUAL DINING,,,"1021 Wilson Avenue, North York M3K 1G7","Filipino, Asian",55.0,North York
+All La,QUICK BITES,,,"Lawrence Square, 700 Lawrence Avenue, North York","Chinese, Asian",25.0,North York
+Juicy King,BEVERAGE SHOP,,,"Lawrence Square, 700 Lawrence Avenue West, North York","Beverages, Juices",20.0,North York
+Cafe Mondiale Bar,CASUAL DINING,,,"1947 Sheppard Avenue West, North York","Pizza, Italian",35.0,North York
+Marcelina's,CASUAL DINING,,,"355 Wilson Avenue, North York","Filipino, Asian",,North York
+Rimini Cafe & Bar,CASUAL DINING,,,"510 Sheppard Avenue West, North York",Cafe,40.0,North York
+Grill Master,Other,,,"Sheridan Mall, Food Court, 1700 Wilson Avenue, North York","Grill, Burger, Fast Food",20.0,North York
+Porto,CASUAL DINING,,,"2965 Islington Avenue, North York",Italian,45.0,North York
+The Crayfish & Crab Seafood,QUICK BITES,,,"10 Northtown Way, Unit 111, Toronto M2N 7L4",Chinese,25.0,North York
+North Star Bar & Grill,BAR,,,"5433 Yonge Street, North York M2N 5R6",Bar Food,60.0,North York
+Tea Masters,QUICK BITES,,,"793 Don Mills Road, North York M3C 1T9",Cafe,15.0,North York
+Seneca Pub,BAR,,,"Peanut Plaza, 3030 Don Mills Road, North York M2J 3K3",Bar Food,35.0,North York
+East Dragon,CASUAL DINING,,,"Peanut Plaza, 3030 Don Mills Road, North York","Korean, Japanese, Asian",30.0,North York
+El Cielo,BAR,,,"2290 Keele Street, North York",Drinks Only,40.0,North York
+Garden of Eden Sports Bar,BAR,,,"4801 Steeles Avenue West, North York",Bar Food,50.0,North York
+Caribbean House,QUICK BITES,,,"3322 Keele Street, North York M3K 2C5","Chinese, Caribbean, Asian",25.0,North York
+G J Restaurant,CASUAL DINING,,,"1126 Finch Avenue West, North York",Bar Food,40.0,North York
+Calypso Kitchen,Other,,,"Sheppard Centre, Food Court, 4841 Yonge Street, North York M2N 5X2","Caribbean, Fast Food",25.0,North York
+Red Rouge Cafe & Restaurant,CASUAL DINING,,,"Finchdale Plaza, Finch Avenue West, Humber Summit, North York",Middle Eastern,20.0,North York
+Bikaneri Sweets Restaurant,QUICK BITES,,,"310 Eddystone Avenue, North York","Indian, Fast Food",20.0,North York
+El Charrua,BAR,,,"750 Oakdale Road, North York M3N 2Z4","Bar Food, Latin American",35.0,North York
+Wilson Cafe & Kebab,QUICK BITES,,,"926 Wilson Avenue, North York",Kebab,,North York
+Bubble Fun,BEVERAGE SHOP,,,"45 Four Winds Drive, North York","Bubble Tea, Beverages",10.0,North York
+Gustus,QUICK BITES,,,"1110 Wilson Avenue, North York",Peruvian,35.0,North York
+Lucky Sweets & Restaurant,QUICK BITES,,,"2985 Islington Avenue, North York",Indian,20.0,North York
+Starbucks,CAFÉ,,,4025 Yonge Street M2P 2E3,"Cafe, Coffee and Tea",,North York
+George's Bar & Restaurant,CASUAL DINING,,,"2300 Finch Avenue West, Unit 68, Humber Summit, North York M9M 2Y3",Middle Eastern,30.0,North York
+Bar Communale Sport,CAFÉ,,,"2300 Finch Avenue West, Unit 69, North York M9M 2C6",Cafe,10.0,North York
+Chainsmoker Urban Smoked Meat,CASUAL DINING,,,"3513 Bathurst Street, North York, ON M6A 2C5","BBQ, Grill",35.0,North York
+Pizzaville,QUICK BITES,,,"81 Gerry Fitzgerald Dr Unit A2, North York, ON M3J 3N4",Pizza,15.0,North York
+Kalesa,FAST CASUAL,,,"3610 Dufferin St, North York",Filipino,15.0,North York
+Yonge Bistro,QUICK BITES,,,"5533, Yonge St, North York, Toronto, ON M2N 7L3",Japanese,60.0,North York
+East Side Mario's Toronto (Dufferin/Steeles),CASUAL DINING,,,"2171 Steeles Ave W M3J 3N2, Toronto, ON, Toronto",Italian,55.0,North York
+Waiting Room Coffee Shop,CAFÉ,,,"4800 Leslie Street, North York","Coffee and Tea, Cafe",,North York
+Perfect Cup,CAFÉ,,,"Sheridan Mall, 1700 Wilson Avenue, North York",Cafe,20.0,North York
+Top One Lounge,Other,,,"Finch and Keele Commercial Centre, Unit 44, 1330 Finch Avenue West, North York",Bar Food,40.0,North York
+Sandwich Plus,QUICK BITES,,,"877 Alness Street, North York",Sandwich,20.0,North York
+Gettoni Sports Bar & Cafe,CAFÉ,,,"2298 Keele Street, North York","Cafe, Bar Food, Beverages",25.0,North York
+Coffee Pot Cafe,CAFÉ,,,"Jane Sheppard Mall, 2721 Jane Street, North York",Cafe,20.0,North York
+Juicy Juice Fish House,QUICK BITES,,,"2481 Finch Avenue West, North York","Caribbean, West Indian",25.0,North York
+Classic Lounge,Other,,,"30 Beverly Hills Drive, North York M3L 1A1","Bar Food, Caribbean",50.0,North York
+Schulich Market Cafe,CAFÉ,,,"Seymour Schulich Building, 111 Ian Macdonald Boulevard, North York","Coffee and Tea, Cafe",15.0,North York
+TLC Cafe,CAFÉ,,,"1000 Finch Avenue West, North York",Cafe,15.0,North York
+Ali Baba's,QUICK BITES,,,"2389 Finch Avenue, North York",Middle Eastern,25.0,North York
+Cafe On The Go,CAFÉ,,,"Centerpoint Mall, Ground Floor, 6464 Yonge Street, North York M2M 3X4",Cafe,15.0,North York
+Patio Indian Restaurant,CASUAL DINING,,,"15 Gervais Drive, North York M3C 1Y8",Indian,30.0,North York
+Dirty Grill,FAST CASUAL,,,"10-C112, Mallard Rd, Toronto, ON M3B 0A7",Fast Food,20.0,North York
+Happy Tea,Other,,,"5629, Yonge Street, North York ON, M2M 3S9",Tea,15.0,North York
+Beijing Hot Pot Restaurant,CASUAL DINING,,,"107 Parkway Forest Dr, North York","Chinese, Asian",30.0,North York
+Pho V Express,FAST CASUAL,,,"1923 Avenue Road, North York, ON M5M 4A2",Vietnamese,20.0,North York
+Shanghai 360,CASUAL DINING,,,"3401 Dufferin St, North York, Toronto","Chinese, Shanghai",35.0,North York
+Pane Fresco at Fortinos,CASUAL DINING,,,"700 Lawrence Ave W, North York, Toronto M6A 3B4",Fast Food,25.0,North York
+Saigon Pearl,CASUAL DINING,,,"Finch Main Plaza, 2437 Finch Avenue West, North York","Vietnamese, Asian",40.0,North York
+Sunhot,QUICK BITES,,,"Lawrence Square, 700 Lawrence Avenue West, North York M6A 3B4","Korean, Asian",20.0,North York
+Go Fresh Pita,QUICK BITES,,,"1390 Don Mills Road, North York","Lebanese, Kebab, Middle Eastern",25.0,North York
+HomeBase Bar & Grill,BAR,,,"3232 Steeles Avenue West, North York",Bar Food,45.0,North York
+HY Lounge,BAR,,,"4909 Yonge Street, North York",Bar Food,70.0,North York
+Yummy Cravings,BEVERAGE SHOP,,,"2111 Jane Street, Unit 12, North York","Juices, Beverages",10.0,North York
+The Lounge,QUICK BITES,,,"York Wood Plaza, 2881 Jane Street, North York",Fast Food,25.0,North York
+The Boys Club,CAFÉ,,,"768 Wilson Avenue, North York",Cafe,30.0,North York
+Honey's Bar & Restaurant,CASUAL DINING,,,"2400 Finch Avenue West, Humber Summit, North York",African,50.0,North York
+Caspi Restaurant,CASUAL DINING,,,"2727 Steeles Ave West, North York",Eastern European,80.0,North York
+Panini Factory,QUICK BITES,,,"1 Whitehorse Road, North York",Sandwich,25.0,North York
+Pho Dung,CASUAL DINING,,,"2522 Jane Street, North York","Vietnamese, Asian",35.0,North York
+Cumparis,QUICK BITES,,,"3610 Dufferin Street, North York",Italian,15.0,North York
+The Garden Sports Lounge,BAR,,,"594 Marlee Avenue, North York",Bar Food,,North York
+Deco's Deli,QUICK BITES,,,"1183 Finch Avenue West, North York",Deli,15.0,North York
+Alex Variety,CAFÉ,,,"180 Steeles Avenue, North York","Cafe, Middle Eastern",15.0,North York
+Absinthe Pub,BAR,,,"4700 Keele Street, Toronto M3J 2S5",Coffee and Tea,25.0,North York
+Starbucks,CAFÉ,,,5150 Yonge Street M2N 6L7,"Cafe, Coffee and Tea",,North York
+David 649,CAFÉ,,,"1939 Sheppard Avenue West, North York",Cafe,20.0,North York
+KKORAE,CASUAL DINING,,,"3 Finch Avenue E, Toronto M2N 4P9",Korean,20.0,North York
+Kiva's Bagel Bakery,QUICK BITES,,,"1027 Steeles Avenue W, North York M2R 2T1","Bagels, Sandwich",10.0,North York
+North York,Other,,,CUISINES:,Indian,25.0,North York
+La Quina Rotisserie,CASUAL DINING,,,"3250 Dufferin Street, Unit 5, Toronto M6A 2T3","Fusion, Peruvian",30.0,North York
+Druxy's Famous Deli,QUICK BITES,,,"255 Consumers Road, Unit 200A, Toronto, ON M2J 1R4 M2J 1R4",Canadian,25.0,North York
+Goûter,BAKERY,,,"3507 Bathurst St, North York M6A 2C5",Bakery,25.0,North York
+Anju Bar & Eatery,BAR,,,"6080 Yonge Street, North York, ON M2M 3W6","Canadian, Korean",45.0,North York
+Potbelly Sandwich Shop,Other,,,"4841 Yonge Street, North York, ON M2N 5X2",Sandwich,15.0,North York
+Pizza Hot Wings,QUICK BITES,,,"3883 Don Mills Road, North York, ON M2H 2S7",Pizza,25.0,North York
+Captain's Catch,CASUAL DINING,,,"2111 Sheppard Avenue East, North York, ON M2J 1W6",Canadian,40.0,North York
+One Ten Cafe,CAFÉ,,,"110-28 Finch Avenue W, North York, ON M2N 2G7",Cafe,20.0,North York
+Sophia Japanese Crepe,Other,,,"5629, Yonge Street, North York ON, M2M 3S9",Desserts,15.0,North York
+The Maker Bean Cafe,CAFÉ,,,"770 Don Mills Road, North York, Toronto",Cafe,,North York
+Yang’s,CASUAL DINING,,,"5285 Yonge Street Toronto, ON M2N 5R3",Chinese,25.0,North York
+Quiznos,Other,,,3747 Keele Street,Sandwich,15.0,North York
+Second Cup Coffee Co. featuring Pinkberry Frozen Yogurt,Other,,,693 Wilson Avenue,Coffee and Tea,15.0,North York
+Harvey's,QUICK BITES,,,"801, York Mills Road, City York Mills, ON M3B 1X7","Fast Food, Canadian, Burger",25.0,North York
+Muncheez Creperie,QUICK BITES,,,"6983 Yonge Street, North York, Toronto ON M2M 3X9",French,35.0,North York
+Papa's Ristorante,QUICK BITES,,,"190 Toryork Drive, North York","Italian, Diner",30.0,North York

@@ -1,0 +1,303 @@
+Name,EstablishmentType,Rating,NumReviews,Address,Cuisine,CostForTwo,City
+Pai,CASUAL DINING,4.9,615.0,"18 Duncan Street, Toronto","Thai, Asian",50.0,Entertainment District
+Momofuku Noodle Bar,CASUAL DINING,3.3,542.0,190 University Avenue M5H 0A3,"Japanese, Asian",60.0,Entertainment District
+JaBistro,CASUAL DINING,4.6,285.0,"222 Richmond Street West, Toronto M5V1W4 1W4",Sushi,100.0,Entertainment District
+Burrito Boyz,QUICK BITES,4.5,639.0,"224 Adelaide Street West, Toronto M5H 1W7","Mexican, Fast Food",25.0,Entertainment District
+Byblos,CASUAL DINING,4.7,168.0,11 Duncan Street M5V 3M2,Mediterranean,90.0,Entertainment District
+360 Restaurant,FINE DINING,4.1,345.0,"CN Tower, 301 Front Street West, Toronto M5V 2T6","Canadian, Grill",180.0,Entertainment District
+Sweet Jesus,DESSERT PARLOR,3.8,130.0,"106 John Street, Toronto M5H 1X9","Ice Cream, Coffee and Tea",15.0,Entertainment District
+Yuzu No Hana,CASUAL DINING,4.5,226.0,"236 Adelaide Street West, Toronto M5H 1W7","Sushi, Japanese, Asian",100.0,Entertainment District
+Little India,CASUAL DINING,4.2,279.0,"255 Queen Street West, Toronto M5V1Z4",Indian,40.0,Entertainment District
+Queen Mother Cafe,CASUAL DINING,4.3,327.0,"208 Queen Street West, Toronto M5V 1Z2",Asian Fusion,50.0,Entertainment District
+Ravi Soups,QUICK BITES,4.9,238.0,"322 Adelaide Street West, Toronto M5V 1R1","Sri Lankan, Healthy Food",35.0,Entertainment District
+RS - Real Sports,CASUAL DINING,3.9,279.0,"Maple Leaf Square, 15 York Street, Toronto, ON M5J 2Z2","Bar Food, Grill",80.0,Entertainment District
+Thoroughbred,BAR,4.3,112.0,"304 Richmond Street West, Toronto M5V 1X2","Fusion, Canadian, Bar Food",80.0,Entertainment District
+Luckee by Susur Lee,CASUAL DINING,4.1,112.0,"SoHo Metropolitan Hotel, 328 Wellington Street West, Toronto M5V 3T4","Dim Sum, Chinese, Asian",100.0,Entertainment District
+O&B Canteen,CASUAL DINING,3.9,246.0,"330 King Street West, Toronto, ON M5V 3X2 3X2",Canadian,60.0,Entertainment District
+Queen Street Warehouse,CASUAL DINING,3.6,112.0,"232 Queen Street West, Toronto M5V 1Z6","American, Bar Food",30.0,Entertainment District
+Korean Grill House,CASUAL DINING,4.2,198.0,"214 Queen Street West, Toronto","BBQ, Korean",45.0,Entertainment District
+Bosk - Shangri-La Hotel,FINE DINING,4.0,75.0,"Shangri-La Hotel, 188 University Avenue, Toronto M5H 0A3","Asian, Canadian",120.0,Entertainment District
+Alo Restaurant,FINE DINING,4.1,47.0,"163 Spadina Avenue, 3rd Floor, Toronto M5V 2L6",French,100.0,Entertainment District
+Fusaro's Italian Kitchen,CASUAL DINING,4.3,116.0,"147 Spadina Avenue, Toronto M5V 2L7",Italian,50.0,Entertainment District
+Smoke's Poutinerie,QUICK BITES,3.8,257.0,"218 Adelaide Street West, Toronto M5H 1W7",Canadian,25.0,Entertainment District
+Fresh on Spadina,FAST CASUAL,4.0,211.0,"147 Spadina Ave, Toronto M5V 2L7","Healthy Food, Juices",40.0,Entertainment District
+Kit Kat Italian Bar & Grill,CASUAL DINING,4.1,206.0,"297 King Street West, Toronto M5V 1J5","Italian, Grill, Bar Food",60.0,Entertainment District
+Luma,FINE DINING,4.1,174.0,"2nd Floor, 350 King Street West, Reitman Square, Toronto M5V 3X5","Canadian, Fusion, Seafood, Bar Food",,Entertainment District
+Bar Hop,CASUAL DINING,4.2,137.0,"391 King Street West, Toronto M5V 1K1","Bar Food, Canadian",70.0,Entertainment District
+Milagro,CASUAL DINING,3.9,178.0,"5 Mercer Street, Toronto M5V 1H2",Mexican,60.0,Entertainment District
+Blowfish,CASUAL DINING,4.1,176.0,"668 King Street West, Toronto, ON M5V 1M7","Sushi, Japanese, Brazilian",100.0,Entertainment District
+Pizzeria Libretto,CASUAL DINING,4.0,96.0,"155 University Avenue, Toronto","Pizza, Italian",50.0,Entertainment District
+Copacabana Grilled Brazilian,CASUAL DINING,4.0,124.0,"Upper Floor, 230 Adelaide Street West, Toronto M5H 3H1","Steak, Grill, Brazilian",100.0,Entertainment District
+Momofuku Daishō,CASUAL DINING,3.2,131.0,"Momofuku, Third Floor, 190 University Avenue, Toronto",Asian Fusion,80.0,Entertainment District
+Town Crier Pub,BAR,4.4,148.0,"115 John Street, Toronto M5V 2E2","Bar Food, German, Belgian",65.0,Entertainment District
+Touhenboku Ramen,CASUAL DINING,3.4,131.0,"261 Queen Street West, Toronto M5V 1Z4","Ramen, Japanese",40.0,Entertainment District
+Momofuku Milk Bar,DESSERT PARLOR,3.5,97.0,"Momofuku, Second Floor, 190 University Avenue, Toronto M5H 0A3",Desserts,35.0,Entertainment District
+The Loose Moose,BAR,3.9,161.0,"146 Front Street West, Toronto M5J 1G2","Bar Food, Mexican",80.0,Entertainment District
+Wayne Gretzky's,CASUAL DINING,2.9,193.0,"99 Blue Jays Way, Toronto M5V 9G9","Canadian, Grill, Bar Food",70.0,Entertainment District
+Aroma - Fine Indian Cuisine,CASUAL DINING,3.8,146.0,"287 King Street West, Toronto M5V 1J5",Indian,45.0,Entertainment District
+Fred's Not Here,CASUAL DINING,3.7,155.0,"321 King Street West, Toronto M5V 1J5","Steak, Grill, Seafood",100.0,Entertainment District
+309 Dhaba Indian Excellence,CASUAL DINING,3.9,126.0,"309 King Street W, Toronto M5V 1J5",Indian,40.0,Entertainment District
+Montecito,FINE DINING,3.8,98.0,"299 Adelaide Street West, Toronto M5V 1P7 1R2","Fusion, Italian",120.0,Entertainment District
+Buonanotte,CASUAL DINING,3.6,80.0,"19 Mercer Street, Toronto",Italian,100.0,Entertainment District
+Fune,CASUAL DINING,4.3,110.0,"100 Simcoe Street, Toronto M5H 3L2","Sushi, Japanese, Asian",70.0,Entertainment District
+La Carnita,CASUAL DINING,3.5,39.0,"106 John Street, Toronto M5H 1X9",Mexican,35.0,Entertainment District
+Michael's On Simcoe,FINE DINING,3.8,82.0,"100 Simcoe Street, Toronto M5H 3G2","Steak, Seafood, Italian",100.0,Entertainment District
+Wahlburgers,CASUAL DINING,3.2,174.0,"46 Blue Jays Way, Toronto M5V 2G3",Burger,35.0,Entertainment District
+TOCA,FINE DINING,4.2,73.0,181 Wellington Street West M5V 3G7,Italian,140.0,Entertainment District
+Corned Beef House,CASUAL DINING,4.3,99.0,"270 Adelaide Street West, Toronto M5H 1X6",Deli,35.0,Entertainment District
+Azure - InterContinental Toronto Centre Hotel,CASUAL DINING,3.1,68.0,"InterContinental Toronto Centre Hotel, 225 Front Street West, Toronto M5V 2X3",Canadian,100.0,Entertainment District
+Jack Astor's,CASUAL DINING,3.7,128.0,"144 Front Street West, Toronto M5J 1G2",Bar Food,55.0,Entertainment District
+Momofuku Shōtō,FINE DINING,3.3,69.0,"Momofuku, Third Floor, 190 University Avenue, Toronto M5H 0A3","Japanese, Asian",180.0,Entertainment District
+Tutti Matti,CASUAL DINING,3.8,100.0,"364 Adelaide Street West, Toronto",Italian,100.0,Entertainment District
+SOCO Kitchen + Bar,CASUAL DINING,3.6,46.0,"Delta Toronto, 75 Lower Simcoe Street, Toronto M5J 3A6","European, American",85.0,Entertainment District
+259 Host,CASUAL DINING,4.1,85.0,"259 Wellington Street W, Toronto M5V 3E4",Indian,50.0,Entertainment District
+Kanga,QUICK BITES,3.9,70.0,"65 Duncan Street, Toronto M5V 2C5",Australian,25.0,Entertainment District
+The Red Tomato,BAR,3.2,53.0,"321 King Street West, Toronto",Italian,50.0,Entertainment District
+Elephant & Castle,CASUAL DINING,3.4,98.0,"212 King Street West, Toronto M5H 1K5","Bar Food, British",85.0,Entertainment District
+The Badali Bar and Cucina,CASUAL DINING,3.7,102.0,"156 Front Street West, Toronto M5J 2L6",Italian,65.0,Entertainment District
+The Shore Club - Toronto,CASUAL DINING,3.9,70.0,155 Wellington Street West M5V 3H1,"Seafood, Steak",100.0,Entertainment District
+Mi Ne Sushi,CASUAL DINING,3.9,91.0,"325 Bremner Boulevard, Toronto","Sushi, Japanese, Asian",85.0,Entertainment District
+Cora's Breakfast & Lunch,CASUAL DINING,3.9,112.0,"277 Wellington Street West, Toronto","Diner, Canadian",35.0,Entertainment District
+The Beverley - The Beverley Hotel,CASUAL DINING,3.8,42.0,"The Beverley Hotel, 335 Queen Street West, Toronto M5V 2A1","Canadian, Fusion",100.0,Entertainment District
+Millie Patisserie & Creamery,DESSERT PARLOR,3.4,19.0,"36 Charlotte Street, Unit 101, Toronto M5V 3P7","Desserts, Japanese",15.0,Entertainment District
+N'Awlins,CASUAL DINING,3.8,70.0,"299 King Street West, Toronto M5V 1J5","Cajun, Italian",60.0,Entertainment District
+The Porch,CASUAL DINING,2.9,30.0,"250 Adelaide Street West, Toronto M5H 1X6","Bar Food, American",50.0,Entertainment District
+The Fifth Grill & Terrace,FINE DINING,3.8,55.0,"225 Richmond Street West, Toronto M5V 1W2 1W2","French, Steak",150.0,Entertainment District
+Kama,CASUAL DINING,3.6,101.0,"214 King Street W, Toronto M5J 2H5",Indian,50.0,Entertainment District
+Il Fornello,CASUAL DINING,3.4,89.0,"214 King Street West, Toronto",Italian,65.0,Entertainment District
+Bloke,Other,4.0,69.0,"401 King Street West, Toronto M5V 1K1","Canadian, Bar Food",50.0,Entertainment District
+The Ballroom,BAR,3.6,68.0,"145 John Street, Toronto M5V 2E4","Bar Food, Canadian, Mexican, Burger",70.0,Entertainment District
+Lone Star Texas Grill,CASUAL DINING,3.5,94.0,"212 King Street West, Toronto M5H 1K5","Tex-Mex, Bar Food",80.0,Entertainment District
+Victor,CASUAL DINING,3.8,47.0,"Hotel Le Germain, 30 Mercer Street, Toronto M5V 3C6",Canadian,100.0,Entertainment District
+Hey Lucy,CASUAL DINING,3.9,137.0,"295 King Street West, Toronto M5V 1J5 1J6",Italian,45.0,Entertainment District
+King Street Social Kitchen & Bar - Hyatt Regency...,CASUAL DINING,3.6,34.0,"Hyatt Regency Toronto, 370 King Street West, Toronto M5V 1J9",Canadian,80.0,Entertainment District
+CJ Lunch Box,QUICK BITES,4.0,58.0,"409 Richmond Street West, Toronto M5V 1X2","Sushi, Japanese",15.0,Entertainment District
+Ginger,QUICK BITES,3.9,76.0,"212 Queen Street West, Toronto M5V 1Z2",Vietnamese,25.0,Entertainment District
+Figo,CASUAL DINING,3.2,25.0,295 Adelaide Street West. M5V 1P6,Italian,50.0,Entertainment District
+Penelope,CASUAL DINING,4.0,66.0,"225 King Street West, Toronto M5V 3M2",Greek,60.0,Entertainment District
+Chipotle,FAST CASUAL,3.7,72.0,"123 Front Street West, Unit 105, Toronto M5J 2M3",Tex-Mex,30.0,Entertainment District
+Khao San Road,CASUAL DINING,3.7,31.0,"11 Charlotte Street, Toronto M5V 2H5",Thai,30.0,Entertainment District
+Maki My Way,CASUAL DINING,3.4,30.0,"293 King Street West, Toronto M5V 1J5","Sushi, Japanese",30.0,Entertainment District
+Pizza Rustica,CASUAL DINING,4.0,153.0,"270 Wellington Street West, Toronto M5V 3P5",Pizza,55.0,Entertainment District
+Pearl King,CASUAL DINING,3.2,30.0,"291 King Street West, Toronto M5V 1J5","Dim Sum, Chinese",50.0,Entertainment District
+Grace O'Malley's,CASUAL DINING,3.0,51.0,"14 Duncan Street, Toronto",Bar Food,50.0,Entertainment District
+Thai Princess,CASUAL DINING,3.6,68.0,"387 King Street West, Toronto M5V 1K1","Thai, Asian",40.0,Entertainment District
+Vertical,CASUAL DINING,3.7,62.0,"First Canadian Place, 100 King Street West, Toronto M5X1E1",Italian,65.0,Entertainment District
+Moxie's Grill & Bar,CASUAL DINING,4.0,42.0,"70 University Avenue, Toronto M5J 2M4","Grill, Steak, Canadian, Fusion",65.0,Entertainment District
+Joe Mamas,CASUAL DINING,3.4,59.0,"317 King Street West, Toronto M5V 1J5","American, Steak",60.0,Entertainment District
+Hooters,CASUAL DINING,3.0,66.0,"280 Adelaide Street West, Toronto M5V 1P6","American, Bar Food",70.0,Entertainment District
+Sushi Time,CASUAL DINING,3.3,61.0,"325 Queen Street West, Toronto M5V 2A4","Sushi, Japanese, Asian",40.0,Entertainment District
+Hoops Sports Bar & Grill,BAR,2.2,64.0,"125 Bremner Boulevard, Toronto M5J 3A8","Bar Food, Burger",65.0,Entertainment District
+Flock,QUICK BITES,3.4,21.0,"330 Adelaide Street West, Toronto M5V 1R4","Healthy Food, Grill",25.0,Entertainment District
+Taverna Mercatto,CASUAL DINING,3.6,30.0,"120 Bremner Boulevard, Toronto M5J 3A6",Italian,70.0,Entertainment District
+Lobby Lounge - Shangri-La Hotel,CASUAL DINING,3.6,25.0,"Shangri-La Hotel, 188 University Avenue, Toronto M5T 1A1","Tea, Asian Fusion",100.0,Entertainment District
+The Tavern By Trevor,CASUAL DINING,3.3,32.0,"147 Spadina Avenue, Toronto M5V 2K8","Bar Food, Fusion",60.0,Entertainment District
+Aroma Espresso Bar,CAFÉ,3.4,42.0,"430 King Street West, Toronto",Cafe,25.0,Entertainment District
+Gabby's,CASUAL DINING,3.0,61.0,"309 King Street West, Toronto M5V 1J5",Bar Food,55.0,Entertainment District
+Nora Shawarma,QUICK BITES,3.6,49.0,"141 Spadina Avenue, Toronto M5V 1X3",Middle Eastern,,Entertainment District
+Mascot Brewery,BAR,3.0,22.0,"31 Mercer Street, Toronto M5V 1H2",Bar Food,40.0,Entertainment District
+Fox on John,CASUAL DINING,3.1,28.0,106 John Street #3 M5H 1X9,"Bar Food, British",55.0,Entertainment District
+The Office Pub,BAR,3.5,54.0,"117 John Street, Toronto M5V 2E2",Bar Food,65.0,Entertainment District
+The Jerk Joint,QUICK BITES,3.6,33.0,"238 Queen Street West, Inside Queen Live Market, Toronto M5V 1Z9","Jamaican, Caribbean",25.0,Entertainment District
+The Burger's Priest,QUICK BITES,3.0,27.0,"212 Adelaide St W, Toronto M5H 1W7",Burger,30.0,Entertainment District
+Arriba - Renaissance Toronto Downtown Hotel,CASUAL DINING,3.6,38.0,"Renaissance Toronto Downtown Hotel, One Blue Jays Way, Toronto M5V 1J4",Modern European,90.0,Entertainment District
+Melt Grilled Cheese,QUICK BITES,3.3,29.0,"300 Richmond Street West, Toronto M5V 1X2",Canadian,25.0,Entertainment District
+Casey's,CASUAL DINING,3.1,46.0,"123 Front Street West, Toronto M5J 2M2","Grill, American",70.0,Entertainment District
+Forget About It! Supper Club,CASUAL DINING,3.6,40.0,"325 King Street West, Toronto M5V 1J5",Italian,80.0,Entertainment District
+Rock 'n' Horse Saloon,BAR,3.2,20.0,"250 Adelaide Street West, Toronto M5H 1X6",Bar Food,65.0,Entertainment District
+The Belly Buster,QUICK BITES,3.0,41.0,"389 King Street West, Toronto M5V 1K1",Sandwich,20.0,Entertainment District
+Buna's Kitchen,QUICK BITES,3.7,12.0,"388 Richmond Street West, Toronto M5V 3P1",European,30.0,Entertainment District
+Mi Taco Taqueria,QUICK BITES,3.0,16.0,"247 Queen Street West, Toronto M5V 1H2",Mexican,25.0,Entertainment District
+Kiin,CASUAL DINING,3.6,12.0,"326 Adelaide Street West, Toronto",Thai,25.0,Entertainment District
+Z-Teca,QUICK BITES,3.2,55.0,"327 King Street West, Toronto M5V 1J5",Tex-Mex,25.0,Entertainment District
+Crocodile Rock,BAR,3.4,31.0,"240 Adelaide Street West, Toronto M5H 1W7",Bar Food,50.0,Entertainment District
+Second Cup Coffee Co. featuring Pinkberry Frozen Yogurt,CAFÉ,3.6,21.0,287-289 King Street West M5V 1J5,"Cafe, Fast Food",20.0,Entertainment District
+Fionn MacCool's,CASUAL DINING,3.2,34.0,"310 Front Street West, Toronto M5V3B6","Bar Food, Irish, Canadian",60.0,Entertainment District
+Parcae,BAR,3.1,6.0,"348 Adelaide Street West, Toronto M5V 1R7",Tapas,90.0,Entertainment District
+DEQ Terrace & Lounge - The Ritz-Carlton,Other,3.7,23.0,"The Ritz-Carlton, 181 Wellington Street West, Toronto M5V 3G7","Tapas, Tea",80.0,Entertainment District
+Horizons Restaurant,CASUAL DINING,2.9,26.0,"CN Tower, 301 Front Street West, Toronto M5V 2T6","Canadian, Burger",90.0,Entertainment District
+Milano Espresso Bar,CAFÉ,3.4,14.0,"266 Adelaide Street West, Toronto M4K 3E6",Cafe,15.0,Entertainment District
+Shoeless Joe's,BAR,3.7,35.0,"276 King Street West, Toronto","American, Bar Food",60.0,Entertainment District
+Dark Horse Espresso Bar,CAFÉ,3.5,18.0,"125 John Street, Toronto",Cafe,25.0,Entertainment District
+Momofuku Nikai,CASUAL DINING,3.4,18.0,"Momofuku, Second Floor, 190 University Avenue, Toronto M5H 0A3","Asian Fusion, Bar Food",80.0,Entertainment District
+Quesada,QUICK BITES,3.4,46.0,"234 Wellington Street West, Toronto M5V 3W1",Tex-Mex,25.0,Entertainment District
+Boston Pizza,CASUAL DINING,3.1,30.0,"250 Front Street West, Toronto","American, Pizza",40.0,Entertainment District
+Calii Love,CASUAL DINING,3.0,14.0,"367 King Street W, Toronto M5V 1K1","Hawaiian, Juices, Cafe",25.0,Entertainment District
+St. Louis Bar and Grill,CASUAL DINING,3.3,33.0,"313 Bremner Blvd, Toronto, ON M5V 3V3","Bar Food, Grill",40.0,Entertainment District
+Green Curry,QUICK BITES,3.7,26.0,"Simcoe Place, 200 Front Street West, The PATH, Toronto M5V 3K2","Thai, Vietnamese",25.0,Entertainment District
+David's Tea,BEVERAGE SHOP,3.6,36.0,"278 Queen Street West, Toronto","Tea, Beverages",15.0,Entertainment District
+Scaddabush,CASUAL DINING,3.4,15.0,"200 Front Street West, Toronto M5V 3J1",Italian,30.0,Entertainment District
+Pita & Grill,QUICK BITES,2.8,20.0,"131 Bremner Boulevard, Toronto",Middle Eastern,35.0,Entertainment District
+Gourmet Gringos,Other,3.6,25.0,Location Varies,"Latin American, Mexican, Spanish",25.0,Entertainment District
+Corrado's,QUICK BITES,3.3,16.0,"118 John Street, Toronto M5V 2E2","Pizza, Sandwich, Italian, Greek",25.0,Entertainment District
+Ricardas,CASUAL DINING,3.5,10.0,"134 Peter Street, Toronto M5V 2H2","Mediterranean, Bakery",25.0,Entertainment District
+Evviva,CASUAL DINING,3.0,15.0,"25 Lower Simcoe Street, Toronto M5J 3A1",Italian,40.0,Entertainment District
+The Roastery,CAFÉ,3.6,11.0,"401 Richmond Street West, Toronto M5V 1X3",Cafe,25.0,Entertainment District
+Urawa,CASUAL DINING,2.9,23.0,"254 Adelaide Street West, Toronto","Sushi, Japanese, Asian",50.0,Entertainment District
+Osmow's,QUICK BITES,3.3,17.0,"155 John Street, Toronto",Mediterranean,30.0,Entertainment District
+Taco Del Mar,QUICK BITES,3.5,21.0,135 Bremner Boulevard,"Mexican, Fast Food",25.0,Entertainment District
+Superfood Eateries,QUICK BITES,3.4,15.0,"268 Adelaide Street West, Toronto M5H 1X6",Healthy Food,40.0,Entertainment District
+Parlour,BAR,3.0,19.0,"270 Adelaide Street West, Toronto M5V 2E2",Bar Food,50.0,Entertainment District
+The Coffee Bar Inc,CAFÉ,3.6,17.0,"346 Front Street West, Toronto M5V 3A4",Cafe,20.0,Entertainment District
+Pho Vistro,CASUAL DINING,3.2,10.0,"259 Queen Street West, Toronto M5V 1Z4","Vietnamese, Asian Fusion",25.0,Entertainment District
+Pizzaiolo,QUICK BITES,3.6,25.0,"270 Adelaide Street West, Toronto","Pizza, Fast Food",30.0,Entertainment District
+The Antler Room,BAR,3.2,18.0,"146 Front Street West, Toronto M5J 1G2",Bar Food,60.0,Entertainment District
+Rexfords Prepared Meal Service,QUICK BITES,3.3,8.0,"352 Front Street West, Toronto M5V 0K3","Fusion, Canadian",20.0,Entertainment District
+Kost,CASUAL DINING,3.2,11.0,80 Blue Jays Way,Mexican,,Entertainment District
+Soup Nutsy,QUICK BITES,3.7,24.0,"Metro Centre, 200 Wellington Street West, The PATH, Toronto M5V 3C7","Healthy Food, Canadian",25.0,Entertainment District
+Oniwa,CASUAL DINING,3.0,26.0,"214 King Street West, Toronto M5H 3S6","Sushi, Japanese",40.0,Entertainment District
+Freshly Squeezed,BEVERAGE SHOP,,,"Simcoe Place, 200 Front Street West, The PATH, Toronto","Juices, Beverages",15.0,Entertainment District
+Kelly's Landing,CASUAL DINING,3.4,15.0,"123 Front St W, Toronto M5J 2M2",American,40.0,Entertainment District
+iQ Food Co.,CAFÉ,3.4,12.0,"18 York Street, Toronto M5V 2T6",Cafe,25.0,Entertainment District
+Mamma's Pizza,QUICK BITES,2.9,24.0,"405 Richmond Street West, Toronto","Pizza, Fast Food",25.0,Entertainment District
+Sen5es - SoHo Metropolitan Hotel,CASUAL DINING,3.4,49.0,"SoHo Metropolitan Hotel, 318 Wellington Street West, Toronto M5V 3T4","Canadian, Cafe",55.0,Entertainment District
+Tabouli,QUICK BITES,3.2,21.0,"Simcoe Place, 200 Front Street West, The PATH, Toronto",Mediterranean,25.0,Entertainment District
+Sunset Grill,CASUAL DINING,3.0,10.0,"250 Front Street West, Toronto","Diner, Breakfast",30.0,Entertainment District
+Hot Black Coffee,CAFÉ,3.3,13.0,245 Queen Street W M5V 1Z4,"Cafe, Coffee and Tea",15.0,Entertainment District
+Ritz Bar,CASUAL DINING,3.1,14.0,181 Wellington Street West M5V 3G7,Sushi,100.0,Entertainment District
+Fifth Pubhouse,BAR,3.2,17.0,"221 Richmond Street West, Toronto M5V 1W2 1W2","Canadian, Bar Food",55.0,Entertainment District
+Wide Open,BAR,3.2,11.0,"139A Spadina Avenue, Toronto M5V 2L3",Drinks Only,40.0,Entertainment District
+The Marquis Bistro - Hilton Garden Inn,CASUAL DINING,3.7,16.0,"Hilton Garden Inn, Second Floor, 92 Peter Street, Toronto M5V 2G5","European, Fusion",90.0,Entertainment District
+Smoke's Burritorie,QUICK BITES,2.7,5.0,"218 Adelaide Street West-Lower Level, Toronto M5H 1W7",Mexican,25.0,Entertainment District
+Steam Whistle Brewery,Other,3.5,6.0,"255 Bremner Boulevard, Toronto M5V 3M9",Drinks Only,40.0,Entertainment District
+Pablo Cheesetart,DESSERT PARLOR,3.0,15.0,114 Dundas Street West M5G 1C3,Desserts,,Entertainment District
+La Prep,QUICK BITES,2.7,7.0,"40 University Avenue, Toronto",Cafe,25.0,Entertainment District
+Tachi,CASUAL DINING,3.8,4.0,"111 Richmond St W, Toronto, ON M5H 2G4",Sushi,100.0,Entertainment District
+Burrito Gordito,QUICK BITES,3.0,8.0,"120 Peter Street, Toronto M5V 2G7","Fast Food, Mexican",25.0,Entertainment District
+Panago,QUICK BITES,3.9,19.0,"133 Bremner Boulevard, Toronto","Pizza, Fast Food",30.0,Entertainment District
+Decadent Desserts,DESSERT PARLOR,3.5,14.0,"First Canadian Place, 100 King Street West, The PATH, Toronto M5X 2A2",Desserts,25.0,Entertainment District
+Baba Geddo,QUICK BITES,3.1,10.0,"525 University Ave 4, Toronto M5V 2C5",Middle Eastern,20.0,Entertainment District
+Hot Stove Club,CASUAL DINING,,,"Air Canada Centre, 40 Bay Street, Toronto M5J 2X2",Canadian,100.0,Entertainment District
+La Fenice,CASUAL DINING,3.9,39.0,"319 King Street West, Toronto M5V 1J5",Italian,55.0,Entertainment District
+Jules Cafe Patisserie,BAKERY,3.5,6.0,120 Peter Street,"Bakery, Cafe, French",20.0,Entertainment District
+SU&BU,CASUAL DINING,3.0,6.0,"106 John Street, Toronto M5H 1X9",Japanese,20.0,Entertainment District
+Brioche Dorée,CAFÉ,,,240-200 Wellington Street,"Bakery, Cafe",30.0,Entertainment District
+Amaya Express,QUICK BITES,2.7,15.0,"Simcoe Place, 200 Front Street West, The PATH, Toronto",Indian,40.0,Entertainment District
+Cultures,QUICK BITES,3.6,19.0,"330 Front Street West, Toronto M5V 0G5","Healthy Food, Sandwich",25.0,Entertainment District
+Union Chicken,CASUAL DINING,3.5,6.0,"65 Front St W, Toronto, ON M5J 1E6",Chinese,25.0,Entertainment District
+Aanch,CASUAL DINING,3.4,9.0,"259 Wellington Street West, Toronto, ON M5V 3E4",Indian,35.0,Entertainment District
+Tim Hortons,CAFÉ,3.3,18.0,340 Front Street West,"American, Donuts, Desserts",20.0,Entertainment District
+CASUAL DINING,Other,,,2.7,Bar Food,50.0,Entertainment District
+Burro Burrito,QUICK BITES,3.4,14.0,"388 Richmond Street West, Toronto M5V 3P1",Tex-Mex,25.0,Entertainment District
+Marcello's,QUICK BITES,3.0,13.0,"145 King Street West, The PATH, Toronto M5H 1B6",Deli,20.0,Entertainment District
+Shawarma's King,QUICK BITES,3.0,12.0,"214 King Street West, Toronto M5C 2T3",Middle Eastern,25.0,Entertainment District
+Sammy's Gourmet,QUICK BITES,2.6,15.0,"Metro Centre, 200 Wellington Street West, The PATH, Toronto",Healthy Food,25.0,Entertainment District
+Zoup!,QUICK BITES,3.3,10.0,"Simcoe Place, 200 Front Street West, The PATH, Toronto",Sandwich,25.0,Entertainment District
+Junked Food Co.,QUICK BITES,,,"507 Queen Street W, Toronto M5V 2B4","Fast Food, American",15.0,Entertainment District
+Dublin Calling Party Pub & Kitchen,Other,,,"250 Adelaide St W, Toronto","Irish, Bar Food",50.0,Entertainment District
+Sandwich Box,QUICK BITES,2.8,13.0,"388 Richmond Street West, Toronto M5V 3P1",Healthy Food,20.0,Entertainment District
+Mucho Burrito,QUICK BITES,3.0,10.0,"263 Queen Street West, Toronto",Tex-Mex,30.0,Entertainment District
+Jimmy The Greek,QUICK BITES,3.8,16.0,"Metro Centre, 200 Wellington Street West, The PATH, Toronto",Greek,25.0,Entertainment District
+Maison Mercer,Other,3.3,9.0,"15 Mercer Street, Toronto M5V",Drinks Only,50.0,Entertainment District
+California Thai,QUICK BITES,3.0,14.0,"Metro Centre, 200 Wellington Street West, The PATH, Toronto M5V 3C7","Fast Food, Thai, Asian",25.0,Entertainment District
+Subway,QUICK BITES,3.6,14.0,"393 Front Street West, Toronto",Fast Food,20.0,Entertainment District
+Quiznos,QUICK BITES,2.7,15.0,"228 Wellington Street West, Toronto",Fast Food,25.0,Entertainment District
+Jz's Pizza,CASUAL DINING,3.3,4.0,"232 Wellington Street West, Toronto M5V 3W1",Pizza,40.0,Entertainment District
+Sportsnet Grill,BAR,3.3,4.0,"1 Blue Jays Way, Toronto, ON M5V 1J4","American, Canadian, Bar Food, Grill",45.0,Entertainment District
+Pumpernickel's,QUICK BITES,2.9,12.0,"Simcoe Place, 200 Front Street West, The PATH, Toronto","Deli, Fast Food",25.0,Entertainment District
+Pizza Nova,QUICK BITES,3.2,12.0,"365 Front Street West, Toronto","Pizza, Fast Food",30.0,Entertainment District
+Lite Bite,QUICK BITES,2.9,10.0,"145 Wellington Street West, Toronto M5J 1J1",Deli,15.0,Entertainment District
+The Beverley Rooftop Bar - The Beverley Hotel,BAR,,,"The Beverley Hotel, 335 Queen Street West, Toronto M5V 2A1",Bar Food,60.0,Entertainment District
+Bourbon St. Grill,QUICK BITES,3.4,14.0,"Simcoe Place, 200 Front Street West, The PATH, Toronto","Cajun, Southern",20.0,Entertainment District
+Starbucks,CAFÉ,3.1,12.0,"250 Queen Street West, Toronto",Cafe,20.0,Entertainment District
+Taste of Mediterranean,CASUAL DINING,3.1,8.0,"348 Front Street West, Toronto M5V 3W7",Mediterranean,25.0,Entertainment District
+Pita Pit,QUICK BITES,3.3,12.0,"318 Adelaide Street West, Toronto",Healthy Food,25.0,Entertainment District
+Kojin,CASUAL DINING,,,"190 University Ave, Entertainment District, Toronto",Canadian,55.0,Entertainment District
+Dairy Queen (Treat),DESSERT PARLOR,3.2,12.0,351 Bremner Boulevard,"Ice Cream, Desserts, Fast Food",20.0,Entertainment District
+McDonald's,QUICK BITES,3.0,14.0,"Simcoe Place, 200 Front Street West, The PATH, Toronto",Fast Food,25.0,Entertainment District
+Pretty Sweet,Other,3.6,7.0,Location Varies,Desserts,25.0,Entertainment District
+Buster's Sea Cove,Other,3.1,4.0,"120 Bremner Boulevard, Toronto M5J 0A1",Seafood,50.0,Entertainment District
+Bar 244,Other,2.9,4.0,"244 Adelaide Street West, Toronto M5H 1Y3",Drinks Only,50.0,Entertainment District
+7 Wonders Fine Foods,CAFÉ,2.1,10.0,"250 Front Street West, Toronto M5V 3G5",Cafe,20.0,Entertainment District
+Belmonte Raw,BEVERAGE SHOP,,,"Exchange Tower, 130 King Street West, The PATH, Toronto M5X 1A9","Beverages, Healthy Food",30.0,Entertainment District
+Koya Japan,Other,2.9,10.0,"Exchange Tower, 130 King Street West, The PATH, Toronto","Fast Food, Japanese, Asian",25.0,Entertainment District
+Burger King,QUICK BITES,3.2,11.0,"Metro Centre, 200 Wellington Street West, The PATH, Toronto","Fast Food, Burger",20.0,Entertainment District
+Tiki Ming,QUICK BITES,3.8,11.0,"320 Front Street West, Toronto M5V 3B6","Fast Food, Chinese, Asian",25.0,Entertainment District
+Pizza Pizza,QUICK BITES,3.3,9.0,"228 Queen Street West, Toronto","Pizza, Fast Food",25.0,Entertainment District
+Balzac's Coffee Roasters,CAFÉ,,,"Union Pearson Station, 7 Station Street, Toronto M5J 1C3",Cafe,25.0,Entertainment District
+Umi Sushi Express,QUICK BITES,3.3,9.0,"Simcoe Place, 200 Front Street West, The PATH, Toronto","Sushi, Japanese, Asian",25.0,Entertainment District
+ITO Sushi and Noodle,QUICK BITES,3.5,4.0,"250 Front Street West, Toronto M5V 3G5","Sushi, Japanese, Asian",20.0,Entertainment District
+Roxy on King,CASUAL DINING,,,"284 King Street West, Toronto M5V 1J2","Pizza, Sandwich",25.0,Entertainment District
+Green Box Express,QUICK BITES,3.5,11.0,"200 University Avenue, Toronto M5H","Sandwich, Canadian",20.0,Entertainment District
+The Bar - Shangri-La Hotel,BAR,2.6,5.0,"Shangri-La Hotel, 188 University Avenue, Toronto M5T 1A1",Drinks Only,100.0,Entertainment District
+Hero Certified Burgers,QUICK BITES,3.3,7.0,"Simcoe Place, 200 Front Street West, The PATH, Toronto","Burger, Sandwich",25.0,Entertainment District
+May's Deli,QUICK BITES,3.3,9.0,"Adelaide Place, 181 University Avenue, Toronto M5H3M7",Deli,25.0,Entertainment District
+Teriyaki Experience,QUICK BITES,2.1,7.0,"Metro Centre, 200 Wellington Street West, The PATH, Toronto",Japanese,20.0,Entertainment District
+Select Sandwich,QUICK BITES,2.1,9.0,"100 University Avenue, Toronto","Deli, Sandwich",25.0,Entertainment District
+Fast Fresh Foods,QUICK BITES,2.3,9.0,"Commerce Court, 199 Bay Street, The PATH, Toronto",Healthy Food,25.0,Entertainment District
+Piazza Manna,QUICK BITES,3.3,7.0,"Commerce Court, 199 Bay Street, The PATH, Toronto","Pizza, Fast Food, Italian",20.0,Entertainment District
+Mr. Burrito Plus,QUICK BITES,2.5,7.0,"69 Duncan Street, Toronto M5V 2C5","Fast Food, Mediterranean",20.0,Entertainment District
+Char No 5 Whisky Bar - Delta Toronto,BAR,3.3,4.0,"Delta Toronto, 75 Lower Simcoe Street, Toronto M5J 3A6",Bar Food,50.0,Entertainment District
+Manchu Wok,QUICK BITES,2.4,7.0,"Simcoe Place, 200 Front Street West, The PATH, Toronto","Fast Food, Chinese, Asian",25.0,Entertainment District
+Fat Bastard Burrito,QUICK BITES,,,"254 Adelaide Street West, Toronto","Mexican, Fast Food",25.0,Entertainment District
+The Pint Public House,Other,,,"277 Front Street West, Toronto, ON M5V 2X4",American,50.0,Entertainment District
+Booster Juice,BEVERAGE SHOP,,,"Metro Centre, 200 Wellington Street West, The PATH, Toronto","Juices, Beverages, Healthy Food",20.0,Entertainment District
+Mr. Souvlaki,QUICK BITES,3.2,7.0,"Simcoe Place, 200 Front Street West, The PATH, Toronto","Greek, Fast Food",20.0,Entertainment District
+00 Gelato,DESSERT PARLOR,,,"370 King Street West, Toronto M5V 1J9",Ice Cream,,Entertainment District
+Pilot Union Station,CAFÉ,3.7,4.0,"Inside Union Station, 65 Front Street West",Cafe,20.0,Entertainment District
+The Underground Garage,BAR,,,"365 King Street West, Toronto M5V 1K1",Bar Food,50.0,Entertainment District
+Freshwest Grill,QUICK BITES,3.1,7.0,"Simcoe Place, 200 Front Street West, The PATH, Toronto",Tex-Mex,20.0,Entertainment District
+Cake,Other,2.6,5.0,"214 Adelaide Street West, Toronto",Drinks Only,60.0,Entertainment District
+Refuel Juicery,QUICK BITES,,,"373 King Street West, Inside ‪Fit Factory Fitness‬, Toronto","Juices, Healthy Food, Beverages",25.0,Entertainment District
+Mam Green Salad,QUICK BITES,,,"Ernst & Young Tower, 220 Bay Street, The PATH, Toronto",Mediterranean,25.0,Entertainment District
+Timothy's,CAFÉ,2.4,8.0,"Metro Centre, 200 Wellington Street West, The PATH, Toronto",Cafe,25.0,Entertainment District
+Bacaro Italian Eatery,QUICK BITES,2.2,8.0,"Metro Centre, 200 Wellington Street West, The PATH, Toronto M5V 3G2",Italian,25.0,Entertainment District
+Mix Bistro Restaurant & Bar - Hyatt Regency Toronto,CASUAL DINING,2.5,7.0,"Hyatt Regency Toronto, 370 King Street West, Toronto",Canadian,80.0,Entertainment District
+Caribbean Queen,QUICK BITES,2.9,6.0,"Metro Centre, 200 Wellington Street West, The PATH, Toronto",Caribbean,20.0,Entertainment District
+District Eatery,CAFÉ,,,"303 King St W, Toronto, ON M5V 1J5",Cafe,30.0,Entertainment District
+Java Joe's,CAFÉ,,,"310 Front Street West, Toronto",Cafe,15.0,Entertainment District
+Picnic,CAFÉ,,,"Exchange Tower, 130 King Street West, Toronto M5X 1A9","Healthy Food, Cafe",25.0,Entertainment District
+PLAY Lounge - Hotel Le Germain Maple Leaf Square,CASUAL DINING,3.5,6.0,"Hotel Le Germain Maple Leaf Square, 75 Bremner Boulevard, Toronto",Canadian,90.0,Entertainment District
+Freshii,QUICK BITES,,,"200 Front Street West, Toronto",Healthy Food,30.0,Entertainment District
+Le Cafe,CAFÉ,3.2,5.0,"CN Tower, 301 Front Street West, Toronto M5V 2T6","Cafe, Canadian",35.0,Entertainment District
+One Room,CASUAL DINING,2.5,6.0,"221 Richmond Street West, Toronto M5V 1W2",Cuban,100.0,Entertainment District
+Sushi Shop Southcore Financial,CASUAL DINING,,,120 Boul. Bremner - Unit 4 M5J 3A6 3A6,Sushi,30.0,Entertainment District
+WVRST Union Station,BAR,,,"65 Front Street West, Toronto, ON M5J 1E6",Bar Food,70.0,Entertainment District
+My Sandwich,QUICK BITES,2.5,6.0,"238 Queen Street West, Inside Queen Live Market, Toronto M5V 1Z7","Deli, Sandwich",25.0,Entertainment District
+Lindt,DESSERT PARLOR,,,"130 King St W, Toronto M5X 1K6",Desserts,25.0,Entertainment District
+Bulldog Coffee,CAFÉ,,,"111 Richmond St W, Toronto, Entertainment District, Toronto",Cafe,20.0,Entertainment District
+Love Chix,CASUAL DINING,,,"111, Richmond Sreet",American,25.0,Entertainment District
+Yogurty's,DESSERT PARLOR,3.4,4.0,"Maple Leaf Square, 15 York Street, Inside Longo's, Toronto","Frozen Yogurt, Desserts",15.0,Entertainment District
+Fiction,Other,2.6,4.0,"180 Pearl Street, Toronto M5H 1L5",Drinks Only,50.0,Entertainment District
+Greenhouse Juice Co.,BEVERAGE SHOP,,,"367 King Street West, Inside The Detox Market, Toronto M5V 1K1","Juices, Beverages",20.0,Entertainment District
+Tea Shop 168,BEVERAGE SHOP,,,"357 Bremner Boulevard, Toronto","Bubble Tea, Taiwanese, Beverages",25.0,Entertainment District
+Danish Pastry House,CAFÉ,,,"65 Front St W, Toronto, ON M5J 1E6",Cafe,25.0,Entertainment District
+Blaze Pizza,QUICK BITES,,,"150 John Street, Toronto, ON M5V 3C3",Pizza,20.0,Entertainment District
+Jugo Juice,BEVERAGE SHOP,2.6,4.0,"Sun Life Financial Tower, 150 King Street West, The PATH, Toronto","Juices, Beverages",20.0,Entertainment District
+Illstyl3 Sammies,Other,,,"300 Richmond Street West, Toronto, ON M5V 1X2",Sandwich,15.0,Entertainment District
+Pi Co.,CASUAL DINING,,,"170 University Ave, Toronto, ON M5H 3B3",Pizza,30.0,Entertainment District
+Harvest Green,CASUAL DINING,,,"200 Wellington Street W, Toronto M5V 3C7","Canadian, Salad",25.0,Entertainment District
+Hero Certified Burgers,QUICK BITES,,,"79A Yonge Street, Toronto, Entertainment District, Toronto","Burger, Canadian",20.0,Entertainment District
+Thai Express,QUICK BITES,,,"120 Bremner Boulevard, The PATH, Toronto M5J 0B2",Thai,25.0,Entertainment District
+Yogen Früz,DESSERT PARLOR,,,"Metro Centre, 200 Wellington Street West, The PATH, Toronto","Frozen Yogurt, Desserts",15.0,Entertainment District
+Morimoto,CASUAL DINING,,,Opening Soon,Sushi,80.0,Entertainment District
+Cultures,QUICK BITES,,,200 Wellington Street West M5V 3C7,"Fast Food, Healthy Food",,Entertainment District
+Watson's,BAR,,,"388 Richmond St W, Unit 2A, Toronto M5V 3P1",Drinks Only,50.0,Entertainment District
+Harbour Eats by Mercatino,QUICK BITES,,,"1 York St, Entertainment District, Toronto",Mexican,25.0,Entertainment District
+The Haam,CASUAL DINING,,,"342 Adelaide Street West, Toronto, ON M5V 1R7",Japanese,35.0,Entertainment District
+SOCO To Go,CAFÉ,,,"Delta Toronto, 75 Lower Simcoe Street, Toronto M5J 3A6","Cafe, Canadian",25.0,Entertainment District
+Cabin Five,Other,,,"225 Richmond Street West, Toronto M5V 1W2",Drinks Only,100.0,Entertainment District
+"Queen Street West, Entertainment District",Other,,,CUISINES:,"Bakery, Mediterranean",,Entertainment District
+Barcode,Other,,,"364 Richmond Street West, Toronto M5S 1A4",Drinks Only,45.0,Entertainment District
+The Bagel Stop,Other,,,"Ernst & Young Tower, 222 Bay Street, The PATH, Toronto",Cafe,15.0,Entertainment District
+Orchid,Other,,,"82 Peter Street, Toronto M5V 2G5",Drinks Only,50.0,Entertainment District
+Treats,CAFÉ,,,"Standard Life Centre, 121 King Street West, The PATH, Toronto","Cafe, Bakery",15.0,Entertainment District
+Lucky Clover Sports Pub,CASUAL DINING,,,Opening Soon,Bar Food,45.0,Entertainment District
+The Fifth Social Club,Other,,,225 Richmond Street West,Drinks Only,30.0,Entertainment District
+Ravi Soups,CASUAL DINING,,,"322 Adelaide Street West, Toronto M5V 1R1",Asian,,Entertainment District
+The Alternative Cafe,Other,,,"443 Richmond Street West, Toronto, ON M5V 1X9",Coffee and Tea,15.0,Entertainment District
+Harvey's,QUICK BITES,,,"266 Queens Quay W, Entertainment District, Toronto, ON M5J 1B5","Fast Food, Canadian, Burger",25.0,Entertainment District
+Gravity Soundbar,Other,,,"296 Richmond Street West, Toronto M5V 1X2",Drinks Only,50.0,Entertainment District
+Mana'ish Global Flatbread Cafe,CAFÉ,,,"140 Spadina Avenue, Toronto, ON M5V 2L4",Lebanese,15.0,Entertainment District
+ImPerfect Fresh Eats,QUICK BITES,,,"318 Adelaide Street West Toronto, ON M5V 1R2","Salad, Healthy Food, Juices",15.0,Entertainment District
+T-Sushi,CASUAL DINING,,,"102-263 Wellington Street, Toronto","Japanese, Sushi",,Entertainment District
+Focal Resto Lounge,CASUAL DINING,,,"592 Queen St W, Toronto M6J 1E3",Fusion,25.0,Entertainment District
+Loch & Quay,CASUAL DINING,,,"390 Queens Quay West Toronto, ON M5V 3A6","Canadian, Fast Food",30.0,Entertainment District
+YunShang Rice Noodle,CASUAL DINING,,,"414 Dundas St W, Entertainment District, Toronto, ON M5T 1G7",Chinese,25.0,Entertainment District
+Crepe T.O.,DESSERT PARLOR,,,"52 Church Street, Toronto, ON M5C 3C8","French, Desserts",15.0,Entertainment District
+Entertainment District,Other,,,CUISINES:,Fast Food,15.0,Entertainment District
+Tim Hortons,CAFÉ,,,180 Wellington Street West,"Cafe, Donuts",20.0,Entertainment District
+Tim Hortons,CAFÉ,,,120 Bremner Boulevard,"Cafe, Donuts",20.0,Entertainment District
+Tim Hortons,CAFÉ,,,150 John Street Unit 102,"Cafe, Donuts",20.0,Entertainment District
+Tim Hortons,CAFÉ,,,"1 Blue Jays Way, rogers Ctr","Cafe, Donuts",20.0,Entertainment District
+Paramount Lebanese Kitchen,CASUAL DINING,,,"141 Spadina Avenue, Entertainment District, Toronto","Lebanese, Middle Eastern",25.0,Entertainment District

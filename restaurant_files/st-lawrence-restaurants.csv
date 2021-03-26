@@ -1,0 +1,209 @@
+Name,EstablishmentType,Rating,NumReviews,Address,Cuisine,CostForTwo,City
+Terroni,CASUAL DINING,4.0,563.0,"57A Adelaide Street East, Toronto","Italian, Pizza",65.0,St. Lawrence
+Beerbistro,CASUAL DINING,4.5,510.0,"18 King Street East, Toronto M5C 1C4","Canadian, Bar Food",80.0,St. Lawrence
+Le Petit Dejeuner,CASUAL DINING,4.3,343.0,"191 King Street East, Toronto M5A 1J5","Canadian, Belgian",70.0,St. Lawrence
+Sukho Thai,CASUAL DINING,4.6,284.0,"52 Wellington Street East, Toronto",Thai,50.0,St. Lawrence
+The Sultan's Tent & Cafe Moroc,CASUAL DINING,3.8,410.0,"49 Front Street East, Toronto","French, Moroccan",70.0,St. Lawrence
+Buster's Sea Cove,CASUAL DINING,4.5,275.0,"St. Lawrence Market, 93 Front Street East, Toronto",Seafood,50.0,St. Lawrence
+The Carbon Bar,CASUAL DINING,4.3,185.0,"99 Queen Street East, Toronto M5C 1S1",American,80.0,St. Lawrence
+Pearl Diver,CASUAL DINING,4.4,174.0,"100 Adelaide Street East, Toronto M5C 1K9",Seafood,40.0,St. Lawrence
+Golden Thai,CASUAL DINING,4.1,277.0,"105 Church Street, Toronto M5C 2G3","Thai, Asian",50.0,St. Lawrence
+Bier Markt,CASUAL DINING,3.8,268.0,"58 The Esplanade, Toronto M5E 1R2","Bar Food, Canadian",70.0,St. Lawrence
+The Old Spaghetti Factory,CASUAL DINING,3.7,233.0,"54 The Esplanade, Toronto M5E 1A6",Italian,50.0,St. Lawrence
+The Hot House Restaurant & Bar,CASUAL DINING,4.1,260.0,"35 Church Street, Toronto M5E 1T3","European, Canadian, Italian",75.0,St. Lawrence
+C'est What?,BAR,4.0,250.0,"67 Front Street East, Toronto M5E 1B5",Bar Food,75.0,St. Lawrence
+Le Papillon on Front,CASUAL DINING,4.2,202.0,"69 Front Street East, Toronto M5E 1B5",French,80.0,St. Lawrence
+Marché Restaurant,CASUAL DINING,4.0,194.0,"Brookfield Place, 181 Bay Street, Unit 107S, Toronto M5J 2T3",American,30.0,St. Lawrence
+Oliver & Bonacini Cafe Grill,CASUAL DINING,4.0,213.0,"33 Yonge Street, Toronto, ON M5E 1G4","Grill, Italian, Canadian, Fusion",,St. Lawrence
+La Bettola Di Terroni,CASUAL DINING,4.1,219.0,"106 Victoria Street, Toronto",Italian,70.0,St. Lawrence
+Rosewater,FINE DINING,3.9,135.0,"19 Toronto Street, Toronto","Steak, Canadian",130.0,St. Lawrence
+Dineen Coffee Co.,CAFÉ,4.0,113.0,"140 Yonge Street, Toronto M5C1X6","Cafe, Desserts",20.0,St. Lawrence
+George Street Diner,CASUAL DINING,4.1,118.0,"129 George Street, Toronto M5A 2M6",Diner,30.0,St. Lawrence
+Barsa Taberna,CASUAL DINING,3.7,87.0,"26 Market Street, Toronto","Spanish, Tapas",60.0,St. Lawrence
+Nami,CASUAL DINING,4.1,136.0,"55 Adelaide Street East, Toronto","Sushi, Japanese, Asian",65.0,St. Lawrence
+Carousel Bakery,QUICK BITES,4.2,113.0,"St. Lawrence Market, 93 Front Street East, Toronto","Bagels, Bakery",20.0,St. Lawrence
+Mengrai Gourmet Thai,CASUAL DINING,4.2,127.0,82 Ontario Street M5A 2V3,"Thai, Asian",50.0,St. Lawrence
+Mercatto,CASUAL DINING,4.3,151.0,"15 Toronto Street, Toronto",Italian,65.0,St. Lawrence
+Prairie Girl Bakery,DESSERT PARLOR,4.2,137.0,"18 King Street East, Suite 106, Toronto",Desserts,15.0,St. Lawrence
+Biff's Bistro,CASUAL DINING,4.4,195.0,"4 Front Street East, Toronto, ON M5E 1G4",French,,St. Lawrence
+Against The Grain Urban Tavern,CASUAL DINING,3.6,116.0,"25 Dockside Drive, Toronto",Canadian,80.0,St. Lawrence
+Carisma,CASUAL DINING,4.3,86.0,"15 Toronto Street, Toronto M5C 1G3",Italian,80.0,St. Lawrence
+The WORKS,CASUAL DINING,3.2,79.0,"60 Wellington Street East, Toronto",Burger,45.0,St. Lawrence
+Schnitzel Queen,CASUAL DINING,4.5,65.0,"211 Queen Street East, Toronto",German,30.0,St. Lawrence
+Mangia & Bevi,CASUAL DINING,4.3,85.0,"260 King Street East, Toronto M5A 4L5","Pizza, Italian",50.0,St. Lawrence
+Bindia,CASUAL DINING,3.9,60.0,"16 Market Street, Toronto M5E 1C3",Indian,60.0,St. Lawrence
+Triple A Bar,BAR,4.0,74.0,"138 Adelaide Street East, Toronto M5C 1K9","BBQ, American, Bar Food",50.0,St. Lawrence
+Fahrenheit Coffee,CAFÉ,4.1,73.0,"120 Lombard Street, Toronto",Cafe,20.0,St. Lawrence
+Fran's,CASUAL DINING,3.1,94.0,"33 Yonge Street, Unit 104, Toronto","Grill, Diner, Burger, American",40.0,St. Lawrence
+D.W. Alexander,BAR,3.8,96.0,"19 Church Street, Toronto",Bar Food,50.0,St. Lawrence
+Big Smoke Burger,QUICK BITES,4.3,92.0,"50 King Street East, Toronto","Burger, Fast Food",25.0,St. Lawrence
+Irish Embassy Pub & Grill,CASUAL DINING,3.9,100.0,"49 Yonge Street, Toronto M5E 1J1",Bar Food,70.0,St. Lawrence
+St. Urbain Bagel,BAKERY,4.0,71.0,"St. Lawrence Market, 93 Front Street East, Toronto",Bagels,15.0,St. Lawrence
+NEO COFFEE BAR,CAFÉ,3.7,36.0,"161 Frederick Street, Unit 100, Toronto M5A 4P3",Cafe,25.0,St. Lawrence
+Betty's,BAR,4.1,109.0,"240 King Street East, Toronto",Bar Food,45.0,St. Lawrence
+Uno Mustachio,QUICK BITES,4.0,69.0,"St. Lawrence Market, Lower Level, 95 Front Street East, Toronto","Sandwich, Italian",25.0,St. Lawrence
+Loaded Pierogi,CASUAL DINING,3.6,47.0,"9 1/2 Church Street, Toronto M5E 1M2","Polish, Eastern European",35.0,St. Lawrence
+Hiro Sushi,CASUAL DINING,3.6,70.0,"171 King Street East, Toronto","Sushi, Japanese, Asian",75.0,St. Lawrence
+Market Street Catch,CASUAL DINING,3.4,53.0,"14 Market Street, Toronto M5E 1C3",Seafood,35.0,St. Lawrence
+Pravda Vodka House,BAR,3.8,81.0,"44 Wellington Street East, Toronto M5E 1C7","Russian, Canadian, European",60.0,St. Lawrence
+Vagabondo,CASUAL DINING,3.8,77.0,"32 Wellington Street East, Toronto",Italian,85.0,St. Lawrence
+Hawthorne,CASUAL DINING,3.4,47.0,"60 Richmond Street East, Toronto M5C 1N8",Canadian,50.0,St. Lawrence
+Cluck Clucks,QUICK BITES,3.6,27.0,222 The Esplanade M5A 4M8,Fast Food,25.0,St. Lawrence
+Patrician Grill,CASUAL DINING,4.0,67.0,"219 King Street East, Toronto","Canadian, Diner",40.0,St. Lawrence
+Scotland Yard,CASUAL DINING,4.0,79.0,"56 The Esplanade, Toronto","Bar Food, British",65.0,St. Lawrence
+Woods Restaurant & Bar,CASUAL DINING,3.9,33.0,"45 Colborne Street, Toronto",Canadian,90.0,St. Lawrence
+The Chefs' House,CASUAL DINING,3.8,48.0,"215 King Street East, Toronto M5A 3W8",Canadian,90.0,St. Lawrence
+Fusaro's Italian Kitchen,CASUAL DINING,3.9,53.0,"294 Richmond Street East, Toronto",Italian,40.0,St. Lawrence
+Paddingtons Pump,BAR,3.9,51.0,"St. Lawrence Market, 91 Front Street East, Toronto M5E 1C2","Bar Food, Burger",30.0,St. Lawrence
+The Keg Steakhouse + Bar - Esplanade,CASUAL DINING,4.0,67.0,"26 The Esplanade, Toronto, ON M5E 1A7",Steak,100.0,St. Lawrence
+Bolet's Burrito,QUICK BITES,4.3,59.0,"134 Lower Sherbourne Street, Toronto",Tex-Mex,25.0,St. Lawrence
+Fuzen,CASUAL DINING,4.2,60.0,"132 Front Street East, Toronto M5A1E2","Sushi, Japanese, Asian",35.0,St. Lawrence
+Mystic Muffin,QUICK BITES,4.2,52.0,"113 Jarvis Street, Toronto","Middle Eastern, Fast Food",30.0,St. Lawrence
+Rooster Coffee House,CAFÉ,3.8,43.0,"333 King Street East, Toronto M5A 1L1",Cafe,20.0,St. Lawrence
+The Reservoir Lounge,BAR,3.8,51.0,"52 Wellington Street East, Toronto M5E 1C7",Bar Food,75.0,St. Lawrence
+Gyu-Kaku Japanese BBQ,CASUAL DINING,3.3,13.0,"81 Church St, Toronto M5C 2G2","Japanese, BBQ",,St. Lawrence
+The Jason George,CASUAL DINING,4.0,58.0,"100 Front Street East, Toronto M5A1E1",Bar Food,55.0,St. Lawrence
+Bombay Palace,CASUAL DINING,3.6,62.0,"71 Jarvis Street, Toronto M5C 2H2",Indian,60.0,St. Lawrence
+Mirto,CASUAL DINING,3.7,48.0,"25 Toronto Street, Toronto",Italian,65.0,St. Lawrence
+Biagio Ristorante,CASUAL DINING,4.1,55.0,"155 King Street East, Toronto",Italian,100.0,St. Lawrence
+Bikkuri,CASUAL DINING,3.2,61.0,"36 King Street East, Toronto","Sushi, Japanese, Asian",45.0,St. Lawrence
+Tilted Kilt,BAR,3.5,61.0,"38 The Esplanade, Toronto M5E 1A1","Bar Food, Burger, Irish",60.0,St. Lawrence
+The Corner Place,CASUAL DINING,3.0,53.0,"11 Jarvis Street, Toronto",Asian Fusion,45.0,St. Lawrence
+Bob's Bulgogi,QUICK BITES,3.8,42.0,"105 Victoria Street, Toronto",Korean,25.0,St. Lawrence
+Bellisimo Pizzeria & Ristorante,CASUAL DINING,3.8,47.0,"164 The Esplanade, Toronto M5A 4A6","Italian, Pizza",30.0,St. Lawrence
+P.J. O'Brien,CASUAL DINING,4.0,46.0,"39 Colborne Street, Toronto","Bar Food, Irish",55.0,St. Lawrence
+120 Diner,CASUAL DINING,3.2,23.0,"120 Church Street, Toronto M5C2G8",Diner,50.0,St. Lawrence
+TCJ Restaurant,CASUAL DINING,3.4,19.0,"64 Queen Street East, Toronto M5C 2T3","Thai, Chinese, Japanese, Asian",40.0,St. Lawrence
+Victoria's Restaurant - The Omni King Edward Hotel,FINE DINING,3.4,33.0,"The Omni King Edward Hotel, 37 King Street East, Toronto","Canadian, Breakfast, Tea",70.0,St. Lawrence
+Cafe 260,CAFÉ,3.9,26.0,"260 Richmond Street East, Toronto",Cafe,25.0,St. Lawrence
+Bravi Ristorante,CASUAL DINING,3.8,40.0,"40 Wellington Street East, Toronto",Italian,90.0,St. Lawrence
+Tom Jones Steakhouse,FINE DINING,3.4,32.0,"17 Leader Lane, Toronto M5H 1L8","Steak, Seafood",150.0,St. Lawrence
+CC Lounge,BAR,3.6,13.0,"45 Front Street East, Toronto M5E 1B3","Bar Food, American",100.0,St. Lawrence
+BerBer Social,CASUAL DINING,3.4,45.0,"49 Front Street East, Toronto M5E 1B3","Moroccan, Mediterranean",50.0,St. Lawrence
+Jersey Giant,BAR,3.7,48.0,"71 Front Street East, Toronto M5E 1T9","Bar Food, British",60.0,St. Lawrence
+Balzac's Coffee Roasters,CAFÉ,3.5,29.0,"10 Market Street, Toronto",Cafe,25.0,St. Lawrence
+Cocina Economica,CASUAL DINING,3.1,16.0,"141 Berkeley Street, Toronto",Mexican,50.0,St. Lawrence
+Churrasco,QUICK BITES,3.9,35.0,"St. Lawrence Market, 91 Front Street East, Toronto",Portuguese,30.0,St. Lawrence
+Miyaki Sushi,CASUAL DINING,3.9,32.0,"222 The Esplanade, Unit 4, Toronto M5A 4M8","Sushi, Japanese, Asian",45.0,St. Lawrence
+Wild Wing,CASUAL DINING,3.3,30.0,"107 Church Street, Toronto",Bar Food,50.0,St. Lawrence
+Jack Astor's,CASUAL DINING,3.7,38.0,"73A Front Street East, Toronto",Bar Food,55.0,St. Lawrence
+The Flatiron,CASUAL DINING,3.9,38.0,"49 Wellington Street East, Toronto",Bar Food,65.0,St. Lawrence
+Hero Certified Burgers,QUICK BITES,2.7,39.0,"79 Yonge Street, Toronto","Burger, Sandwich",25.0,St. Lawrence
+True True Pizza,CASUAL DINING,3.2,10.0,"169 King Street East, Toronto M5A 1J4",Pizza,25.0,St. Lawrence
+Ardo,CASUAL DINING,3.6,10.0,"243 King Street East, Toronto M5A 1J9","Italian, Seafood, Pizza",,St. Lawrence
+Batch,CASUAL DINING,3.3,11.0,75 Victoria Street M5C 2B1,Bar Food,40.0,St. Lawrence
+Fast Fresh Foods,QUICK BITES,3.7,30.0,"79B Yonge Street, Toronto",Healthy Food,25.0,St. Lawrence
+Cruda Cafe,CASUAL DINING,2.7,16.0,"St. Lawrence Market, Lower Level, 93 Front Street East, Toronto","Healthy Food, Bakery",40.0,St. Lawrence
+Wildfire Steakhouse - Cosmopolitan Hotel,CASUAL DINING,3.4,15.0,"Cosmopolitan Hotel, 8 Colborne Street, Toronto",Steak,100.0,St. Lawrence
+On The Rocks,CASUAL DINING,3.0,23.0,"169 Front Street East, Toronto M5A 3Z4","Chinese, Asian, Bar Food",35.0,St. Lawrence
+St. Lawrence Pizza and Pasta,QUICK BITES,3.5,20.0,"St. Lawrence Market, 93 Front Street East, Toronto",Italian,20.0,St. Lawrence
+St. Louis Bar And Grill,CASUAL DINING,3.4,27.0,"92 King Street E Unit 114, Toronto, ON","Bar Food, Grill",40.0,St. Lawrence
+Gabby's,BAR,3.4,27.0,"189 King Street East, Toronto M4I 1E1",Bar Food,55.0,St. Lawrence
+Ichiban Sushi House,CASUAL DINING,2.8,28.0,"58 Wellington Street East, Toronto","Sushi, Japanese, Asian",40.0,St. Lawrence
+Oriental Taste,CASUAL DINING,3.6,22.0,"329 Queen Street East, Toronto M5A 1S9","Sushi, Japanese, Chinese, Asian",45.0,St. Lawrence
+Old Bleu Cafe & Eatery,CAFÉ,3.7,14.0,"73 Queen Street East, Toronto",Cafe,25.0,St. Lawrence
+Clockwork Coffee,CAFÉ,3.4,6.0,"36 Toronto Street, Toronto M5C 2C5",Cafe,20.0,St. Lawrence
+Stonemill Bakehouse,BAKERY,3.5,7.0,"St. Lawrence Market, Lower Level, 92 Front Street East, Toronto M1V 4B3",Bakery,15.0,St. Lawrence
+Souvlaki Express,QUICK BITES,3.1,21.0,"348 Queen Street East, Toronto M5A","Greek, Fast Food",30.0,St. Lawrence
+Uncle Tony's,CASUAL DINING,3.4,6.0,"38 Wellington Street East, Toronto","Pizza, Italian",50.0,St. Lawrence
+O Resto,CASUAL DINING,3.2,14.0,"7 King Street East, Toronto","Burger, American, Canadian",45.0,St. Lawrence
+Portico - Cambridge Suites Hotel,FINE DINING,3.0,14.0,"Cambridge Suites Hotel, 15 Richmond Street East, Toronto","Canadian, European, Asian",85.0,St. Lawrence
+Brown Brothers,QUICK BITES,3.5,11.0,"St. Lawrence Market, 91 Front Street East, Toronto",Deli,20.0,St. Lawrence
+Sausage King,QUICK BITES,3.8,15.0,"St. Lawrence Market, 95 Front Street East, Toronto M5E 1C3","Fast Food, Deli",20.0,St. Lawrence
+Porh Pawh's Bakery Cafe,CAFÉ,3.7,16.0,"70 Adelaide Street East, Toronto",Cafe,20.0,St. Lawrence
+Lavazza Espression - The Omni King Edward Hotel,CAFÉ,2.9,16.0,"The Omni King Edward Hotel, 37 King Street East, Toronto M5C 1E9",Cafe,25.0,St. Lawrence
+Yianni's Kitchen,QUICK BITES,3.1,15.0,"St. Lawrence Market, Lower Level, 92 Front Street East, Toronto",Greek,25.0,St. Lawrence
+Goose Island Brewhouse Toronto,CASUAL DINING,3.2,5.0,"70, The Esplanade, Toronto","American, Canadian",60.0,St. Lawrence
+El Local Loco,CASUAL DINING,3.5,4.0,"9 Church Street, Toronto M5E 1W1","Mexican, Spanish",25.0,St. Lawrence
+Quesada,QUICK BITES,3.3,18.0,"92 King Street East, Unit 120, Toronto",Tex-Mex,25.0,St. Lawrence
+McVeigh's Irish Pub,BAR,3.3,16.0,"124 Church Street, Toronto M5C 2G8","Bar Food, Irish",55.0,St. Lawrence
+Eve's Temptations,BAKERY,3.3,14.0,"St. Lawrence Market, Lower Level, 93 Front Street East, Toronto",Bakery,15.0,St. Lawrence
+Crepe It Up,CAFÉ,3.4,11.0,"St. Lawrence Market, Lower Level, 91 Front Street East, Toronto","Cafe, Desserts",20.0,St. Lawrence
+Pita Land,QUICK BITES,3.4,20.0,"246 King Street East, Toronto",Middle Eastern,30.0,St. Lawrence
+Future Bakery,BAKERY,3.0,18.0,"St. Lawrence Market, 91 Front Street East, Toronto",Bakery,20.0,St. Lawrence
+Everyday Gourmet,CAFÉ,3.6,11.0,"St. Lawrence Market, Lower Level, 91 Front Street East, Toronto M5E 1C3",Cafe,15.0,St. Lawrence
+Freshii,QUICK BITES,3.6,14.0,"92 King Street East, Toronto",Healthy Food,30.0,St. Lawrence
+Big Pita,CASUAL DINING,3.0,8.0,"115 Front Street, Toronto M5A 4S5","Mediterranean, Greek",25.0,St. Lawrence
+Shawarma House,QUICK BITES,3.4,15.0,"222 The Esplanade, Toronto","Middle Eastern, Fast Food",25.0,St. Lawrence
+Cafe Nicole - Novotel Toronto Centre,CASUAL DINING,3.3,14.0,"Novotel Toronto Centre, 45 The Esplanade, Toronto","French, Canadian",45.0,St. Lawrence
+Pick 6ix,CASUAL DINING,3.0,4.0,"33 Yonge Street, Toronto M5E 0A9","Japanese, Canadian, Bar Food",80.0,St. Lawrence
+The Black Canary Espresso Bar,CAFÉ,2.8,9.0,"61 Sherbourne Street, Toronto",Cafe,20.0,St. Lawrence
+Nari Sushi,QUICK BITES,3.6,8.0,"257 King Street East, Toronto M5A1K2","Sushi, Japanese",20.0,St. Lawrence
+Pizzaiolo,QUICK BITES,3.2,11.0,"1 Toronto Street, Toronto","Pizza, Fast Food",30.0,St. Lawrence
+La Prep,QUICK BITES,3.3,9.0,"1 Queen Street East, Toronto",Cafe,25.0,St. Lawrence
+Amaya Express,QUICK BITES,2.7,18.0,"263 King Street East, Toronto",Indian,40.0,St. Lawrence
+Ueno Market,CAFÉ,3.4,9.0,"75 Sherbourne Street, Toronto","Cafe, Japanese",25.0,St. Lawrence
+Starbucks,CAFÉ,2.9,14.0,"81 Front Street East, Toronto",Cafe,20.0,St. Lawrence
+South St. Burger,QUICK BITES,2.9,4.0,"260 King Street East, Toronto, ON, M5A 4L5","Burger, Fast Food",25.0,St. Lawrence
+FAMO Sandwiches,QUICK BITES,3.4,4.0,"122 Sherbourne Street, Toronto M5A 2R4",Sandwich,25.0,St. Lawrence
+Bibab Express,QUICK BITES,3.4,9.0,"33 Yonge Street, Unit 107, Toronto","Korean, Japanese",25.0,St. Lawrence
+Amsterdam Bicycle Club,CASUAL DINING,3.6,13.0,"54 The Esplanade, Toronto M5E 1A6","Italian, Bar Food",55.0,St. Lawrence
+Yip's Kitchen,QUICK BITES,3.1,12.0,"St. Lawrence Market, Lower Level, 95 Front Street East, Toronto","Chinese, Asian",20.0,St. Lawrence
+European Delight,QUICK BITES,3.4,12.0,"St. Lawrence Market, Lower Level, 91 Front Street East, Toronto",European,25.0,St. Lawrence
+Carnicero's,QUICK BITES,3.5,13.0,"St. Lawrence Market, 93 Front Street East, Toronto M5E 1C3",Mexican,20.0,St. Lawrence
+Pizza Pizza,QUICK BITES,3.2,9.0,"107 Front Street East, Toronto","Pizza, Fast Food",25.0,St. Lawrence
+Tim Hortons,CAFÉ,3.5,11.0,"18 King Street East, Toronto","American, Donuts, Desserts",20.0,St. Lawrence
+Black Irish,CASUAL DINING,3.2,8.0,"235 Queen Street East, Toronto M5A 1S5","Bar Food, Seafood, Irish",60.0,St. Lawrence
+Quik Sushi,QUICK BITES,3.9,12.0,"St. Lawrence Market, Lower Level, 93 Front Street East, Toronto","Sushi, Japanese, Asian",25.0,St. Lawrence
+b.good,QUICK BITES,,,"10 King Street East, Toronto",Healthy Food,35.0,St. Lawrence
+Pasta Mia,CAFÉ,3.7,10.0,"St Lawrence Market, 91 Front Street East, Lower Level, Toronto","Cafe, Italian",25.0,St. Lawrence
+Quiznos,QUICK BITES,3.3,12.0,"115 Yonge Street, Toronto",Fast Food,25.0,St. Lawrence
+Booster Juice,BEVERAGE SHOP,3.2,13.0,"2 Queen Street East, Toronto M5C 3G7","Juices, Beverages, Healthy Food",20.0,St. Lawrence
+The Consort Bar - The Omni King Edward Hotel,BAR,3.3,8.0,"The Omni King Edward Hotel, 37 King Street East, Toronto","Canadian, Tapas",120.0,St. Lawrence
+McDonald's,QUICK BITES,3.5,10.0,"123 Yonge Street, Toronto",Fast Food,25.0,St. Lawrence
+BASSO Pizzeria,QUICK BITES,2.9,4.0,"320 Queen Street East, Toronto M5A 1S8","Pizza, Italian",,St. Lawrence
+Power Up Bar,BAR,,,"38 Wellington Street East, Toronto M5E 1C7",Bar Food,30.0,St. Lawrence
+Copetin Restaurant and Bar,CASUAL DINING,,,"107 King St E, Toronto M5C 1G6",Canadian,40.0,St. Lawrence
+Subway,QUICK BITES,2.8,12.0,"259 King Street East, Toronto",Fast Food,20.0,St. Lawrence
+Teddy Story,CAFÉ,,,"82 Adelaide Street E, Unit C, Toronto M5C 1K9","Cafe, Bakery, Coffee and Tea",15.0,St. Lawrence
+Sam James Coffee Bar,CAFÉ,,,"15 Toronto Street, Toronto",Cafe,15.0,St. Lawrence
+Batch,Other,3.1,4.0,"75 Victoria Street, Toronto M5C 2B1",Bar Food,25.0,St. Lawrence
+TSB 2000,CAFÉ,2.9,9.0,"20 Toronto Street, Toronto",Cafe,25.0,St. Lawrence
+MUV Bar,BAR,,,"Brookfield Place, 181 Bay Street, Inside Marche Restaurant, Toronto M5J2T3",Bar Food,50.0,St. Lawrence
+Thai Express,QUICK BITES,3.1,8.0,"7 King Street East, Toronto",Thai,25.0,St. Lawrence
+Stori,BAR,2.4,8.0,"95 King Street East, Toronto M5C 1G3",Italian,80.0,St. Lawrence
+Sushi-Q,QUICK BITES,2.3,9.0,"1 Queen Street East, Toronto",Sushi,25.0,St. Lawrence
+Second Cup Coffee Co.,Other,2.4,8.0,65 Front Street. East,"Cafe, Coffee and Tea, Frozen Yogurt",10.0,St. Lawrence
+Villa Madina,QUICK BITES,3.1,8.0,"7 King Street East, Toronto",Mediterranean,25.0,St. Lawrence
+Kings Lounge Bar & Eatery,QUICK BITES,2.3,9.0,"George Brown College, 200 King Street East, Toronto",American,25.0,St. Lawrence
+Berkleys,CAFÉ,2.3,9.0,"262 The Esplanade, Toronto M5A4J6",Cafe,25.0,St. Lawrence
+Club 120,Other,2.4,8.0,"120 Church Street, Toronto",Drinks Only,50.0,St. Lawrence
+Fusion,QUICK BITES,2.4,8.0,"George Brown College, Basement, 200 King Street East, Toronto",Asian,25.0,St. Lawrence
+Tacorrito,QUICK BITES,,,"320 Richmond Street East, Toronto M5A 1P9","Fast Food, Mexican",20.0,St. Lawrence
+Esplanade Food Market,QUICK BITES,3.3,8.0,"25 The Esplanade, Toronto",Fast Food,20.0,St. Lawrence
+Don Alfonso 1890,FINE DINING,,,"19 Toronto St, Toronto, ON",Mediterranean,80.0,St. Lawrence
+Jugo Juice,BEVERAGE SHOP,2.5,7.0,"7 King Street East, Toronto","Juices, Beverages",20.0,St. Lawrence
+Pita Way,QUICK BITES,3.7,7.0,"36 Church Street, Toronto","Fast Food, Mediterranean",20.0,St. Lawrence
+Hot Spot Cafe,CAFÉ,3.6,4.0,"201 King Street East, Toronto M5A4M5",Cafe,30.0,St. Lawrence
+Pizza Nova,QUICK BITES,3.4,4.0,"222 The Esplanade, Toronto","Pizza, Fast Food",30.0,St. Lawrence
+XO Bisous,CAFÉ,,,60 Adelaide Street E M5C 3E4,"Coffee and Tea, French",,St. Lawrence
+St. Lawerence Cafe,CAFÉ,,,"248 The Esplanade, Toronto M5A4J6",Cafe,20.0,St. Lawrence
+Bar Cru,FAST CASUAL,,,20 Market Street M5E 1M6,"Hawaiian, Japanese, Peruvian, Seafood",20.0,St. Lawrence
+Potbelly Sandwich Shop,QUICK BITES,,,"83 Yonge Street, Toronto M5C 1S8",Sandwich,15.0,St. Lawrence
+Liquid Nutrition,BEVERAGE SHOP,,,"36 Toronto Street, Suite 103G, Toronto","Beverages, Healthy Food, Juices",15.0,St. Lawrence
+Rose City Kitchen,QUICK BITES,,,"36 Toronto Street, Toronto M5C 2C5",Mediterranean,30.0,St. Lawrence
+Coco Deli,QUICK BITES,,,"26 Wellington Street East, Toronto","Deli, Breakfast",15.0,St. Lawrence
+King Place Restaurant,QUICK BITES,,,"236 Sherbourne St, Toronto, ON",Pakistani,15.0,St. Lawrence
+The Place,CAFÉ,,,"16 Church Street, St. Lawrence, Toronto M5E 1M1",Cafe,15.0,St. Lawrence
+Lettieri,CAFÉ,2.6,4.0,"Victoria Tower, 25 Adelaide Street East, Toronto",Cafe,25.0,St. Lawrence
+Super Wraps,Other,,,"1 Queen Street East, The PATH, Toronto",Fast Food,15.0,St. Lawrence
+Menchie's,DESSERT PARLOR,,,"16 Church Street, Toronto",Frozen Yogurt,15.0,St. Lawrence
+Mamma's Pizza,QUICK BITES,,,"127 Yonge Street, Toronto","Pizza, Fast Food",25.0,St. Lawrence
+Yogen Früz,DESSERT PARLOR,,,"16 Yonge Street, Toronto","Frozen Yogurt, Desserts",15.0,St. Lawrence
+Smoke's Poutinerie,QUICK BITES,,,"George Brown College, Lower Level, 200 King Street East, Toronto",Canadian,25.0,St. Lawrence
+Cavern Bar,BAR,,,"76 Church Street, Toronto M5C 2G1",Bar Food,50.0,St. Lawrence
+241 Pizza,QUICK BITES,,,"526 Richmond Street East, Toronto","Pizza, Fast Food",30.0,St. Lawrence
+Druxy's Famous Deli,QUICK BITES,,,"29 Queen Street East, Toronto, ON, M5C 1R5","Fast Food, Sandwich",25.0,St. Lawrence
+"Richmond Street East, St. Lawrence",Other,,,CUISINES:,American,,St. Lawrence
+Popeyes,QUICK BITES,,,"106, Front Street East, St. Lawrence, Toronto",Fast Food,25.0,St. Lawrence
+Luba's Coffee Boutique,CAFÉ,,,"St. Lawrence Market, 91 Front Street East, Toronto",Cafe,10.0,St. Lawrence
+Bento Sushi,QUICK BITES,,,"George Brown College, Basement, 200 King Street East, Toronto","Sushi, Fast Food",25.0,St. Lawrence
+We Brew Café,CAFÉ,,,"37 King St E, St. Lawrence, Toronto",Cafe,30.0,St. Lawrence
+VIV At The Cosmo,CASUAL DINING,,,"8 Colborne Street, St. Lawrence, Toronto M5E 1E1",American,100.0,St. Lawrence
+Farm'r,CASUAL DINING,,,"140A The Esplanade, Toronto, ON M5A 4P5","Canadian, Healthy Food",25.0,St. Lawrence
+Planta Burger,CASUAL DINING,,,"4 Temperance St, Toronto, ON M5H 1Y4","Burger, Vegetarian",25.0,St. Lawrence
+Capt'n Sub,QUICK BITES,,,"526 Richmond Street East, Toronto",Fast Food,20.0,St. Lawrence
+Tractor Everyday Healthy Foods,FAST CASUAL,,,"151 Yonge Street, Toronto","American, Healthy Food, Vegetarian",45.0,St. Lawrence
+Tim Hortons,CAFÉ,,,55 Front Street East,"Cafe, Donuts",20.0,St. Lawrence
+Bluestone Lane,Other,,,"37 King Street. East, St. Lawrence, Toronto",Coffee and Tea,15.0,St. Lawrence
+Kramer's At The Cosmo,CASUAL DINING,,,"8, Colborne, St. Lawrence, Toronto",Continental,45.0,St. Lawrence

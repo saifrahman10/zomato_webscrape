@@ -1,0 +1,133 @@
+Name,EstablishmentType,Rating,NumReviews,Address,Cuisine,CostForTwo,City
+Lahore Tikka House,CASUAL DINING,4.2,466.0,"1365 Gerrard Street East, Toronto M4L 1Z3","Pakistani, Indian",35.0,Leslieville
+Gio Rana's Really Really Nice Restaurant,CASUAL DINING,4.5,385.0,"1220 Queen Street East, Toronto M4M 1L7",Italian,65.0,Leslieville
+Maha's,CAFÉ,4.2,86.0,"226 Greenwood Avenue, Toronto M4L 2R2","Cafe, Egyptian",35.0,Leslieville
+Queen Margherita Pizza,CASUAL DINING,4.2,280.0,"1402 Queen Street East, Toronto M4L 1C9",Pizza,60.0,Leslieville
+Bobbette & Belle,BAKERY,4.0,119.0,"1121 Queen Street East, Toronto M4M1K9","Bakery, Desserts",20.0,Leslieville
+Chino Locos,QUICK BITES,4.1,116.0,"4 Greenwood Avenue, Toronto M4L 2P4","Mexican, Fast Food",25.0,Leslieville
+The Ceili Cottage,BAR,4.0,113.0,"1301 Queen Street East, Toronto M4L 1C2","Irish, Bar Food",45.0,Leslieville
+Ed's Real Scoop,DESSERT PARLOR,4.6,114.0,"920 Queen Street East, Toronto","Ice Cream, Desserts",15.0,Leslieville
+Descendant Pizza,CASUAL DINING,4.0,48.0,"1168 Queen Street East, Toronto M6J 1J5",Pizza,45.0,Leslieville
+Baldini,CASUAL DINING,3.6,118.0,"1012 Queen Street East, Toronto M4M 1K1",Italian,60.0,Leslieville
+The Tulip,CASUAL DINING,3.9,109.0,"1606 Queen Street East, Toronto M4L 3A7","Steak, Breakfast",45.0,Leslieville
+Pizza Pide,QUICK BITES,4.4,79.0,"949 Gerrard Street East, Toronto M4M 2W7","Turkish, Pizza, Fast Food",25.0,Leslieville
+Te Aro,CAFÉ,4.3,84.0,"983 Queen Street East, Toronto M4M1K2",Cafe,20.0,Leslieville
+Great Burger Kitchen,QUICK BITES,4.0,79.0,"1056 Gerrard Street East, Toronto M4M 1Z7","Burger, Fast Food",30.0,Leslieville
+Motimahal,CASUAL DINING,4.0,51.0,"1422 Gerrard Street East, Toronto M4L 1Z6",Indian,25.0,Leslieville
+Sushi Mugen,CASUAL DINING,4.2,84.0,"1105 Queen Street East, Toronto M4M 1K7",Sushi,50.0,Leslieville
+Tango Palace Coffee Company,CAFÉ,3.9,59.0,"1156 Queen Street East, Toronto M4M 1L2",Cafe,20.0,Leslieville
+Goods & Provisions,CASUAL DINING,4.1,51.0,"1124 Queen Street East, Toronto M4M 1K8",Bar Food,60.0,Leslieville
+Lazy Daisy's Cafe,CAFÉ,3.8,41.0,"1515 Gerrard Street East, Toronto M4L 2A4",Cafe,30.0,Leslieville
+Ascari Enoteca,CASUAL DINING,3.9,51.0,"1111 Queen Street East, Toronto M4M 1K7",Italian,55.0,Leslieville
+Siddhartha Pure Vegetarian,CASUAL DINING,3.8,67.0,"1471 Gerrard Street East, Toronto M4L2A1",Indian,50.0,Leslieville
+Mercury Espresso Bar,CAFÉ,3.9,66.0,"915 Queen Street East, Leslieville","Cafe, Coffee and Tea",25.0,Leslieville
+Hakka Wow,CASUAL DINING,3.6,30.0,1433 Gerrard Street East M4L 1Z7,Hakka Chinese,35.0,Leslieville
+Leslie Jones,CASUAL DINING,4.0,56.0,"1182 Queen Street East, Toronto M4M1L4",European,60.0,Leslieville
+Purple Penguin Cafe,CAFÉ,3.6,37.0,"889 Queen Street East, Toronto M4M 1J4",Cafe,25.0,Leslieville
+The Friendly Thai,CASUAL DINING,3.5,59.0,"1218 Queen Street East, Toronto M4M 1L7",Thai,35.0,Leslieville
+Regency Restaurant,CASUAL DINING,3.8,43.0,"1423 Gerrard Street East, Toronto M4L 1Z7",Indian,35.0,Leslieville
+Bombay Chowpatty,QUICK BITES,2.9,34.0,"1386 Gerrard Street East, Toronto M4L 1Z2","Indian, Fast Food",25.0,Leslieville
+Casa Di Giorgio Ristorante,CASUAL DINING,3.9,43.0,"1646 Queen Street East, Toronto M4L 1G3","Italian, Mediterranean, Pizza",55.0,Leslieville
+Hanoi 3 Seasons,CASUAL DINING,4.0,42.0,"1135 Queen Street East, Toronto M4M 1K9",Vietnamese,40.0,Leslieville
+OK OK Diner,CASUAL DINING,3.2,41.0,"1128 Queen Street East, Toronto M4M 1K9",Diner,25.0,Leslieville
+Lake Inez,BAR,3.6,20.0,"1471 Gerrard Street E, Toronto M4L 2A1",Asian Fusion,75.0,Leslieville
+Gale's Snack Bar,QUICK BITES,3.9,20.0,"539 Eastern Avenue, Toronto M4M1C6",Sandwich,20.0,Leslieville
+Com Tam 168,CASUAL DINING,3.3,19.0,"1018 Gerrard Street East, Toronto M4M 1Z3",Vietnamese,35.0,Leslieville
+Maple Leaf Tavern,CASUAL DINING,3.2,13.0,"955 Gerrard Street E, Toronto M4M 1Z4",American,30.0,Leslieville
+Completo,QUICK BITES,3.5,34.0,"5 Coady Avenue, Toronto M4M2Y9 1L2",Latin American,30.0,Leslieville
+Haandi,CASUAL DINING,3.6,34.0,"1401 Gerrard Street East, Toronto M4L 1Z5",Indian,40.0,Leslieville
+The Famous Indian Cuisine,CASUAL DINING,3.5,38.0,"1437 Gerrard Street East, Toronto M4L",Indian,30.0,Leslieville
+Desmond & Beatrice,DESSERT PARLOR,3.7,22.0,"388 Carlaw Avenue, Unit 206, Toronto M4M",Desserts,20.0,Leslieville
+Gautama,CASUAL DINING,3.5,37.0,"1416 Gerrard Street East, Toronto M4L 1Z6",Indian,40.0,Leslieville
+Chick-N-Joy,QUICK BITES,3.9,33.0,"1483 Queen Street East, Toronto M4L 1E2",Fast Food,25.0,Leslieville
+Mean Bao.,QUICK BITES,3.2,17.0,"181A Carlaw Avenue, Toronto M4M 2S1","Chinese, Fast Food",30.0,Leslieville
+Stratengers,BAR,3.1,36.0,"1130 Queen Street East, Toronto M4M 1L1","Pizza, Tex-Mex",50.0,Leslieville
+Chandni Chowk,QUICK BITES,3.9,20.0,"1426 Gerrard Street East, Toronto M4L1Z6","Indian, Pakistani",25.0,Leslieville
+Mahar Restaurant,DESSERT PARLOR,3.8,20.0,"1410 Gerrard Street East, Toronto M4L1Z4","Desserts, Indian",15.0,Leslieville
+Amato Pizza,QUICK BITES,3.7,30.0,"1056 Queen Street East, Toronto","Pizza, Fast Food",25.0,Leslieville
+B&B Fish and Chips,QUICK BITES,3.5,23.0,"1116 Queen Street East, Toronto M4M 1K8",Fish and Chips,25.0,Leslieville
+Tropical Joe's,BEVERAGE SHOP,3.8,18.0,"Gerrard Square Shopping Centre, 1000 Gerrard Street East, Toronto","Juices, Beverages",20.0,Leslieville
+YAYA,CASUAL DINING,3.4,18.0,"1186 Queen Street East, Toronto M4M 1L4",American,30.0,Leslieville
+Eulalie's Corner Store,CASUAL DINING,3.3,15.0,"1438 Gerrard Street East, Side Entrance, Toronto M4L 1Z8",Canadian,35.0,Leslieville
+Sweet Bliss,DESSERT PARLOR,3.6,24.0,"1304 Queen Street East, Toronto M4L1C4",Desserts,15.0,Leslieville
+Pinkerton's Snack Bar,BAR,3.5,9.0,1026 Gerrard St East M4M 1Z5,"Canadian, Bar Food",,Leslieville
+Kibo Sushi House,CASUAL DINING,3.5,18.0,"1169 Queen Street East, Toronto M4M 1L5",Sushi,45.0,Leslieville
+The Green Wood,CASUAL DINING,3.4,7.0,"1402 Queen Street East, Toronto M4L 1C9",American,,Leslieville
+Double D's,Other,3.0,7.0,"1020 Gerrard Street E, Toronto M4M 1Z5",Pizza,25.0,Leslieville
+Mad Dog Cafe,CAFÉ,3.7,17.0,"817 Gerrard Street East, Toronto M4M 1Y8",Cafe,35.0,Leslieville
+The Duke LIVE.com,CASUAL DINING,3.1,8.0,"1225 Queen Street East, Toronto M4M 1L6",Bar Food,50.0,Leslieville
+Tea-N-Bannock,CASUAL DINING,3.7,6.0,"1294 Gerrard Street East, Toronto M4L 1Y7",First Nations,35.0,Leslieville
+Greta Solomon's,CASUAL DINING,,,"1118 Queen Street East, Toronto M4M 1K9",French,70.0,Leslieville
+Karma's Kitchen,CASUAL DINING,3.5,7.0,1411 Gerrard Street East M4L 1Z5,"Indian, Nepalese, Tibetan",25.0,Leslieville
+New Town Family Restaurant,CASUAL DINING,3.7,13.0,"266 Coxwell Avenue, Toronto M4L3B6",American,30.0,Leslieville
+Belmonte Raw,BEVERAGE SHOP,2.8,9.0,"1022 Queen Street East, Toronto M4M1K3","Beverages, Healthy Food",30.0,Leslieville
+The Queen's Head Pub,BAR,3.1,10.0,"1214 Queen Street East, Toronto M4M 1L7",Bar Food,45.0,Leslieville
+Hitch,BAR,3.3,11.0,"1216 Queen Street East, Toronto M4M1L7",Bar Food,40.0,Leslieville
+Thai Culture,CASUAL DINING,3.2,4.0,1455 Gerrard Street East M4L 1Z9,"Thai, Malaysian",25.0,Leslieville
+The Social Gardener,CAFÉ,,,"1326 Gerrard Street East, Toronto M4L1Z1",Cafe,20.0,Leslieville
+Lahore Grill & Fast Food,QUICK BITES,3.8,12.0,"1274 Gerrard Street East, Toronto M4L1Y7","Pakistani, Kebab",40.0,Leslieville
+Starbucks,CAFÉ,3.0,12.0,"908 Queen Street East, Toronto",Cafe,20.0,Leslieville
+Pizzeria Via Mercanti,FAST CASUAL,3.0,5.0,"1505 Gerrard Street. E, Toronto M4L 2A4","Italian, Pizza",20.0,Leslieville
+Grinder Coffee,CAFÉ,3.0,12.0,"1021 Gerrard Street East, Toronto M4M1Z4",Cafe,25.0,Leslieville
+JP Restaurant Bar and Grill,CASUAL DINING,,,"270 1/2 Coxwell Avenue, Toronto","Canadian, Bar Food",35.0,Leslieville
+Wong's Ice Cream,DESSERT PARLOR,3.6,6.0,"617 Gerrard Street East, Toronto, Ontario",Ice Cream,20.0,Leslieville
+The Remarkable Bean,CAFÉ,,,"1103 Queen Street East, Toronto M4M 1K7",Cafe,20.0,Leslieville
+Triple A Bar,BAR,2.7,5.0,"1276 Queen Street East, Toronto M4L 1C4","BBQ, American, Bar Food",50.0,Leslieville
+McQueen's Pub,CASUAL DINING,3.4,10.0,"993 Queen Street East, Toronto M4M 1K2",Bar Food,50.0,Leslieville
+Lahore Chaat & Paan House,QUICK BITES,3.7,8.0,"1344 Gerrard Street East, Toronto","Pakistani, Fast Food",25.0,Leslieville
+Infuse Cafe,CAFÉ,3.2,5.0,"Gerrard Square, 1000 Gerrard St E, Toronto","Cafe, Bubble Tea",10.0,Leslieville
+Left Field Brewery,BAR,,,"36 Wagstaff Drive, Toronto M4L3W9",Drinks Only,40.0,Leslieville
+British Style Fish & Chips,CASUAL DINING,3.7,4.0,"73 Coxwell Avenue, Toronto M4L 3B1",Fish and Chips,25.0,Leslieville
+Radical Road Brewing Company,BAR,,,"1177 Queen Street East, Toronto M4M 1L5",Bar Food,45.0,Leslieville
+Flying Pony,BAKERY,3.1,5.0,"1481 Gerrard Street East, Toronto M4L2A1","Bakery, Cafe",15.0,Leslieville
+Chula Taberna Mexicana,CASUAL DINING,3.6,5.0,1058 Gerrard Street East,Mexican,55.0,Leslieville
+Kabul Kebab House,QUICK BITES,,,"1324B Gerrard Street East, Toronto M4L 1Z1","Kebab, Afghan",20.0,Leslieville
+Eadrey Foods,CASUAL DINING,3.5,5.0,"1129 Queen Street East, Toronto M4M 1K9","Canadian, Desserts",30.0,Leslieville
+Taste Of Tandooree And Sweets,CASUAL DINING,3.0,4.0,"1330 Gerrard Street East, Toronto","Indian, Pakistani",35.0,Leslieville
+Dundas & Carlaw,CAFÉ,,,"1173 Dundas Street East, Toronto M4M 3P1",Cafe,30.0,Leslieville
+The Pantry Fine Cheese,QUICK BITES,3.6,6.0,"1620 Gerrard Street East, Toronto M4L3B6",Canadian,20.0,Leslieville
+Eastbound Brewing Company,Other,3.6,4.0,"700 Queen Street E, Toronto M4M 1G9",Bar Food,25.0,Leslieville
+Food Dudes Pantry,QUICK BITES,3.3,5.0,"24 Carlaw Avenue, Toronto M4M 2R7",Healthy Food,40.0,Leslieville
+Wendy's,FAST FOOD,2.7,7.0,731 Eastern Avenue,"Fast Food, Burger",20.0,Leslieville
+It's the Icing on the Cake,BAKERY,2.6,5.0,"1238 Queen Street East, Toronto M4L 1C3","Bakery, Desserts",15.0,Leslieville
+Fruitful,QUICK BITES,,,327 Carlaw Avenue,"Canadian, Healthy Food",30.0,Leslieville
+Crowded House,CASUAL DINING,,,"1161 Queen Street East, Leslieville, Toronto",Mediterranean,35.0,Leslieville
+Two Headed Dog,BAR,3.0,4.0,1469 Gerrard Street E M4L 2A1,Bar Food,25.0,Leslieville
+Yummy House,QUICK BITES,3.2,4.0,"234 Jones Avenue, Toronto","Canadian, Asian",20.0,Leslieville
+WAYLA Bar,BAR,,,"996 Queen Street East, Toronto M4M1K1",Bar Food,50.0,Leslieville
+Subway,QUICK BITES,2.8,4.0,"828 Eastern Avenue, Toronto",Fast Food,20.0,Leslieville
+Pilot Roastery & Tasting Bar,CAFÉ,,,"50 Wagstaff Drive, Toronto M4M1K2",Cafe,20.0,Leslieville
+Tim Hortons,CAFÉ,,,731 Eastern Avenue,"American, Donuts, Desserts",20.0,Leslieville
+Wynona,FAST CASUAL,,,"819 Gerrard St E, Leslieville, Toronto",Italian,30.0,Leslieville
+The Donut Factory,QUICK BITES,,,"101 Pape Avenue, Toronto",Cafe,15.0,Leslieville
+241 Pizza,QUICK BITES,3.2,4.0,"1016 Gerrard Street East, Toronto","Pizza, Fast Food",30.0,Leslieville
+District 28,CAFÉ,,,"28 Logan Avenue, Toronto M4M 2M8","Cafe, Bakery",25.0,Leslieville
+Sideshow Cafe,CAFÉ,,,"1300 Gerrard Street East, Toronto M4L 1Y7",Cafe,20.0,Leslieville
+Raspberry Cafe,CAFÉ,,,"1201 Dundas Street East, Toronto M4M1S2",Cafe,15.0,Leslieville
+Gare De L'Est,CASUAL DINING,,,1190 Dundas Street E M4M 0C5,French,30.0,Leslieville
+The Dock On Queen,CAFÉ,,,"932 Queen St E, Leslieville, Toronto",Cafe,25.0,Leslieville
+Bar Burrito,QUICK BITES,,,"Gerrard Square Shopping Centre, 1000 Gerrard Street East, Toronto",Tex-Mex,25.0,Leslieville
+My Little Dumplings,QUICK BITES,,,1372 Queen Street East,Fusion,20.0,Leslieville
+My Bar & Restaurant,BAR,,,"936 Gerrard Street East, Toronto",Drinks Only,30.0,Leslieville
+Any Direct Flight,CAFÉ,,,"1382 Queen Street East, Toronto M4L1C9","Cafe, Ice Cream",25.0,Leslieville
+Real Fruit Bubble Tea,BEVERAGE SHOP,,,"Gerrard Square Shopping Centre, 1000 Gerrard Street East, Toronto",Bubble Tea,15.0,Leslieville
+Shish,CASUAL DINING,,,"1225 Queen Street East, Toronto, ON M4M 1L6",Middle Eastern,35.0,Leslieville
+Icy Spicy Fusion Restaurant,QUICK BITES,,,"99 Pape Avenue, Toronto M4M2V7","Chinese, Canadian",25.0,Leslieville
+India Paan,QUICK BITES,,,"1427 Gerrard Street East, Toronto",Indian,15.0,Leslieville
+Kristapsons,CASUAL DINING,,,"1095 Queen St East, Toronto M4M 1K7",Seafood,45.0,Leslieville
+Mission Works,CASUAL DINING,,,"1346 Queen Street East, Toronto M4L1C5",Indian,40.0,Leslieville
+KFC,QUICK BITES,,,"Gerrard Square Shopping Centre, 1000 Gerrard Street East, Toronto",Fast Food,25.0,Leslieville
+Jenny's Place,BAR,,,"1338 Gerrard Street East, Toronto M4L1Z2",Drinks Only,30.0,Leslieville
+G.G Bar & Eatery,BAR,,,"1281 Gerrard Street East, Toronto",Drinks Only,40.0,Leslieville
+Coffee Time,CAFÉ,,,"255 Coxwell Avenue, Toronto",Cafe,25.0,Leslieville
+Blackjack BBQ,CASUAL DINING,,,"1044 Gerrard Street East., Leslieville","American, Bar Food, BBQ, Southern",40.0,Leslieville
+Polly Anna,CASUAL DINING,,,"1054 Gerrard Street E, Toronto, ON M4M 1Z8",Canadian,40.0,Leslieville
+"Gerrard Street East, Leslieville",Other,,,CUISINES:,Indian,80.0,Leslieville
+Swiss Chalet Express,CASUAL DINING,,,"1641 Queen Street East, Toronto",Canadian,40.0,Leslieville
+Banh Mi Huy Ky,QUICK BITES,,,"1046 Gerrard Street East, Toronto M4M1Z7",Vietnamese,15.0,Leslieville
+GB Hand-Pulled Noodles,Other,,,"1024 Gerrard Street East Toronto, ON M4M 1Z5","Ramen, Chinese",25.0,Leslieville
+Apropo,CAFÉ,,,"Gerrard Square Shopping Centre, 1000 Gerrard Street East, Toronto M4M3G6",Cafe,15.0,Leslieville
+Lahori Taste & Burger House,QUICK BITES,,,"1346 Gerrard Street East, Toronto","Pakistani, Fast Food",35.0,Leslieville
+Godspeed Brewery,Other,,,"242 Coxwell Avenue, Toronto, ON M4L 3B2",Bar Food,65.0,Leslieville
+Butter Chicken Roti,CASUAL DINING,,,"1610 Queen Street East, Toronto, ON M4L 1G2",Indian,30.0,Leslieville
+Asian Gourmet,QUICK BITES,,,"Gerrard Square Shopping Centre, 1000 Gerrard Street East, Toronto M4M1Z3","Fast Food, Asian",25.0,Leslieville

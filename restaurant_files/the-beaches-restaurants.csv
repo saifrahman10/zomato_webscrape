@@ -1,0 +1,127 @@
+Name,EstablishmentType,Rating,NumReviews,Address,Cuisine,CostForTwo,City
+The Burger's Priest,QUICK BITES,4.2,779.0,"1636, Queen St. E, Toronto",Burger,30.0,The Beaches
+Green Eggplant Restaurant,CASUAL DINING,4.1,249.0,"2022 Queen Street East, Toronto M4L 1J4","Mediterranean, Sandwich, Seafood",70.0,The Beaches
+Ed's Real Scoop,DESSERT PARLOR,4.6,174.0,"2224 Queen Street East, Toronto M4E 1E9","Ice Cream, Desserts",20.0,The Beaches
+Udupi Palace,CASUAL DINING,4.1,141.0,"1460 Gerrard Street East, Toronto M4L 2A3",Indian,35.0,The Beaches
+Hogtown Smoke,CASUAL DINING,3.5,88.0,"1959 Queen Street East, Toronto",BBQ,50.0,The Beaches
+Sauvignon,CASUAL DINING,4.5,107.0,"1862 Queen Street East, Toronto","French, Seafood",80.0,The Beaches
+Vi Vetha Bistro,CASUAL DINING,4.6,94.0,"2485 Queen Street East, Toronto",Italian,60.0,The Beaches
+Sunset Grill,CASUAL DINING,3.8,93.0,"2006 Queen Street East, Toronto","Diner, Breakfast",30.0,The Beaches
+Murphy's Law,CASUAL DINING,3.9,83.0,"1702 Queen Street East, Toronto M4L 1G6","Bar Food, Irish",50.0,The Beaches
+Yumei Sushi,CASUAL DINING,4.3,68.0,"2116 Queen Street East, Toronto","Sushi, Japanese, Asian",50.0,The Beaches
+Cinamon Indian Bistro,CASUAL DINING,3.9,60.0,"1966 Queen Street East, Toronto M4L 1H8",Indian,50.0,The Beaches
+Zane Patisserie & Boulangerie,DESSERT PARLOR,4.2,48.0,"1842 Queen Street East, Toronto M4L 6T3",Desserts,10.0,The Beaches
+The Beacher Cafe,CASUAL DINING,3.3,71.0,"2162 Queen Street East, Toronto","Canadian, Pizza",40.0,The Beaches
+Veloute,CASUAL DINING,4.1,48.0,"2343 Queen Street East, Toronto","French, Grill",70.0,The Beaches
+The Stone Lion,CASUAL DINING,3.1,65.0,"1958 Queen Street East, Toronto M4L 1H6","British, Burger, Seafood",65.0,The Beaches
+Thai House Cuisine,CASUAL DINING,3.9,50.0,"2213 Queen Street East, Toronto","Thai, Asian",30.0,The Beaches
+Aki Da,CASUAL DINING,3.6,74.0,"1911 Queen Street East, Toronto M4L 1H3",Sushi,45.0,The Beaches
+Whitlock's,CASUAL DINING,3.0,72.0,"1961 Queen Street East, Toronto","Mediterranean, Canadian",40.0,The Beaches
+Green Basil,CASUAL DINING,3.9,57.0,"2120 Queen Street East, Toronto M4E 1E2",Thai,40.0,The Beaches
+Japango,CASUAL DINING,4.0,54.0,"2209 Queen Street East, Toronto","Sushi, Japanese, Asian",50.0,The Beaches
+Garden Gate,CASUAL DINING,3.9,53.0,"2379 Queen Street East, Toronto M4E 1H5","Chinese, Canadian",25.0,The Beaches
+The Beech Tree,CASUAL DINING,3.9,39.0,"924 Kingston Road, Toronto M4E 1S5",British,85.0,The Beaches
+Delhi Bistro,CASUAL DINING,4.2,51.0,"2214 Queen Street East, Toronto M4E 1E9",Indian,45.0,The Beaches
+Seaspray Restaurant,CASUAL DINING,4.0,44.0,"629 Kingston Road, Toronto M4E 1R3",Chinese,30.0,The Beaches
+No Bull Burger,QUICK BITES,3.9,36.0,"1019 Kingston Road, Toronto M4E 3T9","Burger, Fast Food",30.0,The Beaches
+Ali's Tandoori Curry House,CASUAL DINING,3.8,49.0,"2306 Queen Street East, Toronto",Indian,50.0,The Beaches
+Tori's Bakeshop,BAKERY,3.6,21.0,"2188 Queen Steet East, Toronto M4E","Bakery, Cafe, Coffee and Tea, Desserts",25.0,The Beaches
+Bikkuri,CASUAL DINING,3.4,44.0,"2197 Queen Street East, Toronto","Sushi, Japanese, Asian",45.0,The Beaches
+Life is Sweet,DESSERT PARLOR,3.9,26.0,"2345 Queen Street East, Toronto M4E 1H2",Desserts,20.0,The Beaches
+Remarkable Bean,CAFÉ,3.9,38.0,"2242 Queen Street East, Toronto M4E 1G2",Cafe,20.0,The Beaches
+Cool Runnings,CASUAL DINING,3.9,28.0,"146 Main Street, Toronto M4E 2V8","Jamaican, Caribbean",30.0,The Beaches
+The Green Dragon Pub,BAR,3.9,40.0,"1032 Kingston Road, Toronto M4E 1T5",Bar Food,40.0,The Beaches
+Kyouka Ramen,CASUAL DINING,3.8,23.0,"2222 Queen Street East, Toronto M4E",Ramen,50.0,The Beaches
+Castro's Lounge,BAR,3.9,35.0,"2116 Queen Street East, Toronto","Mexican, Fusion",50.0,The Beaches
+Bam! Breakfast & Bistro,CASUAL DINING,3.8,26.0,"1970 Queen Street East, Toronto M4L 1H8","Diner, Canadian",30.0,The Beaches
+Outrigger,CASUAL DINING,3.5,37.0,"2232 Queen Street East, Toronto","Italian, American",65.0,The Beaches
+The Grover,CASUAL DINING,3.6,27.0,"676 Kingston Road, Toronto M4E 1R4","Bar Food, American, British",50.0,The Beaches
+The Feathers,CASUAL DINING,3.9,31.0,"962 Kingston Road, Toronto M4E 1S7","British, Bar Food",40.0,The Beaches
+Mars Beach Diner,CASUAL DINING,2.6,37.0,"1987 Queen Street East, Toronto M4I",Diner,35.0,The Beaches
+O Sushi,CASUAL DINING,3.8,23.0,"6 Coxwell Avenue, Toronto M4L 3A7","Sushi, Japanese, Asian",40.0,The Beaches
+King's Diner,CASUAL DINING,3.9,26.0,"906 Kingston Road, Toronto M4E 1S5","Diner, Canadian",30.0,The Beaches
+Beachside Grill,CASUAL DINING,3.4,29.0,"1922 Queen Street East, Toronto M4L 1H5",Diner,35.0,The Beaches
+Brick Street Bakery,BAKERY,3.8,28.0,"1969 Queen Street East, Toronto","Bakery, Cafe",30.0,The Beaches
+Pizzaiolo,QUICK BITES,3.6,27.0,"66 Kingston Road, Toronto","Pizza, Fast Food",30.0,The Beaches
+Delina Restaurant,QUICK BITES,3.8,22.0,"1891 Queen Street East, Toronto M4L 1H3",Middle Eastern,20.0,The Beaches
+Beaches Bake Shop & Cafe,CAFÉ,3.7,12.0,"900 Kingston Road, Toronto M4E 1S5","Cafe, Bakery",20.0,The Beaches
+Sandy's Cuisine & Cafe,QUICK BITES,3.7,20.0,"941 Kingston Road, Toronto M4E 1S8","Middle Eastern, Canadian",15.0,The Beaches
+Kingston Chinese Restaurant,CASUAL DINING,3.8,24.0,"955 Kingston Road, Toronto M4E 1S8","Chinese, Asian",35.0,The Beaches
+Burrito Bandidos,QUICK BITES,3.6,21.0,"1614A Queen Street East, Toronto","Fast Food, Mexican",25.0,The Beaches
+Budapest Restaurant,CASUAL DINING,3.5,11.0,"1959 Gerrard Street East, Toronto M4E 2A9",Hungarian,25.0,The Beaches
+Occasions Restaurant,CASUAL DINING,3.4,18.0,"30 Eastwood Road, Toronto M4L 2C3","Greek, Bar Food",45.0,The Beaches
+Bagels On Fire,CAFÉ,3.5,13.0,"2248 Queen Street East, Toronto M4E 1G2",Cafe,25.0,The Beaches
+Juice & Java,CAFÉ,3.8,18.0,"2102 Queen Street East, Toronto M4E 1E2",Cafe,30.0,The Beaches
+Breakwall BBQ & Smokehouse,CASUAL DINING,3.7,18.0,"1910 Queen Street East, Toronto M4L 1H5","BBQ, Bar Food",60.0,The Beaches
+Kingston Gourmet Boxes,QUICK BITES,3.4,14.0,"452 Kingston Road, Toronto M4L 1V3","Indian, Canadian",25.0,The Beaches
+XOLA,CASUAL DINING,3.1,11.0,"2222 Queen Street East, Toronto M4E 1E9",Mexican,55.0,The Beaches
+The Fill Station & Sports Bar,CASUAL DINING,3.4,18.0,"2282 Queen Street East, Toronto M4E 1G6",Bar Food,40.0,The Beaches
+Gabby's,BAR,2.9,18.0,"980 Kingston Road, Toronto M4E 1S9",Bar Food,55.0,The Beaches
+Madhus,CAFÉ,3.5,17.0,"982 Kingston Road, Toronto M4E 1T1",Cafe,25.0,The Beaches
+Honey Bee Restaurant,CASUAL DINING,2.7,16.0,"2028 Queen Street East , Toronto","Chinese, Asian",45.0,The Beaches
+Hero Certified Burgers,QUICK BITES,3.6,16.0,"2018 Queen Street East, Toronto","Burger, Sandwich",25.0,The Beaches
+Foodoe's Fish & Chips,QUICK BITES,3.3,9.0,1036 Kingston Road M4E 1T4,Fish and Chips,30.0,The Beaches
+Isabella's Boutique Restaurant,CASUAL DINING,3.8,4.0,"2328 Queen Street East, Toronto M4E 1G9","Canadian, Coffee and Tea",25.0,The Beaches
+Pizza Hut,QUICK BITES,2.9,12.0,"2070 Queen Street East, Toronto","Pizza, Fast Food",25.0,The Beaches
+Mamma's Pizza,QUICK BITES,3.6,13.0,"2118 Queen Street East, Toronto","Pizza, Fast Food",25.0,The Beaches
+Pattaya Thai Kitchen,CASUAL DINING,3.6,8.0,"2326 Queen Street East, Toronto M4E 1G9",Thai,35.0,The Beaches
+My Place,BAR,3.1,16.0,"2066 Queen Street East, Toronto M4E 1C9",Bar Food,60.0,The Beaches
+Carters Landing,BAR,3.6,4.0,"1681 Lake Shore Boulevard East, Toronto M4L 3W6","Bar Food, BBQ, Seafood",30.0,The Beaches
+Sleepy Baker,BAKERY,,,"7 Coxwell Avenue, Toronto M4L 3A8",Bakery,15.0,The Beaches
+Jody's Deli,QUICK BITES,3.7,10.0,"64 Kingston Road, Toronto M4L 1S4","Deli, Fast Food",25.0,The Beaches
+Sanna's Farmacia Juicebar,BEVERAGE SHOP,3.1,11.0,"2096 Queen Street East, Toronto M4E 1E1","Juices, Healthy Food, Beverages",20.0,The Beaches
+The Belgian Chocolate Shop,DESSERT PARLOR,3.9,7.0,"2455 Queen Street East, Toronto",Desserts,10.0,The Beaches
+Bud's Coffee Bar,CAFÉ,3.4,7.0,"1934 Queen Street East, Toronto M4L",Cafe,20.0,The Beaches
+Salty Dog Bar & Grill,BAR,2.8,11.0,"1980 Queen Street East, Toronto",Bar Food,45.0,The Beaches
+Fat Bastard Burrito,QUICK BITES,3.0,7.0,"2008 Queen Street East, Toronto M4L 1J3","Mexican, Fast Food",25.0,The Beaches
+Bodega Henriette,DESSERT PARLOR,,,"121 Bowmore Road, Toronto M4L 3J3",Desserts,10.0,The Beaches
+David's Tea,BEVERAGE SHOP,3.5,6.0,"2010 Queen Street East, Toronto","Tea, Beverages",15.0,The Beaches
+Chocolate By Wickerhead,DESSERT PARLOR,3.1,5.0,"2375 Queen Street East, Toronto",Desserts,25.0,The Beaches
+Athens Pastries,CAFÉ,,,"1681 Lake Shore Boulevard East, Toronto M4L 3W6","Cafe, Greek, Bakery",25.0,The Beaches
+Grinder Coffee,CAFÉ,3.7,9.0,"126 Main Street, Toronto M4E 2V8",Cafe,25.0,The Beaches
+Amma Roti House ,CASUAL DINING,3.6,6.0,2014 Queen Street E M4L 1J3,Indian,,The Beaches
+Beryl's Pepper Pot,QUICK BITES,3.4,6.0,"1610 Queen Street East, Toronto, ON M4L 1G2",Caribbean,25.0,The Beaches
+Swiss Chalet Express,CASUAL DINING,3.1,8.0,"2148 Queen Street East, Toronto M4E 1E3",Canadian,40.0,The Beaches
+Fade In Cafe,CASUAL DINING,3.4,4.0,"143 Main Street, Toronto M4E 2V8",Diner,30.0,The Beaches
+The Bulging Burger,QUICK BITES,,,"2459 Queen Street East, Toronto M4E 1H7","Burger, Fast Food",25.0,The Beaches
+Stone Pizza,QUICK BITES,,,"281 Scarborough Road, Toronto M4E 3M9",Pizza,30.0,The Beaches
+The Nutty Chocolatier,DESSERT PARLOR,,,"2179 Queen Street East, Toronto",Desserts,15.0,The Beaches
+ZIBA Berlin Döner,QUICK BITES,,,"1608 Queen Street East, Toronto, ON M4L 3A7",German,20.0,The Beaches
+Mélange,BAR,2.8,6.0,"172 Main Street, Toronto M4E 2W1",Bar Food,40.0,The Beaches
+Pizzaville,QUICK BITES,3.0,6.0,"1971 Queen Street East, Toronto","Pizza, Fast Food",25.0,The Beaches
+Oscar Coffee + Espresso Bar,CAFÉ,,,"2377 Queen Street East, Toronto M4E 1H2",Cafe,20.0,The Beaches
+Naturalis,CAFÉ,,,"2198 Queen Street East, Toronto M4E","Cafe, Bakery",20.0,The Beaches
+Pizza Pizza,QUICK BITES,2.9,6.0,"1054 Kingston Road, The Beaches","Pizza, Fast Food",25.0,The Beaches
+Beach Hill Smokehouse,FAST CASUAL,,,172 Main Street South,BBQ,25.0,The Beaches
+Captain Jack,BAR,2.9,5.0,"2 Wheeler Avenue, Toronto M4L 3V2",Bar Food,45.0,The Beaches
+Beach Fish House,QUICK BITES,3.6,4.0,"1963 Queen Street East, Toronto M4L 1H3",Seafood,20.0,The Beaches
+Corks & Platters,BAR,,,"2220 Queen Street East, Toronto M4E",Bar Food,50.0,The Beaches
+Sweat & Soda,CAFÉ,,,"1091 Queen St E, The Beaches, Toronto",Cafe,25.0,The Beaches
+The Emerald Bar & Grill,CASUAL DINING,,,"1628 Queen Street East, Toronto M4L 1G3",Bar Food,,The Beaches
+Pizza Nova,QUICK BITES,3.7,5.0,"1928 Queen Street East, Toronto","Pizza, Fast Food",30.0,The Beaches
+Souvlaki Hut,QUICK BITES,,,"2100 Queen Street East, Toronto","Greek, Fast Food",30.0,The Beaches
+McDonald's,QUICK BITES,3.1,4.0,"2480 Gerrard Street East, The Beaches M4E3T3",Fast Food,25.0,The Beaches
+Beach Shawarma,QUICK BITES,,,"1608 Queen Street East, Toronto M4L3A7",Middle Eastern,25.0,The Beaches
+The Flying Elephant Bakery,BAKERY,,,"2328 Queen Street East, Toronto M4E 1G9","Bakery, Desserts",15.0,The Beaches
+Touti Gelati,DESSERT PARLOR,,,"1865 Queen Street East, Toronto","Ice Cream, Cafe",15.0,The Beaches
+Tim Hortons,CAFÉ,,,2002 Queen Street East,"American, Donuts, Desserts",20.0,The Beaches
+Mullins,BAR,,,"917 Kingston Road, Toronto M4E 1S6","Bar Food, Irish",55.0,The Beaches
+Fleur de Lis,BAR,,,"355 Coxwell Avenue, Toronto M4L 3B8",Bar Food,35.0,The Beaches
+AMS Pizza & Wings,QUICK BITES,,,"162 Main Street, Toronto M4E 2V8","Pizza, Fast Food",25.0,The Beaches
+Subway,QUICK BITES,,,"968 Kingston Road, Toronto",Fast Food,20.0,The Beaches
+Good Time Coffee,QUICK BITES,,,"1946 Gerrard Street East, Toronto M4E 2B1",Diner,20.0,The Beaches
+Fearless Meat,FAST CASUAL,,,"884 Kingston Rd, Toronto, ON M4E 1S3","American, Burger, Canadian, Coffee and Tea, Diner, Fast Food, Sandwich,",25.0,The Beaches
+Ruby Tuesdays,BAR,,,"1942 Gerrard Street East, Toronto",Bar Food,35.0,The Beaches
+Jimmy's Place,CASUAL DINING,,,"1950 Gerrard Street East, Toronto M4E 2B1",Diner,30.0,The Beaches
+Beach Hill Pub,BAR,,,"1929 Gerrard Street East, Toronto M4L 2C2",Bar Food,35.0,The Beaches
+Robin's Pizza & Wings,QUICK BITES,,,"263 Coxwell Avenue, Toronto M4L 3B5","Pizza, Fast Food",25.0,The Beaches
+Starbucks,CAFÉ,,,"1984 Queen Street East, Toronto",Cafe,20.0,The Beaches
+Domino's,QUICK BITES,,,"2194 Gerrard Street East, Toronto","Fast Food, Pizza",25.0,The Beaches
+La Sala,CASUAL DINING,,,"1975A Queen Street East, Toronto, ON M4L 1J1",Italian,,The Beaches
+Sticky Rice,CASUAL DINING,,,"1489 Gerrard St E, The Beaches, Toronto",Thai,,The Beaches
+Abetron,CASUAL DINING,,,"84 Kingston Road, Toronto M4L1N2",Canadian,80.0,The Beaches
+All Starz Espresso Bar,CAFÉ,,,"2249 Gerrard Street East, Toronto M4E 2C9",Cafe,15.0,The Beaches
+C & G Sports Lounge,BAR,,,"355 Coxwell Avenue, Toronto",Bar Food,20.0,The Beaches
+Starbucks,CAFÉ,,,1842 Queen Street East M4L 1H1,Coffee and Tea,,The Beaches
+Savoury Grounds,CAFÉ,,,"283 Scarborough Road, Toronto M4E 3M8",Cafe,10.0,The Beaches
+Johnny Catch,QUICK BITES,,,"1675 Lake Shore Boulevard E, Toronto, ON M4L 3W6",Fish and Chips,15.0,The Beaches

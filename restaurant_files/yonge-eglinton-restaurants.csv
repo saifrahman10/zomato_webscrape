@@ -1,0 +1,147 @@
+Name,EstablishmentType,Rating,NumReviews,Address,Cuisine,CostForTwo,City
+Grazie Ristorante,CASUAL DINING,4.2,694.0,"2373 Yonge Street, Toronto M4P 2C8",Italian,60.0,Yonge & Eglinton
+Tabule,CASUAL DINING,4.2,233.0,"2009 Yonge Street, Toronto M4S 1Z8",Middle Eastern,55.0,Yonge & Eglinton
+Burger Shack,QUICK BITES,4.3,240.0,"233 Eglinton Avenue West, Toronto M4R 1A9","Burger, Fast Food",30.0,Yonge & Eglinton
+Little Sister,CASUAL DINING,3.8,116.0,"2031 Yonge Street, Toronto M4S 2A2",Indonesian,55.0,Yonge & Eglinton
+La Vecchia,CASUAL DINING,4.2,155.0,"2405 Yonge Street, Toronto M4P 2E7",Italian,80.0,Yonge & Eglinton
+Uncle Betty's,CASUAL DINING,3.3,115.0,"2590 Yonge Street, Toronto M4P 2J3","Bar Food, Diner, Ice Cream",35.0,Yonge & Eglinton
+Five Doors North,CASUAL DINING,4.4,115.0,"2088 Yonge Street, Toronto M4S 2A3",Italian,90.0,Yonge & Eglinton
+The Keg Steakhouse + Bar - Yonge + Eglinton,CASUAL DINING,3.8,81.0,"2201 Yonge Street, Toronto, ON, M4S 2B2",Steak,100.0,Yonge & Eglinton
+Mariachi's,CASUAL DINING,3.9,106.0,"2084 Yonge Street, Toronto M4S 2A4",Mexican,60.0,Yonge & Eglinton
+Zucca,CASUAL DINING,3.9,86.0,"2150 Yonge Street, Toronto M4S 2A7",Italian,85.0,Yonge & Eglinton
+Balsamico,CASUAL DINING,4.0,66.0,"2029 Yonge Street, Toronto M4S 2A2",Italian,60.0,Yonge & Eglinton
+Banjara Indian House,CASUAL DINING,3.8,86.0,"164 Eglinton Avenue East, Toronto M4P 2K5",Indian,45.0,Yonge & Eglinton
+Churrasco Villa,CASUAL DINING,4.3,84.0,"254 Eglinton Avenue East, Toronto M4P 1K2",Portuguese,70.0,Yonge & Eglinton
+Amore Trattoria,CASUAL DINING,3.4,68.0,"2425 Yonge Street, Toronto M4P 2E7",Italian,70.0,Yonge & Eglinton
+Echo Sushi,CASUAL DINING,4.2,77.0,"2036 Yonge Street, Toronto M4S 1Z9","Sushi, Japanese, Asian",45.0,Yonge & Eglinton
+Touhenboku Ramen,CASUAL DINING,3.0,57.0,"2459 Yonge Street, Toronto M4P 2H6","Ramen, Japanese",40.0,Yonge & Eglinton
+HoSu Bistro,CASUAL DINING,3.6,76.0,"2352 Yonge Street, Toronto M4P 2E6","Sushi, Japanese, Korean",30.0,Yonge & Eglinton
+Pickle Barrel,CASUAL DINING,2.8,89.0,"RioCan Yonge Eglinton Centre, 2300 Yonge Street, Toronto","Grill, Canadian",60.0,Yonge & Eglinton
+Fresh,FAST CASUAL,3.6,65.0,"90 Eglinton Avenue E, Toronto M4P 1A6","Healthy Food, Juices",40.0,Yonge & Eglinton
+Green Papaya,CASUAL DINING,4.0,74.0,"2401 Yonge Street, Toronto M4P 3H1","Thai, Asian",45.0,Yonge & Eglinton
+Lime,CASUAL DINING,4.0,73.0,"170 Eglinton Avenue East, Toronto M4P 1A6","Thai, Asian",70.0,Yonge & Eglinton
+Sushi Kai,CASUAL DINING,3.6,84.0,"168 Eglinton Avenue East, Toronto M4P 2K5","Sushi, Japanese, Asian",70.0,Yonge & Eglinton
+Boom Breakfast & Co,CASUAL DINING,3.9,80.0,"174 Eglinton Avenue West, Toronto M4R 1A7","Diner, Canadian",45.0,Yonge & Eglinton
+T-Buds,CAFÉ,3.8,57.0,"3343 Yonge Street Fl 2, Yonge & Eglinton, Toronto M4N 2M4","Tea, Cafe",40.0,Yonge & Eglinton
+Classico Louie's Pizzeria,QUICK BITES,4.1,61.0,"2549 Yonge Street, Toronto M4P 2H9","Pizza, Italian",35.0,Yonge & Eglinton
+Mandarin Restaurant - Yonge,CASUAL DINING,3.9,82.0,"2200 Yonge Street, Toronto","Chinese, Asian, Canadian",60.0,Yonge & Eglinton
+Darbar,CASUAL DINING,4.0,43.0,"288 Eglinton Avenue West, Toronto M4R 1B2",Iranian,85.0,Yonge & Eglinton
+Sorn Thai,CASUAL DINING,4.0,56.0,"2550 Yonge Street, Toronto","Thai, Asian",55.0,Yonge & Eglinton
+The Homeway,CASUAL DINING,3.9,63.0,"955 Mount Pleasant Road, Toronto M4P",Diner,43.0,Yonge & Eglinton
+Sushi Supreme,CASUAL DINING,3.8,65.0,"1995 Yonge Street, Toronto M4S 1Z9","Sushi, Japanese, Asian",45.0,Yonge & Eglinton
+Good Bite,CASUAL DINING,4.0,52.0,"2463 Yonge Street, Toronto M4P 2H6",American,30.0,Yonge & Eglinton
+Spacco Restaurant and Bar,CASUAL DINING,3.7,53.0,"2415 Yonge Street, Toronto M4P 2E7",Italian,70.0,Yonge & Eglinton
+Lil' Baci,CASUAL DINING,3.4,51.0,"2013 Yonge Street, Toronto M4S 1Z9",Italian,50.0,Yonge & Eglinton
+Chef Of India,CASUAL DINING,3.3,48.0,"30 Eglinton Avenue West, Toronto M4P 1A6",Indian,50.0,Yonge & Eglinton
+Cibo Wine Bar Yonge St,CASUAL DINING,2.8,30.0,"2472 Yonge Street, Toronto M4P 2H5",Italian,70.0,Yonge & Eglinton
+The Cupcake Shoppe,DESSERT PARLOR,3.5,50.0,"2417 Yonge Street, Toronto M4P 2E7","Desserts, Bakery",15.0,Yonge & Eglinton
+La Boheme Cafe,CAFÉ,3.6,40.0,"2481 Yonge Street, Toronto M4P 2H6",Cafe,30.0,Yonge & Eglinton
+Sushi Rock,CASUAL DINING,3.5,51.0,"2359 Yonge Street, Toronto M4P 2C8","Sushi, Japanese, Asian",35.0,Yonge & Eglinton
+Grano,CASUAL DINING,3.8,63.0,"2035 Yonge Street, Toronto M4P 2A2",Italian,55.0,Yonge & Eglinton
+Mars Uptown Diner,CASUAL DINING,3.6,53.0,"2363 Yonge Street, Toronto M4P 3J6",Diner,35.0,Yonge & Eglinton
+Phipps Bakery Cafe,DESSERT PARLOR,3.8,31.0,"420 Eglinton Avenue West, Toronto M5N 1A2","Desserts, Cafe",25.0,Yonge & Eglinton
+Alleycatz,BAR,3.3,56.0,"2409 Yonge Street, Toronto M4P 2S7","Bar Food, Mediterranean",80.0,Yonge & Eglinton
+The Wallace Gastropub,CASUAL DINING,3.0,20.0,"1954 Yonge Street, Toronto M4S 1Z4",Bar Food,70.0,Yonge & Eglinton
+SIP Wine Bar,CASUAL DINING,3.6,33.0,"2 Broadway Avenue, Toronto M4P 1T4","Italian, Pizza",70.0,Yonge & Eglinton
+.Gelato Simply Italian,CAFÉ,4.1,43.0,"2076 Yonge Street, Toronto M4S 2A3","Ice Cream, Cafe",30.0,Yonge & Eglinton
+Tokyo Sushi,CASUAL DINING,3.8,44.0,"373 Eglinton Avenue West, Toronto M5N 1A3","Japanese, Korean",50.0,Yonge & Eglinton
+C'est Bon,CASUAL DINING,3.6,46.0,"2685 Yonge Street, Toronto","Chinese, Asian",40.0,Yonge & Eglinton
+South St. Burger Co.,QUICK BITES,3.7,41.0,"2383 Yonge Street, Toronto","Fast Food, Burger",25.0,Yonge & Eglinton
+De Mello Palheta Coffee Roasters,CAFÉ,3.8,20.0,"2489 Yonge Street, Toronto M4P 2H6",Cafe,20.0,Yonge & Eglinton
+St. Louis Bar and Grill,CASUAL DINING,3.5,44.0,"2050 Yonge St., Toronto, ON, M4S 1Z9","Bar Food, Grill",40.0,Yonge & Eglinton
+Boar,QUICK BITES,3.6,24.0,"3 Glebe Road East, Toronto M4S 1N7",Sandwich,25.0,Yonge & Eglinton
+Himalayan Java House,CAFÉ,3.7,15.0,"2552 Yonge Street, Toronto",Cafe,15.0,Yonge & Eglinton
+Kramer's Bar and Grill,CASUAL DINING,3.9,39.0,"1915 Yonge Street, Toronto M4S 1Z3","Bar Food, Grill",60.0,Yonge & Eglinton
+Istanbul Cafe & Espresso Bar,CAFÉ,3.5,20.0,"174 Eglinton Avenue East, Toronto M4P 1A6","Turkish, Cafe",30.0,Yonge & Eglinton
+Pho King Fabulous!,CASUAL DINING,3.0,25.0,"2411 Yonge Street, Toronto M4P 2E7","Vietnamese, Asian",35.0,Yonge & Eglinton
+Lola Sushi,CASUAL DINING,3.9,33.0,"2070 Yonge Street, Toronto M4S 2A3","Sushi, Japanese, Korean, Asian",50.0,Yonge & Eglinton
+Dufflet Pastries,DESSERT PARLOR,3.7,25.0,"2638 Yonge Street, Toronto M4P 2J5",Desserts,25.0,Yonge & Eglinton
+Kimono Japanese Grill & Sushi,CASUAL DINING,3.5,22.0,"359 Eglinton Avenue West, Toronto M5N 1A3","Sushi, Japanese, Asian",35.0,Yonge & Eglinton
+Khau Gully,CASUAL DINING,3.6,17.0,"1991 Yonge Street, Toronto, ON M4S 1Z8",Indian,35.0,Yonge & Eglinton
+La Carnita,CASUAL DINING,3.2,14.0,130 Eglinton Avenue E M4P 2X9,Mexican,30.0,Yonge & Eglinton
+Douce France,CAFÉ,3.6,17.0,"820 Danforth Ave, Toronto M4P 2H6","Cafe, French",25.0,Yonge & Eglinton
+I Zu,CASUAL DINING,3.6,28.0,"1835 Yonge Street, Toronto","Sushi, Japanese, Asian",45.0,Yonge & Eglinton
+The Fox,Other,2.8,25.0,"51 Eglinton Avenue East, Toronto M4P 1G7",Bar Food,65.0,Yonge & Eglinton
+Flaming Stove,QUICK BITES,3.4,9.0,"21 Davisville Avenue, Toronto M4S 1G3","Asian, Middle Eastern, Southern",45.0,Yonge & Eglinton
+Noorden,CASUAL DINING,3.3,6.0,2110 Yonge Street M4S 2A5,"Tapas, Indonesian",,Yonge & Eglinton
+The Rose & Crown,CASUAL DINING,3.9,26.0,"2335 Yonge Street, Toronto","Bar Food, American",60.0,Yonge & Eglinton
+Aroma Espresso Bar,CAFÉ,3.5,15.0,"RioCan Yonge Eglinton Centre, 2300 Yonge Street, Toronto",Cafe,25.0,Yonge & Eglinton
+3.2,Other,,,Yonge & Eglinton,Middle Eastern,,Yonge & Eglinton
+Roberto's,CASUAL DINING,3.4,20.0,"2622 Yonge Street, Toronto M4P 2J4","Pizza, Italian",25.0,Yonge & Eglinton
+Star King,CASUAL DINING,3.5,14.0,"2350 Yonge Street, Toronto M4P 2E6","Vietnamese, Thai, Asian",30.0,Yonge & Eglinton
+Rachel's Coffee House,CAFÉ,3.7,17.0,"2011 Yonge Street, Toronto M4S 1Z8",Cafe,15.0,Yonge & Eglinton
+TYC - by Sanjeev Kapoor,CASUAL DINING,2.9,12.0,"55 Eglinton Ave E, Toronto M4P 1G8",Indian,40.0,Yonge & Eglinton
+Sweet Jesus,DESSERT PARLOR,3.3,10.0,130 Eglinton Avenue E M4P 2X9,Ice Cream,20.0,Yonge & Eglinton
+Mimi's Caffe,CAFÉ,3.5,5.0,"120 Eglinton Avenue East, Toronto M4P 1A6","Cafe, Breakfast",20.0,Yonge & Eglinton
+The Right Wing,BAR,3.3,16.0,"2497 Yonge Street, Toronto M4P 2H6",Bar Food,60.0,Yonge & Eglinton
+Bahn Mi Boys,QUICK BITES,3.0,5.0,"2365 Yonge Street, Toronto",Sandwich,25.0,Yonge & Eglinton
+Fionn MacCool's,CASUAL DINING,3.6,13.0,"1867 Yonge Street, Toronto","Bar Food, Irish, Canadian",60.0,Yonge & Eglinton
+Tosto Quickfire Pizza Pasta,CASUAL DINING,3.3,6.0,"609 Roehampton Avenue, Unit 02, Toronto ON M4P 1S7","Italian, Pizza",30.0,Yonge & Eglinton
+David's Tea,BEVERAGE SHOP,3.7,14.0,"2389 Yonge Street, Toronto","Tea, Beverages",15.0,Yonge & Eglinton
+La Salumeria,QUICK BITES,3.6,9.0,"2021 Yonge Street, Toronto M4S 2A2",Sandwich,15.0,Yonge & Eglinton
+Bakes & Goods,DESSERT PARLOR,3.6,6.0,"2523 Yonge Street, Toronto M4P 2H9",Desserts,15.0,Yonge & Eglinton
+The Queen's Legs,BAR,3.1,16.0,"286 Eglinton Avenue West, Toronto",Bar Food,45.0,Yonge & Eglinton
+Banh Mi Boys,QUICK BITES,3.7,7.0,2365 Yonge Street M4P 2C6,"Asian, Vietnamese, Fast Food",20.0,Yonge & Eglinton
+Quick Pita,QUICK BITES,2.4,14.0,"188 Eglinton Avenue East, Toronto M4P 2X7","Lebanese, Fast Food",40.0,Yonge & Eglinton
+Gabby's,BAR,3.3,11.0,"383 Eglinton Avenue East, Toronto M4P 1M5",Bar Food,55.0,Yonge & Eglinton
+Gino's Pizza,QUICK BITES,,,"2387 Yonge Street, Toronto","Pizza, Fast Food",30.0,Yonge & Eglinton
+Swiss Chalet,CASUAL DINING,3.1,7.0,"49 Eglinton Avenue, Toronto, ON M4P 1G6","Canadian, Grill, Beverages",40.0,Yonge & Eglinton
+Sushi Shop Yonge Eglinton Centre,CASUAL DINING,3.4,5.0,2300 Yonge Street M4P 1E4 1E4,Sushi,30.0,Yonge & Eglinton
+Maybes Restaurant,CASUAL DINING,3.3,7.0,188 Eglinton Avenue East M4P 1K2,Lebanese,25.0,Yonge & Eglinton
+Freshii,QUICK BITES,3.4,6.0,"RioCan Yonge Eglinton Centre, 2300 Yonge Street, Toronto",Healthy Food,30.0,Yonge & Eglinton
+Manchu Wok,QUICK BITES,2.8,6.0,"RioCan Yonge Eglinton Centre, 2300 Yonge Street, Toronto","Fast Food, Chinese, Asian",25.0,Yonge & Eglinton
+Pasta Pantry Fine Foods,QUICK BITES,3.6,6.0,"1997 Yonge Street, Toronto M4S 1Z5",Italian,45.0,Yonge & Eglinton
+Ritz Caribbean Foods,QUICK BITES,,,"32 Eglinton Avenue West, Toronto M4R 1A1","Caribbean, Jamaican",30.0,Yonge & Eglinton
+Magic Oven,QUICK BITES,,,"302 Eglinton Avenue West, Toronto",Pizza,45.0,Yonge & Eglinton
+A & W,QUICK BITES,3.0,5.0,"35 Eglinton Avenue East, Toronto","Burger, Fast Food",25.0,Yonge & Eglinton
+Villa Madina,QUICK BITES,2.9,6.0,"RioCan Yonge Eglinton Centre, 2300 Yonge Street, Toronto",Mediterranean,25.0,Yonge & Eglinton
+Thai Express,QUICK BITES,,,"1881 Yonge Street, Toronto",Thai,25.0,Yonge & Eglinton
+Pizza Nova,QUICK BITES,3.2,6.0,"RioCan Yonge Eglinton Centre, 2300 Yonge Street, Toronto","Pizza, Fast Food",30.0,Yonge & Eglinton
+Starbucks,CAFÉ,3.1,6.0,"39 Eglinton Avenue East, Toronto",Cafe,20.0,Yonge & Eglinton
+Crosstown Coffee Bar,CAFÉ,,,"187 Highbourne Road, Toronto M5P 2J8",Cafe,15.0,Yonge & Eglinton
+Zezafoun Syrian Cuisine,FAST CASUAL,,,"4 Manor Rd E, Toronto, ON M4S 1P8",Syrian,20.0,Yonge & Eglinton
+Pastissima,QUICK BITES,3.0,9.0,"2633 Yonge Street, Toronto M4P2J6 2J6",Italian,30.0,Yonge & Eglinton
+Joanne's Deli,QUICK BITES,3.3,6.0,"234 Eglinton Avenue East, Toronto",Deli,35.0,Yonge & Eglinton
+Popeyes Louisiana Kitchen,QUICK BITES,3.7,7.0,"181 Eglinton Avenue East, Toronto M4P 1J4",Fast Food,25.0,Yonge & Eglinton
+La Carnita,CASUAL DINING,,,"130 Eglinton, Toronto MP4 2X9",Mexican,,Yonge & Eglinton
+Lemongrass,QUICK BITES,,,"RioCan Yonge Eglinton Centre, 2300 Yonge Street, Toronto M4R 1K8","Thai, Vietnamese",25.0,Yonge & Eglinton
+Prohibition Gastrohouse,BAR,,,"40 Eglinton Avenue, Toronto, ON M4P 1A6",Canadian,45.0,Yonge & Eglinton
+Fit For Life,QUICK BITES,,,"50 Eglinton Avenue East, Toronto","Healthy Food, Fast Food",25.0,Yonge & Eglinton
+Bar Batavia,BAR,,,2031 Younge Street,Bar Food,60.0,Yonge & Eglinton
+Hokkaido Ramen Santouka,CASUAL DINING,,,"2057, Yonge St, Yonge & Eglinton, Toronto",Ramen,45.0,Yonge & Eglinton
+The Bagel Stop,CAFÉ,,,"RioCan Yonge Eglinton Centre, 2300 Yonge Street, Toronto",Cafe,15.0,Yonge & Eglinton
+Panago,QUICK BITES,3.7,5.0,"188 Eglinton Avenue East, Toronto","Pizza, Fast Food",30.0,Yonge & Eglinton
+McDonald's,QUICK BITES,,,"20 Eglinton Avenue East, Toronto",Fast Food,25.0,Yonge & Eglinton
+Pizzaiolo,QUICK BITES,,,"37 Eglinton Avenue East, Toronto","Pizza, Fast Food",30.0,Yonge & Eglinton
+Uptown Brie,QUICK BITES,,,"11 Castlefield Avenue, Toronto M4R 1G3","Sandwich, Deli",20.0,Yonge & Eglinton
+Tim Hortons,CAFÉ,,,2377 Yonge Street,"American, Donuts, Desserts",20.0,Yonge & Eglinton
+Second Cup Coffee Co.,Other,,,40 Eglinton Avenue East,"Cafe, Coffee and Tea, Frozen Yogurt",10.0,Yonge & Eglinton
+Booster Juice,BEVERAGE SHOP,,,"RioCan Yonge Eglinton Centre, 2300 Yonge Stret, Toronto","Juices, Beverages, Healthy Food",20.0,Yonge & Eglinton
+Taco Bell,QUICK BITES,,,"RioCan Yonge Eglinton Centre, 2300 Yonge Street, Toronto","Fast Food, Mexican",20.0,Yonge & Eglinton
+Timothy's,CAFÉ,,,"90 Eglinton Avenue East, Toronto",Cafe,25.0,Yonge & Eglinton
+Teriyaki Experience,QUICK BITES,,,"RioCan Yonge Eglinton Centre, 2300 Yonge Street, Toronto",Japanese,20.0,Yonge & Eglinton
+Pizza Pizza,QUICK BITES,,,"1923 Yonge Street, Toronto","Pizza, Fast Food",25.0,Yonge & Eglinton
+Wing Machine,QUICK BITES,,,"2387 Yonge Street, Yonge & Eglinton",Fast Food,30.0,Yonge & Eglinton
+Greenhouse Juice Co.,BEVERAGE SHOP,,,"2553 Yonge Street, Toronto M4P 2J2","Juices, Healthy Food, Beverages",30.0,Yonge & Eglinton
+Cafe Dinah E,CAFÉ,,,"124 Eglinton Avenue West, Toronto",Cafe,20.0,Yonge & Eglinton
+Dal Moro's Fresh Pasta To Go,QUICK BITES,,,"605 Yonge Street, Yonge & Eglinton, Toronto",Italian,20.0,Yonge & Eglinton
+Panini 2 go,CAFÉ,,,"2409 Yonge Street, Toronto","Cafe, Sandwich",25.0,Yonge & Eglinton
+Subway,QUICK BITES,,,"250 Eglinton Avenue East, Toronto",Fast Food,20.0,Yonge & Eglinton
+Jimmy The Greek,CASUAL DINING,,,"2300 Yonge Street Toronto, ON M4P 1E4",Greek,30.0,Yonge & Eglinton
+Pascale Gourmet,QUICK BITES,,,"2393 Yonge Street, Toronto M4P 2E7","Sandwich, Italian, Deli",20.0,Yonge & Eglinton
+Cinnabon,BAKERY,,,"2200 Yonge Street, Suite 500, Toronto",Desserts,15.0,Yonge & Eglinton
+The Keg Steakhouse + Bar,BAR,,,"2201, Yonge Street, Yonge & Eglinton, Toronto",Steak,45.0,Yonge & Eglinton
+Laura Secord,DESSERT PARLOR,,,"RioCan Yonge Eglinton Centre, 2300 Yonge Street, Toronto",Desserts,15.0,Yonge & Eglinton
+Kiva's Bakery,QUICK BITES,,,"2496 Yonge Street, Toronto MP4 2H7","Sandwich, Bakery",10.0,Yonge & Eglinton
+Yogen Früz,DESSERT PARLOR,,,"2300 Yonge Street, Toronto","Frozen Yogurt, Desserts",15.0,Yonge & Eglinton
+Cafe Gelato,DESSERT PARLOR,,,"2494 Yonge Street, Toronto","Cafe, Desserts",15.0,Yonge & Eglinton
+The Great Canadian Bagel,QUICK BITES,,,"2200 Yonge Street, Toronto",Cafe,15.0,Yonge & Eglinton
+Byblos Uptown,CASUAL DINING,,,2537 Yonge Street,"Mexican, Mediterranean",60.0,Yonge & Eglinton
+KFC,QUICK BITES,,,"RioCan Yonge Eglinton Centre, 2300 Yonge Street, Toronto",Fast Food,25.0,Yonge & Eglinton
+JJ's Deli,QUICK BITES,,,"1881 Yonge Street, Toronto",Fast Food,15.0,Yonge & Eglinton
+Harvey's,QUICK BITES,,,"49 Eglinton Avenue East, Toronto M4P 1G6","Fast Food, Canadian, Burger",25.0,Yonge & Eglinton
+Pizza Hut,QUICK BITES,,,"233 Eglinton Avenue West, Toronto","Pizza, Fast Food",25.0,Yonge & Eglinton
+Mr. Sub,QUICK BITES,,,"1881 Yonge Street, Toronto",Fast Food,25.0,Yonge & Eglinton
+New York Classic Grill,BAR,,,"250 Eglinton Avenue West, Toronto M4R 1A7",Bar Food,50.0,Yonge & Eglinton
+Harvey's,QUICK BITES,,,"2990 Eglinton Ave E, Toronto, Ontario, Yonge & Eglinton, Toronto","Fast Food, Canadian, Burger",25.0,Yonge & Eglinton
+Village Juicery,BEVERAGE SHOP,,,2409 Yonge Street,Beverages,,Yonge & Eglinton

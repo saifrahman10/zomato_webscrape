@@ -1,0 +1,112 @@
+Name,EstablishmentType,Rating,NumReviews,Address,Cuisine,CostForTwo,City
+Sansotei Ramen,CASUAL DINING,4.6,413.0,"179 Dundas Street West, Toronto M5G1Z8",Ramen,40.0,Discovery District
+Japango,CASUAL DINING,4.4,345.0,"122 Elizabeth Street, Toronto M5G 1P5","Sushi, Japanese, Asian",120.0,Discovery District
+Uncle Tetsu's Japanese Cheesecake,DESSERT PARLOR,4.2,192.0,"598 Bay Street, Toronto M5G 1C3","Desserts, Japanese, Asian",15.0,Discovery District
+Fresh,FAST CASUAL,4.2,236.0,"326 Bloor Street West, Toronto","Healthy Food, Juices",40.0,Discovery District
+Don Don Izakaya,CASUAL DINING,3.3,180.0,"130 Dundas Street West, Toronto M5G 1C3",Japanese,45.0,Discovery District
+Lai Wah Heen - DoubleTree by Hilton Hotel Toronto...,FINE DINING,4.2,137.0,"DoubleTree by Hilton Hotel Toronto Downtown, 108 Chestnut Steet, Toronto M5G 1R3","Dim Sum, Cantonese",100.0,Discovery District
+Kenzo Ramen,CASUAL DINING,4.1,193.0,"138 Dundas Street West, Toronto","Ramen, Japanese",30.0,Discovery District
+TSUJIRI,BEVERAGE SHOP,3.8,51.0,"147 Dundas Street W, Toronto","Tea, Ice Cream",10.0,Discovery District
+Yueh Tung,CASUAL DINING,3.9,106.0,"126 Elizabeth Street, Toronto M5G 1P5",Hakka Chinese,45.0,Discovery District
+Kyoto House,CASUAL DINING,3.4,117.0,"143 Dundas Street West, Toronto M5G 1C5",Sushi,45.0,Discovery District
+Nando's,CASUAL DINING,3.8,68.0,"Unit 1, 832 Bay Street M5S 1Z6","Portuguese, African",25.0,Discovery District
+Epicure City BOM,CASUAL DINING,3.9,62.0,"72 Gerrard Street West, Toronto M5G1Z4",Korean,30.0,Discovery District
+Hong Shing,CASUAL DINING,3.9,65.0,"195 Dundas Street West, Toronto M5G 1C7",Cantonese,40.0,Discovery District
+Tosto Quickfire Pizza Pasta,CASUAL DINING,3.1,41.0,"800 Bay St, Toronto M5S 3A9",Italian,40.0,Discovery District
+Mercatto,CASUAL DINING,3.8,75.0,"101 College Street, Toronto M5G1L7",Italian,65.0,Discovery District
+Gyugyuya,CASUAL DINING,3.6,49.0,"177 Dundas Street West, Toronto M5G 1C7",Japanese,30.0,Discovery District
+Bombay Street Food,QUICK BITES,3.2,32.0,"828 Bay Street, Toronto M5S 1Z6",Indian,,Discovery District
+Piano Piano Restaurant,CASUAL DINING,3.5,23.0,"88 Harbord Street, Toronto M5S 1G5",Italian,,Discovery District
+Torch Sushi & Bento,CASUAL DINING,3.8,46.0,"187 Dundas Street West, Toronto M5G 1C7","Sushi, Japanese, Asian",45.0,Discovery District
+Bapbo,CASUAL DINING,3.5,31.0,"142 Dundas Street West, Toronto M6G1C3","Korean, Japanese",45.0,Discovery District
+Pig Out BBQ,QUICK BITES,3.7,23.0,"650 Spadina Avenue, Toronto",BBQ,30.0,Discovery District
+Evergreen,CASUAL DINING,3.8,44.0,"175 Dundas Street West, Toronto M5G 1C7","Thai, Sushi",40.0,Discovery District
+Eggsmart,CASUAL DINING,3.7,44.0,"645 Bay Street, Toronto",Diner,30.0,Discovery District
+Fügo Desserts,DESSERT PARLOR,3.4,20.0,"205 Dundas Street W, Toronto M5G1C8",Desserts,20.0,Discovery District
+Wah Too Seafood Restaurant,CASUAL DINING,3.7,34.0,"58 Centre Avenue, Toronto M5G 1R5","Chinese, Asian",30.0,Discovery District
+Daddyo's,CASUAL DINING,3.8,44.0,"673 Spadina Avenue, Toronto M5S 2H9",Italian,35.0,Discovery District
+The Tea Room - The Windsor Arms,CAFÉ,2.8,25.0,"Windsor Arms, 18 St. Thomas Street, Toronto M5S 3E7",Tea,100.0,Discovery District
+Prenup Pub,CASUAL DINING,3.3,29.0,"191 College Street, Toronto M5T 1P9","Bar Food, European, Canadian",60.0,Discovery District
+Cora Pizza,QUICK BITES,3.9,57.0,"656 Spadina Avenue, Toronto M5S 2H7","Pizza, Fast Food",35.0,Discovery District
+Yutaka,CASUAL DINING,3.5,24.0,"157 Dundas Street West, Toronto M5B 1E4","Sushi, Japanese, Asian",60.0,Discovery District
+Indian Biriyani House,QUICK BITES,2.7,41.0,"181 Dundas Street West, Toronto",Indian,30.0,Discovery District
+Matagali,CASUAL DINING,3.8,31.0,"69 Elm Street, Toronto M5GIH2",Indian,40.0,Discovery District
+The Living Room - Windsor Arms,CASUAL DINING,3.5,31.0,"Windsor Arms, 18 St. Thomas Street, Toronto M5S 3E7","American, Canadian",110.0,Discovery District
+Pho Orchid,CASUAL DINING,2.8,35.0,"124 Chestnut Street, Toronto M5G",Vietnamese,30.0,Discovery District
+Osgoode Hall,CASUAL DINING,3.7,22.0,"130 Queen Street West, Toronto M5H 4G1","French, Canadian",60.0,Discovery District
+Gallery Grill,FINE DINING,3.6,17.0,"University of Toronto - Hart House, 7 Hart House Circle, Toronto M5S 3H3",Canadian,80.0,Discovery District
+Sushi House,CASUAL DINING,2.8,33.0,"209 Dundas Street West, Toronto M5G1Z8","Sushi, Japanese, Asian",35.0,Discovery District
+Pizzeria Via Mercanti,CASUAL DINING,3.5,14.0,"87 Elm Street, Toronto","Italian, Pizza",55.0,Discovery District
+Uncle Tetsu's Angel Café,CAFÉ,3.6,13.0,"191 Dundas Street West, Toronto M5G 1C7","Japanese, Desserts, Coffee and Tea",,Discovery District
+Rolltation,FAST CASUAL,2.9,20.0,"207 Dundas Street W, Toronto M5G 1C8","Sushi, Fast Food",20.0,Discovery District
+Ein-Stein,BAR,3.6,42.0,"229 College Street, Toronto M5T 1R4",Bar Food,50.0,Discovery District
+Platito,CASUAL DINING,3.2,9.0,"35 Baldwin Street, Toronto M5T 1L1","Soul Food, Filipino",,Discovery District
+Jimmy's Coffee,CAFÉ,3.6,20.0,"84 Gerrard Street West, Toronto M5G 1Z4",Cafe,15.0,Discovery District
+Aroma Espresso Bar,CAFÉ,3.2,15.0,"562 Bay Street, Toronto",Cafe,25.0,Discovery District
+Meli Baklava & Chocolate Bar,DESSERT PARLOR,3.4,10.0,123 Queen St West,"Desserts, Middle Eastern",15.0,Discovery District
+Papa Ceo,QUICK BITES,3.2,36.0,"654 Spadina Avenue, Toronto M5S2H7","Pizza, Italian, Fast Food",30.0,Discovery District
+O'Grady's,BAR,3.0,27.0,"171 College Street, Toronto M5T 1P7",Bar Food,40.0,Discovery District
+New Treasure Restaurant,CASUAL DINING,3.7,20.0,"150 Dundas Street West, Toronto","Dim Sum, Cantonese, Chinese, Asian",25.0,Discovery District
+Fox & Fiddle,CASUAL DINING,2.3,31.0,"280 Bloor Street West, Toronto M5S 3B8","Bar Food, British",55.0,Discovery District
+Poké Guys,FAST CASUAL,3.4,15.0,"112 Elizabeth Street, Unit 1 M5G 1P5",Japanese,15.0,Discovery District
+Coconut Grove,QUICK BITES,3.3,23.0,"183 Dundas Street West, Toronto M5G1C7",Caribbean,30.0,Discovery District
+BnB - Sheraton Centre,CASUAL DINING,2.9,23.0,"Sheraton Centre Toronto Hotel, 123 Queen Street West, Toronto M5H2M9",American,70.0,Discovery District
+Bubble Tease,BEVERAGE SHOP,3.2,12.0,"111 Dundas Street West, Toronto","Bubble Tea, Beverages",15.0,Discovery District
+Hemispheres Restaurant & Bistro - DoubleTree by...,CASUAL DINING,3.6,20.0,"DoubleTree by Hilton Hotel Toronto Downtown, 110 Chestnut Street, Toronto M5G 1R3","Canadian, Breakfast",90.0,Discovery District
+Second Cup,CAFÉ,2.8,19.0,"179 College Street, Toronto","Cafe, Coffee and Tea, Frozen Yogurt",10.0,Discovery District
+Harvest Noon,QUICK BITES,3.7,5.0,"University of Toronto - Graduate Students' Union, Second Floor, 16 Bancroft Avenue, Toronto M5S 1C1","Healthy Food, Cafe",20.0,Discovery District
+Sammy's Student Exchange,QUICK BITES,3.3,17.0,"University of Toronto - Hart House, Inside Arbor Room, 7 Hart House Circle, Toronto","Mediterranean, American",25.0,Discovery District
+Me.n.u Food Truck,Other,3.6,7.0,Location Varies,"Asian, Fusion",25.0,Discovery District
+Hero Certified Burgers,FAST CASUAL,2.0,17.0,"200 Elizabeth Street, Unit R1A, Toronto General Hospital M5G2C4","Burger, Sandwich",25.0,Discovery District
+Zeytouna,QUICK BITES,2.8,9.0,"171 Dundas Street West, Toronto M5G 1C7",Mediterranean,30.0,Discovery District
+The Saj,QUICK BITES,3.1,14.0,"199 College Street, Toronto M5T 1P9","Mediterranean, Pizza",20.0,Discovery District
+Thai Express,QUICK BITES,2.8,11.0,"505 University Avenue, Toronto",Thai,25.0,Discovery District
+The Green Beet,CAFÉ,,,"University of Toronto - Gerstein Science Information Centre, 9 King's College Circle, Toronto M5S3K1",Cafe,20.0,Discovery District
+Top Sushi,CASUAL DINING,2.2,5.0,"185 College Street, Toronto M5T1P7",Sushi,30.0,Discovery District
+Cultures,QUICK BITES,3.6,12.0,"505 University Avenue, Toronto","Healthy Food, Sandwich",25.0,Discovery District
+Ned's Cafe,CAFÉ,3.6,10.0,"University of Toronto - Goldring Student Centre, 150 Charles Street West, Toronto M5S 1K7",Cafe,20.0,Discovery District
+Timothy's,CAFÉ,2.7,8.0,"425 University Avenue, Toronto",Cafe,25.0,Discovery District
+Tim Hortons,CAFÉ,3.6,10.0,481 University Avenue,"American, Donuts, Desserts",20.0,Discovery District
+Varsity Deli,QUICK BITES,2.8,5.0,"University of Toronto, 364 Huron Street, Toronto","Korean, Japanese, Asian",15.0,Discovery District
+Innis Cafe,CAFÉ,3.3,6.0,"University of Toronto - Innis College, 2 Sussex Avenue, Toronto M5S1J5",Cafe,20.0,Discovery District
+Subway,QUICK BITES,3.5,10.0,"1102 Bay Street, Toronto",Fast Food,20.0,Discovery District
+Starbucks,CAFÉ,2.3,11.0,"205 College Street, Toronto",Cafe,20.0,Discovery District
+Cafe On The Square,CAFÉ,3.4,5.0,"Toronto City Hall, 100 Queen Street West, Toronto M5H2N1",Cafe,25.0,Discovery District
+Burger King,FAST FOOD,2.4,8.0,267 College Street M5T 1R5,"Fast Food, Burger",20.0,Discovery District
+Smoke's Weinerie,QUICK BITES,,,"457 Spadina Avenue, Toronto M5S2G7",Fast Food,25.0,Discovery District
+Coffee Public,CAFÉ,,,800 Bay Street,"Cafe, Sandwich",20.0,Discovery District
+Curbside Deliciousness,Other,,,"Location Varies, Toronto",International,43.0,Discovery District
+Quick Pita,QUICK BITES,,,"199 College Street, Toronto M5T1P9","Fast Food, Lebanese",15.0,Discovery District
+Howard Ferguson Dining Hall,CASUAL DINING,,,"University of Toronto - Morrison Hall, 75 St. George Street, Toronto M5S2E5",Canadian,30.0,Discovery District
+Pumpernickel's,CAFÉ,,,"Mars Discovery District, Food Court, 101 College Street, Toronto",Cafe,35.0,Discovery District
+B Espresso Bar,CAFÉ,,,"273 Bloor Street West, Inside The Royal Conservatory of Music, Toronto M5S 1W2",Cafe,25.0,Discovery District
+Sandwich Delight,QUICK BITES,2.6,5.0,"85 Grenville Street, Toronto M5S 3A2",Deli,25.0,Discovery District
+The Exchange Cafe,CAFÉ,,,"University of Toronto - Rotman School of Management, 95 St. George Street, Toronto M5S 2E8",Cafe,25.0,Discovery District
+Mr. Sub,QUICK BITES,2.6,5.0,"267 College Street, Toronto M5T 1R5",Fast Food,25.0,Discovery District
+Pronto Cafe,CAFÉ,,,790 Bay Street,"Italian, Cafe",,Discovery District
+Pizza Pizza,QUICK BITES,,,"University of Toronto - Medical Sciences Building Cafeteria, 1 King's College Circle, Toronto","Pizza, Fast Food",25.0,Discovery District
+Veda,CASUAL DINING,,,"University of Toronto - Koffler House, 569 Spadina Crescent, Toronto M5S2J7","Indian, Healthy Food",35.0,Discovery District
+Diabolos' Coffee Bar,CAFÉ,,,"University of Toronto, 15 King's College Circle, Toronto M5S",Cafe,20.0,Discovery District
+Booster Juice,QUICK BITES,,,"257 College Street, Toronto M5T 1R5","Juices, Beverages, Healthy Food",20.0,Discovery District
+Mustache Burger,Other,,,Location Varies,Burger,,Discovery District
+Tim Hortons,CAFÉ,,,555 University Avenue M5G1X8,Cafe,20.0,Discovery District
+GSU Pub,BAR,,,"University of Toronto - Graduate Student Union, 16 Bancroft Avenue, Toronto",Drinks Only,30.0,Discovery District
+Anoush,QUICK BITES,,,"Mars Discovery District, Food Court, 101 College Street, Toronto",Middle Eastern,25.0,Discovery District
+Fat Bastard Burrito,QUICK BITES,,,"University of Toronto, 187 College street, Toronto M3T 1P7","Mexican, Fast Food",25.0,Discovery District
+Teriyaki Experience,QUICK BITES,,,"Mars Discovery District, Food Court, 101 College Street, Toronto",Japanese,20.0,Discovery District
+Freshii,QUICK BITES,,,"525 University Avenue, Toronto",Healthy Food,30.0,Discovery District
+Druxy's Famous Deli,QUICK BITES,,,"123 Edward Street, Toronto, CA M5G 1E2","Fast Food, Sandwich",25.0,Discovery District
+The Cube Café,CAFÉ,,,"University of Toronto - Bahen Centre for Information Technology, 40 St. George Street, Toronto M5S2E4",Cafe,20.0,Discovery District
+Hard Hat Café,CAFÉ,,,"University of Toronto - Sandford Fleming Building, 10 King's College Road, Toronto M5S3G4",Cafe,20.0,Discovery District
+Java Joe's,CAFÉ,,,"180 Dundas Street West, Toronto",Cafe,15.0,Discovery District
+Sushi by Bento Nouveau,QUICK BITES,,,"Mars Discovery District, Food Court, 101 College Street, Toronto M5G1L7","Sushi, Fast Food",25.0,Discovery District
+Sultan's,Other,,,"University of Toronto - John P. Robarts Library, 130 St. George Street, Toronto",Lebanese,25.0,Discovery District
+Bene Pasta,QUICK BITES,,,"University of Toronto - John P. Robarts Library, 130 St. George Street, Toronto M5S1A5",Italian,20.0,Discovery District
+Shish Kebab Grill,QUICK BITES,,,112 Dundas Street West,Mediterranean,25.0,Discovery District
+POD Express,QUICK BITES,,,"University of Toronto - McLennan Physical Laboratories, 255 Huron Street, Toronto M5S3J1",Cafe,20.0,Discovery District
+Some Time Seafood Chinese Restaurant,CASUAL DINING,,,"41 - 43 Baldwin Street, Toronto M5T 1Y9","Seafood, Chinese, BBQ",25.0,Discovery District
+Gift Shop,BAR,,,89-B Ossington Avenue,American,40.0,Discovery District
+Second Cup Coffee Co. featuring Pinkberry Frozen Yogurt,Other,,,100 Street. George Street,Coffee and Tea,15.0,Discovery District
+Second Cup Coffee Co.,Other,,,144 College Street,Coffee and Tea,15.0,Discovery District
+Second Cup Coffee Co.,Other,,,214 College Street.,Coffee and Tea,15.0,Discovery District
+Second Cup Coffee Co.,Other,,,119 Street. George Street,Coffee and Tea,15.0,Discovery District

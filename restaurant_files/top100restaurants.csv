@@ -1,0 +1,101 @@
+,Name,EstablishmentType,Rating,NumReviews,Address,Cuisine,CostForTwo,City
+0,Pai,CASUAL DINING,4.9,615.0,18 Duncan Street,Thai,50.0,Toronto
+1,Jacob's and Co. Steakhouse,FINE DINING,4.9,316.0,12 Brant Street,Steakhousehouse,140.0,Toronto
+2,Seven Lives - Tacos Y Mariscos,QUICK BITES,4.9,310.0,69 Kensington Avenue,Mexican,25.0,Toronto
+3,Ravi Soups,QUICK BITES,4.9,238.0,322 Adelaide Street West,Sri Lankan,35.0,Toronto
+4,Bamiyan Kabob,QUICK BITES,4.9,104.0,7760 Markham Road,Middle Eastern,35.0,Markham
+5,Richmond Station,CASUAL DINING,4.8,490.0,1 Richmond Street West,Italian,80.0,Toronto
+6,Memphis BBQ & Wicked Wings,CASUAL DINING,4.8,254.0,8074 Islington Avenue,BBQ,35.0,Woodbridge
+7,Sanremo Bakery,BAKERY,4.8,147.0,374 Royal York Road,Bakery,30.0,Etobicoke
+8,Banh Mi Boys,QUICK BITES,4.7,940.0,392 Queen Street West,American,25.0,Toronto
+9,Bymark,FINE DINING,4.7,290.0,66 Wellington Street West,American,120.0,Toronto
+10,Lamanna's Bakery,BAKERY,4.7,169.0,6758 Kingston Road,Bakery,25.0,Scarborough
+11,Byblos,CASUAL DINING,4.7,168.0,11 Duncan Street,Mediterranean,90.0,Toronto
+12,Burrito Boyz,QUICK BITES,4.7,165.0,210 Queen Street E,Mexican,25.0,Brampton
+13,Zen,FINE DINING,4.7,135.0,7634 Woodbine Avenue. Markham,Japanese,300.0,Markham
+14,Monastery Bakery & Delicatessen,QUICK BITES,4.7,108.0,1133 Monastery Drive,Bakery,15.0,Oakville
+15,The Big M,QUICK BITES,4.7,94.0,711 Krosno Boulevard,Fast Food,20.0,Pickering
+16,Tom's Dairy Freeze,DESSERT PARLOR,4.7,93.0,630 The Queensway,Desserts,20.0,Etobicoke
+17,Duo Patisserie & Cafe,CAFÉ,4.7,51.0,230 Commerce Valley Drive E,Bakery,20.0,Thornhill
+18,Rodney's Oyster House,CASUAL DINING,4.6,474.0,469 King Street West,Seafood,75.0,Toronto
+19,Sansotei Ramen,CASUAL DINING,4.6,413.0,179 Dundas Street West,Japanese,40.0,Toronto
+20,Stoney's Bread Company,CASUAL DINING,4.6,394.0,325 Kerr Street,Italian,45.0,Oakville
+21,JaBistro,CASUAL DINING,4.6,285.0,222 Richmond Street West,Japanese,100.0,Toronto
+22,Sukho Thai,CASUAL DINING,4.6,284.0,52 Wellington Street East,Thai,50.0,Toronto
+23,Woody's Burgers,CASUAL DINING,4.6,214.0,3795 Lake Shore Boulevard West,American,40.0,Etobicoke
+24,Banh Mi Boys,QUICK BITES,4.6,202.0,399 Yonge Street,American,25.0,Toronto
+25,Sushi Kaji,CASUAL DINING,4.6,184.0,860 The Queensway,Japanese,160.0,Etobicoke
+26,Ed's Real Scoop,DESSERT PARLOR,4.6,174.0,2224 Queen Street East,Desserts,20.0,Toronto
+27,Le Gourmand,CAFÉ,4.6,172.0,152 Spadina Avenue,Cafe,25.0,Toronto
+28,Pastel,CAFÉ,4.6,156.0,5417 Yonge Street,Cafe,35.0,North York
+29,Panagio's,CASUAL DINING,4.6,121.0,1928 McCowan Road,American,35.0,Scarborough
+30,Roti Cuisine Of India,CASUAL DINING,4.6,116.0,308 Dupont Street,Indian,40.0,Toronto
+31,Ed's Real Scoop,DESSERT PARLOR,4.6,114.0,920 Queen Street East,Desserts,15.0,Toronto
+32,Dairy Cream,DESSERT PARLOR,4.6,113.0,715 Lakeshore Road E,Desserts,15.0,Mississauga
+33,Buddha's Vegetarian Restaurant,CASUAL DINING,4.6,95.0,666 Dundas Street West,Chinese,25.0,Toronto
+34,Vi Vetha Bistro,CASUAL DINING,4.6,94.0,2485 Queen Street East,Italian,60.0,Toronto
+35,One2Snacks,QUICK BITES,4.6,74.0,8 Glen Watford Drive,Malaysian,20.0,Scarborough
+36,C&C Dubbs Hamburgers,QUICK BITES,4.6,74.0,1706 Dundas Street E,Diner,25.0,Mississauga
+37,Pasquale's Trattoria,CASUAL DINING,4.6,72.0,50 Lakeshore Road West,Italian,85.0,Oakville
+38,D Hot Shoppe,QUICK BITES,4.6,68.0,4155 Fairview Street,Caribbean,20.0,Burlington
+39,Auberge du Pommier,FINE DINING,4.5,644.0,4150 Yonge St.,French,150.0,North York
+40,Burrito Boyz,QUICK BITES,4.5,639.0,224 Adelaide Street West,Mexican,25.0,Toronto
+41,Lee,CASUAL DINING,4.5,570.0,601 King Street West,Asian,85.0,Toronto
+42,Beerbistro,CASUAL DINING,4.5,510.0,18 King Street East,American,80.0,Toronto
+43,Gusto 101,CASUAL DINING,4.5,507.0,101 Portland Street,Fast Food,75.0,Toronto
+44,Buca,CASUAL DINING,4.5,433.0,604 King Street West,Italian,80.0,Toronto
+45,Gio Rana's Really Really Nice Restaurant,CASUAL DINING,4.5,385.0,1220 Queen Street East,Italian,65.0,Toronto
+46,GuruLukshmi,CASUAL DINING,4.5,336.0,7070 Saint Barbara Boulevard,Indian,40.0,Mississauga
+47,Restoran Malaysia,CASUAL DINING,4.5,297.0,815 Major Mackenzie Drive E,Malaysian,60.0,Richmond Hill
+48,Buster's Sea Cove,CASUAL DINING,4.5,275.0,93 Front Street East,Seafood,50.0,Toronto
+49,JOEY Eaton Centre,CASUAL DINING,4.5,264.0,1 Dundas Street W,Steakhousehouse,70.0,Toronto
+50,Marcello's Pizzeria,CASUAL DINING,4.5,260.0,3175 Rutherford Road,Fast Food,65.0,Vaughan
+51,Sabai Sabai,CASUAL DINING,4.5,237.0,81 Bloor Street E,Thai,50.0,Toronto
+52,Mickey's Pizza,CASUAL DINING,4.5,232.0,1900 Lakeshore Road W,Fast Food,30.0,Mississauga
+53,Yuzu No Hana,CASUAL DINING,4.5,226.0,236 Adelaide Street West,Japanese,100.0,Toronto
+54,Wilbur Mexicana,QUICK BITES,4.5,200.0,552 King Street West,Mexican,35.0,Toronto
+55,Manpuku,CASUAL DINING,4.5,196.0,105 McCaul Street,Japanese,30.0,Toronto
+56,La Palette,CASUAL DINING,4.5,195.0,492 Queen Street West,French,60.0,Toronto
+57,The Real McCoy,QUICK BITES,4.5,178.0,1033 Markham Road,Fast Food,25.0,Scarborough
+58,Colossus,CASUAL DINING,4.5,123.0,280 Lakeshore Road East,Mediterranean,50.0,Mississauga
+59,Bamiyan Kabob,QUICK BITES,4.5,121.0,5120 Dixie Road,Middle Eastern,35.0,Mississauga
+60,Buk Chang Dong Soon Tofu,CASUAL DINING,4.5,113.0,3085 Hurontario Street,Korean,30.0,Mississauga
+61,Sauvignon,CASUAL DINING,4.5,107.0,1862 Queen Street East,French,80.0,Toronto
+62,Aragvi,CASUAL DINING,4.5,106.0,2006 Highway 7,European,45.0,Vaughan
+63,Chilli Chicken House,CASUAL DINING,4.5,101.0,4040 Creditview Road,Chinese,40.0,Mississauga
+64,Bua Thai,CASUAL DINING,4.5,101.0,743 The Queensway,Thai,45.0,Etobicoke
+65,Hot Mama Noi's Thai On The Fly,CASUAL DINING,4.5,100.0,1410 Bayly Street,Thai,25.0,Pickering
+66,Congee Wong,CASUAL DINING,4.5,89.0,10 Ravel Road,Chinese,35.0,North York
+67,La Vinia,CASUAL DINING,4.5,87.0,2350 Lake Shore Boulevard West,Spanish,80.0,Etobicoke
+68,Firehall Confectionary,DESSERT PARLOR,4.5,81.0,170 Main Street Unionville,Desserts,25.0,Markham
+69,The Monk's Kettle,CASUAL DINING,4.5,81.0,3073 Bloor Street West,American,60.0,Etobicoke
+70,Drupati's Doubles & Roti Shop,QUICK BITES,4.5,75.0,35 Woodbine Downs Boulevard Suite 3b,Caribbean,20.0,Etobicoke
+71,Schnitzel Queen,CASUAL DINING,4.5,65.0,211 Queen Street East,German,30.0,Toronto
+72,Dimpflmeier Bakery,BAKERY,4.5,63.0,26 Advance Road,Bakery,20.0,Etobicoke
+73,Memphis BBQ & Wicked Wings,CASUAL DINING,4.5,58.0,327 Bronte Street South,BBQ,35.0,Milton
+74,Yuki Japanese,CASUAL DINING,4.5,50.0,3259 Dufferin Street,Japanese,50.0,North York
+75,Sultan's Wings & Kabob Shop,QUICK BITES,4.5,48.0,1500 Upper Middle Rd,Mediterranean,13.0,Burlington
+76,Canoe,FINE DINING,4.4,675.0,66 Wellington St. W,American,150.0,Toronto
+77,Messini,CASUAL DINING,4.4,609.0,445 Danforth Avenue,Mediterranean,40.0,Toronto
+78,Le Sélect Bistro,CASUAL DINING,4.4,490.0,432 Wellington Street West,French,85.0,Toronto
+79,Burrito Boyz,QUICK BITES,4.4,422.0,9 Stavebank Road,Mexican,25.0,Mississauga
+80,Marben,CASUAL DINING,4.4,377.0,488 Wellington Street West,American,70.0,Toronto
+81,Japango,CASUAL DINING,4.4,345.0,122 Elizabeth Street,Japanese,120.0,Toronto
+82,Playa Cabana,CASUAL DINING,4.4,309.0,111 Dupont Street,Mexican,70.0,Toronto
+83,Joey,CASUAL DINING,4.4,304.0,75 ONeill Road,Steakhousehouse,70.0,North York
+84,Big Smoke Burger,QUICK BITES,4.4,289.0,573 King Street West,American,25.0,Toronto
+85,Trattoria Nervosa,CASUAL DINING,4.4,278.0,75 Yorkville Avenue,Italian,70.0,Toronto
+86,Barberian's Steakhouse And Tavern,FINE DINING,4.4,276.0,7 Elm Street,Steakhousehouse,160.0,Toronto
+87,Mi Ne Sushi,CASUAL DINING,4.4,254.0,10815 Yonge Street,Japanese,85.0,Richmond Hill
+88,El Trompo,QUICK BITES,4.4,247.0,277 Augusta Avenue,Mexican,45.0,Toronto
+89,Mezes,CASUAL DINING,4.4,242.0,456 Danforth Avenue,Mediterranean,60.0,Toronto
+90,Big Fat Burrito,QUICK BITES,4.4,236.0,285 Augusta Avenue,Mexican,35.0,Toronto
+91,Ding Tai Fung,CASUAL DINING,4.4,230.0,3235 Highway 7 E,Chinese,35.0,Markham
+92,King's Noodle,CASUAL DINING,4.4,196.0,296 Spadina Avenue,Chinese,35.0,Toronto
+93,Zet's Restaurant,CASUAL DINING,4.4,195.0,6445 Airport Road,Mediterranean,30.0,Mississauga
+94,Biff's Bistro,CASUAL DINING,4.4,195.0,4 Front Street East,French,,Toronto
+95,Hinote Sushi,CASUAL DINING,4.4,189.0,720 Bristol Road,Japanese,50.0,Mississauga
+96,Yamato,CASUAL DINING,4.4,185.0,24 Bellair Street,Japanese,100.0,Toronto
+97,The Good Fork,CASUAL DINING,4.4,178.0,1550 Dundas Street,American,45.0,Etobicoke
+98,Swatow Restaurant,CASUAL DINING,4.4,178.0,309 Spadina Avenue,Chinese,25.0,Toronto
+99,The One That Got Away,CASUAL DINING,4.4,176.0,581 King Street West,British,35.0,Toronto

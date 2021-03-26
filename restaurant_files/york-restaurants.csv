@@ -1,0 +1,229 @@
+Name,EstablishmentType,Rating,NumReviews,Address,Cuisine,CostForTwo,City
+New Orleans Seafood & Steakhouse,CASUAL DINING,4.4,112.0,"267 Scarlett Road, Toronto","Seafood, Steak, Cajun",100.0,York
+Paisano's Italian Garden Cafe,CASUAL DINING,4.1,117.0,Willowdale Avenue. M3B 1Y6,Italian,50.0,York
+Los Arrieros,CASUAL DINING,4.1,61.0,"276 Jane Street, Toronto",Latin American,40.0,York
+Thai Shan Inn,CASUAL DINING,3.7,47.0,"2404 Dufferin Street, Toronto","Thai, Asian",40.0,York
+Bryden's,BAR,3.7,72.0,"2455 Bloor Street West, Toronto M6S 1P7",Bar Food,60.0,York
+Rebozos,QUICK BITES,3.5,34.0,"126 Rogers Road, Toronto M6E 4B4",Mexican,25.0,York
+Churrasqueira Martin's,CASUAL DINING,4.0,43.0,"605 Rogers Road, Toronto","Portuguese, Grill",60.0,York
+Asa Sushi,CASUAL DINING,3.7,53.0,"18 Jane Street, Toronto M6S 3Y2","Sushi, Japanese, Asian",35.0,York
+Randy's,QUICK BITES,3.9,32.0,"1569 Eglinton Avenue West, Toronto M6E 2G9","Jamaican, Caribbean",25.0,York
+California Sandwiches,QUICK BITES,3.6,53.0,"2474 Dufferin Street, York",Sandwich,20.0,York
+Babos Donerpoint,CASUAL DINING,3.8,35.0,"2216 Eglinton Avenue West, Toronto","Middle Eastern, Turkish",40.0,York
+Dark Horse,BAR,2.7,50.0,"2401 Bloor Street West, Toronto M6S 1P7",Bar Food,45.0,York
+Bairrada Churrasqueira,CASUAL DINING,3.9,39.0,"2293 St. Clair Avenue West, Toronto M6H 1A7","Portuguese, European",60.0,York
+Rap's,CASUAL DINING,3.0,27.0,"1541 Eglinton Avenue West, Toronto M6E 2G7","Jamaican, Caribbean",30.0,York
+Jolly II,CASUAL DINING,3.5,27.0,"2625 Weston Road, Toronto",Italian,30.0,York
+W Burger Bar,CASUAL DINING,3.5,16.0,"682 Caledonia Road, Toronto",Burger,30.0,York
+Wakame Sushi,CASUAL DINING,3.1,21.0,"2625 Weston Road, Toronto","Sushi, Japanese, Asian",50.0,York
+St. Matthew's,CASUAL DINING,3.9,14.0,"527 Rogers Road, Toronto","Portuguese, BBQ",25.0,York
+P & M Restaurant,CASUAL DINING,3.8,21.0,"1946 Weston Road, Toronto",Greek,30.0,York
+Campo,CASUAL DINING,3.8,15.0,"244 Jane Street, Toronto M6S 3Z1","Italian, Spanish",80.0,York
+Golden Crisp Fish and Chips,CASUAL DINING,3.5,18.0,"1354 Weston Road, Toronto","Seafood, British, Fish and Chips",25.0,York
+Papino's Pizza,QUICK BITES,3.9,15.0,"1788 Jane Street, Toronto M9N",Pizza,20.0,York
+Patchmon's Thai Desserts,DESSERT PARLOR,,,"2463 Bloor Street West, Toronto M6S 1P7","Desserts, Thai",10.0,York
+Oakwood Pizzeria,QUICK BITES,3.7,16.0,"434 Oakwood Avenue, Toronto","Pizza, Fast Food",25.0,York
+China Town,QUICK BITES,3.8,14.0,"1790 Jane Street, Toronto",Chinese,20.0,York
+Golden Star Noodle Restaurant,CASUAL DINING,3.6,5.0,"1690 Jane Street, Toronto","Chinese, Asian",40.0,York
+244 Pizza & Wings,QUICK BITES,3.8,10.0,"1166 Weston Road, Toronto","Pizza, Fast Food",15.0,York
+Caldense Bakery,BAKERY,3.6,11.0,"2625A Weston Road, Toronto","Bakery, Cafe",15.0,York
+Mastro Nick,QUICK BITES,3.2,7.0,"1755 Keele Street, Toronto",Pizza,20.0,York
+COCO Crafted Organic Chocolates,DESSERT PARLOR,3.5,6.0,"365 Jane St, Toronto M6S 2E2","Ice Cream, Desserts, Cafe",15.0,York
+Mainsha,QUICK BITES,3.9,11.0,"1563 Eglinton Avenue West, Toronto","West Indian, Caribbean",25.0,York
+Yummy Yummy,QUICK BITES,3.4,11.0,"26 Scarlett Road, Toronto",Chinese,20.0,York
+Doce Minho Pastry and Bakery,BAKERY,3.6,7.0,"2189 Dufferin Street, Toronto M6E 3R9","Desserts, Portuguese",20.0,York
+China China Express,QUICK BITES,3.8,11.0,"2145 Weston Road, Toronto",Chinese,25.0,York
+Mainsha,QUICK BITES,3.6,12.0,"1671 Keele Street, Toronto",Caribbean,20.0,York
+Spence's Bakery,QUICK BITES,2.7,4.0,"1539 Eglinton Avenue West, Toronto","Jamaican, Fast Food",30.0,York
+The Jerk Box,CASUAL DINING,3.0,7.0,"1682, Jane Street, Toronto","Jamaican, Caribbean",35.0,York
+Shoeless Joe's,BAR,,,"Stockyard's, 1980 St. Clair Avenue West, Toronto","American, Bar Food",60.0,York
+ZEAL Burgers,QUICK BITES,3.6,6.0,"1926 Weston Road, Toronto M9N 1W2",Burger,15.0,York
+Ginger Pho,CASUAL DINING,,,"2590 Weston Road, North York, ON M9N 2A9",Vietnamese,,York
+Sunset Grill,CASUAL DINING,2.8,11.0,"2610 Weston Road, Toronto","Diner, Breakfast",30.0,York
+Oriental City,CASUAL DINING,3.9,7.0,"2539 Eglinton Avenue West, Toronto","Chinese, Cantonese, Asian",30.0,York
+Express Thai Cuisine,CASUAL DINING,3.1,7.0,"2440 Dufferin Street, Toronto",Thai,20.0,York
+Ming City,CASUAL DINING,3.7,7.0,"1662 Eglinton Avenue West, Toronto","Chinese, Asian",30.0,York
+Island Hot and Spicy,QUICK BITES,,,"1391 Weston Road, Toronto",Caribbean,20.0,York
+V's Caribbean Restaurant,QUICK BITES,,,"1221 Weston Road, Toronto",Caribbean,,York
+Lucky Chinese Food,QUICK BITES,3.7,9.0,"640 Rogers Road, Toronto",Chinese,13.0,York
+The Irish Rose Pub,BAR,3.1,6.0,"1095 Weston Road, Toronto",Bar Food,30.0,York
+King's Delight,QUICK BITES,3.1,4.0,"1658 Jane Street, Toronto","Caribbean, West Indian",15.0,York
+Hartley's Bistro,CASUAL DINING,3.4,4.0,"1962 Eglinton Avenue West, Toronto","Pizza, Fast Food",25.0,York
+Pho Asia 39,QUICK BITES,3.5,6.0,"1391 Unit B Weston Road, Toronto","Vietnamese, Asian",13.0,York
+Banaboia,CASUAL DINING,3.0,7.0,"501 Rogers Road, Toronto",Portuguese,80.0,York
+Irie Veggie,QUICK BITES,,,"2593 Eglinton Avenue West, Toronto",Healthy Food,15.0,York
+Pizza Nova,QUICK BITES,,,"577 Rogers Road, Toronto","Pizza, Fast Food",30.0,York
+King's BBQ,CASUAL DINING,,,"573 Rogers Road, Toronto",Peruvian,30.0,York
+Seara,CAFÉ,,,"605 Rogers Road, Toronto","Bakery, Cafe",20.0,York
+Panda Express,QUICK BITES,,,"Stockyard's, 80 Weston Road, Toronto",Chinese,30.0,York
+Dragon House Chinese Food,CASUAL DINING,3.9,4.0,"1019 Weston Road, Toronto","Chinese, Asian",50.0,York
+Yum Yum Restaurant,CASUAL DINING,,,"2450 Dufferin Street, Toronto M6E 3T1","Jamaican, Caribbean",30.0,York
+Thai Express,QUICK BITES,,,"Stockyard's, 1980 St. Clair Avenue West, Toronto",Thai,25.0,York
+Jade's Chinese Food,CASUAL DINING,3.1,4.0,"1698 Eglinton Avenue West, Toronto","Chinese, Asian",45.0,York
+Tinnel's Patties,QUICK BITES,,,"2517 Eglinton Avenue West, Toronto",Jamaican,15.0,York
+Triple Triple,QUICK BITES,,,"2639 Eglinton Avenue West, Toronto","Pizza, Fast Food",25.0,York
+Hot Pot,QUICK BITES,,,"1545 Eglinton Avenue West, Toronto",Jamaican,30.0,York
+Ali Baba's,QUICK BITES,3.0,5.0,"1878 Weston Road, Toronto",Middle Eastern,25.0,York
+Churrasqueira Portugal,QUICK BITES,,,"1912 Eglinton Avenue West, Toronto",Portuguese,30.0,York
+Pizza Maple,QUICK BITES,,,"502 Trethewey Drive, York M6M 4C2","Pizza, Italian",25.0,York
+Popeyes,QUICK BITES,3.7,6.0,"1975 Weston Road, Toronto",Fast Food,25.0,York
+First Class Delites,CASUAL DINING,,,"1156 Weston Road, Toronto",Caribbean,20.0,York
+SEG'Z,QUICK BITES,,,"503 Oakwood Avenue, Toronto","Caribbean, West Indian, Breakfast",30.0,York
+Hua Xing BBQ,QUICK BITES,,,"1692 Jane Street, Toronto","Cantonese, Chinese, Asian",25.0,York
+Fat Bastard Burrito,QUICK BITES,2.8,4.0,"2400 Bloor Street West, Toronto","Mexican, Fast Food",25.0,York
+Anna's Bakery & Pastry,DESSERT PARLOR,,,"2394 Bloor Street West, Toronto","Bakery, Desserts",15.0,York
+Five Guys,QUICK BITES,3.5,4.0,"Stockyard's, 1980 St. Clair Avenue West, Toronto","Fast Food, Burger",25.0,York
+Marble Slab Creamery,DESSERT PARLOR,,,"Stockyard's, 1980 St. Clair Avenue West, Toronto","Ice Cream, Desserts",20.0,York
+supercoffee,CAFÉ,,,"1148 Weston Road, Toronto",Cafe,15.0,York
+Crystal Sea Food,CASUAL DINING,2.8,4.0,"632 Vaughan Road, Toronto","Caribbean, Seafood",43.0,York
+Poets and Pirates Cafe,CAFÉ,,,"2007 Lawrence Avenue West, Toronto","Coffee and Tea, Ethiopian, Cafe",45.0,York
+Roti King,CASUAL DINING,,,"1688 Eglinton Avenue West, Toronto",West Indian,25.0,York
+Ocean Grill,QUICK BITES,,,"2442 Dufferin Street, Toronto",Caribbean,25.0,York
+El Nour Halal Pizza,QUICK BITES,,,"2540 Eglinton Avenue West, Toronto","Pizza, Middle Eastern",30.0,York
+Golden Wheat Bakery & Pastry,CAFÉ,,,"574 Rogers Road, Toronto","Bakery, Cafe",30.0,York
+Pizza Pizza,QUICK BITES,,,"1937 Weston Road, Toronto","Pizza, Fast Food",25.0,York
+Partners Kitchen,QUICK BITES,,,"1784 Jane Street, Toronto","Grill, Fast Food",30.0,York
+Habiba,QUICK BITES,,,"Stockyard's, 1980 St. Clair Avenue West, Toronto","Middle Eastern, Fast Food",25.0,York
+Jane's Bar & Grill,CASUAL DINING,,,"1735 Eglinton Avenue West, Toronto",Bar Food,45.0,York
+Fan Attic Sports Bar & Grill,BAR,,,"2178 Eglinton Avenue West, Toronto",Bar Food,15.0,York
+Hot Grubz,CASUAL DINING,,,"2039 Eglinton Avenue West, Toronto","West Indian, Italian",45.0,York
+Weston Pizza and Wings,QUICK BITES,,,"1239 Weston Road, Toronto",Pizza,20.0,York
+Euro Shawarma,QUICK BITES,,,"2631 Eglinton Avenue West, Toronto M6M 1T6","Fast Food, Middle Eastern",20.0,York
+Jr's Sweets,DESSERT PARLOR,,,"522 Oakwood Avenue, Toronto","Desserts, Ice Cream, Caribbean",20.0,York
+Five Points Bar And Grill,CASUAL DINING,,,"636 Vaughan Road, Toronto","Diner, Bar Food",35.0,York
+Pita Ikram,QUICK BITES,,,"530 Oakwood Avenue, Toronto M6E 2X3","Middle Eastern, Fast Food",25.0,York
+Messina Bakery,BAKERY,,,"19 Scarlett Road, Toronto","Bakery, Italian",20.0,York
+Lloyd's,QUICK BITES,,,"1710 Jane Street, Toronto","Jamaican, Caribbean",20.0,York
+McDonald's,QUICK BITES,,,"2625 Weston Road, Toronto",Fast Food,25.0,York
+Sardinha Churrasqueira,QUICK BITES,,,"373 Oakwood Avenue, Toronto","Portuguese, BBQ, Grill",30.0,York
+Nova Era,BAKERY,,,"480 Rogers Road, Toronto","Bakery, Cafe, Portuguese",20.0,York
+Great Silk Road Restaurant,QUICK BITES,,,"1808 Eglinton Avenue West, Toronto","Turkish, Middle Eastern",20.0,York
+Wing Machine,QUICK BITES,,,"1682 Jane Street, Toronto",Fast Food,30.0,York
+The Chicken Place,QUICK BITES,,,"161 Gary Drive, York",Fast Food,25.0,York
+Hero Certified Pizza,Other,,,"90 Weston Rd #101, Toronto, ON M6N 5H4",Pizza,25.0,York
+La Fontina Take Out Pizza,QUICK BITES,,,"85 Kincort St, York",Pizza,13.0,York
+Xaraf,QUICK BITES,,,"2 Rosemount Avenue, Toronto",Somali,30.0,York
+Canecas,BAR,,,"605 Rogers Road, Toronto",Bar Food,50.0,York
+Sushi Zuki,CASUAL DINING,,,2030 Eglinton Avenue West M6E 2K3,"Japanese, Sushi",,York
+Os Amigos,BAR,,,"335 Silverthorn Avenue, Toronto",Bar Food,25.0,York
+Pizza Alps,QUICK BITES,,,"1929 Weston Road, Toronto",Pizza,20.0,York
+KFC,QUICK BITES,,,"2000 Jane Street, Toronto",Fast Food,25.0,York
+Central Bar and Grill,CASUAL DINING,,,"2007 Lawrence Avenue West, Toronto",Bar Food,40.0,York
+Perfect Blend,CAFÉ,,,"1971 Weston Road, Toronto",Cafe,20.0,York
+George's Food Store,QUICK BITES,,,"1834 Jane Street, Toronto",Burger,15.0,York
+Stefano's Sports Bar,BAR,,,"1984 Eglinton Avenue West, Toronto",Bar Food,30.0,York
+Pico Sports Bar,BAR,,,"528 Rogers Road, Toronto",Drinks Only,20.0,York
+Landmark,CASUAL DINING,,,"1839 Eglinton Avenue West, Toronto",American,35.0,York
+Dairy Queen (Treat),DESSERT PARLOR,,,2538 Weston Road,"Ice Cream, Desserts, Fast Food",20.0,York
+Caribbean Bistro,CASUAL DINING,,,"1708 Eglinton Avenue West, Toronto",Caribbean,35.0,York
+Suki Japanese Restaurant,CASUAL DINING,,,"2030 Eglinton Avenue West, Toronto","Sushi, Japanese",25.0,York
+Mr. Sub,QUICK BITES,,,"Jane Park Plaza, 883 Jane Street, Toronto",Fast Food,25.0,York
+Westside Caffe,CAFÉ,,,"2427 Eglinton Avenue West, Toronto M6M 1S8",Cafe,20.0,York
+Hai Feng,QUICK BITES,,,"1606 Eglinton Avenue West, Toronto","Chinese, Asian",30.0,York
+Montejunto Bar & Grill,BAR,,,"319 Oakwood Avenue, Toronto",Drinks Only,,York
+FK,CASUAL DINING,,,"770 Street Clair Avenue West, Toronto, ON M6C 1B5",French,25.0,York
+Shunoko,CASUAL DINING,,,"1201 St. Clair Avenue West, Toronto, ON M6E 1B5",Sushi,40.0,York
+Golden Lemon,CASUAL DINING,,,"282 Jane Street, Toronto","Thai, Asian",40.0,York
+Orca - The Sandwich Shoppe,QUICK BITES,,,"1069 Weston Road, Toronto M6N 3S3",Sandwich,20.0,York
+Panzerotto Pizza,QUICK BITES,,,"1682 Jane Street, Toronto","Pizza, Fast Food",25.0,York
+Milan's Pizzeria and Wings,QUICK BITES,,,"1792 Weston Road, Toronto","Italian, Pizza",15.0,York
+Pizza Tazza,QUICK BITES,,,"878 Weston Road, Toronto","Pizza, Fast Food",25.0,York
+Fenni's Place,CASUAL DINING,,,"1812 Weston Road, Toronto",Nigerian,,York
+Lavrador B.B.Q.,QUICK BITES,,,"2188 Eglinton Avenue West, York, GTA",Portuguese,30.0,York
+Westwood Bar and Grill,BAR,,,"1391 Weston Road, Toronto",Bar Food,30.0,York
+Mulu,QUICK BITES,,,"1891 Eglinton Avenue West, Toronto",Chinese,20.0,York
+The Entertainment kitchen,CASUAL DINING,,,"1559 Eglinton Avenue West, Toronto, ON","West Indian, Canadian",,York
+Kebab Pizza,QUICK BITES,,,"2371 Weston Road, Toronto","Middle Eastern, Mediterranean",25.0,York
+The Red Room Restaurant,CASUAL DINING,,,"1718 Jane Street, York","Jamaican, West Indian, Caribbean",30.0,York
+Teriyaki Experience,QUICK BITES,,,"Stockyard's, 1980 St. Clair Avenue West, Toronto",Japanese,20.0,York
+Papa John's Pizza,FAST CASUAL,,,605 Rogers Road,"Fast Food, Italian",25.0,York
+Domino's,QUICK BITES,,,"1906 Jane Street, Toronto","Fast Food, Pizza",25.0,York
+Second Cup,CAFÉ,,,"Stockyard's, 1980 St. Clair Avenue West, Toronto","Cafe, Coffee and Tea, Frozen Yogurt",10.0,York
+Tim Hortons,CAFÉ,,,380 Weston Road,"American, Donuts, Desserts",20.0,York
+Z Bar And Grille,CASUAL DINING,,,"2527 Eglinton Avenue West, Toronto","Bar Food, Jamaican",45.0,York
+241 Pizza,QUICK BITES,,,"759 Jane Street, Toronto","Pizza, Fast Food",30.0,York
+Kitchen King Jerk Inc.,QUICK BITES,,,"2079 Lawrence Avenue West, Toronto","Jamaican, West Indian",25.0,York
+Yamasaki,CASUAL DINING,,,"572 Rogers Road, Toronto","Thai, Chinese, Sushi, Asian",40.0,York
+Hero Certified Burgers,QUICK BITES,,,Opening Soon,"Burger, Sandwich",25.0,York
+La Mexicana,QUICK BITES,,,"1885 Eglinton Avenue West, Toronto","Mexican, Latin American",20.0,York
+Presse Cafe,CAFÉ,,,"West Park Healthcare Centre, 82 Buttonwood Avenue, Toronto","Cafe, Healthy Food, Desserts",20.0,York
+Rui's BBQ,QUICK BITES,,,"548 Rogers Road, Toronto","Portuguese, Grill",20.0,York
+Elte Cafe,CAFÉ,,,"80 Ronald Avenue, Toronto",Cafe,30.0,York
+K & A Caribbean Cuisine,QUICK BITES,,,"1179 Weston Road, Toronto",Caribbean,25.0,York
+Taxim Grill & Bar,CASUAL DINING,,,1021 Wilson Avenue,Turkish,30.0,York
+El Nahual Tacos,CASUAL DINING,,,"1993 Keele St, York, ON",Mexican,40.0,York
+Way of Life Vegan Cafe,CAFÉ,,,2575 Eglinton Avenue West,Cafe,10.0,York
+Pho Express,QUICK BITES,,,"2635 Eglinton Avenue West, Toronto",Vietnamese,25.0,York
+Jerk Jerks,QUICK BITES,,,"1356 Weston Road, Toronto",Jamaican,30.0,York
+"Eglinton Avenue West, York",Other,,,CUISINES:,Filipino,,York
+Island Breeze,CASUAL DINING,,,"907 Jane Street, York, GTA","West Indian, Chinese",,York
+Beira Mar,CASUAL DINING,,,"995 Weston Road, Toronto",Portuguese,40.0,York
+Pizza Panzo,QUICK BITES,,,"1856 Keele Street, Toronto","Fast Food, Pizza",30.0,York
+Mainsha,QUICK BITES,,,"1788 Weston Road, Toronto",Caribbean,,York
+El Quetzal,QUICK BITES,,,"2011 Lawrence Avenue West, Toronto","Bakery, Latin American",20.0,York
+Sunlight Bakery,BAKERY,,,"2512 Eglinton Avenue West, Toronto","Bakery, Jamaican",20.0,York
+Weston BBQ Chicken & Pizza,QUICK BITES,,,"1874 Weston Road, Toronto",Pizza,25.0,York
+ID Love,CASUAL DINING,,,"925 Weston Road, Toronto","African, Bar Food",45.0,York
+Jimmy Z Sports Bar,BAR,,,"1861 Eglinton Avenue West, Toronto",Bar Food,40.0,York
+Crystal,CASUAL DINING,,,"632 Vaughan Road, Toronto","Seafood, Caribbean",25.0,York
+Bonita Restaurant,CASUAL DINING,,,"2153 Weston Road, Toronto",Canadian,35.0,York
+Dynasty Bakery Cafe,BAKERY,,,"440 Rogers Road, Toronto","Bakery, Portuguese",20.0,York
+Devon House Restaurant,CAFÉ,,,"1806 Jane Street, Toronto","Caribbean, Cafe",20.0,York
+O' Sole Mio,BAR,,,"437 Rogers Road, Toronto",Bar Food,25.0,York
+Sun Crisp Fish and Chips,QUICK BITES,,,"2047 Weston Road, Toronto M9N 1X7","Fish and Chips, Fast Food",15.0,York
+Subway,QUICK BITES,,,"2625 Weston Road, Toronto",Fast Food,20.0,York
+Pita Pit,QUICK BITES,,,"Stockyard's, 1980 St. Clair Avenue West, Toronto",Healthy Food,25.0,York
+Wiff Restaurant and Catering,CASUAL DINING,,,"1804 Weston Road, Toronto","Somali, Italian, Canadian",,York
+New Banadir Restaurant,CASUAL DINING,,,"2007 Lawrence Avenue West, Toronto","Somali, African, Canadian",,York
+1 Plus 3 Pizza & Wings,QUICK BITES,,,"1798 Jane Street, Toronto","Pizza, Fast Food",35.0,York
+John's Place,BAR,,,"2244 Eglinton Avenue West, Toronto",Bar Food,30.0,York
+Pizza Bella,QUICK BITES,,,"1853 Eglinton Avenue West, Toronto","Pizza, Fast Food",25.0,York
+Pelmo Restaurant,QUICK BITES,,,"1898 Jane Street, Toronto","Caribbean, West Indian, Jamaican",25.0,York
+Double Double,QUICK BITES,,,"1650 Jane Street, Toronto","Pizza, Fast Food",25.0,York
+Loly's Pupuseria Corn Meal,QUICK BITES,,,"1993 Keele Street, Toronto","Salvadorean, Latin American",20.0,York
+Eglinton Fast Food Inc.,QUICK BITES,,,"1837 Eglinton Avenue West, Toronto",Filipino,20.0,York
+Daily Bun Bakery,BAKERY,,,"1947 Weston Road, Toronto",Bakery,10.0,York
+Poons Fresh,QUICK BITES,,,"1927 Weston Road, Toronto",Chinese,20.0,York
+Pizza Depot,QUICK BITES,,,"2013 Lawrence Avenue West, Toronto","Pizza, Fast Food",25.0,York
+19th Hole,BAR,,,"434 Rogers Road, Toronto",Bar Food,30.0,York
+Settebello Restaurant & Pizzeria,CASUAL DINING,,,"2091 Weston Road, Toronto",Pizza,35.0,York
+Menchie's,DESSERT PARLOR,,,"Stockyard's, 1980 St. Clair Avenue West, Toronto",Frozen Yogurt,15.0,York
+Booster Juice,BEVERAGE SHOP,,,"Stockyard's, 1980 St. Clair Avenue West, Toronto","Juices, Beverages, Healthy Food",20.0,York
+JJJ's Caribbean,CASUAL DINING,,,"2180 Eglinton Avenue West, Toronto",Jamaican,35.0,York
+Nossa Gente,BAR,,,"702 Weston Road, Toronto",Bar Food,25.0,York
+One Love Sports Bar & Café,BAR,,,"630 Vaughan Road, Toronto",Bar Food,40.0,York
+Portugalia Bar and Grill,BAR,,,"1751 Keele Street, Toronto",Portuguese,50.0,York
+Susy's Coffee & Take-Out,CAFÉ,,,"2075 Lawrence Avenue West, Toronto",Cafe,20.0,York
+Weston Donuts,BAKERY,,,"995 Weston Road, Toronto","Bakery, Desserts",15.0,York
+Pro Stop,BAR,,,"438 Rogers Road, Toronto",Bar Food,25.0,York
+Espresso,CAFÉ,,,"2032 Eglinton Avenue West, Toronto",Cafe,10.0,York
+Papa's Pizza,QUICK BITES,,,"2344 Dufferin Street, Toronto","Pizza, Fast Food",25.0,York
+Wild Wing,CASUAL DINING,,,"2590 Weston Road, Toronto",Bar Food,50.0,York
+Wendy's,FAST FOOD,,,2013 D Lawrence Avenue West,"Fast Food, Burger",20.0,York
+Timothy's,CAFÉ,,,"2402 Bloor Street West, Toronto",Cafe,25.0,York
+Granny's Flavour,QUICK BITES,,,"1189 Weston Road, Toronto",Jamaican,20.0,York
+Rincon De La Boca,BAR,,,"1710 Eglinton Avenue West, Toronto",Bar Food,35.0,York
+Amici Sports Bar & Cafe,CAFÉ,,,"1974 Eglinton Avenue West, Toronto","Cafe, Bar Food",30.0,York
+Cafe Ju Pen,CAFÉ,,,"1792 Eglinton Avenue West, Toronto","Caribbean, Cafe",25.0,York
+Stop N Go Tropical Grill,QUICK BITES,,,"1668 Weston Road, Toronto","Caribbean, West Indian, Jamaican",20.0,York
+Family Pizza Panzerotto,QUICK BITES,,,"2076 Lawrence Avenue West, Toronto",Pizza,25.0,York
+Lawrence Park Restaurant & Bar,CASUAL DINING,,,"2011 Lawrence Avenue West, Toronto",Italian,,York
+Eggsmart,CAFÉ,,,"2097 Weston Road, Toronto M9N 1X7","Cafe, Canadian",20.0,York
+Banh Mi Cafe,CAFÉ,,,"2635 Eglinton Avenue West, York, ON M6M 1T6",Cafe,15.0,York
+Egglinton Grill,QUICK BITES,,,"2609 Eglinton Avenue W, York, ON M6M 1T3",Canadian,20.0,York
+Weston Station Family,CASUAL DINING,,,"1935 Weston Road, York",Bar Food,50.0,York
+Bar Micaelense,BAR,,,"570 Rogers Road, Toronto",Bar Food,20.0,York
+High Life,CASUAL DINING,,,"1739 Eglinton Avenue West, Toronto",Caribbean,40.0,York
+Blue Nile,CASUAL DINING,,,"1757 Eglinton Avenue West, Toronto",Bar Food,40.0,York
+Hadee's,CASUAL DINING,,,"1602 Eglinton Avenue West, Toronto",Bar Food,40.0,York
+Second Beer,BAR,,,"2346 Dufferin Street, Toronto",Bar Food,30.0,York
+Smiley's,QUICK BITES,,,"2183 Weston Road, Toronto","Caribbean, Jamaican",20.0,York
+Mena Cafe and Restaurant,QUICK BITES,,,"2011 Lawrence Avenue West, Toronto",Cafe,30.0,York
+Flava 2 The Bone,QUICK BITES,,,"1754 Weston Road, Toronto",Caribbean,,York
+Weston Favourites,QUICK BITES,,,"1986 Weston Road, York",Pizza,25.0,York
+Lox + Schmear,Other,,,"1030 St Clair Avenue West, Toronto, ON M6E 1A4",Sandwich,15.0,York
+Kokyo Japanese Restaurant,CASUAL DINING,,,"572 Rogers Road, York, ON M6M 1B",Sushi,40.0,York
+A&W,QUICK BITES,,,"605 Rogers Rd, York","Fast Food, American",20.0,York
+Tim Hortons,CAFÉ,,,1970 Street Clair Avenue West F104,"American, Donuts, Desserts",20.0,York
+Second Cup Coffee Co.,Other,,,60 Weston Road Unit 107,Coffee and Tea,15.0,York
+Tim Hortons,CAFÉ,,,1890 Jane Street,Cafe,20.0,York
